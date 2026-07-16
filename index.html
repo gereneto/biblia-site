@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#f8f7f2">
+<title>Sagrada Escritura</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Space+Grotesk:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f8f7f2; --ink:#1b1a17; --soft:#4c4a42; --faint:#a29b8b;
+    --line:#e5e2d6; --accent:#33518f; --paper:#fff; --nota-bg:#f1efe7;
+    --serif:"Source Serif 4",Georgia,serif;
+    --disp:"Cormorant Garamond",Georgia,serif;
+    --ui:"Space Grotesk",system-ui,sans-serif;
+    --fs:19px;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:var(--bg);font-family:var(--serif);font-size:var(--fs);color:var(--ink);line-height:1.7;}
+  .prog-top{position:fixed;top:0;left:0;right:0;height:2px;z-index:60;pointer-events:none;}
+  .prog-top .bar{height:100%;width:0;background:var(--accent);}
+
+  header{max-width:680px;margin:0 auto;padding:30px 20px 18px;border-bottom:2px solid var(--ink);}
+  header .kicker{font-family:var(--ui);font-size:.62rem;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);margin-bottom:6px;}
+  header h1{font-family:var(--disp);font-weight:600;font-size:2.3rem;letter-spacing:.01em;line-height:1.05;}
+  header .meta{display:flex;justify-content:space-between;align-items:baseline;margin-top:8px;gap:12px;
+    font-family:var(--ui);font-size:.66rem;letter-spacing:.05em;color:var(--faint);text-transform:uppercase;}
+  header .meta .modo{color:var(--accent);}
+
+  #main{max-width:680px;margin:0 auto;padding:10px 20px 90px;}
+
+  .voltar{display:inline-block;margin:18px 0 4px;font-family:var(--ui);font-size:.68rem;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--soft);text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:2px;}
+  .voltar:active{color:var(--accent);}
+
+  /* lista de livros */
+  .lista-livros{margin-top:14px;}
+  .livro-item{display:block;text-decoration:none;color:var(--ink);padding:20px 4px;border-bottom:1px solid var(--line);}
+  .livro-item .nome{font-family:var(--disp);font-weight:600;font-size:1.7rem;line-height:1.1;}
+  .livro-item .info{font-family:var(--ui);font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-top:4px;}
+  .livro-item:active .nome{color:var(--accent);}
+
+  /* grade de capítulos */
+  .titulo-secao{font-family:var(--disp);font-weight:600;font-size:1.9rem;margin:16px 0 4px;}
+  .sub-secao{font-family:var(--ui);font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:18px;}
+  .grade-caps{display:grid;grid-template-columns:repeat(auto-fill,minmax(56px,1fr));gap:8px;margin-top:10px;}
+  .cap-btn{display:flex;align-items:center;justify-content:center;aspect-ratio:1;border:1px solid var(--line);
+    background:var(--paper);color:var(--ink);text-decoration:none;font-family:var(--ui);font-size:1rem;border-radius:2px;
+    transition:background .12s,border-color .12s;}
+  .cap-btn:active{background:var(--accent);color:#fff;border-color:var(--accent);}
+
+  /* leitura */
+  .cap-cab{margin:20px 0 6px;display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap;}
+  .cap-cab h2{font-family:var(--disp);font-weight:600;font-size:2rem;}
+  .nav-cap{font-family:var(--ui);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;display:flex;gap:14px;}
+  .nav-cap a{color:var(--soft);text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:2px;}
+  .nav-cap a:active{color:var(--accent);}
+  .texto{margin-top:14px;}
+  .versiculo{margin:0 0 .35em;text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;}
+  .versiculo .num{font-family:var(--ui);font-size:.62em;color:var(--accent);vertical-align:super;margin-right:.35em;letter-spacing:.02em;}
+  .versiculo .num.tem-nota{cursor:pointer;border-bottom:1px dotted var(--accent);padding-bottom:1px;}
+  .versiculo .num.tem-nota::after{content:"\2020";margin-left:2px;font-size:.85em;}
+  .versiculo .num.ativa{background:var(--accent);color:#fff;border-radius:2px;padding:0 3px;}
+  #popup-nota{position:fixed;z-index:100;display:none;max-width:min(420px,calc(100vw - 24px));
+    background:var(--paper);color:var(--ink);border:1px solid var(--ink);border-radius:2px;
+    box-shadow:5px 5px 0 rgba(27,26,23,.12);padding:14px 16px;font-size:.86rem;line-height:1.55;cursor:pointer;}
+  #popup-nota.show{display:block;}
+  #popup-nota .ref-nota{font-family:var(--ui);font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:7px;}
+  #popup-nota .hint{margin-top:10px;font-family:var(--ui);font-size:.56rem;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);text-align:right;}
+  .fim-cap{display:flex;justify-content:space-between;gap:14px;margin-top:36px;padding-top:18px;border-top:1px solid var(--line);
+    font-family:var(--ui);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;}
+  .fim-cap a{color:var(--soft);text-decoration:none;}
+  .fim-cap a:active{color:var(--accent);}
+
+  /* ajuste de fonte */
+  .ferramentas{display:flex;gap:8px;align-items:center;margin-top:14px;}
+  .ferramentas button{font-family:var(--ui);font-size:.72rem;border:1px solid var(--line);background:var(--paper);
+    color:var(--soft);padding:5px 12px;border-radius:2px;cursor:pointer;}
+  .ferramentas button:active{border-color:var(--accent);color:var(--accent);}
+
+  /* edição */
+  .aviso{font-family:var(--ui);font-size:.72rem;letter-spacing:.04em;color:var(--soft);background:var(--nota-bg);
+    border:1px solid var(--line);padding:10px 12px;margin:14px 0;border-radius:2px;line-height:1.6;}
+  .aviso.ok{border-color:var(--accent);color:var(--accent);}
+  .aviso.erro{border-color:#a03030;color:#a03030;}
+  .ed-versiculo{margin:0 0 14px;padding:10px 0 4px;border-bottom:1px dashed var(--line);}
+  .ed-versiculo .rotulo{font-family:var(--ui);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
+  .ed-versiculo textarea{width:100%;border:1px solid var(--line);background:var(--paper);border-radius:2px;
+    font-family:var(--serif);font-size:.95rem;line-height:1.55;color:var(--ink);padding:8px 10px;resize:none;overflow:hidden;min-height:2.4em;}
+  .ed-versiculo textarea:focus{outline:none;border-color:var(--accent);}
+  .ed-versiculo textarea.ta-nota{font-size:.82rem;color:var(--soft);margin-top:6px;background:var(--nota-bg);}
+  .ed-versiculo .rotulo-nota{font-family:var(--ui);font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-top:8px;}
+  .barra-salvar{position:fixed;bottom:0;left:0;right:0;background:var(--paper);border-top:1px solid var(--ink);
+    padding:10px 20px calc(10px + env(safe-area-inset-bottom));z-index:50;}
+  .barra-salvar .interno{max-width:680px;margin:0 auto;display:flex;gap:10px;align-items:center;justify-content:space-between;}
+  .barra-salvar .estado{font-family:var(--ui);font-size:.64rem;letter-spacing:.06em;text-transform:uppercase;color:var(--faint);}
+  .btn{font-family:var(--ui);font-size:.78rem;letter-spacing:.06em;border:1px solid var(--accent);background:var(--accent);
+    color:#fff;padding:9px 18px;border-radius:2px;cursor:pointer;}
+  .btn:disabled{opacity:.5;}
+  .btn.secundario{background:var(--paper);color:var(--accent);}
+  .fim{font-family:var(--ui);font-size:.62rem;letter-spacing:.06em;color:var(--faint);text-align:center;padding:44px 20px 30px;line-height:1.9;}
+  @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} }
+</style>
+</head>
+<body>
+<div class="prog-top"><div class="bar" id="prog"></div></div>
+<header>
+  <div class="kicker">Tradução dos originais</div>
+  <h1 id="cab-titulo">Sagrada Escritura</h1>
+  <div class="meta"><span id="cab-sub">Antigo e Novo Testamento</span><span class="modo" id="cab-modo"></span></div>
+</header>
+<div id="main"></div>
+<div class="fim" id="rodape">Fide et labore.</div>
+<div id="popup-nota"><div class="ref-nota" id="pn-ref"></div><div id="pn-corpo"></div><div class="hint">toque para fechar</div></div>
+<div id="barra" style="display:none" class="barra-salvar"><div class="interno">
+  <span class="estado" id="estado-salvar"></span>
+  <button class="btn" id="btn-salvar">Salvar capítulo</button>
+</div></div>
+
+<script src="dados-biblia.js"></script>
+<script>
+/* Backend: Netlify Functions + Netlify Blobs (mesmo domínio do site).
+   A chave de edição é conferida no servidor, na variável de ambiente
+   CHAVE_EDICAO (painel da Netlify). Para editar, abra o site uma vez com
+   ...seu-site.netlify.app/#chave=SUA_CHAVE — ela fica gravada no aparelho.
+   Os amigos recebem o link normal, só leitura. */
+const API = "/.netlify/functions/capitulos";
+
+const TABELA = "biblia_capitulos";
+const mainEl = document.getElementById('main');
+const barraEl = document.getElementById('barra');
+const estadoEl = document.getElementById('estado-salvar');
+
+/* ---------- chave de edição ---------- */
+(function capturarChave(){
+  const m = location.hash.match(/chave=([^&]+)/);
+  if(m){ try{ localStorage.setItem('biblia_chave', decodeURIComponent(m[1])); }catch(_){}
+    history.replaceState(null,'','#/'); }
+})();
+function chaveEdicao(){ try{ return localStorage.getItem('biblia_chave')||''; }catch(_){ return ''; } }
+const podeEditar = () => !!chaveEdicao();
+document.getElementById('cab-modo').textContent = podeEditar() ? 'Edição' : '';
+
+/* ---------- tamanho da fonte ---------- */
+(function fonteSalva(){ const f=localStorage.getItem('biblia_fs'); if(f) document.documentElement.style.setProperty('--fs',f+'px'); })();
+function mudarFonte(d){
+  const atual=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--fs'))||19;
+  const novo=Math.max(15,Math.min(26,atual+d));
+  document.documentElement.style.setProperty('--fs',novo+'px');
+  localStorage.setItem('biblia_fs',novo);
+}
+
+/* ---------- nuvem (Netlify) ---------- */
+const temSupabase = () => true; // backend embutido no próprio site
+async function sbBuscar(livro, cap){
+  const r=await fetch(`${API}?livro=${livro}&cap=${cap}`);
+  if(!r.ok) throw new Error('HTTP '+r.status);
+  return (await r.json()).conteudo;
+}
+async function sbSalvar(livro, cap, conteudo){
+  const r=await fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({chave:chaveEdicao(),livro,capitulo:cap,conteudo})});
+  if(!r.ok){ throw new Error(await r.text()); }
+}
+async function sbListarCaps(livro){
+  const r=await fetch(`${API}?livro=${livro}`);
+  if(!r.ok) return [];
+  return (await r.json()).capitulos||[];
+}
+
+/* Conteúdo de um capítulo: Supabase primeiro, senão o texto embutido em dados-biblia.js */
+async function obterCapitulo(livro, cap){
+  if(temSupabase()){
+    try{ const c=await sbBuscar(livro,cap); if(c) return {fonte:'nuvem', versos:c}; }
+    catch(e){ console.warn('Nuvem indisponível, usando texto local.', e); }
+  }
+  const seed=(window.TEXTOS_SEED[livro]||{})[cap];
+  return {fonte:'local', versos: seed ? JSON.parse(JSON.stringify(seed)) : []};
+}
+
+/* ---------- roteamento ---------- */
+window.addEventListener('hashchange', rota);
+window.addEventListener('load', rota);
+function rota(){
+  if(location.hash.startsWith('#chave=')) return; // tratado acima
+  const p=location.hash.replace(/^#\/?/,'').split('/').filter(Boolean);
+  barraEl.style.display='none';
+  if(typeof fecharNota==='function') fecharNota();
+  window.scrollTo(0,0);
+  if(p.length===0) return telaLivros();
+  if(p.length===1) return telaCapitulos(p[0]);
+  if(p.length>=2)  return telaTexto(p[0], parseInt(p[1],10), p[2]==='editar');
+}
+
+/* ---------- tela 1: livros ---------- */
+function telaLivros(){
+  document.getElementById('cab-titulo').textContent='Sagrada Escritura';
+  document.getElementById('cab-sub').textContent='Antigo e Novo Testamento';
+  let h='<div class="lista-livros">';
+  for(const [id,l] of Object.entries(window.LIVROS_SEED)){
+    h+=`<a class="livro-item" href="#/${id}">
+      <div class="nome">${l.nome}</div>
+      <div class="info">${l.grupo} · ${l.capitulos} capítulos</div></a>`;
+  }
+  h+='</div>';
+  h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
+  if(podeEditar() && temSupabase()){
+    h+=`<div class="aviso">Modo edição ativo neste aparelho. Ao abrir um capítulo, toque em «Editar» para corrigir o texto e as notas.
+        <br><br><button class="btn secundario" id="btn-importar">Enviar textos embutidos para a nuvem</button>
+        <span id="imp-estado"></span></div>`;
+  } else if(podeEditar() && !temSupabase()){
+    h+=`<div class="aviso erro">Modo edição ativo, mas o backend não respondeu. Verifique se a variável CHAVE_EDICAO está definida na Netlify.</div>`;
+  }
+  mainEl.innerHTML=h;
+  const bi=document.getElementById('btn-importar');
+  if(bi) bi.onclick=importarTudo;
+}
+
+async function importarTudo(){
+  const st=document.getElementById('imp-estado'); const btn=document.getElementById('btn-importar');
+  btn.disabled=true;
+  try{
+    for(const [id,l] of Object.entries(window.LIVROS_SEED)){
+      const existentes=await sbListarCaps(id);
+      for(const [cap,versos] of Object.entries(window.TEXTOS_SEED[id]||{})){
+        if(existentes.includes(parseInt(cap,10))) continue; // não sobrescreve edições
+        st.textContent=` ${l.nome} ${cap}…`;
+        await sbSalvar(id,parseInt(cap,10),versos);
+      }
+    }
+    st.textContent=' Concluído. Capítulos já editados na nuvem foram preservados.';
+  }catch(e){ st.textContent=' Erro: '+e.message; }
+  btn.disabled=false;
+}
+
+/* ---------- tela 2: capítulos ---------- */
+function telaCapitulos(livro){
+  const l=window.LIVROS_SEED[livro];
+  if(!l){ location.hash='#/'; return; }
+  document.getElementById('cab-titulo').textContent=l.nome;
+  document.getElementById('cab-sub').textContent=l.grupo;
+  let h=`<a class="voltar" href="#/">← Livros</a>
+    <div class="titulo-secao">${l.nome}</div>
+    <div class="sub-secao">Escolha o capítulo</div>
+    <div class="grade-caps">`;
+  for(let c=1;c<=l.capitulos;c++) h+=`<a class="cap-btn" href="#/${livro}/${c}">${c}</a>`;
+  h+='</div>';
+  mainEl.innerHTML=h;
+}
+
+/* ---------- tela 3: texto ---------- */
+let edVersos=null, edLivro=null, edCap=null;
+async function telaTexto(livro, cap, editar){
+  const l=window.LIVROS_SEED[livro];
+  if(!l || !cap){ location.hash='#/'; return; }
+  document.getElementById('cab-titulo').textContent=l.nome;
+  document.getElementById('cab-sub').textContent='Capítulo '+cap;
+  mainEl.innerHTML='<div class="sub-secao" style="margin-top:24px">Carregando…</div>';
+  const {fonte,versos}=await obterCapitulo(livro,cap);
+
+  if(editar && podeEditar()){ return telaEdicao(livro,cap,versos); }
+
+  let h=`<a class="voltar" href="#/${livro}">← Capítulos</a>
+    <div class="cap-cab"><h2>${l.nome} ${cap}</h2><div class="nav-cap">`;
+  if(podeEditar()) h+=`<a href="#/${livro}/${cap}/editar">Editar</a>`;
+  h+=`</div></div><div class="texto">`;
+  for(const v of versos){
+    const marca = v.n ? ` tem-nota" data-nota="${escapar(v.n)}" data-ref="${l.nome} ${cap}, ${v.v}` : '';
+    h+=`<p class="versiculo"><span class="num${marca}">${v.v}</span>${escapar(v.t)}</p>`;
+  }
+  if(!versos.length) h+=`<div class="aviso">Este capítulo ainda não tem texto.</div>`;
+  h+=`</div><div class="fim-cap">`;
+  h+= cap>1 ? `<a href="#/${livro}/${cap-1}">← ${l.nome} ${cap-1}</a>` : '<span></span>';
+  h+= cap<l.capitulos ? `<a href="#/${livro}/${cap+1}">${l.nome} ${cap+1} →</a>` : '<span></span>';
+  h+=`</div>`;
+  h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
+  mainEl.innerHTML=h;
+}
+
+/* ---------- edição ---------- */
+function telaEdicao(livro,cap,versos){
+  edVersos=versos; edLivro=livro; edCap=cap;
+  const l=window.LIVROS_SEED[livro];
+  let h=`<a class="voltar" href="#/${livro}/${cap}">← Voltar à leitura</a>
+    <div class="cap-cab"><h2>${l.nome} ${cap} · edição</h2></div>`;
+  if(!temSupabase()) h+=`<div class="aviso erro">Sem conexão com a nuvem: não será possível salvar.</div>`;
+  versos.forEach((v,i)=>{
+    h+=`<div class="ed-versiculo">
+      <div class="rotulo">Versículo ${v.v}</div>
+      <textarea data-i="${i}" data-campo="t">${escapar(v.t)}</textarea>
+      <div class="rotulo-nota">Nota (deixe vazio para não exibir)</div>
+      <textarea class="ta-nota" data-i="${i}" data-campo="n">${escapar(v.n||'')}</textarea>
+    </div>`;
+  });
+  mainEl.innerHTML=h;
+  mainEl.querySelectorAll('textarea').forEach(ta=>{ ajustar(ta); ta.addEventListener('input',()=>ajustar(ta)); });
+  barraEl.style.display='block';
+  estadoEl.textContent='';
+  document.getElementById('btn-salvar').onclick=salvarEdicao;
+}
+function ajustar(ta){ ta.style.height='auto'; ta.style.height=(ta.scrollHeight+2)+'px'; }
+async function salvarEdicao(){
+  const btn=document.getElementById('btn-salvar'); btn.disabled=true; estadoEl.textContent='Salvando…';
+  mainEl.querySelectorAll('textarea').forEach(ta=>{
+    const i=+ta.dataset.i, c=ta.dataset.campo, val=ta.value.trim();
+    if(c==='t') edVersos[i].t=val;
+    else { if(val) edVersos[i].n=val; else delete edVersos[i].n; }
+  });
+  try{
+    await sbSalvar(edLivro,edCap,edVersos);
+    estadoEl.textContent='Salvo.';
+    setTimeout(()=>{ location.hash=`#/${edLivro}/${edCap}`; },400);
+  }catch(e){ estadoEl.textContent='Erro ao salvar.'; alert('Erro ao salvar: '+e.message); }
+  btn.disabled=false;
+}
+
+/* ---------- popup de notas ---------- */
+const popupNota=document.getElementById('popup-nota');
+let notaAtiva=null;
+function posicionarPopup(el){
+  popupNota.style.visibility='hidden'; popupNota.classList.add('show');
+  const r=el.getBoundingClientRect(), pw=popupNota.offsetWidth, ph=popupNota.offsetHeight, m=10;
+  let left=r.left+r.width/2-pw/2; left=Math.max(m,Math.min(left,window.innerWidth-pw-m));
+  let top=r.bottom+8;
+  if(top+ph>window.innerHeight-m){ top=r.top-ph-8; if(top<m) top=Math.max(m,(window.innerHeight-ph)/2); }
+  popupNota.style.left=left+'px'; popupNota.style.top=top+'px'; popupNota.style.visibility='visible';
+}
+function fecharNota(){
+  popupNota.classList.remove('show');
+  if(notaAtiva){ notaAtiva.classList.remove('ativa'); notaAtiva=null; }
+}
+function abrirNota(el){
+  if(notaAtiva===el){ fecharNota(); return; }   // segundo toque no mesmo elemento fecha
+  if(notaAtiva) notaAtiva.classList.remove('ativa');
+  notaAtiva=el; el.classList.add('ativa');
+  document.getElementById('pn-ref').textContent=el.dataset.ref;
+  document.getElementById('pn-corpo').textContent=el.dataset.nota;
+  posicionarPopup(el);
+}
+mainEl.addEventListener('click',(e)=>{
+  const n=e.target.closest('.num.tem-nota');
+  if(n){ e.stopPropagation(); abrirNota(n); return; }
+  if(popupNota.classList.contains('show')) fecharNota();
+});
+popupNota.addEventListener('click',(e)=>{ e.stopPropagation(); fecharNota(); });
+document.addEventListener('click',(e)=>{
+  if(!popupNota.classList.contains('show')) return;
+  if(e.target.closest('.num.tem-nota')||e.target.closest('#popup-nota')) return;
+  fecharNota();
+});
+document.addEventListener('keydown',(e)=>{ if(e.key==='Escape') fecharNota(); });
+window.addEventListener('scroll',()=>{ if(notaAtiva) posicionarPopup(notaAtiva); },{passive:true});
+window.addEventListener('resize',()=>{ if(notaAtiva) posicionarPopup(notaAtiva); });
+
+function escapar(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+/* barra de progresso */
+window.addEventListener('scroll',()=>{
+  const h=document.documentElement.scrollHeight-window.innerHeight;
+  document.getElementById('prog').style.width=(h>0?Math.min(100,Math.max(0,window.scrollY/h*100)):0)+'%';
+},{passive:true});
+</script>
+</body>
+</html>

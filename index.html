@@ -62,7 +62,9 @@
   .versiculo .num{font-family:var(--ui);font-size:.62em;color:var(--accent);vertical-align:super;margin-right:.35em;letter-spacing:.02em;}
   .versiculo .num.tem-nota{cursor:pointer;border-bottom:1px dotted var(--accent);padding-bottom:1px;}
   .versiculo .num.tem-nota::after{content:"\2020";margin-left:2px;font-size:.85em;}
-  .versiculo .num.ativa{background:var(--accent);color:#fff;border-radius:2px;padding:0 3px;}
+  /* o quadrado é desenhado com box-shadow, que não ocupa espaço: o texto não se move */
+  .versiculo .num.ativa{background:var(--accent);color:#fff;border-radius:2px;
+    box-shadow:0 0 0 3px var(--accent);border-bottom-color:var(--accent);}
   #popup-nota{position:fixed;z-index:100;display:none;max-width:min(420px,calc(100vw - 24px));
     background:var(--paper);color:var(--ink);border:1px solid var(--ink);border-radius:2px;
     box-shadow:5px 5px 0 rgba(27,26,23,.12);padding:14px 16px;font-size:.86rem;line-height:1.55;cursor:pointer;}
@@ -73,6 +75,22 @@
     font-family:var(--ui);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;}
   .fim-cap a{color:var(--soft);text-decoration:none;}
   .fim-cap a:active{color:var(--accent);}
+
+  /* harmonia dos Evangelhos */
+  .passagem{font-family:var(--ui);font-size:.62rem;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--accent);margin:22px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--line);}
+  .texto .passagem:first-child{margin-top:6px;}
+  .grupo-harm{margin-top:28px;}
+  .grupo-harm .g-titulo{font-family:var(--disp);font-weight:600;font-size:1.4rem;line-height:1.15;
+    border-bottom:2px solid var(--ink);padding-bottom:6px;}
+  .topico-item{display:flex;gap:12px;align-items:baseline;text-decoration:none;color:var(--ink);
+    padding:11px 4px;border-bottom:1px solid var(--line);}
+  .topico-item:active .t-nome{color:var(--accent);}
+  .topico-item .t-num{font-family:var(--ui);font-size:.62rem;color:var(--faint);min-width:2.4em;text-align:right;}
+  .topico-item .t-corpo{flex:1;}
+  .topico-item .t-nome{font-size:.98rem;line-height:1.35;}
+  .topico-item .t-refs{font-family:var(--ui);font-size:.58rem;letter-spacing:.05em;text-transform:uppercase;
+    color:var(--faint);margin-top:3px;}
 
   /* ajuste de fonte */
   .ferramentas{display:flex;gap:8px;align-items:center;margin-top:14px;}
@@ -120,6 +138,7 @@
 </div></div>
 
 <script src="dados-biblia.js"></script>
+<script src="dados-evangelhos.js"></script>
 <script>
 /* Backend: Netlify Functions + Netlify Blobs (mesmo domínio do site).
    A chave de edição é conferida no servidor, na variável de ambiente
@@ -202,7 +221,7 @@ function telaLivros(){
   for(const [id,l] of Object.entries(window.LIVROS_SEED)){
     h+=`<a class="livro-item" href="#/${id}">
       <div class="nome">${l.nome}</div>
-      <div class="info">${l.grupo} · ${l.capitulos} capítulos</div></a>`;
+      <div class="info">${l.grupo} · ${l.capitulos} ${l.harmonia?'tópicos':'capítulos'}</div></a>`;
   }
   h+='</div>';
   h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
@@ -236,9 +255,33 @@ async function importarTudo(){
 }
 
 /* ---------- tela 2: capítulos ---------- */
+function topicoInfo(n){
+  for(const g of (window.HARMONIA||[])){
+    const t=g.t.find(x=>x.n===n);
+    if(t) return {...t, grupo:g.g};
+  }
+  return null;
+}
+function telaHarmonia(livro,l){
+  document.getElementById('cab-titulo').textContent=l.nome;
+  document.getElementById('cab-sub').textContent='Os quatro Evangelhos em ordem cronológica';
+  let h=`<a class="voltar" href="#/">← Livros</a>`;
+  for(const g of window.HARMONIA){
+    h+=`<div class="grupo-harm"><div class="g-titulo">${g.g}</div>`;
+    for(const t of g.t){
+      h+=`<a class="topico-item" href="#/${livro}/${t.n}">
+        <span class="t-num">${t.n}</span>
+        <span class="t-corpo"><span class="t-nome">${t.t}</span>
+        <div class="t-refs">${t.r}</div></span></a>`;
+    }
+    h+='</div>';
+  }
+  mainEl.innerHTML=h;
+}
 function telaCapitulos(livro){
   const l=window.LIVROS_SEED[livro];
   if(!l){ location.hash='#/'; return; }
+  if(l.harmonia) return telaHarmonia(livro,l);
   document.getElementById('cab-titulo').textContent=l.nome;
   document.getElementById('cab-sub').textContent=l.grupo;
   let h=`<a class="voltar" href="#/">← Livros</a>
@@ -262,18 +305,37 @@ async function telaTexto(livro, cap, editar){
 
   if(editar && podeEditar()){ return telaEdicao(livro,cap,versos); }
 
-  let h=`<a class="voltar" href="#/${livro}">← Capítulos</a>
-    <div class="cap-cab"><h2>${l.nome} ${cap}</h2><div class="nav-cap">`;
+  const info = l.harmonia ? topicoInfo(cap) : null;
+  if(info){
+    document.getElementById('cab-titulo').textContent=info.t;
+    document.getElementById('cab-sub').textContent=`Tópico ${cap} · ${info.grupo}`;
+  }
+  const titulo = info ? info.t : `${l.nome} ${cap}`;
+  const voltarTxt = l.harmonia ? 'Evangelhos' : 'Capítulos';
+  let h=`<a class="voltar" href="#/${livro}">← ${voltarTxt}</a>
+    <div class="cap-cab"><h2>${escapar(titulo)}</h2><div class="nav-cap">`;
   if(podeEditar()) h+=`<a href="#/${livro}/${cap}/editar">Editar</a>`;
   h+=`</div></div><div class="texto">`;
+  let refAtual=`${l.nome} ${cap}`;
   for(const v of versos){
-    const marca = v.n ? ` tem-nota" data-nota="${escapar(v.n)}" data-ref="${l.nome} ${cap}, ${v.v}` : '';
+    if(v.p){
+      h+=`<div class="passagem">${escapar(v.p)}</div>`;
+      refAtual=v.p.replace(/:[^:]*$/,'');   // "Lucas 1:5-25" → "Lucas 1"
+      continue;
+    }
+    const marca = v.n ? ` tem-nota" data-nota="${escapar(v.n)}" data-ref="${refAtual}, ${v.v}` : '';
     h+=`<p class="versiculo"><span class="num${marca}">${v.v}</span>${escapar(v.t)}</p>`;
   }
-  if(!versos.length) h+=`<div class="aviso">Este capítulo ainda não tem texto.</div>`;
+  if(!versos.length) h+=`<div class="aviso">Este ${l.harmonia?'tópico':'capítulo'} ainda não tem texto.</div>`;
   h+=`</div><div class="fim-cap">`;
-  h+= cap>1 ? `<a href="#/${livro}/${cap-1}">← ${l.nome} ${cap-1}</a>` : '<span></span>';
-  h+= cap<l.capitulos ? `<a href="#/${livro}/${cap+1}">${l.nome} ${cap+1} →</a>` : '<span></span>';
+  if(l.harmonia){
+    const ant=cap>1?topicoInfo(cap-1):null, prox=cap<l.capitulos?topicoInfo(cap+1):null;
+    h+= ant  ? `<a href="#/${livro}/${cap-1}">← ${cap-1}. ${escapar(ant.t)}</a>` : '<span></span>';
+    h+= prox ? `<a href="#/${livro}/${cap+1}">${cap+1}. ${escapar(prox.t)} →</a>` : '<span></span>';
+  } else {
+    h+= cap>1 ? `<a href="#/${livro}/${cap-1}">← ${l.nome} ${cap-1}</a>` : '<span></span>';
+    h+= cap<l.capitulos ? `<a href="#/${livro}/${cap+1}">${l.nome} ${cap+1} →</a>` : '<span></span>';
+  }
   h+=`</div>`;
   h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
   mainEl.innerHTML=h;
@@ -283,10 +345,13 @@ async function telaTexto(livro, cap, editar){
 function telaEdicao(livro,cap,versos){
   edVersos=versos; edLivro=livro; edCap=cap;
   const l=window.LIVROS_SEED[livro];
+  const infoEd = l.harmonia ? topicoInfo(cap) : null;
+  const tituloEd = infoEd ? `${cap}. ${infoEd.t}` : `${l.nome} ${cap}`;
   let h=`<a class="voltar" href="#/${livro}/${cap}">← Voltar à leitura</a>
-    <div class="cap-cab"><h2>${l.nome} ${cap} · edição</h2></div>`;
+    <div class="cap-cab"><h2>${escapar(tituloEd)} · edição</h2></div>`;
   if(!temSupabase()) h+=`<div class="aviso erro">Sem conexão com a nuvem: não será possível salvar.</div>`;
   versos.forEach((v,i)=>{
+    if(v.p){ h+=`<div class="passagem">${escapar(v.p)}</div>`; return; }
     h+=`<div class="ed-versiculo">
       <div class="rotulo">Versículo ${v.v}</div>
       <textarea data-i="${i}" data-campo="t">${escapar(v.t)}</textarea>

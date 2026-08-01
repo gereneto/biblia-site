@@ -76,6 +76,24 @@
   .fim-cap a{color:var(--soft);text-decoration:none;}
   .fim-cap a:active{color:var(--accent);}
 
+  /* barra de navegação no alto do capítulo */
+  .nav-topo{display:flex;align-items:center;justify-content:space-between;gap:10px;
+    font-family:var(--ui);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;
+    margin:10px 0 4px;padding:8px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
+  .nav-topo a{color:var(--soft);text-decoration:none;padding:3px 2px;}
+  .nav-topo a:active{color:var(--accent);}
+  .nav-topo a.ed{color:var(--accent);}
+  .nav-topo .inativo{color:var(--line);}
+
+  /* temas da harmonia */
+  .lista-temas{margin-top:8px;}
+  .tema-item{display:block;text-decoration:none;color:var(--ink);
+    padding:14px 4px;border-bottom:1px solid var(--line);}
+  .tema-item:active .tema-nome{color:var(--accent);}
+  .tema-nome{font-family:var(--disp);font-weight:600;font-size:1.18rem;line-height:1.2;}
+  .tema-info{font-family:var(--ui);font-size:.6rem;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--faint);margin-top:4px;}
+
   /* harmonia dos Evangelhos */
   .passagem{font-family:var(--ui);font-size:.62rem;letter-spacing:.16em;text-transform:uppercase;
     color:var(--accent);margin:22px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--line);}
@@ -137,8 +155,12 @@
   <button class="btn" id="btn-salvar">Salvar capítulo</button>
 </div></div>
 
-<script src="dados-biblia.js"></script>
-<script src="dados-evangelhos.js"></script>
+<script src="dados-livros.js"></script>
+<script src="livros/levitico.js"></script>
+<script src="livros/numeros.js"></script>
+<script src="livros/salmos.js"></script>
+<script src="livros/1corintios.js"></script>
+<script src="livros/evangelhos.js"></script>
 <script>
 /* Backend: Netlify Functions + Netlify Blobs (mesmo domínio do site).
    A chave de edição é conferida no servidor, na variável de ambiente
@@ -210,6 +232,7 @@ function rota(){
   window.scrollTo(0,0);
   if(p.length===0) return telaLivros();
   if(p.length===1) return telaCapitulos(p[0]);
+  if(p[1]==='g')   return telaGrupo(p[0], parseInt(p[2],10));
   if(p.length>=2)  return telaTexto(p[0], parseInt(p[1],10), p[2]==='editar');
 }
 
@@ -256,26 +279,51 @@ async function importarTudo(){
 
 /* ---------- tela 2: capítulos ---------- */
 function topicoInfo(n){
-  for(const g of (window.HARMONIA||[])){
+  for(let i=0;i<(window.HARMONIA||[]).length;i++){
+    const g=window.HARMONIA[i];
     const t=g.t.find(x=>x.n===n);
-    if(t) return {...t, grupo:g.g};
+    if(t) return {...t, grupo:g.g, gi:i};
   }
   return null;
 }
+/* tela intermediária: os grandes temas */
 function telaHarmonia(livro,l){
   document.getElementById('cab-titulo').textContent=l.nome;
   document.getElementById('cab-sub').textContent='Os quatro Evangelhos em ordem cronológica';
-  let h=`<a class="voltar" href="#/">← Livros</a>`;
-  for(const g of window.HARMONIA){
-    h+=`<div class="grupo-harm"><div class="g-titulo">${g.g}</div>`;
-    for(const t of g.t){
-      h+=`<a class="topico-item" href="#/${livro}/${t.n}">
-        <span class="t-num">${t.n}</span>
-        <span class="t-corpo"><span class="t-nome">${t.t}</span>
-        <div class="t-refs">${t.r}</div></span></a>`;
-    }
-    h+='</div>';
+  let h=`<a class="voltar" href="#/">← Livros</a>
+    <div class="titulo-secao">${l.nome}</div>
+    <div class="sub-secao">Escolha o tema</div>
+    <div class="lista-temas">`;
+  window.HARMONIA.forEach((g,i)=>{
+    const ini=g.t[0].n, fim=g.t[g.t.length-1].n;
+    h+=`<a class="tema-item" href="#/${livro}/g/${i+1}">
+      <div class="tema-nome">${escapar(g.g)}</div>
+      <div class="tema-info">${g.t.length} ${g.t.length===1?'tópico':'tópicos'} · ${ini}–${fim}</div></a>`;
+  });
+  h+='</div>';
+  mainEl.innerHTML=h;
+}
+/* tela dos tópicos de um tema */
+function telaGrupo(livro, gi){
+  const l=window.LIVROS_SEED[livro];
+  const g=(window.HARMONIA||[])[gi-1];
+  if(!l || !g){ location.hash=`#/${livro}`; return; }
+  document.getElementById('cab-titulo').textContent=g.g;
+  document.getElementById('cab-sub').textContent=l.nome;
+  let h=`<a class="voltar" href="#/${livro}">← Temas</a>
+    <div class="titulo-secao">${escapar(g.g)}</div>
+    <div class="sub-secao">Escolha o tópico</div>
+    <div class="grupo-harm">`;
+  for(const t of g.t){
+    h+=`<a class="topico-item" href="#/${livro}/${t.n}">
+      <span class="t-num">${t.n}</span>
+      <span class="t-corpo"><span class="t-nome">${escapar(t.t)}</span>
+      <div class="t-refs">${escapar(t.r)}</div></span></a>`;
   }
+  h+='</div><div class="fim-cap">';
+  h+= gi>1 ? `<a href="#/${livro}/g/${gi-1}">← ${escapar(window.HARMONIA[gi-2].g)}</a>` : '<span></span>';
+  h+= gi<window.HARMONIA.length ? `<a href="#/${livro}/g/${gi+1}">${escapar(window.HARMONIA[gi].g)} →</a>` : '<span></span>';
+  h+='</div>';
   mainEl.innerHTML=h;
 }
 function telaCapitulos(livro){
@@ -311,11 +359,28 @@ async function telaTexto(livro, cap, editar){
     document.getElementById('cab-sub').textContent=`Tópico ${cap} · ${info.grupo}`;
   }
   const titulo = info ? info.t : `${l.nome} ${cap}`;
-  const voltarTxt = l.harmonia ? 'Evangelhos' : 'Capítulos';
-  let h=`<a class="voltar" href="#/${livro}">← ${voltarTxt}</a>
-    <div class="cap-cab"><h2>${escapar(titulo)}</h2><div class="nav-cap">`;
-  if(podeEditar()) h+=`<a href="#/${livro}/${cap}/editar">Editar</a>`;
-  h+=`</div></div><div class="texto">`;
+  const voltarHref = info ? `#/${livro}/g/${info.gi+1}` : `#/${livro}`;
+  const voltarTxt  = info ? info.grupo : 'Capítulos';
+
+  // navegação anterior/seguinte, usada em cima e embaixo
+  let antHref='', antTxt='', proxHref='', proxTxt='';
+  if(l.harmonia){
+    const ant=cap>1?topicoInfo(cap-1):null, prox=cap<l.capitulos?topicoInfo(cap+1):null;
+    if(ant){  antHref=`#/${livro}/${cap-1}`;  antTxt=`${cap-1}. ${ant.t}`; }
+    if(prox){ proxHref=`#/${livro}/${cap+1}`; proxTxt=`${cap+1}. ${prox.t}`; }
+  } else {
+    if(cap>1){ antHref=`#/${livro}/${cap-1}`; antTxt=`${l.nome} ${cap-1}`; }
+    if(cap<l.capitulos){ proxHref=`#/${livro}/${cap+1}`; proxTxt=`${l.nome} ${cap+1}`; }
+  }
+  const navCurta = `<div class="nav-topo">`
+    + (antHref  ? `<a href="${antHref}" title="${escapar(antTxt)}">← Anterior</a>` : '<span class="inativo">← Anterior</span>')
+    + (podeEditar() ? `<a class="ed" href="#/${livro}/${cap}/editar">Editar</a>` : '')
+    + (proxHref ? `<a href="${proxHref}" title="${escapar(proxTxt)}">Seguinte →</a>` : '<span class="inativo">Seguinte →</span>')
+    + `</div>`;
+
+  let h=`<a class="voltar" href="${voltarHref}">← ${escapar(voltarTxt)}</a>
+    <div class="cap-cab"><h2>${escapar(titulo)}</h2></div>
+    ${navCurta}<div class="texto">`;
   let refAtual=`${l.nome} ${cap}`;
   for(const v of versos){
     if(v.p){
@@ -328,14 +393,8 @@ async function telaTexto(livro, cap, editar){
   }
   if(!versos.length) h+=`<div class="aviso">Este ${l.harmonia?'tópico':'capítulo'} ainda não tem texto.</div>`;
   h+=`</div><div class="fim-cap">`;
-  if(l.harmonia){
-    const ant=cap>1?topicoInfo(cap-1):null, prox=cap<l.capitulos?topicoInfo(cap+1):null;
-    h+= ant  ? `<a href="#/${livro}/${cap-1}">← ${cap-1}. ${escapar(ant.t)}</a>` : '<span></span>';
-    h+= prox ? `<a href="#/${livro}/${cap+1}">${cap+1}. ${escapar(prox.t)} →</a>` : '<span></span>';
-  } else {
-    h+= cap>1 ? `<a href="#/${livro}/${cap-1}">← ${l.nome} ${cap-1}</a>` : '<span></span>';
-    h+= cap<l.capitulos ? `<a href="#/${livro}/${cap+1}">${l.nome} ${cap+1} →</a>` : '<span></span>';
-  }
+  h+= antHref  ? `<a href="${antHref}">← ${escapar(antTxt)}</a>`  : '<span></span>';
+  h+= proxHref ? `<a href="${proxHref}">${escapar(proxTxt)} →</a>` : '<span></span>';
   h+=`</div>`;
   h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
   mainEl.innerHTML=h;

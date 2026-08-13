@@ -588,3 +588,314 @@ EV[30] = [
 {v:14,t:"Depois disso, Jesus o encontrou no Templo e disse a ele: Eis que ficaste são; não peques mais, para que não te aconteça coisa pior."},
 {v:15,t:"O homem foi anunciar aos judeus que fora Jesus quem o fizera são."}
 ];
+
+EV[31] = [
+{p:"João 5:16-47"},
+{v:16,t:"Por isso os judeus perseguiam Jesus, porque fazia essas coisas no sábado."},
+{v:17,t:"Mas ele respondeu a eles: Meu Pai trabalha até agora, e eu também trabalho.",n:"O descanso do sétimo dia não interrompe a obra pela qual Deus conserva o mundo; ao dizer que trabalha com o Pai, Jesus reivindica a mesma obra, e é isso que os ouvintes entendem no versículo seguinte."},
+{v:18,t:"Por isso os judeus procuravam ainda mais matá-lo, porque não só violava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus."},
+{v:19,t:"Jesus respondeu e disse a eles: Em verdade, em verdade vos digo: o Filho não pode fazer nada de si mesmo, senão o que vê o Pai fazer; pois o que este faz, o Filho o faz igualmente."},
+{v:20,t:"Porque o Pai ama o Filho e mostra a ele tudo o que faz; e obras maiores do que estas mostrará a ele, para que vos admireis."},
+{v:21,t:"Pois, como o Pai ressuscita os mortos e lhes dá a vida, assim também o Filho dá a vida a quem quer."},
+{v:22,t:"Porque o Pai não julga ninguém, mas entregou todo o julgamento ao Filho,"},
+{v:23,t:"para que todos honrem o Filho como honram o Pai. Quem não honra o Filho não honra o Pai que o enviou."},
+{v:24,t:"Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não vem a julgamento, mas passou da morte para a vida."},
+{v:25,t:"Em verdade, em verdade vos digo: vem a hora, e é agora, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão.",n:"E é agora: a ressurreição final já começou a agir no presente, nos que passam da morte do pecado para a vida pela fé. Nos vv. 28-29 o mesmo anúncio se volta para a ressurreição dos corpos."},
+{v:26,t:"Pois, como o Pai tem a vida em si mesmo, assim também deu ao Filho ter a vida em si mesmo;"},
+{v:27,t:"e deu a ele o poder de exercer o julgamento, porque é Filho do Homem.",n:"Aqui a expressão vem sem artigo em grego, aproximando-se da visão de Daniel 7, em que um como filho de homem recebe o poder de julgar."},
+{v:28,t:"Não vos admireis disso, porque vem a hora em que todos os que estão nos sepulcros ouvirão a sua voz"},
+{v:29,t:"e sairão: os que fizeram o bem, para a ressurreição da vida; os que praticaram o mal, para a ressurreição do julgamento."},
+{v:30,t:"Eu não posso fazer nada de mim mesmo. Julgo conforme ouço, e o meu julgamento é justo, porque não busco a minha vontade, mas a vontade daquele que me enviou."},
+{v:31,t:"Se eu dou testemunho de mim mesmo, o meu testemunho não é válido.",n:"A Lei não aceitava a palavra de uma só testemunha; Jesus assume a exigência e passa a enumerar as testemunhas que o abonam: João, as obras, o Pai, as Escrituras."},
+{v:32,t:"Outro é o que dá testemunho de mim, e sei que é verdadeiro o testemunho que ele dá de mim."},
+{v:33,t:"Vós enviastes mensageiros a João, e ele deu testemunho da verdade."},
+{v:34,t:"Eu, porém, não recebo testemunho de homem; digo isso para que sejais salvos."},
+{v:35,t:"Ele era a lâmpada que arde e ilumina, e vós quisestes alegrar-vos por um momento na sua luz."},
+{v:36,t:"Mas eu tenho um testemunho maior que o de João: as obras que o Pai me deu para realizar, essas mesmas obras que faço dão testemunho de mim, de que o Pai me enviou."},
+{v:37,t:"E o Pai que me enviou, ele mesmo deu testemunho de mim. Nunca ouvistes a sua voz, nem vistes a sua face,"},
+{v:38,t:"e não tendes a sua palavra permanecendo em vós, porque não credes naquele que ele enviou."},
+{v:39,t:"Examinais as Escrituras, porque julgais ter nelas a vida eterna; e são elas que dão testemunho de mim.",n:"A forma grega tanto pode ser afirmação como ordem: examinais as Escrituras ou examinai as Escrituras. O sentido não muda muito, pois a censura recai sobre parar no livro sem chegar àquele de quem o livro fala."},
+{v:40,t:"E não quereis vir a mim para terdes a vida."},
+{v:41,t:"Não recebo glória dos homens."},
+{v:42,t:"Mas eu vos conheço: não tendes em vós o amor de Deus."},
+{v:43,t:"Eu vim em nome de meu Pai, e não me recebeis; se outro vier em seu próprio nome, a esse recebereis."},
+{v:44,t:"Como podeis crer, vós que recebeis glória uns dos outros e não buscais a glória que vem do Deus único?"},
+{v:45,t:"Não penseis que eu vos acusarei diante do Pai; há quem vos acuse: Moisés, em quem esperais."},
+{v:46,t:"Pois, se crêsseis em Moisés, creríeis também em mim, porque ele escreveu a meu respeito."},
+{v:47,t:"Mas, se não credes nos seus escritos, como crereis nas minhas palavras?"}
+];
+
+EV[32] = [
+{p:"Mateus 4:12"},
+{v:12,t:"Ouvindo que João fora entregue, retirou-se para a Galileia.",n:"Entregue verte paradothenai, o mesmo verbo que os Evangelhos usarão para a entrega de Jesus: a sorte do precursor prefigura a do Senhor."},
+{p:"Marcos 1:14-15"},
+{v:14,t:"Depois que João foi entregue, Jesus foi para a Galileia, pregando o Evangelho de Deus"},
+{v:15,t:"e dizendo: O tempo está cumprido e o Reino de Deus está próximo; convertei-vos e crede no Evangelho.",n:"Convertei-vos traduz metanoeite, que pede uma mudança do modo de pensar e de julgar, e não apenas o pesar pelo que se fez."},
+{p:"Lucas 4:14-15"},
+{v:14,t:"E Jesus voltou, no poder do Espírito, para a Galileia, e a sua fama correu por toda a região vizinha."},
+{v:15,t:"Ele ensinava nas suas sinagogas, glorificado por todos."}
+];
+
+EV[33] = [
+{p:"Lucas 4:16-30"},
+{v:16,t:"Foi a Nazaré, onde fora criado, e entrou, segundo o seu costume, no dia de sábado, na sinagoga, e levantou-se para ler."},
+{v:17,t:"Foi dado a ele o livro do profeta Isaías; e, desenrolando o livro, encontrou o lugar onde estava escrito:"},
+{v:18,t:"O Espírito do Senhor está sobre mim, pelo que me ungiu para anunciar a Boa Nova aos pobres; enviou-me a proclamar aos cativos a libertação e aos cegos a recuperação da vista, a pôr em liberdade os oprimidos,",n:"Ungiu verte echrisen, do mesmo radical de Cristo: ao ler Isaías, Jesus diz que a unção anunciada recai sobre ele."},
+{v:19,t:"a proclamar um ano de graça do Senhor.",n:"O ano de graça é o jubileu de Levítico 25, em que se perdoavam as dívidas e se devolviam as terras; Jesus o toma como figura do que vem realizar."},
+{v:20,t:"Enrolando o livro, devolveu-o ao servente e sentou-se; e os olhos de todos na sinagoga estavam fixos nele."},
+{v:21,t:"Começou a dizer a eles: Hoje se cumpriu esta Escritura aos vossos ouvidos."},
+{v:22,t:"E todos davam testemunho dele e admiravam-se das palavras de graça que saíam da sua boca, e diziam: Não é este o filho de José?"},
+{v:23,t:"Ele disse a eles: Sem dúvida me direis este provérbio: Médico, cura-te a ti mesmo. Tudo o que ouvimos ter acontecido em Cafarnaum, faze-o também aqui, na tua pátria."},
+{v:24,t:"E acrescentou: Em verdade vos digo que nenhum profeta é bem recebido na sua pátria."},
+{v:25,t:"Na verdade vos digo: muitas viúvas havia em Israel nos dias de Elias, quando o céu se fechou por três anos e seis meses, de modo que houve grande fome por toda a terra;"},
+{v:26,t:"e a nenhuma delas foi enviado Elias, senão a uma mulher viúva de Sarepta, na Sidônia."},
+{v:27,t:"E muitos leprosos havia em Israel no tempo do profeta Eliseu; e nenhum deles foi purificado, senão Naamã, o sírio.",n:"Os dois exemplos são de estrangeiros socorridos enquanto Israel era passado adiante; é essa universalidade, e não a pretensão messiânica, o que acende a ira dos ouvintes."},
+{v:28,t:"Ouvindo isso, todos na sinagoga se encheram de ira;"},
+{v:29,t:"e, levantando-se, lançaram-no fora da cidade e o levaram até ao alto do monte sobre o qual a sua cidade estava edificada, para o precipitarem."},
+{v:30,t:"Ele, porém, passando pelo meio deles, seguia o seu caminho."}
+];
+
+EV[34] = [
+{p:"Mateus 4:13-17"},
+{v:13,t:"E, deixando Nazaré, foi habitar em Cafarnaum, à beira-mar, nos confins de Zabulon e Neftali,"},
+{v:14,t:"para que se cumprisse o que foi dito pelo profeta Isaías:"},
+{v:15,t:"Terra de Zabulon e terra de Neftali, caminho do mar, além do Jordão, Galileia dos gentios:"},
+{v:16,t:"o povo que jazia nas trevas viu uma grande luz; e sobre os que jaziam na região e sombra da morte, uma luz se levantou."},
+{v:17,t:"Desde então começou Jesus a pregar e a dizer: Convertei-vos, porque o Reino dos céus está próximo.",n:"Reino dos céus é a forma preferida por São Mateus, que evita pronunciar o nome de Deus; equivale ao Reino de Deus dos outros evangelistas."},
+{p:"Lucas 4:31"},
+{v:31,t:"Desceu a Cafarnaum, cidade da Galileia, e ali os ensinava nos sábados."}
+];
+
+EV[35] = [
+{p:"Mateus 4:18-22"},
+{v:18,t:"Caminhando junto ao mar da Galileia, viu dois irmãos, Simão, chamado Pedro, e André, seu irmão, lançando a rede ao mar, pois eram pescadores."},
+{v:19,t:"E disse a eles: Vinde após mim, e eu vos farei pescadores de homens."},
+{v:20,t:"Eles, deixando imediatamente as redes, seguiram-no."},
+{v:21,t:"Passando adiante, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, na barca com Zebedeu, seu pai, consertando as suas redes; e os chamou."},
+{v:22,t:"Eles, deixando imediatamente a barca e seu pai, seguiram-no."},
+{p:"Marcos 1:16-20"},
+{v:16,t:"Passando junto ao mar da Galileia, viu Simão e André, irmão de Simão, lançando as redes ao mar, pois eram pescadores."},
+{v:17,t:"E disse a eles Jesus: Vinde após mim, e farei que vos torneis pescadores de homens."},
+{v:18,t:"E logo, deixando as redes, seguiram-no."},
+{v:19,t:"Adiantando-se um pouco, viu Tiago, filho de Zebedeu, e João, seu irmão, também eles na barca, consertando as redes;"},
+{v:20,t:"e logo os chamou. Deixando na barca seu pai Zebedeu com os assalariados, foram após ele."},
+{p:"Lucas 5:1-11"},
+{v:1,t:"Ora, apertando-o a multidão para ouvir a palavra de Deus, ele estava junto ao lago de Genesaré,"},
+{v:2,t:"e viu duas barcas paradas à beira do lago; os pescadores tinham descido delas e lavavam as redes."},
+{v:3,t:"Subindo a uma das barcas, que era de Simão, pediu a ele que se afastasse um pouco da terra; e, sentado, ensinava as multidões desde a barca."},
+{v:4,t:"Quando acabou de falar, disse a Simão: Faze-te ao largo e lançai as vossas redes para a pesca.",n:"A ordem passa do singular ao plural: faze-te tu ao largo, lançai vós as redes. O gesto é de Pedro, mas o trabalho é de todos."},
+{v:5,t:"Simão respondeu: Mestre, trabalhamos a noite toda e nada apanhamos; mas, sobre a tua palavra, lançarei as redes."},
+{v:6,t:"Feito isso, apanharam grande quantidade de peixes, e as suas redes rompiam-se."},
+{v:7,t:"Fizeram sinal aos companheiros da outra barca, para que viessem ajudá-los; e vieram, e encheram ambas as barcas, a ponto de quase se afundarem."},
+{v:8,t:"Vendo isso, Simão Pedro caiu aos joelhos de Jesus, dizendo: Afasta-te de mim, Senhor, porque sou um homem pecador."},
+{v:9,t:"Pois o espanto o tomara, e a todos os que estavam com ele, pela pesca que tinham feito;"},
+{v:10,t:"e igualmente a Tiago e a João, filhos de Zebedeu, que eram companheiros de Simão. E Jesus disse a Simão: Não temas; de agora em diante serás pescador de homens.",n:"O verbo grego zogrein significa apanhar vivo, poupar da morte; a pesca de que se fala não tira a vida, dá-a."},
+{v:11,t:"E, levando as barcas para a terra, deixaram tudo e seguiram-no."}
+];
+
+EV[36] = [
+{p:"Marcos 1:21-28"},
+{v:21,t:"Entraram em Cafarnaum; e logo, no sábado, entrando na sinagoga, ensinava."},
+{v:22,t:"E admiravam-se do seu ensino, porque os ensinava como quem tem autoridade, e não como os escribas.",n:"Os escribas ensinavam apoiando-se na cadeia dos mestres antigos; Jesus fala por si, e é essa exousia, autoridade que não se recebeu de outro, o que espanta."},
+{v:23,t:"Havia logo na sinagoga deles um homem com espírito impuro, e ele gritou:"},
+{v:24,t:"Que temos nós contigo, Jesus Nazareno? Vieste perder-nos? Sei quem tu és: o Santo de Deus.",n:"Que temos nós contigo traduz ao pé da letra um modo de dizer hebraico que recusa qualquer trato: não te metas conosco."},
+{v:25,t:"Jesus o repreendeu, dizendo: Cala-te e sai dele."},
+{v:26,t:"E o espírito impuro, agitando-o com violência e gritando com grande voz, saiu dele."},
+{v:27,t:"Todos ficaram tão espantados que perguntavam entre si: Que é isto? Um ensino novo, com autoridade! Ele manda até nos espíritos impuros, e obedecem a ele."},
+{v:28,t:"E logo a sua fama se espalhou por toda parte, em toda a região da Galileia."},
+{p:"Lucas 4:32-37"},
+{v:32,t:"E admiravam-se do seu ensino, porque a sua palavra era com autoridade."},
+{v:33,t:"Havia na sinagoga um homem que tinha um espírito de demônio impuro, e gritou com grande voz:"},
+{v:34,t:"Ah! Que temos nós contigo, Jesus Nazareno? Vieste perder-nos? Sei quem tu és: o Santo de Deus."},
+{v:35,t:"Jesus o repreendeu, dizendo: Cala-te e sai dele. E o demônio, lançando-o por terra no meio, saiu dele sem lhe fazer mal algum."},
+{v:36,t:"O espanto tomou a todos, e diziam uns aos outros: Que palavra é esta, que com autoridade e poder manda nos espíritos impuros, e eles saem?"},
+{v:37,t:"E a sua fama se difundia por todos os lugares da região."}
+];
+
+EV[37] = [
+{p:"Mateus 8:14-17"},
+{v:14,t:"Chegando Jesus à casa de Pedro, viu a sogra dele deitada e com febre."},
+{v:15,t:"Tocou-lhe a mão, e a febre a deixou; ela se levantou e o servia."},
+{v:16,t:"Caída a tarde, trouxeram a ele muitos endemoninhados; e ele expulsava os espíritos com uma palavra, e curou todos os que estavam mal,"},
+{v:17,t:"para que se cumprisse o que foi dito pelo profeta Isaías: Ele tomou as nossas enfermidades e carregou as nossas doenças."},
+{p:"Marcos 1:29-34"},
+{v:29,t:"E logo, saindo da sinagoga, foram à casa de Simão e André, com Tiago e João."},
+{v:30,t:"A sogra de Simão estava de cama, com febre; e logo falaram a ele dela."},
+{v:31,t:"Aproximando-se, ele a levantou, tomando-a pela mão; a febre a deixou, e ela os servia."},
+{v:32,t:"Caída a tarde, quando o sol se pôs, traziam a ele todos os que estavam mal e os endemoninhados;",n:"Esperam o pôr do sol porque com ele acaba o sábado e volta a ser lícito carregar os doentes."},
+{v:33,t:"e a cidade inteira estava reunida à porta."},
+{v:34,t:"Curou muitos que estavam mal de diversas doenças e expulsou muitos demônios; e não deixava falar os demônios, porque o conheciam."},
+{p:"Lucas 4:38-41"},
+{v:38,t:"Levantando-se da sinagoga, entrou na casa de Simão. A sogra de Simão estava tomada de grande febre, e rogaram a ele por ela."},
+{v:39,t:"Inclinando-se sobre ela, repreendeu a febre, e a febre a deixou; e ela, levantando-se imediatamente, os servia."},
+{v:40,t:"Ao pôr do sol, todos os que tinham enfermos de várias doenças os traziam a ele; e ele, impondo as mãos sobre cada um, os curava."},
+{v:41,t:"Também saíam demônios de muitos, gritando: Tu és o Filho de Deus. Mas ele os repreendia e não os deixava falar, porque sabiam que ele era o Cristo."}
+];
+
+EV[38] = [
+{p:"Mateus 4:23-25"},
+{v:23,t:"E percorria toda a Galileia, ensinando nas suas sinagogas, pregando o Evangelho do Reino e curando toda doença e toda enfermidade no povo."},
+{v:24,t:"A sua fama correu por toda a Síria; e traziam a ele todos os que estavam mal, atormentados por várias doenças e sofrimentos, endemoninhados, lunáticos e paralíticos; e ele os curou."},
+{v:25,t:"E seguiram-no numerosas multidões da Galileia, da Decápole, de Jerusalém, da Judeia e de além do Jordão."},
+{p:"Marcos 1:35-39"},
+{v:35,t:"De madrugada, ainda muito escuro, levantou-se, saiu e foi a um lugar deserto, e ali orava."},
+{v:36,t:"Simão e os que estavam com ele foram à sua procura;"},
+{v:37,t:"e, encontrando-o, disseram a ele: Todos te buscam."},
+{v:38,t:"Ele respondeu: Vamos a outra parte, às povoações vizinhas, para que também ali eu pregue; pois para isso saí."},
+{v:39,t:"E foi pregar nas sinagogas deles, por toda a Galileia, e expulsava os demônios."},
+{p:"Lucas 4:42-44"},
+{v:42,t:"Sendo já dia, saiu e foi a um lugar deserto; as multidões o procuravam e chegaram até ele, e o retinham, para que não se afastasse delas."},
+{v:43,t:"Ele disse a eles: É necessário que eu anuncie o Reino de Deus também às outras cidades, pois para isso fui enviado."},
+{v:44,t:"E pregava nas sinagogas da Judeia.",n:"Judeia está aqui no sentido largo de terra dos judeus, abrangendo a Galileia; parte dos manuscritos traz justamente Galileia."}
+];
+
+EV[39] = [
+{p:"Mateus 8:1-4"},
+{v:1,t:"Quando desceu do monte, seguiram-no numerosas multidões."},
+{v:2,t:"E eis que um leproso, aproximando-se, prostrava-se diante dele, dizendo: Senhor, se queres, podes purificar-me."},
+{v:3,t:"Estendendo a mão, ele o tocou, dizendo: Quero, sê purificado. E logo a sua lepra foi purificada.",n:"Tocar um leproso tornava impuro quem o tocasse; aqui dá-se o contrário, e é a impureza que cede ao contato."},
+{v:4,t:"Jesus disse a ele: Olha, não digas a ninguém; mas vai, mostra-te ao sacerdote e apresenta a oferta que Moisés ordenou, em testemunho para eles."},
+{p:"Marcos 1:40-45"},
+{v:40,t:"Veio a ele um leproso, suplicando e pondo-se de joelhos, e disse: Se queres, podes purificar-me."},
+{v:41,t:"Compadecido, estendeu a mão, tocou-o e disse: Quero, sê purificado.",n:"Alguns manuscritos antigos trazem irado em lugar de compadecido; a lição mais difícil apontaria para a cólera de Jesus diante do mal que desfigura o homem."},
+{v:42,t:"E logo a lepra o deixou, e ficou purificado."},
+{v:43,t:"Ele o despediu imediatamente, advertindo-o com severidade,"},
+{v:44,t:"e disse a ele: Vê, não digas nada a ninguém; mas vai, mostra-te ao sacerdote e oferece pela tua purificação o que Moisés ordenou, em testemunho para eles."},
+{v:45,t:"Mas ele, saindo, começou a apregoar muito e a divulgar o acontecido, de modo que Jesus já não podia entrar publicamente numa cidade, mas ficava fora, em lugares desertos; e vinham a ele de toda parte."},
+{p:"Lucas 5:12-16"},
+{v:12,t:"Estando ele numa das cidades, eis um homem cheio de lepra; vendo Jesus, caiu de rosto por terra e rogou a ele: Senhor, se queres, podes purificar-me."},
+{v:13,t:"Estendendo a mão, tocou-o, dizendo: Quero, sê purificado. E logo a lepra o deixou."},
+{v:14,t:"E ele lhe ordenou que não dissesse a ninguém: Mas vai, mostra-te ao sacerdote e oferece pela tua purificação o que Moisés ordenou, em testemunho para eles."},
+{v:15,t:"A sua fama, porém, se difundia ainda mais, e grandes multidões acorriam para o ouvir e para serem curadas das suas enfermidades."},
+{v:16,t:"Ele, porém, retirava-se para lugares desertos e orava."}
+];
+
+EV[40] = [
+{p:"Mateus 9:2-8"},
+{v:2,t:"E eis que traziam a ele um paralítico, deitado num leito. Vendo Jesus a fé deles, disse ao paralítico: Confia, filho; os teus pecados são perdoados.",n:"A fé deles é a dos que carregam o doente: em toda a cena, quem crê são os amigos, e é a essa fé que o perdão responde."},
+{v:3,t:"E eis que alguns escribas disseram entre si: Este blasfema."},
+{v:4,t:"Vendo Jesus os pensamentos deles, disse: Por que pensais o mal nos vossos corações?"},
+{v:5,t:"Que é mais fácil dizer: Os teus pecados são perdoados; ou dizer: Levanta-te e anda?"},
+{v:6,t:"Ora, para que saibais que o Filho do Homem tem sobre a terra o poder de perdoar pecados — disse então ao paralítico: Levanta-te, toma o teu leito e vai para tua casa.",n:"A frase fica suspensa: Jesus interrompe o que dizia aos escribas para se voltar ao doente, e a cura termina o que a palavra começara."},
+{v:7,t:"E ele, levantando-se, foi para sua casa."},
+{v:8,t:"Vendo isso, as multidões temeram e glorificaram a Deus, que deu tal poder aos homens."},
+{p:"Marcos 2:1-12"},
+{v:1,t:"Entrou de novo em Cafarnaum, passados alguns dias, e ouviu-se que estava em casa."},
+{v:2,t:"Reuniram-se muitos, de modo que já não havia lugar nem junto à porta; e ele lhes anunciava a palavra."},
+{v:3,t:"Vieram, trazendo a ele um paralítico, carregado por quatro."},
+{v:4,t:"E, não podendo apresentá-lo diante dele por causa da multidão, descobriram o teto onde ele estava e, abrindo uma passagem, baixaram o leito em que jazia o paralítico."},
+{v:5,t:"Vendo Jesus a fé deles, disse ao paralítico: Filho, os teus pecados são perdoados."},
+{v:6,t:"Estavam ali sentados alguns escribas, que pensavam nos seus corações:"},
+{v:7,t:"Por que este fala assim? Ele blasfema. Quem pode perdoar pecados, senão um só, que é Deus?"},
+{v:8,t:"Conhecendo logo Jesus, no seu espírito, que assim pensavam entre si, disse a eles: Por que pensais essas coisas nos vossos corações?"},
+{v:9,t:"Que é mais fácil dizer ao paralítico: Os teus pecados são perdoados; ou dizer: Levanta-te, toma o teu leito e anda?"},
+{v:10,t:"Ora, para que saibais que o Filho do Homem tem sobre a terra o poder de perdoar pecados — disse ao paralítico:"},
+{v:11,t:"A ti eu digo: Levanta-te, toma o teu leito e vai para tua casa."},
+{v:12,t:"E ele se levantou e, tomando logo o leito, saiu à vista de todos, de modo que todos se admiravam e glorificavam a Deus, dizendo: Nunca vimos coisa assim."},
+{p:"Lucas 5:17-26"},
+{v:17,t:"Num dos dias, estava ele ensinando; e estavam sentados fariseus e doutores da Lei, vindos de todas as aldeias da Galileia, da Judeia e de Jerusalém; e o poder do Senhor estava com ele para curar."},
+{v:18,t:"E eis uns homens que traziam num leito um homem paralítico, e procuravam introduzi-lo e pô-lo diante dele."},
+{v:19,t:"Não achando por onde introduzi-lo, por causa da multidão, subiram ao terraço e, pelas telhas, baixaram-no com o leito para o meio, diante de Jesus."},
+{v:20,t:"Vendo ele a fé deles, disse: Homem, os teus pecados são perdoados."},
+{v:21,t:"Os escribas e fariseus começaram a pensar: Quem é este, que fala blasfêmias? Quem pode perdoar pecados, senão só Deus?"},
+{v:22,t:"Conhecendo Jesus os pensamentos deles, respondeu: Que pensais nos vossos corações?"},
+{v:23,t:"Que é mais fácil dizer: Os teus pecados são perdoados; ou dizer: Levanta-te e anda?"},
+{v:24,t:"Ora, para que saibais que o Filho do Homem tem sobre a terra o poder de perdoar pecados — disse ao paralítico: A ti eu digo: Levanta-te, toma o teu leito e vai para tua casa."},
+{v:25,t:"E logo, levantando-se diante deles, tomou o leito em que jazia e foi para sua casa, glorificando a Deus."},
+{v:26,t:"O assombro tomou a todos, e glorificavam a Deus; e, cheios de temor, diziam: Vimos hoje coisas admiráveis."}
+];
+
+EV[41] = [
+{p:"Mateus 9:9"},
+{v:9,t:"Passando dali, Jesus viu um homem sentado na coletoria, chamado Mateus, e disse a ele: Segue-me. Ele se levantou e o seguiu.",n:"O mesmo homem é chamado Levi por São Marcos e São Lucas; a tradição vê nos dois nomes uma só pessoa, o publicano que se tornou evangelista."},
+{p:"Marcos 2:13-14"},
+{v:13,t:"Saiu de novo para a beira-mar; toda a multidão vinha a ele, e ele os ensinava."},
+{v:14,t:"Ao passar, viu Levi, filho de Alfeu, sentado na coletoria, e disse a ele: Segue-me. Ele se levantou e o seguiu."},
+{p:"Lucas 5:27-28"},
+{v:27,t:"Depois disso, saiu e viu um publicano chamado Levi, sentado na coletoria, e disse a ele: Segue-me."},
+{v:28,t:"Ele, deixando tudo, levantou-se e o seguiu."}
+];
+
+EV[42] = [
+{p:"Mateus 12:1-8"},
+{v:1,t:"Naquele tempo, Jesus passou pelas searas no sábado; os seus discípulos, tendo fome, começaram a arrancar espigas e a comer."},
+{v:2,t:"Vendo isso, os fariseus disseram a ele: Eis que os teus discípulos fazem o que não é lícito fazer no sábado.",n:"O que se censura não é apanhar espigas alheias, que a Lei permitia ao faminto, mas fazê-lo no sábado: arrancar e esfregar contavam como colher e debulhar."},
+{v:3,t:"Ele disse a eles: Não lestes o que fez Davi, quando teve fome, ele e os que estavam com ele?"},
+{v:4,t:"Como entrou na casa de Deus e comeram os pães da proposição, que não lhe era lícito comer, nem aos que estavam com ele, mas só aos sacerdotes?"},
+{v:5,t:"Ou não lestes na Lei que, nos sábados, os sacerdotes no Templo violam o sábado e ficam sem culpa?"},
+{v:6,t:"Ora, eu vos digo que aqui está algo maior que o Templo."},
+{v:7,t:"Se soubésseis o que significa: Misericórdia quero, e não sacrifício, não teríeis condenado os inocentes."},
+{v:8,t:"Porque o Filho do Homem é senhor do sábado."},
+{p:"Marcos 2:23-28"},
+{v:23,t:"E aconteceu que ele passava, no sábado, pelas searas, e os seus discípulos começaram a abrir caminho, arrancando as espigas."},
+{v:24,t:"Os fariseus diziam a ele: Vê, por que fazem no sábado o que não é lícito?"},
+{v:25,t:"Ele disse a eles: Nunca lestes o que fez Davi, quando teve necessidade e sentiu fome, ele e os que estavam com ele?"},
+{v:26,t:"Como entrou na casa de Deus, no tempo do sumo sacerdote Abiatar, e comeu os pães da proposição, que não é lícito comer senão aos sacerdotes, e deu também aos que estavam com ele?",n:"Em 1 Samuel 21 o sacerdote é Aquimelec, pai de Abiatar; a menção do filho, mais conhecido por acompanhar Davi, é modo antigo de indicar a passagem pelo nome da figura principal."},
+{v:27,t:"E dizia a eles: O sábado foi feito por causa do homem, e não o homem por causa do sábado."},
+{v:28,t:"Assim, o Filho do Homem é senhor até do sábado."},
+{p:"Lucas 6:1-5"},
+{v:1,t:"Aconteceu que, num sábado, passava ele pelas searas, e os seus discípulos arrancavam espigas e comiam, esfregando-as com as mãos."},
+{v:2,t:"Alguns dos fariseus disseram: Por que fazeis o que não é lícito nos sábados?"},
+{v:3,t:"Jesus respondeu: Não lestes o que fez Davi, quando teve fome, ele e os que estavam com ele?"},
+{v:4,t:"Como entrou na casa de Deus, tomou os pães da proposição, comeu e deu aos que estavam com ele, embora não seja lícito comê-los senão só aos sacerdotes?"},
+{v:5,t:"E dizia a eles: O Filho do Homem é senhor do sábado."}
+];
+
+EV[43] = [
+{p:"Mateus 12:9-14"},
+{v:9,t:"Partindo dali, foi à sinagoga deles."},
+{v:10,t:"E eis um homem que tinha a mão seca; e perguntaram a ele: É lícito curar nos sábados? — para o acusarem."},
+{v:11,t:"Ele disse a eles: Qual de vós, tendo uma só ovelha, se ela cair num poço no sábado, não a segurará e levantará?"},
+{v:12,t:"Ora, quanto mais vale um homem do que uma ovelha! Portanto, é lícito fazer o bem nos sábados."},
+{v:13,t:"Então disse ao homem: Estende a tua mão. Ele a estendeu, e ficou restituída, sã como a outra."},
+{v:14,t:"Saindo, os fariseus fizeram conselho contra ele, sobre como o matariam."},
+{p:"Marcos 3:1-6"},
+{v:1,t:"Entrou de novo na sinagoga. Havia ali um homem que tinha a mão seca."},
+{v:2,t:"E o observavam, para ver se o curaria no sábado, a fim de o acusarem."},
+{v:3,t:"Ele disse ao homem que tinha a mão seca: Levanta-te para o meio."},
+{v:4,t:"E disse a eles: É lícito, nos sábados, fazer o bem ou fazer o mal? Salvar uma vida ou matá-la? Eles, porém, calavam-se.",n:"A pergunta não deixa saída: quem se recusa a fazer o bem no dia santo já escolheu o outro termo. Enquanto calam, tramam a morte de Jesus, e é o que o v. 6 dirá."},
+{v:5,t:"Olhando-os em redor com ira, contristado pela dureza do coração deles, disse ao homem: Estende a mão. Ele a estendeu, e a sua mão foi restituída."},
+{v:6,t:"Saindo, os fariseus logo tomaram conselho com os herodianos contra ele, sobre como o matariam."},
+{p:"Lucas 6:6-11"},
+{v:6,t:"Aconteceu que, noutro sábado, entrou na sinagoga e ensinava. Havia ali um homem cuja mão direita estava seca."},
+{v:7,t:"Os escribas e fariseus o observavam, para ver se curaria no sábado, a fim de acharem de que o acusar."},
+{v:8,t:"Ele, porém, conhecia os pensamentos deles, e disse ao homem que tinha a mão seca: Levanta-te e fica de pé no meio. Ele se levantou e ficou de pé."},
+{v:9,t:"Jesus disse a eles: Pergunto-vos: é lícito, no sábado, fazer o bem ou fazer o mal? Salvar uma vida ou perdê-la?"},
+{v:10,t:"E, olhando a todos em redor, disse ao homem: Estende a tua mão. Ele o fez, e a sua mão foi restituída."},
+{v:11,t:"Eles, porém, encheram-se de furor e discutiam entre si o que fariam a Jesus."}
+];
+
+EV[44] = [
+{p:"Mateus 12:15-21"},
+{v:15,t:"Sabendo disso, Jesus retirou-se dali. Muitos o seguiram, e ele curou a todos,"},
+{v:16,t:"e ordenou a eles que não o tornassem manifesto,"},
+{v:17,t:"para que se cumprisse o que foi dito pelo profeta Isaías:"},
+{v:18,t:"Eis o meu servo, a quem escolhi; o meu amado, em quem a minha alma se comprazeu. Porei sobre ele o meu Espírito, e ele anunciará o julgamento às nações."},
+{v:19,t:"Não contenderá nem gritará, nem alguém ouvirá a sua voz nas praças."},
+{v:20,t:"Não quebrará a cana rachada, nem apagará o pavio que fumega, até que leve o julgamento à vitória;",n:"A cana rachada e o pavio que ainda fumega são figuras do que está quase a acabar: o Servo não remata o que se rompe, sustenta-o."},
+{v:21,t:"e no seu nome esperarão as nações."},
+{p:"Marcos 3:7-12"},
+{v:7,t:"Jesus retirou-se com os seus discípulos para o mar, e uma grande multidão da Galileia o seguiu; também da Judeia,"},
+{v:8,t:"de Jerusalém, da Idumeia, de além do Jordão e dos arredores de Tiro e Sidônia, uma grande multidão, ouvindo quanto fazia, veio a ele."},
+{v:9,t:"E disse aos seus discípulos que lhe preparassem uma barquinha, por causa da multidão, para que não o comprimissem."},
+{v:10,t:"Pois curou a muitos, de modo que se lançavam sobre ele, quantos tinham males, para o tocarem."},
+{v:11,t:"E os espíritos impuros, quando o viam, prostravam-se diante dele e gritavam: Tu és o Filho de Deus."},
+{v:12,t:"Mas ele os repreendia com severidade, para que não o tornassem manifesto."}
+];
+
+EV[45] = [
+{p:"Marcos 3:13-19"},
+{v:13,t:"Subiu ao monte e chamou a si os que ele quis; e foram a ele."},
+{v:14,t:"Constituiu doze, aos quais deu o nome de apóstolos, para que estivessem com ele e para os enviar a pregar,",n:"Apóstolo quer dizer enviado. A ordem das duas finalidades não é indiferente: primeiro estar com ele, depois ser enviado."},
+{v:15,t:"com poder de expulsar os demônios."},
+{v:16,t:"Constituiu os doze: Simão, a quem pôs o nome de Pedro;"},
+{v:17,t:"Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais pôs o nome de Boanerges, isto é, filhos do trovão;"},
+{v:18,t:"André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Cananeu,",n:"Cananeu não indica aqui a terra de Canaã, mas verte o aramaico qanana, o zeloso; São Lucas traduz o mesmo epíteto por Zelote."},
+{v:19,t:"e Judas Iscariotes, que o entregou."},
+{p:"Lucas 6:12-16"},
+{v:12,t:"Naqueles dias, saiu ao monte para orar, e passou a noite em oração a Deus."},
+{v:13,t:"Sendo dia, chamou a si os seus discípulos e escolheu doze deles, aos quais também deu o nome de apóstolos:"},
+{v:14,t:"Simão, a quem pôs o nome de Pedro, e André, seu irmão; Tiago e João; Filipe e Bartolomeu;"},
+{v:15,t:"Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelote;"},
+{v:16,t:"Judas, filho de Tiago, e Judas Iscariotes, que veio a ser o traidor."}
+];

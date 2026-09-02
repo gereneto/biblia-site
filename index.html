@@ -73,10 +73,16 @@
   /* parágrafo de prosa: versículos corridos, número sobrescrito no início de cada um */
   .par{margin:0 0 .7em;text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;}
 
-  /* trechos em verso (poesia), conforme a Nova Vulgata */
+  /* trechos em verso (poesia), conforme a Nova Vulgata
+     Todo verso começa na mesma posição: o número sai do fluxo do texto e
+     fica numa calha à esquerda, alinhado à direita, de modo que nem os
+     dois dígitos nem o † das notas desloquem o início da linha. O recuo
+     maior vale só para o que transborda numa tela estreita, para não se
+     confundir com um verso novo. */
   .poesia{margin:0 0 .8em;hyphens:none;-webkit-hyphens:none;}
-  .poesia .linha{display:block;text-indent:-1.15em;padding-left:1.15em;}
-  .poesia .linha.ind{padding-left:2.75em;}
+  .poesia .linha{display:block;position:relative;padding-left:3.7em;text-indent:-1.2em;}
+  .poesia .linha > .num{position:absolute;left:0;top:0;width:2.1em;
+    text-align:right;margin-right:0;text-indent:0;vertical-align:baseline;}
   #popup-nota{position:fixed;z-index:100;display:none;max-width:min(420px,calc(100vw - 24px));
     background:var(--paper);color:var(--ink);border:1px solid var(--ink);border-radius:2px;
     box-shadow:5px 5px 0 rgba(27,26,23,.12);padding:14px 16px;font-size:.86rem;line-height:1.55;cursor:pointer;}
@@ -299,7 +305,7 @@ function montarTexto(versos, refBase){
     if(v.np || modo!==tipo) fechar();
     modo=tipo;
     if(v.l) buf.push(v.l.map((ln,i)=>
-        `<span class="linha${i?' ind':''}">${i?'':spanNum(v,refAtual)}${escapar(ln)}</span>`).join(''));
+        `<span class="linha">${i?'':spanNum(v,refAtual)}${escapar(ln)}</span>`).join(''));
     else    buf.push(spanNum(v,refAtual)+escapar(v.t));
   }
   fechar();

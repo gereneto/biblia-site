@@ -59,12 +59,25 @@
   .nav-cap a:active{color:var(--accent);}
   .texto{margin-top:14px;}
   .versiculo{margin:0 0 .35em;text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;}
-  .versiculo .num{font-family:var(--ui);font-size:.62em;color:var(--accent);vertical-align:super;margin-right:.35em;letter-spacing:.02em;}
-  .versiculo .num.tem-nota{cursor:pointer;border-bottom:1px dotted var(--accent);padding-bottom:1px;}
-  .versiculo .num.tem-nota::after{content:"\2020";margin-left:2px;font-size:.85em;}
+  .texto .num{font-family:var(--ui);font-size:.62em;color:var(--accent);vertical-align:super;margin-right:.35em;letter-spacing:.02em;}
+  .texto .num.tem-nota{cursor:pointer;border-bottom:1px dotted var(--accent);padding-bottom:1px;}
+  .texto .num.tem-nota::after{content:"\2020";margin-left:2px;font-size:.85em;}
   /* o quadrado é desenhado com box-shadow, que não ocupa espaço: o texto não se move */
-  .versiculo .num.ativa{background:var(--accent);color:#fff;border-radius:2px;
+  .texto .num.ativa{background:var(--accent);color:#fff;border-radius:2px;
     box-shadow:0 0 0 3px var(--accent);border-bottom-color:var(--accent);}
+
+  /* subtítulo de trecho temático */
+  .sub-tema{font-family:var(--disp);font-weight:600;font-size:1.02rem;line-height:1.25;
+    color:var(--ink);margin:26px 0 9px;}
+  .texto > .sub-tema:first-child{margin-top:6px;}
+
+  /* parágrafo de prosa: versículos corridos, número sobrescrito no início de cada um */
+  .par{margin:0 0 .7em;text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;}
+
+  /* trechos em verso (poesia), conforme a Nova Vulgata */
+  .poesia{margin:0 0 .8em;hyphens:none;-webkit-hyphens:none;}
+  .poesia .linha{display:block;text-indent:-1.15em;padding-left:1.15em;}
+  .poesia .linha.ind{padding-left:2.75em;}
   #popup-nota{position:fixed;z-index:100;display:none;max-width:min(420px,calc(100vw - 24px));
     background:var(--paper);color:var(--ink);border:1px solid var(--ink);border-radius:2px;
     box-shadow:5px 5px 0 rgba(27,26,23,.12);padding:14px 16px;font-size:.86rem;line-height:1.55;cursor:pointer;}
@@ -343,6 +356,48 @@ function telaCapitulos(livro){
 
 /* ---------- tela 3: texto ---------- */
 let edVersos=null, edLivro=null, edCap=null;
+/* ---------- montagem do texto ----------
+   Formato dos versículos:
+     {s:"Subtítulo"}            abre um trecho temático
+     {v,t,n}                    versículo em prosa; np:1 abre novo parágrafo
+     {v,l:[...],n}              versículo em verso (poesia); l traz os versos soltos
+     {p:"Passagem"}             perícope (harmonia dos Evangelhos)
+   Capítulos sem s/np/l são desenhados no formato antigo, um versículo por
+   parágrafo — é o caso da harmonia dos Evangelhos. */
+function spanNum(v, ref){
+  if(v.n) return `<span class="num tem-nota" data-nota="${escapar(v.n)}" data-ref="${escapar(ref+', '+v.v)}">${v.v}</span>`;
+  return `<span class="num">${v.v}</span>`;
+}
+function montarTexto(versos, refBase){
+  let h='', refAtual=refBase;
+  const passagem=v=>{ h+=`<div class="passagem">${escapar(v.p)}</div>`; refAtual=v.p.replace(/:[^:]*$/,''); };
+  if(!versos.some(v=>v.s||v.np||v.l)){
+    for(const v of versos){
+      if(v.p){ passagem(v); continue; }
+      h+=`<p class="versiculo">${spanNum(v,refAtual)}${escapar(v.t)}</p>`;
+    }
+    return h;
+  }
+  let buf=[], modo=null;
+  const fechar=()=>{
+    if(buf.length) h += modo==='poesia' ? `<p class="poesia">${buf.join('')}</p>`
+                                        : `<p class="par">${buf.join(' ')}</p>`;
+    buf=[]; modo=null;
+  };
+  for(const v of versos){
+    if(v.p){ fechar(); passagem(v); continue; }
+    if(v.s){ fechar(); h+=`<h3 class="sub-tema">${escapar(v.s)}</h3>`; continue; }
+    const tipo = v.l ? 'poesia' : 'par';
+    if(v.np || modo!==tipo) fechar();
+    modo=tipo;
+    if(v.l) buf.push(v.l.map((ln,i)=>
+        `<span class="linha${i?' ind':''}">${i?'':spanNum(v,refAtual)}${escapar(ln)}</span>`).join(''));
+    else    buf.push(spanNum(v,refAtual)+escapar(v.t));
+  }
+  fechar();
+  return h;
+}
+
 async function telaTexto(livro, cap, editar){
   const l=window.LIVROS_SEED[livro];
   if(!l || !cap){ location.hash='#/'; return; }
@@ -381,16 +436,7 @@ async function telaTexto(livro, cap, editar){
   let h=`<a class="voltar" href="${voltarHref}">← ${escapar(voltarTxt)}</a>
     <div class="cap-cab"><h2>${escapar(titulo)}</h2></div>
     ${navCurta}<div class="texto">`;
-  let refAtual=`${l.nome} ${cap}`;
-  for(const v of versos){
-    if(v.p){
-      h+=`<div class="passagem">${escapar(v.p)}</div>`;
-      refAtual=v.p.replace(/:[^:]*$/,'');   // "Lucas 1:5-25" → "Lucas 1"
-      continue;
-    }
-    const marca = v.n ? ` tem-nota" data-nota="${escapar(v.n)}" data-ref="${refAtual}, ${v.v}` : '';
-    h+=`<p class="versiculo"><span class="num${marca}">${v.v}</span>${escapar(v.t)}</p>`;
-  }
+  h+=montarTexto(versos,`${l.nome} ${cap}`);
   if(!versos.length) h+=`<div class="aviso">Este ${l.harmonia?'tópico':'capítulo'} ainda não tem texto.</div>`;
   h+=`</div><div class="fim-cap">`;
   h+= antHref  ? `<a href="${antHref}">← ${escapar(antTxt)}</a>`  : '<span></span>';
@@ -411,9 +457,18 @@ function telaEdicao(livro,cap,versos){
   if(!temSupabase()) h+=`<div class="aviso erro">Sem conexão com a nuvem: não será possível salvar.</div>`;
   versos.forEach((v,i)=>{
     if(v.p){ h+=`<div class="passagem">${escapar(v.p)}</div>`; return; }
+    if(v.s!==undefined){
+      h+=`<div class="ed-versiculo">
+        <div class="rotulo">Subtítulo do trecho</div>
+        <textarea data-i="${i}" data-campo="s">${escapar(v.s)}</textarea>
+      </div>`;
+      return;
+    }
+    const emVerso = Array.isArray(v.l);
+    const aviso = (emVerso?' · em verso, uma linha por verso':'') + (v.np?' · abre parágrafo':'');
     h+=`<div class="ed-versiculo">
-      <div class="rotulo">Versículo ${v.v}</div>
-      <textarea data-i="${i}" data-campo="t">${escapar(v.t)}</textarea>
+      <div class="rotulo">Versículo ${v.v}${aviso}</div>
+      <textarea data-i="${i}" data-campo="${emVerso?'l':'t'}">${escapar(emVerso?v.l.join('\n'):v.t)}</textarea>
       <div class="rotulo-nota">Nota (deixe vazio para não exibir)</div>
       <textarea class="ta-nota" data-i="${i}" data-campo="n">${escapar(v.n||'')}</textarea>
     </div>`;
@@ -430,6 +485,8 @@ async function salvarEdicao(){
   mainEl.querySelectorAll('textarea').forEach(ta=>{
     const i=+ta.dataset.i, c=ta.dataset.campo, val=ta.value.trim();
     if(c==='t') edVersos[i].t=val;
+    else if(c==='l') edVersos[i].l=val.split('\n').map(s=>s.trim()).filter(Boolean);
+    else if(c==='s') edVersos[i].s=val;
     else { if(val) edVersos[i].n=val; else delete edVersos[i].n; }
   });
   try{

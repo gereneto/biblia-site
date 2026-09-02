@@ -1,58 +1,52 @@
-# Sagrada Escritura — versão sem Supabase (tudo na Netlify)
+# Sagrada Escritura — site estático
 
-O banco agora é o **Netlify Blobs**, e a escrita passa por uma **Netlify
-Function** (`netlify/functions/capitulos.mjs`). Nada de serviço externo:
-leitura, edição e hospedagem ficam no mesmo site, dentro do plano
-gratuito da Netlify (125 mil chamadas de função/mês — muito acima do
-necessário para leitura pessoal).
+Site de leitura, sem servidor e sem banco de dados. O texto vive nos
+próprios arquivos do repositório; para corrigir alguma coisa, edita-se o
+arquivo e publica-se pelo Git.
 
 ## Estrutura
-- `index.html` — o site (leitura + edição)
-- `dados-biblia.js` — Levítico 1–27 embutido (semente)
-- `netlify/functions/capitulos.mjs` — lê e grava os capítulos no Blobs
-- `netlify.toml`, `package.json` — configuração da Netlify
+- `index.html` — o site inteiro (estilo, roteamento e leitura)
+- `dados-livros.js` — registro dos livros e índice da harmonia dos Evangelhos
+- `livros/<livro>.js` — o texto de cada livro
+- `netlify.toml` — só indica que a pasta publicada é a raiz
+
+## Formato do texto
+
+Cada capítulo é um vetor de objetos:
+
+```js
+window.TEXTOS_SEED["levitico"][1] = [
+  {s:"O Senhor chama Moisés"},                    // subtítulo do trecho
+  {v:1, t:"O Senhor chamou Moisés…", n:"nota"},   // versículo em prosa
+  {v:2, t:"Fala aos filhos de Israel…", np:1},    // np:1 abre parágrafo
+];
+```
+
+- `{s:"…"}` abre um trecho temático.
+- `{v,t,n}` é um versículo em prosa; `n` é a nota, e faz aparecer † junto
+  ao número. Sem `np`, o versículo continua no parágrafo anterior.
+- `{v,l:["…","…"],n}` é um versículo em verso: cada item de `l` é um
+  verso, e o segundo em diante sai recuado.
+- `{p:"Passagem"}` abre uma perícope — usado só na harmonia dos Evangelhos.
+
+Capítulos sem `s`, `np` nem `l` são desenhados no formato antigo, um
+versículo por parágrafo. É o caso da harmonia dos Evangelhos, que já vem
+dividida por tópicos.
+
+A divisão em trechos, parágrafos e versos segue a Nova Vulgata, que é
+também a versificação adotada.
 
 ## Como publicar
-A função usa a dependência `@netlify/blobs`, então o deploy precisa ser
-por **repositório Git** ou **CLI** (o arrastar-e-soltar não instala
-dependências):
 
-**Opção A — GitHub (recomendada)**
-1. Suba esta pasta para um repositório no GitHub.
-2. Na Netlify: Add new site → Import from Git → escolha o repositório.
-   Não precisa de comando de build; o `netlify.toml` já resolve.
+Qualquer hospedagem de arquivos estáticos serve, porque não há backend.
 
-**Opção B — CLI**
-```
-npx netlify login
-npx netlify deploy --prod
-```
+**GitHub Pages** — em Settings → Pages, escolha a branch `main` e a pasta
+raiz. O roteamento é por hash, então funciona também em subdiretório
+(`usuario.github.io/biblia-site/`).
 
-## A chave de edição
-1. No painel da Netlify: Site configuration → **Environment variables** →
-   adicione `CHAVE_EDICAO` com uma senha longa e secreta.
-   (Depois de criar a variável, faça um redeploy.)
-2. **Seu link (edição)** — abra UMA vez:
-   `https://seu-site.netlify.app/#chave=SUA_CHAVE`
-   A chave fica gravada no aparelho; daí em diante use o link normal.
-3. **Link dos amigos (só leitura)** — o endereço normal, sem a chave.
-   A senha é conferida no servidor, dentro da função; não existe no
-   código que o navegador recebe.
-
-## Primeiro uso
-No modo edição, na tela inicial, toque em «Enviar textos embutidos para
-a nuvem»: isso grava os 27 capítulos no Blobs (sem sobrescrever capítulos
-que você já tenha editado). Depois, tudo se edita pelo próprio site:
-capítulo → Editar → corrigir → Salvar.
-
-## Notas de tradução
-Versículos com nota mostram † junto ao número. Toque no número para abrir
-a nota; toque de novo no mesmo número (ou em qualquer lugar) para fechar.
+**Netlify** — Add new site → Import from Git. Não há comando de build;
+o `netlify.toml` já diz que a pasta publicada é a raiz.
 
 ## Referências
 - Divisão de capítulos e versículos: Nova Vulgata (vatican.va).
 - Texto traduzido dos originais, segundo o método «fiel:».
-
-## Migrando o que já foi editado no Supabase
-Se você já tinha edições salvas no Supabase, me avise que eu preparo um
-pequeno script para exportar de lá e importar aqui.

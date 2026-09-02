@@ -27,7 +27,6 @@
   header h1{font-family:var(--disp);font-weight:600;font-size:2.3rem;letter-spacing:.01em;line-height:1.05;}
   header .meta{display:flex;justify-content:space-between;align-items:baseline;margin-top:8px;gap:12px;
     font-family:var(--ui);font-size:.66rem;letter-spacing:.05em;color:var(--faint);text-transform:uppercase;}
-  header .meta .modo{color:var(--accent);}
 
   #main{max-width:680px;margin:0 auto;padding:10px 20px 90px;}
 
@@ -95,7 +94,6 @@
     margin:10px 0 4px;padding:8px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);}
   .nav-topo a{color:var(--soft);text-decoration:none;padding:3px 2px;}
   .nav-topo a:active{color:var(--accent);}
-  .nav-topo a.ed{color:var(--accent);}
   .nav-topo .inativo{color:var(--line);}
 
   /* temas da harmonia */
@@ -129,26 +127,9 @@
     color:var(--soft);padding:5px 12px;border-radius:2px;cursor:pointer;}
   .ferramentas button:active{border-color:var(--accent);color:var(--accent);}
 
-  /* edição */
+  /* aviso de capítulo ainda sem texto */
   .aviso{font-family:var(--ui);font-size:.72rem;letter-spacing:.04em;color:var(--soft);background:var(--nota-bg);
     border:1px solid var(--line);padding:10px 12px;margin:14px 0;border-radius:2px;line-height:1.6;}
-  .aviso.ok{border-color:var(--accent);color:var(--accent);}
-  .aviso.erro{border-color:#a03030;color:#a03030;}
-  .ed-versiculo{margin:0 0 14px;padding:10px 0 4px;border-bottom:1px dashed var(--line);}
-  .ed-versiculo .rotulo{font-family:var(--ui);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
-  .ed-versiculo textarea{width:100%;border:1px solid var(--line);background:var(--paper);border-radius:2px;
-    font-family:var(--serif);font-size:.95rem;line-height:1.55;color:var(--ink);padding:8px 10px;resize:none;overflow:hidden;min-height:2.4em;}
-  .ed-versiculo textarea:focus{outline:none;border-color:var(--accent);}
-  .ed-versiculo textarea.ta-nota{font-size:.82rem;color:var(--soft);margin-top:6px;background:var(--nota-bg);}
-  .ed-versiculo .rotulo-nota{font-family:var(--ui);font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-top:8px;}
-  .barra-salvar{position:fixed;bottom:0;left:0;right:0;background:var(--paper);border-top:1px solid var(--ink);
-    padding:10px 20px calc(10px + env(safe-area-inset-bottom));z-index:50;}
-  .barra-salvar .interno{max-width:680px;margin:0 auto;display:flex;gap:10px;align-items:center;justify-content:space-between;}
-  .barra-salvar .estado{font-family:var(--ui);font-size:.64rem;letter-spacing:.06em;text-transform:uppercase;color:var(--faint);}
-  .btn{font-family:var(--ui);font-size:.78rem;letter-spacing:.06em;border:1px solid var(--accent);background:var(--accent);
-    color:#fff;padding:9px 18px;border-radius:2px;cursor:pointer;}
-  .btn:disabled{opacity:.5;}
-  .btn.secundario{background:var(--paper);color:var(--accent);}
   .fim{font-family:var(--ui);font-size:.62rem;letter-spacing:.06em;color:var(--faint);text-align:center;padding:44px 20px 30px;line-height:1.9;}
   @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} }
 </style>
@@ -158,15 +139,11 @@
 <header>
   <div class="kicker">Tradução dos originais</div>
   <h1 id="cab-titulo">Sagrada Escritura</h1>
-  <div class="meta"><span id="cab-sub">Antigo e Novo Testamento</span><span class="modo" id="cab-modo"></span></div>
+  <div class="meta"><span id="cab-sub">Antigo e Novo Testamento</span></div>
 </header>
 <div id="main"></div>
 <div class="fim" id="rodape">Fide et labore.</div>
 <div id="popup-nota"><div class="ref-nota" id="pn-ref"></div><div id="pn-corpo"></div><div class="hint">toque para fechar</div></div>
-<div id="barra" style="display:none" class="barra-salvar"><div class="interno">
-  <span class="estado" id="estado-salvar"></span>
-  <button class="btn" id="btn-salvar">Salvar capítulo</button>
-</div></div>
 
 <script src="dados-livros.js"></script>
 <script src="livros/levitico.js"></script>
@@ -175,27 +152,10 @@
 <script src="livros/1corintios.js"></script>
 <script src="livros/evangelhos.js"></script>
 <script>
-/* Backend: Netlify Functions + Netlify Blobs (mesmo domínio do site).
-   A chave de edição é conferida no servidor, na variável de ambiente
-   CHAVE_EDICAO (painel da Netlify). Para editar, abra o site uma vez com
-   ...seu-site.netlify.app/#chave=SUA_CHAVE — ela fica gravada no aparelho.
-   Os amigos recebem o link normal, só leitura. */
-const API = "/.netlify/functions/capitulos";
-
-const TABELA = "biblia_capitulos";
+/* Site inteiramente estático: o texto vem dos arquivos livros/*.js,
+   carregados acima. Não há backend nem edição pelo navegador — as
+   correções são feitas nos próprios arquivos e publicadas pelo Git. */
 const mainEl = document.getElementById('main');
-const barraEl = document.getElementById('barra');
-const estadoEl = document.getElementById('estado-salvar');
-
-/* ---------- chave de edição ---------- */
-(function capturarChave(){
-  const m = location.hash.match(/chave=([^&]+)/);
-  if(m){ try{ localStorage.setItem('biblia_chave', decodeURIComponent(m[1])); }catch(_){}
-    history.replaceState(null,'','#/'); }
-})();
-function chaveEdicao(){ try{ return localStorage.getItem('biblia_chave')||''; }catch(_){ return ''; } }
-const podeEditar = () => !!chaveEdicao();
-document.getElementById('cab-modo').textContent = podeEditar() ? 'Edição' : '';
 
 /* ---------- tamanho da fonte ---------- */
 (function fonteSalva(){ const f=localStorage.getItem('biblia_fs'); if(f) document.documentElement.style.setProperty('--fs',f+'px'); })();
@@ -206,47 +166,22 @@ function mudarFonte(d){
   localStorage.setItem('biblia_fs',novo);
 }
 
-/* ---------- nuvem (Netlify) ---------- */
-const temSupabase = () => true; // backend embutido no próprio site
-async function sbBuscar(livro, cap){
-  const r=await fetch(`${API}?livro=${livro}&cap=${cap}`);
-  if(!r.ok) throw new Error('HTTP '+r.status);
-  return (await r.json()).conteudo;
-}
-async function sbSalvar(livro, cap, conteudo){
-  const r=await fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},
-    body:JSON.stringify({chave:chaveEdicao(),livro,capitulo:cap,conteudo})});
-  if(!r.ok){ throw new Error(await r.text()); }
-}
-async function sbListarCaps(livro){
-  const r=await fetch(`${API}?livro=${livro}`);
-  if(!r.ok) return [];
-  return (await r.json()).capitulos||[];
-}
-
-/* Conteúdo de um capítulo: Supabase primeiro, senão o texto embutido em dados-biblia.js */
-async function obterCapitulo(livro, cap){
-  if(temSupabase()){
-    try{ const c=await sbBuscar(livro,cap); if(c) return {fonte:'nuvem', versos:c}; }
-    catch(e){ console.warn('Nuvem indisponível, usando texto local.', e); }
-  }
-  const seed=(window.TEXTOS_SEED[livro]||{})[cap];
-  return {fonte:'local', versos: seed ? JSON.parse(JSON.stringify(seed)) : []};
+/* Conteúdo de um capítulo, tirado do texto embutido em livros/*.js */
+function obterCapitulo(livro, cap){
+  return (window.TEXTOS_SEED[livro]||{})[cap] || [];
 }
 
 /* ---------- roteamento ---------- */
 window.addEventListener('hashchange', rota);
 window.addEventListener('load', rota);
 function rota(){
-  if(location.hash.startsWith('#chave=')) return; // tratado acima
   const p=location.hash.replace(/^#\/?/,'').split('/').filter(Boolean);
-  barraEl.style.display='none';
   if(typeof fecharNota==='function') fecharNota();
   window.scrollTo(0,0);
   if(p.length===0) return telaLivros();
   if(p.length===1) return telaCapitulos(p[0]);
   if(p[1]==='g')   return telaGrupo(p[0], parseInt(p[2],10));
-  if(p.length>=2)  return telaTexto(p[0], parseInt(p[1],10), p[2]==='editar');
+  if(p.length>=2)  return telaTexto(p[0], parseInt(p[1],10));
 }
 
 /* ---------- tela 1: livros ---------- */
@@ -261,33 +196,7 @@ function telaLivros(){
   }
   h+='</div>';
   h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
-  if(podeEditar() && temSupabase()){
-    h+=`<div class="aviso">Modo edição ativo neste aparelho. Ao abrir um capítulo, toque em «Editar» para corrigir o texto e as notas.
-        <br><br><button class="btn secundario" id="btn-importar">Enviar textos embutidos para a nuvem</button>
-        <span id="imp-estado"></span></div>`;
-  } else if(podeEditar() && !temSupabase()){
-    h+=`<div class="aviso erro">Modo edição ativo, mas o backend não respondeu. Verifique se a variável CHAVE_EDICAO está definida na Netlify.</div>`;
-  }
   mainEl.innerHTML=h;
-  const bi=document.getElementById('btn-importar');
-  if(bi) bi.onclick=importarTudo;
-}
-
-async function importarTudo(){
-  const st=document.getElementById('imp-estado'); const btn=document.getElementById('btn-importar');
-  btn.disabled=true;
-  try{
-    for(const [id,l] of Object.entries(window.LIVROS_SEED)){
-      const existentes=await sbListarCaps(id);
-      for(const [cap,versos] of Object.entries(window.TEXTOS_SEED[id]||{})){
-        if(existentes.includes(parseInt(cap,10))) continue; // não sobrescreve edições
-        st.textContent=` ${l.nome} ${cap}…`;
-        await sbSalvar(id,parseInt(cap,10),versos);
-      }
-    }
-    st.textContent=' Concluído. Capítulos já editados na nuvem foram preservados.';
-  }catch(e){ st.textContent=' Erro: '+e.message; }
-  btn.disabled=false;
 }
 
 /* ---------- tela 2: capítulos ---------- */
@@ -355,7 +264,6 @@ function telaCapitulos(livro){
 }
 
 /* ---------- tela 3: texto ---------- */
-let edVersos=null, edLivro=null, edCap=null;
 /* ---------- montagem do texto ----------
    Formato dos versículos:
      {s:"Subtítulo"}            abre um trecho temático
@@ -398,15 +306,12 @@ function montarTexto(versos, refBase){
   return h;
 }
 
-async function telaTexto(livro, cap, editar){
+function telaTexto(livro, cap){
   const l=window.LIVROS_SEED[livro];
   if(!l || !cap){ location.hash='#/'; return; }
   document.getElementById('cab-titulo').textContent=l.nome;
   document.getElementById('cab-sub').textContent='Capítulo '+cap;
-  mainEl.innerHTML='<div class="sub-secao" style="margin-top:24px">Carregando…</div>';
-  const {fonte,versos}=await obterCapitulo(livro,cap);
-
-  if(editar && podeEditar()){ return telaEdicao(livro,cap,versos); }
+  const versos=obterCapitulo(livro,cap);
 
   const info = l.harmonia ? topicoInfo(cap) : null;
   if(info){
@@ -429,7 +334,6 @@ async function telaTexto(livro, cap, editar){
   }
   const navCurta = `<div class="nav-topo">`
     + (antHref  ? `<a href="${antHref}" title="${escapar(antTxt)}">← Anterior</a>` : '<span class="inativo">← Anterior</span>')
-    + (podeEditar() ? `<a class="ed" href="#/${livro}/${cap}/editar">Editar</a>` : '')
     + (proxHref ? `<a href="${proxHref}" title="${escapar(proxTxt)}">Seguinte →</a>` : '<span class="inativo">Seguinte →</span>')
     + `</div>`;
 
@@ -444,57 +348,6 @@ async function telaTexto(livro, cap, editar){
   h+=`</div>`;
   h+=`<div class="ferramentas"><button onclick="mudarFonte(-1)">A−</button><button onclick="mudarFonte(1)">A+</button></div>`;
   mainEl.innerHTML=h;
-}
-
-/* ---------- edição ---------- */
-function telaEdicao(livro,cap,versos){
-  edVersos=versos; edLivro=livro; edCap=cap;
-  const l=window.LIVROS_SEED[livro];
-  const infoEd = l.harmonia ? topicoInfo(cap) : null;
-  const tituloEd = infoEd ? `${cap}. ${infoEd.t}` : `${l.nome} ${cap}`;
-  let h=`<a class="voltar" href="#/${livro}/${cap}">← Voltar à leitura</a>
-    <div class="cap-cab"><h2>${escapar(tituloEd)} · edição</h2></div>`;
-  if(!temSupabase()) h+=`<div class="aviso erro">Sem conexão com a nuvem: não será possível salvar.</div>`;
-  versos.forEach((v,i)=>{
-    if(v.p){ h+=`<div class="passagem">${escapar(v.p)}</div>`; return; }
-    if(v.s!==undefined){
-      h+=`<div class="ed-versiculo">
-        <div class="rotulo">Subtítulo do trecho</div>
-        <textarea data-i="${i}" data-campo="s">${escapar(v.s)}</textarea>
-      </div>`;
-      return;
-    }
-    const emVerso = Array.isArray(v.l);
-    const aviso = (emVerso?' · em verso, uma linha por verso':'') + (v.np?' · abre parágrafo':'');
-    h+=`<div class="ed-versiculo">
-      <div class="rotulo">Versículo ${v.v}${aviso}</div>
-      <textarea data-i="${i}" data-campo="${emVerso?'l':'t'}">${escapar(emVerso?v.l.join('\n'):v.t)}</textarea>
-      <div class="rotulo-nota">Nota (deixe vazio para não exibir)</div>
-      <textarea class="ta-nota" data-i="${i}" data-campo="n">${escapar(v.n||'')}</textarea>
-    </div>`;
-  });
-  mainEl.innerHTML=h;
-  mainEl.querySelectorAll('textarea').forEach(ta=>{ ajustar(ta); ta.addEventListener('input',()=>ajustar(ta)); });
-  barraEl.style.display='block';
-  estadoEl.textContent='';
-  document.getElementById('btn-salvar').onclick=salvarEdicao;
-}
-function ajustar(ta){ ta.style.height='auto'; ta.style.height=(ta.scrollHeight+2)+'px'; }
-async function salvarEdicao(){
-  const btn=document.getElementById('btn-salvar'); btn.disabled=true; estadoEl.textContent='Salvando…';
-  mainEl.querySelectorAll('textarea').forEach(ta=>{
-    const i=+ta.dataset.i, c=ta.dataset.campo, val=ta.value.trim();
-    if(c==='t') edVersos[i].t=val;
-    else if(c==='l') edVersos[i].l=val.split('\n').map(s=>s.trim()).filter(Boolean);
-    else if(c==='s') edVersos[i].s=val;
-    else { if(val) edVersos[i].n=val; else delete edVersos[i].n; }
-  });
-  try{
-    await sbSalvar(edLivro,edCap,edVersos);
-    estadoEl.textContent='Salvo.';
-    setTimeout(()=>{ location.hash=`#/${edLivro}/${edCap}`; },400);
-  }catch(e){ estadoEl.textContent='Erro ao salvar.'; alert('Erro ao salvar: '+e.message); }
-  btn.disabled=false;
 }
 
 /* ---------- popup de notas ---------- */

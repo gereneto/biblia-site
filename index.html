@@ -318,6 +318,29 @@ function montarTexto(versos, refBase){
   return h;
 }
 
+/* Capítulo vizinho: o de dentro do livro quando existe; senão passa ao
+   livro seguinte (do último capítulo para o primeiro do próximo) ou ao
+   anterior (do primeiro para o último do de trás). Devolve null só nos
+   dois extremos, antes do primeiro livro e depois do último. */
+function vizinho(livro, cap, d){
+  const l=window.LIVROS_SEED[livro]; if(!l) return null;
+  const n=cap+d;
+  if(n>=1 && n<=l.capitulos) return {livro, cap:n};
+  const ids=Object.keys(window.LIVROS_SEED), i=ids.indexOf(livro)+d;
+  if(i<0 || i>=ids.length) return null;
+  const outro=ids[i];
+  return {livro:outro, cap: d>0 ? 1 : window.LIVROS_SEED[outro].capitulos};
+}
+function rotuloDestino(dest, livroAtual){
+  const b=window.LIVROS_SEED[dest.livro];
+  if(b.harmonia){
+    const t=topicoInfo(dest.cap);
+    const base = t ? `${dest.cap}. ${t.t}` : `${dest.cap}`;
+    return dest.livro===livroAtual ? base : `${b.nome} · ${base}`;
+  }
+  return `${b.nome} ${dest.cap}`;
+}
+
 function telaTexto(livro, cap){
   const l=window.LIVROS_SEED[livro];
   if(!l || !cap){ location.hash='#/'; return; }
@@ -334,16 +357,13 @@ function telaTexto(livro, cap){
   const voltarHref = info ? `#/${livro}/g/${info.gi+1}` : `#/${livro}`;
   const voltarTxt  = info ? info.grupo : 'Capítulos';
 
-  // navegação anterior/seguinte, usada em cima e embaixo
-  let antHref='', antTxt='', proxHref='', proxTxt='';
-  if(l.harmonia){
-    const ant=cap>1?topicoInfo(cap-1):null, prox=cap<l.capitulos?topicoInfo(cap+1):null;
-    if(ant){  antHref=`#/${livro}/${cap-1}`;  antTxt=`${cap-1}. ${ant.t}`; }
-    if(prox){ proxHref=`#/${livro}/${cap+1}`; proxTxt=`${cap+1}. ${prox.t}`; }
-  } else {
-    if(cap>1){ antHref=`#/${livro}/${cap-1}`; antTxt=`${l.nome} ${cap-1}`; }
-    if(cap<l.capitulos){ proxHref=`#/${livro}/${cap+1}`; proxTxt=`${l.nome} ${cap+1}`; }
-  }
+  // navegação anterior/seguinte, usada em cima e embaixo; atravessa a
+  // fronteira entre os livros
+  const ant=vizinho(livro,cap,-1), prox=vizinho(livro,cap,1);
+  const antHref  = ant  ? `#/${ant.livro}/${ant.cap}`   : '';
+  const antTxt   = ant  ? rotuloDestino(ant,livro)      : '';
+  const proxHref = prox ? `#/${prox.livro}/${prox.cap}` : '';
+  const proxTxt  = prox ? rotuloDestino(prox,livro)     : '';
   const navCurta = `<div class="nav-topo">`
     + (antHref  ? `<a href="${antHref}" title="${escapar(antTxt)}">← Anterior</a>` : '<span class="inativo">← Anterior</span>')
     + (proxHref ? `<a href="${proxHref}" title="${escapar(proxTxt)}">Seguinte →</a>` : '<span class="inativo">Seguinte →</span>')

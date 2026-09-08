@@ -80,9 +80,14 @@
      maior vale só para o que transborda numa tela estreita, para não se
      confundir com um verso novo. */
   .poesia{margin:0 0 .8em;hyphens:none;-webkit-hyphens:none;}
-  .poesia .linha{display:block;position:relative;padding-left:3.7em;text-indent:-1.2em;}
-  .poesia .linha > .num{position:absolute;left:0;top:0;width:2.1em;
-    text-align:right;margin-right:0;text-indent:0;vertical-align:baseline;}
+  .poesia .linha{display:flex;align-items:flex-start;}
+  /* A calha tem o tamanho de fonte normal da linha, e não o do número, que é
+     menor: se a largura fosse posta no próprio número, ela resolveria em em
+     diferentes e as linhas sem número ficariam desalinhadas das outras. */
+  .poesia .linha > .calha{flex:0 0 2.4em;box-sizing:border-box;
+    text-align:right;padding-right:.5em;}
+  .poesia .linha > .calha .num{margin-right:0;vertical-align:baseline;}
+  .poesia .linha > .txt{flex:1 1 auto;min-width:0;padding-left:1.15em;text-indent:-1.15em;}
   #popup-nota{position:fixed;z-index:100;display:none;max-width:min(420px,calc(100vw - 24px));
     background:var(--paper);color:var(--ink);border:1px solid var(--ink);border-radius:2px;
     box-shadow:5px 5px 0 rgba(27,26,23,.12);padding:14px 16px;font-size:.86rem;line-height:1.55;cursor:pointer;}
@@ -305,7 +310,8 @@ function montarTexto(versos, refBase){
     if(v.np || modo!==tipo) fechar();
     modo=tipo;
     if(v.l) buf.push(v.l.map((ln,i)=>
-        `<span class="linha">${i?'':spanNum(v,refAtual)}${escapar(ln)}</span>`).join(''));
+        `<span class="linha"><span class="calha">${i?'':spanNum(v,refAtual)}</span>`
+        + `<span class="txt">${escapar(ln)}</span></span>`).join(''));
     else    buf.push(spanNum(v,refAtual)+escapar(v.t));
   }
   fechar();

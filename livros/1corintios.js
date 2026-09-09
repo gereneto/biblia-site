@@ -397,7 +397,7 @@ window.TEXTOS_SEED["1corintios"][13] = [
 {v:2,t:"Ainda que eu tenha o dom de profecia e conheça todos os mistérios e toda a ciência, ainda que eu tenha toda a fé, a ponto de transportar montanhas, se não tiver amor, nada sou."},
 {v:3,t:"Ainda que eu distribua todos os meus bens e entregue o meu corpo para ser queimado, se não tiver amor, nada disso me aproveita.",n:"Alguns manuscritos antigos leem: e entregue o meu corpo para me gloriar; sigo a leitura tradicional, a da Nova Vulgata."},
 {s:"A caridade é paciente"},
-{v:4,t:"O amor é paciente, o amor é benigno; não é invejoso, não é jactancioso, não se incha de orgulho;"},
+{v:4,t:"O amor é paciente, o amor é benigno; não é invejoso, não se gaba, não se incha de orgulho;"},
 {v:5,t:"não faz nada de inconveniente, não busca o próprio interesse, não se irrita, não leva em conta o mal;"},
 {v:6,t:"não se alegra com a injustiça, mas se alegra com a verdade;"},
 {v:7,t:"tudo desculpa, tudo crê, tudo espera, tudo suporta."},

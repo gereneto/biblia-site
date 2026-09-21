@@ -1897,3 +1897,134 @@ window.TEXTOS_SEED["salmos"][95] = [
 {v:10,l:["Durante quarenta anos enfadou-me aquela geração,","e eu disse: É um povo de coração errante;","não conheceram os meus caminhos."],np:1},
 {v:11,l:["Por isso jurei na minha ira:","Não entrarão no meu descanso."],n:"A Carta aos Hebreus constrói dois capítulos inteiros sobre estes últimos versos, tomando o hoje do verso 7 como o tempo em que ainda se pode ouvir, e o descanso como aquele que resta ao povo de Deus."}
 ];
+
+window.TEXTOS_SEED["salmos"][96] = [
+{v:1,l:["Cantai ao Senhor um cântico novo;","cantai ao Senhor, terra inteira."],np:1},
+{v:2,l:["Cantai ao Senhor, bendizei o seu nome,","anunciai de dia em dia a sua salvação."]},
+{v:3,l:["Contai entre as nações a sua glória,","entre todos os povos as suas maravilhas."]},
+{v:4,l:["Porque grande é o Senhor e digno de todo louvor,","mais temível do que todos os deuses."],np:1},
+{v:5,l:["Porque todos os deuses dos povos são nada,","mas o Senhor fez os céus."]},
+{v:6,l:["Esplendor e majestade estão diante dele,","força e beleza no seu santuário."]},
+{v:7,l:["Dai ao Senhor, famílias dos povos,","dai ao Senhor glória e poder."],np:1},
+{v:8,l:["Dai ao Senhor a glória do seu nome;","tomai oferendas e entrai nos seus átrios."]},
+{v:9,l:["Adorai o Senhor em vestes sagradas;","trema diante dele a terra inteira."]},
+{v:10,l:["Dizei entre as nações: O Senhor reina!","Firmou o mundo, e ele não há de vacilar;","julgará os povos com retidão."],np:1},
+{v:11,l:["Alegrem-se os céus e exulte a terra,","ressoe o mar e tudo o que ele contém."],np:1},
+{v:12,l:["Rejubilem os campos e tudo o que neles há;","cantem então de alegria todas as árvores do bosque"]},
+{v:13,l:["diante do Senhor, porque vem,","porque vem para julgar a terra.","Julgará o mundo com justiça","e os povos com a sua verdade."],n:"O juízo é aqui motivo de festa, e não de temor: o que a criação espera é que alguém venha finalmente pôr as coisas no lugar. É por isso que as árvores cantam."}
+];
+
+window.TEXTOS_SEED["salmos"][97] = [
+{v:1,l:["O Senhor reina: exulte a terra,","alegrem-se as muitas ilhas."],np:1},
+{v:2,l:["Nuvem e escuridão o rodeiam;","justiça e direito são a base do seu trono."]},
+{v:3,l:["O fogo vai adiante dele","e abrasa ao redor os seus inimigos."],np:1},
+{v:4,l:["Os seus relâmpagos iluminaram o mundo;","viu-os a terra e tremeu."]},
+{v:5,l:["Os montes derreteram-se como cera diante do Senhor,","diante do Senhor de toda a terra."]},
+{v:6,l:["Os céus anunciaram a sua justiça,","e todos os povos viram a sua glória."],np:1},
+{v:7,l:["Fiquem envergonhados todos os que adoram imagens","e se gloriam dos seus ídolos.","Adorai-o, todos vós, seus anjos."],np:1},
+{v:8,l:["Sião ouviu e alegrou-se,","e exultaram as filhas de Judá","por causa dos teus juízos, Senhor."]},
+{v:9,l:["Porque tu, Senhor, és o Altíssimo sobre toda a terra,","muito elevado acima de todos os deuses."],np:1},
+{v:10,l:["Vós que amais o Senhor, odiai o mal:","ele guarda a vida dos seus fiéis","e os livra da mão dos ímpios."],np:1},
+{v:11,l:["Nasce a luz para o justo,","e a alegria para os retos de coração."]},
+{v:12,l:["Alegrai-vos, ó justos, no Senhor","e louvai a memória da sua santidade."]}
+];
+
+window.TEXTOS_SEED["salmos"][98] = [
+{v:1,l:["Salmo.","Cantai ao Senhor um cântico novo,","porque fez maravilhas.","Deu-lhe a vitória a sua destra","e o seu braço santo."],np:1},
+{v:2,l:["O Senhor deu a conhecer a sua salvação,","revelou a sua justiça aos olhos das nações."]},
+{v:3,l:["Lembrou-se da sua misericórdia","e da sua fidelidade para com a casa de Israel.","Todos os confins da terra viram","a salvação do nosso Deus."]},
+{v:4,l:["Aclamai o Senhor, terra inteira;","rompei em júbilo, exultai e cantai."],np:1},
+{v:5,l:["Cantai salmos ao Senhor com a cítara,","com a cítara e ao som do canto;"]},
+{v:6,l:["com trombetas e ao som da corneta,","aclamai diante do rei, o Senhor."]},
+{v:7,l:["Ressoe o mar e tudo o que ele contém,","o mundo e os que nele habitam."],np:1},
+{v:8,l:["Os rios batam palmas,","e juntos exultem os montes"]},
+{v:9,l:["diante do Senhor, porque vem para julgar a terra.","Julgará o mundo com justiça","e os povos com retidão."]}
+];
+
+window.TEXTOS_SEED["salmos"][99] = [
+{v:1,l:["O Senhor reina: tremam os povos.","Está sentado sobre os querubins: estremeça a terra."],np:1},
+{v:2,l:["Grande é o Senhor em Sião","e elevado sobre todos os povos."]},
+{v:3,l:["Louvem o teu nome grande e temível:","ele é santo."],n:"A frase ele é santo volta nos versos 5 e 9, dividindo o salmo em três partes desiguais. É o único salmo construído sobre este refrão, e daí lhe vem a fama de ser o mais concentrado dos salmos do reinado."},
+{v:4,l:["Rei poderoso que ama o direito,","tu firmaste a retidão;","tu exerceste o direito e a justiça em Jacó."],np:1},
+{v:5,l:["Exaltai o Senhor nosso Deus","e prostrai-vos diante do escabelo dos seus pés:","ele é santo."]},
+{v:6,l:["Moisés e Aarão, entre os seus sacerdotes,","e Samuel, entre os que invocam o seu nome:","invocavam o Senhor, e ele os ouvia."],np:1},
+{v:7,l:["Na coluna de nuvem lhes falava;","guardavam os seus testemunhos","e o preceito que lhes dera."]},
+{v:8,l:["Senhor nosso Deus, tu lhes respondias;","foste para eles um Deus que perdoa,","mas que castiga as suas faltas."]},
+{v:9,l:["Exaltai o Senhor nosso Deus,","prostrai-vos diante do seu monte santo,","porque o Senhor nosso Deus é santo."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][100] = [
+{v:1,l:["Salmo para a ação de graças.","Aclamai o Senhor, terra inteira;"],np:1},
+{v:2,l:["servi o Senhor com alegria,","vinde à sua presença com cânticos de júbilo."]},
+{v:3,l:["Sabei que o Senhor é Deus:","ele nos fez, e nós somos dele,","o seu povo e as ovelhas do seu pasto."],np:1},
+{v:4,l:["Entrai pelas suas portas com ação de graças,","nos seus átrios com hinos;","dai-lhe graças, bendizei o seu nome,"],np:1},
+{v:5,l:["porque o Senhor é bom,","eterna é a sua misericórdia","e a sua fidelidade, de geração em geração."]}
+];
+
+window.TEXTOS_SEED["salmos"][101] = [
+{v:1,l:["De Davi. Salmo.","Cantarei a misericórdia e o direito;","a ti, Senhor, cantarei salmos."],np:1,n:"É o exame de consciência de quem governa: o rei promete o que há de tolerar em sua casa e o que não. Os espelhos de príncipes da Idade Média tomaram-no por modelo."},
+{v:2,l:["Andarei com prudência no caminho da integridade","— quando virás a mim? —","e andarei na integridade do coração dentro da minha casa."]},
+{v:3,l:["Não porei diante dos meus olhos coisa alguma iníqua;","odeio o que fazem os prevaricadores:","nada disso se há de apegar a mim."],np:1},
+{v:4,l:["Longe de mim o coração perverso;","o mal eu não quero conhecer."]},
+{v:5,l:["Ao que difama em segredo o seu próximo,","a esse hei de silenciar;","ao de olhos altivos e coração soberbo,","a esse não suportarei."],np:1},
+{v:6,l:["Os meus olhos se voltam para os fiéis da terra,","para que habitem comigo;","o que anda no caminho da integridade,","esse me servirá."]},
+{v:7,l:["Não habitará na minha casa o que pratica o engano;","o que profere mentiras não permanecerá diante dos meus olhos."],np:1},
+{v:8,l:["Cada manhã silenciarei todos os ímpios da terra,","para extirpar da cidade do Senhor","todos os que praticam a iniquidade."]}
+];
+
+window.TEXTOS_SEED["salmos"][102] = [
+{v:1,t:"Oração do pobre, quando está angustiado e derrama a sua queixa diante do Senhor.",n:"Quinto dos sete salmos penitenciais. Tem uma construção rara: começa na dor de um homem só, passa sem aviso à restauração de Sião e acaba na eternidade de Deus, contraposta à brevidade de quem reza."},
+{v:2,l:["Senhor, ouve a minha oração,","e chegue a ti o meu clamor."],np:1},
+{v:3,l:["Não escondas de mim o teu rosto","no dia da minha angústia;","inclina para mim o teu ouvido;","no dia em que eu clamar, responde-me depressa."]},
+{v:4,l:["Porque os meus dias se desvanecem como fumaça,","e os meus ossos ardem como brasa."],np:1},
+{v:5,l:["O meu coração foi ferido e secou como a erva;","esqueci-me até de comer o meu pão."]},
+{v:6,l:["Pela voz do meu gemido,","os meus ossos se colaram à minha pele."]},
+{v:7,l:["Sou como o pelicano do deserto,","como a coruja das ruínas."],np:1},
+{v:8,l:["Fico acordado e gemo,","como pássaro solitário sobre o telhado."]},
+{v:9,l:["O dia inteiro me insultam os meus inimigos;","os que me escarnecem tomam o meu nome por maldição."]},
+{v:10,l:["Como cinza eu comi o pão","e misturei com lágrimas a minha bebida,"],np:1},
+{v:11,l:["por causa da tua indignação e da tua ira,","porque me levantaste e me lançaste fora."]},
+{v:12,l:["Os meus dias são como a sombra que declina,","e eu vou secando como a erva."]},
+{v:13,l:["Mas tu, Senhor, permaneces para sempre,","e a tua memória, de geração em geração."],np:1},
+{v:14,l:["Tu te levantarás e terás piedade de Sião,","porque é tempo de te compadeceres dela,","porque chegou a hora."]},
+{v:15,l:["Os teus servos amam as suas pedras","e se compadecem do seu pó."],n:"Amar as pedras e compadecer-se do pó de uma cidade destruída: o verso diz, sem explicar, o que é a saudade de um lugar santo em ruínas."},
+{v:16,l:["E as nações temerão o teu nome, Senhor,","e todos os reis da terra, a tua glória,"],np:1},
+{v:17,l:["quando o Senhor reconstruir Sião","e aparecer na sua glória."]},
+{v:18,l:["Voltou-se para a oração dos desamparados","e não desprezou a sua súplica."]},
+{v:19,l:["Escreva-se isto para a geração futura,","e um povo que há de ser criado louvará o Senhor,"],np:1},
+{v:20,l:["porque olhou do alto do seu santuário;","o Senhor olhou do céu para a terra,"]},
+{v:21,l:["para ouvir o gemido dos cativos,","para libertar os condenados à morte,"]},
+{v:22,l:["para que anunciem em Sião o nome do Senhor","e o seu louvor em Jerusalém,"]},
+{v:23,l:["quando se reunirem os povos","e os reinos para servir o Senhor."]},
+{v:24,l:["Abateu no caminho a minha força,","abreviou os meus dias."],np:1},
+{v:25,l:["E eu digo: Meu Deus, não me leves na metade dos meus dias;","os teus anos duram por todas as gerações."]},
+{v:26,l:["No princípio fundaste a terra,","e os céus são obra das tuas mãos."],np:1,n:"A Carta aos Hebreus cita os versos 26 a 28 no primeiro capítulo e aplica-os ao Filho, para mostrar que é superior aos anjos: o que o salmo diz do Criador, diz-se dele."},
+{v:27,l:["Eles perecerão, mas tu permaneces;","todos envelhecerão como um vestido;","como uma roupa os mudarás, e serão mudados."]},
+{v:28,l:["Tu, porém, és o mesmo,","e os teus anos não terão fim."]},
+{v:29,l:["Os filhos dos teus servos habitarão seguros,","e a sua descendência permanecerá diante de ti."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][103] = [
+{v:1,l:["De Davi.","Bendize, minha alma, o Senhor,","e tudo o que há em mim bendiga o seu santo nome."],np:1},
+{v:2,l:["Bendize, minha alma, o Senhor","e não esqueças nenhum dos seus benefícios."]},
+{v:3,l:["Ele perdoa todas as tuas culpas","e cura todas as tuas enfermidades;"],np:1},
+{v:4,l:["resgata da cova a tua vida","e te coroa de misericórdia e ternura;"]},
+{v:5,l:["sacia de bens a tua existência,","e a tua juventude se renova como a da águia."]},
+{v:6,l:["O Senhor faz justiça","e defende o direito de todos os oprimidos."],np:1},
+{v:7,l:["Revelou a Moisés os seus caminhos,","aos filhos de Israel as suas obras."]},
+{v:8,l:["Misericordioso e clemente é o Senhor,","lento para a ira e rico em bondade."],np:1,n:"Volta aqui a fórmula do Sinai, a mesma do Salmo 86. Este salmo é o que mais longe a leva: dos versos 8 ao 14 desdobra-a em imagens — a altura do céu, a distância entre o oriente e o ocidente, a compaixão de um pai."},
+{v:9,l:["Não está sempre a repreender","nem guarda rancor para sempre."]},
+{v:10,l:["Não nos trata segundo os nossos pecados","nem nos retribui segundo as nossas culpas."]},
+{v:11,l:["Porque, quanto o céu se eleva sobre a terra,","tão grande é a sua misericórdia para com os que o temem."],np:1},
+{v:12,l:["Quanto dista o oriente do ocidente,","tanto afasta de nós as nossas transgressões."]},
+{v:13,l:["Como um pai se compadece dos filhos,","assim o Senhor se compadece dos que o temem,"]},
+{v:14,l:["porque ele conhece a nossa condição","e se lembra de que somos pó."]},
+{v:15,l:["O homem: os seus dias são como a erva;","floresce como a flor do campo:"],np:1},
+{v:16,l:["passa por ela o vento, e já não existe,","e o seu lugar não a reconhece mais."]},
+{v:17,l:["Mas a misericórdia do Senhor é de sempre e para sempre","sobre os que o temem,","e a sua justiça sobre os filhos dos filhos,"]},
+{v:18,l:["sobre os que guardam a sua aliança","e se lembram dos seus preceitos para os cumprir."]},
+{v:19,l:["O Senhor firmou o seu trono nos céus,","e o seu reino domina sobre tudo."],np:1},
+{v:20,l:["Bendizei o Senhor, seus anjos,","valentes e fortes, que cumpris a sua palavra,","atentos à voz do seu mandato."],np:1},
+{v:21,l:["Bendizei o Senhor, todos os seus exércitos,","seus servos, que fazeis a sua vontade."]},
+{v:22,l:["Bendizei o Senhor, todas as suas obras,","em todos os lugares do seu domínio.","Bendize, minha alma, o Senhor."]}
+];

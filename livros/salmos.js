@@ -5,6 +5,118 @@
 // =====================================================================
 
 
+window.TEXTOS_SEED["salmos"][1] = [
+{v:1,l:["Feliz o homem que não segue o conselho dos ímpios,","nem se detém no caminho dos pecadores,","nem se senta na roda dos zombadores,"],n:"Salmo sem título, que serve de pórtico a todo o saltério: não é oração, mas convite a entrar nele. A primeira palavra do livro é ashrei, feliz."},
+{v:2,l:["mas tem o seu prazer na lei do Senhor","e medita a sua lei dia e noite."],n:"Meditar traduz hagah, que diz o murmúrio de quem lê a meia voz; no hebraico é o mesmo verbo do rugido do leão e do arrulho da pomba."},
+{v:3,l:["É como árvore plantada junto às correntes de água,","que dá o seu fruto no tempo devido,","e cuja folhagem não murcha:","tudo o que faz prospera."]},
+{v:4,l:["Não assim os ímpios, não assim:","são como a palha que o vento dispersa."],np:1},
+{v:5,l:["Por isso os ímpios não se levantarão no julgamento,","nem os pecadores na assembleia dos justos."]},
+{v:6,l:["Porque o Senhor conhece o caminho dos justos,","mas o caminho dos ímpios leva à perdição."]}
+];
+
+window.TEXTOS_SEED["salmos"][2] = [
+{v:1,l:["Por que se amotinam as nações","e os povos tramam coisas vãs?"],n:"Também sem título. Compôs-se para a entronização de um rei de Judá, e desde cedo se leu do Messias: os Atos dos Apóstolos citam-no logo na primeira oração da Igreja perseguida."},
+{v:2,l:["Levantam-se os reis da terra,","e os príncipes conspiram juntos","contra o Senhor e contra o seu ungido:"]},
+{v:3,l:["Rompamos as suas cadeias","e sacudamos de nós o seu jugo."]},
+{v:4,l:["Ri-se o que habita nos céus;","o Senhor zomba deles."],np:1},
+{v:5,l:["Então lhes fala na sua ira","e no seu furor os aterroriza:"]},
+{v:6,l:["Fui eu que constituí o meu rei","sobre Sião, meu monte santo."]},
+{v:7,l:["Anunciarei o decreto do Senhor.","Ele me disse: Tu és meu filho;","eu hoje te gerei."],np:1,n:"Fórmula de adoção com que se investia o rei. É a voz que se ouve no batismo de Jesus, e a Epístola aos Hebreus cita-a duas vezes para mostrar que o Filho é mais que os anjos."},
+{v:8,l:["Pede-me, e te darei as nações por herança,","e os confins da terra por possessão."]},
+{v:9,l:["Hás de governá-los com cetro de ferro","e quebrá-los como vaso de oleiro."]},
+{v:10,l:["Agora, pois, ó reis, sede sensatos;","deixai-vos instruir, juízes da terra."],np:1},
+{v:11,l:["Servi o Senhor com temor","e exultai com tremor."]},
+{v:12,l:["Prestai homenagem ao filho, para que não se ire","e não pereçais no caminho,","porque depressa se acende a sua ira.","Felizes todos os que nele se refugiam."],n:"O hebraico deste versículo é dos mais discutidos do saltério, e as versões antigas divergem quanto à primeira linha. O fecho retoma o feliz com que o Salmo 1 começa, fechando o pórtico."}
+];
+
+window.TEXTOS_SEED["salmos"][3] = [
+{v:1,t:"Salmo de Davi, quando fugia de Absalão, seu filho.",n:"Primeiro salmo com título histórico. A revolta de Absalão está no segundo livro de Samuel."},
+{v:2,l:["Senhor, como são muitos os meus adversários,","muitos os que se levantam contra mim!"],np:1},
+{v:3,l:["Muitos dizem da minha alma:","Não há salvação para ele em Deus."]},
+{v:4,l:["Mas tu, Senhor, és o escudo que me cerca,","a minha glória, o que ergue a minha cabeça."],np:1},
+{v:5,l:["Com a minha voz clamo ao Senhor,","e ele me responde do seu monte santo."]},
+{v:6,l:["Eu me deito e adormeço, e desperto,","porque o Senhor me sustenta."],n:"Dormir é aqui ato de confiança: quem é perseguido de noite e ainda assim adormece já respondeu aos que diziam que Deus o abandonara."},
+{v:7,l:["Não temo os milhares do povo","que ao redor se põem contra mim."]},
+{v:8,l:["Levanta-te, Senhor; salva-me, meu Deus.","Tu feriste na face todos os meus inimigos;","quebraste os dentes dos ímpios."],np:1},
+{v:9,l:["Do Senhor vem a salvação;","sobre o teu povo, a tua bênção."]}
+];
+
+window.TEXTOS_SEED["salmos"][4] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. Salmo de Davi."},
+{v:2,l:["Quando clamo, responde-me, ó Deus da minha justiça;","na angústia me deste alívio:","tem piedade de mim e ouve a minha oração."],np:1},
+{v:3,l:["Filhos dos homens, até quando sereis de coração pesado?","Por que amais a vaidade e buscais a mentira?"],np:1},
+{v:4,l:["Sabei que o Senhor faz maravilhas pelo seu fiel;","o Senhor me ouve quando clamo a ele."]},
+{v:5,l:["Tremei e não pequeis;","falai nos vossos corações, no vosso leito, e calai-vos."],n:"São Paulo cita a primeira linha na Carta aos Efésios, na forma grega: irai-vos e não pequeis."},
+{v:6,l:["Oferecei sacrifícios de justiça","e confiai no Senhor."]},
+{v:7,l:["Muitos dizem: Quem nos fará ver a felicidade?","Faze brilhar sobre nós, Senhor, a luz da tua face."],np:1},
+{v:8,l:["Puseste no meu coração mais alegria","do que a deles, quando abunda o trigo e o vinho."]},
+{v:9,l:["Em paz me deito e logo adormeço,","porque só tu, Senhor, me fazes habitar em segurança."],n:"Oração da noite desde os primeiros séculos; a Liturgia das Horas ainda a canta nas completas."}
+];
+
+window.TEXTOS_SEED["salmos"][5] = [
+{v:1,t:"Ao mestre do coro. Para flautas. Salmo de Davi."},
+{v:2,l:["Dá ouvidos às minhas palavras, Senhor;","atende ao meu gemido."],np:1},
+{v:3,l:["Escuta a voz do meu clamor,","meu rei e meu Deus,","porque a ti dirijo a minha oração."]},
+{v:4,l:["Senhor, de manhã ouves a minha voz;","de manhã me apresento a ti e espero."],n:"O verbo é o de quem dispõe a lenha sobre o altar: a oração da manhã é posta diante de Deus como se põe o sacrifício."},
+{v:5,l:["Porque tu não és um Deus que se agrade da maldade;","o mau não é teu hóspede,"],np:1},
+{v:6,l:["nem os arrogantes se põem diante dos teus olhos.","Odeias todos os que praticam a iniquidade;"]},
+{v:7,l:["destróis os que falam mentira.","Ao homem sanguinário e fraudulento o Senhor abomina."]},
+{v:8,l:["Eu, porém, pela abundância da tua misericórdia,","entrarei na tua casa;","hei de prostrar-me no teu santo templo, no teu temor."],np:1},
+{v:9,l:["Senhor, guia-me na tua justiça, por causa dos meus inimigos;","aplaina diante de mim o teu caminho."]},
+{v:10,l:["Porque não há sinceridade na sua boca;","o seu íntimo é ruína,","a sua garganta é sepulcro aberto,","e com a língua adulam."],n:"São Paulo junta este verso a outros na Carta aos Romanos, no retrato que faz da humanidade sem Deus."},
+{v:11,l:["Condena-os, ó Deus;","caiam por seus próprios planos.","Expulsa-os pela multidão dos seus crimes,","porque se revoltaram contra ti."]},
+{v:12,l:["Mas alegrem-se todos os que em ti se refugiam;","exultem para sempre,","e tu os protegerás;","e em ti se gloriem os que amam o teu nome."],np:1},
+{v:13,l:["Porque tu, Senhor, abençoas o justo","e o cercas de benevolência como de um escudo."]}
+];
+
+window.TEXTOS_SEED["salmos"][6] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. Sobre a oitava. Salmo de Davi.",n:"Primeiro dos sete salmos penitenciais. Sobre a oitava talvez indique o tom grave em que se cantava."},
+{v:2,l:["Senhor, não me repreendas na tua ira,","nem me castigues no teu furor."],np:1},
+{v:3,l:["Tem piedade de mim, Senhor, porque desfaleço;","cura-me, Senhor, porque os meus ossos estremecem."]},
+{v:4,l:["A minha alma está profundamente perturbada;","e tu, Senhor, até quando?"],n:"A frase fica pelo meio, sem completar a pergunta: é a única vez em que o salmo se interrompe assim, e o silêncio diz o que falta."},
+{v:5,l:["Volta-te, Senhor, livra a minha alma;","salva-me por tua misericórdia."]},
+{v:6,l:["Porque na morte não há quem se lembre de ti;","na morada dos mortos, quem te louvará?"]},
+{v:7,l:["Estou exausto de gemer;","todas as noites banho de lágrimas o meu leito","e com o meu pranto rego a minha cama."],np:1},
+{v:8,l:["Os meus olhos se consomem de tristeza;","envelhecem por causa de todos os meus adversários."]},
+{v:9,l:["Apartai-vos de mim, todos os que praticais a iniquidade,","porque o Senhor ouviu a voz do meu pranto."],np:1,n:"Jesus repete esta linha no fim do Sermão da Montanha, aos que dirão Senhor, Senhor."},
+{v:10,l:["O Senhor ouviu a minha súplica;","o Senhor acolheu a minha oração."]},
+{v:11,l:["Sejam envergonhados e profundamente perturbados","todos os meus inimigos;","recuem e sejam envergonhados num instante."]}
+];
+
+window.TEXTOS_SEED["salmos"][7] = [
+{v:1,t:"Lamentação de Davi, que ele cantou ao Senhor por causa de Cus, o benjaminita.",n:"Lamentação traduz shiggaion, termo de sentido incerto que só aparece aqui e em Habacuc; de Cus não se sabe nada fora deste título."},
+{v:2,l:["Senhor, meu Deus, em ti me refugio:","salva-me de todos os que me perseguem e livra-me,"],np:1},
+{v:3,l:["para que não arrebate a minha alma como leão","e a despedace, sem que haja quem livre."]},
+{v:4,l:["Senhor, meu Deus, se fiz isto,","se há iniquidade nas minhas mãos,"],np:1},
+{v:5,l:["se paguei com o mal a quem estava em paz comigo","— eu, que livrei o que sem razão me era inimigo —,"]},
+{v:6,l:["persiga o inimigo a minha alma e a alcance;","pise por terra a minha vida","e deite a minha glória no pó."],n:"É um juramento de inocência com maldição condicional: o acusado chama sobre si a pena, se a acusação for verdadeira."},
+{v:7,l:["Levanta-te, Senhor, na tua ira;","ergue-te contra o furor dos meus adversários;","desperta, ó meu Deus, e ordena o julgamento."],np:1},
+{v:8,l:["Que a assembleia dos povos te rodeie,","e tu, sobre ela, volta ao alto."]},
+{v:9,l:["O Senhor julga os povos.","Julga-me, Senhor, segundo a minha justiça","e segundo a integridade que há em mim."]},
+{v:10,l:["Cesse a malícia dos ímpios,","e firma o justo,","ó Deus justo, que sondas os corações e os rins."]},
+{v:11,l:["O meu escudo está em Deus,","que salva os retos de coração."],np:1},
+{v:12,l:["Deus é juiz justo,","Deus que se indigna todos os dias."]},
+{v:13,l:["Se alguém não se converte, ele afia a sua espada;","retesa o seu arco e o prepara;"]},
+{v:14,l:["prepara para ele armas de morte","e faz das suas flechas setas ardentes."]},
+{v:15,l:["Eis que o ímpio concebe a iniquidade,","gera o tormento e dá à luz a mentira."],np:1},
+{v:16,l:["Abre uma cova e a cava,","mas cai no fosso que fez."]},
+{v:17,l:["O seu tormento volta sobre a sua cabeça,","e a sua violência desce sobre o seu crânio."]},
+{v:18,l:["Louvarei o Senhor pela sua justiça","e cantarei ao nome do Senhor, o Altíssimo."]}
+];
+
+window.TEXTOS_SEED["salmos"][8] = [
+{v:1,t:"Ao mestre do coro. Sobre a de Gat. Salmo de Davi.",n:"Sobre a de Gat talvez indique uma melodia conhecida, ou um instrumento vindo daquela cidade filisteia."},
+{v:2,l:["Senhor, nosso Senhor,","como é admirável o teu nome em toda a terra!","Elevaste a tua majestade acima dos céus."],np:1},
+{v:3,l:["Da boca das crianças e dos que ainda mamam","fizeste sair o louvor, por causa dos teus adversários,","para reduzires ao silêncio o inimigo e o vingador."],n:"Jesus cita este verso no Templo, quando lhe reclamam das crianças que gritavam hosana."},
+{v:4,l:["Quando contemplo os teus céus, obra dos teus dedos,","a lua e as estrelas que firmaste:"],np:1},
+{v:5,l:["que é o homem, para te lembrares dele,","e o filho do homem, para dele cuidares?"]},
+{v:6,l:["Fizeste-o pouco menor que os anjos","e o coroaste de glória e honra."],n:"O hebraico diz pouco menor que Elohim, que tanto pode ser Deus como os seres celestes; a versão grega decidiu por anjos, e é nessa forma que a Epístola aos Hebreus aplica o verso a Cristo."},
+{v:7,l:["Deste-lhe domínio sobre as obras das tuas mãos;","tudo puseste debaixo dos seus pés:"]},
+{v:8,l:["ovelhas e bois, todos eles,","e também os animais do campo;"]},
+{v:9,l:["as aves do céu e os peixes do mar,","tudo o que percorre os caminhos dos mares."]},
+{v:10,l:["Senhor, nosso Senhor,","como é admirável o teu nome em toda a terra!"],np:1,n:"O salmo fecha repetindo o verso com que abriu — o único do saltério construído assim, como um círculo."}
+];
+
 window.TEXTOS_SEED["salmos"][25] = [
 {v:1,l:["De Davi.","A ti, Senhor, elevo a minha alma."],n:"Na numeração grega e na Vulgata antiga, este é o Salmo 24; sigo a numeração hebraica, adotada como principal pela Nova Vulgata. O salmo é alfabético: cada versículo começa, no hebraico, com uma letra sucessiva do alfabeto."},
 {v:2,l:["Meu Deus, em ti confio: que eu não seja envergonhado,","que os meus inimigos não exultem sobre mim."]},

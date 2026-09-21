@@ -1352,3 +1352,114 @@ window.TEXTOS_SEED["salmos"][72] = [
 {v:19,l:["Bendito para sempre o seu nome glorioso,","e encha-se da sua glória toda a terra.","Amém! Amém!"]},
 {v:20,t:"Terminam as orações de Davi, filho de Jessé.",np:1,n:"Nota de um antigo compilador, que ficou no texto: encerrava uma coleção davídica anterior. Ainda assim, salmos atribuídos a Davi voltam a aparecer mais adiante, sinal de que o saltério se formou por camadas."}
 ];
+
+window.TEXTOS_SEED["salmos"][73] = [
+{v:1,l:["Salmo de Asaf.","Como é bom Deus para os retos,","Deus para os puros de coração!"],np:1,n:"Abre-se aqui o terceiro livro do saltério, quase todo de Asaf e dos filhos de Coré. O salmo enfrenta de frente a questão mais antiga da fé: por que prospera o ímpio. Não a resolve por argumento, mas por um lugar — o santuário, no verso 17 —, e o que ali se vê muda tudo o que vinha antes."},
+{v:2,l:["Os meus pés, porém, quase tropeçaram,","por pouco não escorregaram os meus passos,"],np:1},
+{v:3,l:["porque tive inveja dos arrogantes","ao ver a paz dos ímpios."]},
+{v:4,l:["Para eles não há sofrimento,","são sãos e bem nutridos os seus corpos."],np:1},
+{v:5,l:["Não passam pela fadiga dos homens","nem são atingidos como os outros."]},
+{v:6,l:["Por isso a soberba lhes serve de colar,","e a violência os cobre como um vestido."]},
+{v:7,l:["Da gordura lhes salta a maldade;","transbordam as imaginações do coração."]},
+{v:8,l:["Escarnecem e falam com malícia,","e do alto ameaçam com opressão."]},
+{v:9,l:["Põem a boca contra o céu,","e a sua língua percorre a terra."]},
+{v:10,l:["Por isso o meu povo se volta para eles","e bebe as suas águas em abundância,"],np:1},
+{v:11,l:["e dizem: Como havia Deus de saber?","Há conhecimento no Altíssimo?"]},
+{v:12,l:["Eis os ímpios: sempre tranquilos,","vão aumentando as riquezas."]},
+{v:13,l:["Então foi em vão que guardei puro o meu coração","e lavei as mãos na inocência?"],np:1},
+{v:14,l:["Pois sou atingido o dia inteiro,","e cada manhã traz o meu castigo."]},
+{v:15,l:["Se eu dissesse: Vou falar como eles,","trairia a geração dos teus filhos."],np:1},
+{v:16,l:["Procurei compreender isto,","mas foi árduo demais para mim,"]},
+{v:17,l:["até que entrei no santuário de Deus","e compreendi qual é o fim deles."]},
+{v:18,l:["Na verdade, tu os pões em terreno escorregadio","e os deixas cair em ruínas."],np:1},
+{v:19,l:["Como ficaram desolados num instante!","Acabaram, consumidos de terror."]},
+{v:20,l:["Como um sonho ao despertar, Senhor,","ao levantar-te desprezarás a sua imagem."]},
+{v:21,l:["Quando o meu coração se amargurava","e por dentro eu me sentia ferido,"],np:1},
+{v:22,l:["eu era estúpido e nada entendia:","era como um animal diante de ti."]},
+{v:23,l:["Mas eu estou sempre contigo;","tu me tomaste pela mão direita."],np:1},
+{v:24,l:["Com o teu conselho me guiarás","e depois me receberás na glória."]},
+{v:25,l:["Quem tenho eu no céu senão a ti?","E, estando contigo, nada mais quero na terra."]},
+{v:26,l:["Desfalecem a minha carne e o meu coração;","mas a rocha do meu coração e a minha herança","é Deus para sempre."],n:"Rocha do coração traduz uma expressão hebraica difícil de verter: aquilo que sustenta por dentro, o que resta quando o corpo e o ânimo já não seguram. O salmo chega, por este caminho, à única resposta que dá: não a explicação do mal, mas a posse de Deus."},
+{v:27,l:["Eis que os que se afastam de ti hão de perecer;","tu destróis todo aquele que te é infiel."],np:1},
+{v:28,l:["Para mim, porém, o bem é estar junto de Deus.","No Senhor Deus pus o meu refúgio,","para anunciar todas as tuas obras."]}
+];
+
+window.TEXTOS_SEED["salmos"][74] = [
+{v:1,l:["Poema de Asaf.","Por que, ó Deus, nos rejeitaste para sempre,","e se acende a tua ira contra as ovelhas do teu pasto?"],np:1,n:"Lamento diante de um santuário incendiado, provavelmente o de 587 antes de Cristo, quando Nabucodonosor queimou o templo. O salmo não pede vingança: pede que Deus se lembre, e é toda a sua força."},
+{v:2,l:["Lembra-te da tua assembleia, que adquiriste desde o princípio,","da tribo que resgataste para tua herança,","do monte Sião, onde fizeste morada."]},
+{v:3,l:["Dirige os teus passos a estas ruínas sem fim:","tudo devastou o inimigo no santuário."],np:1},
+{v:4,l:["Rugiram os teus adversários no lugar das tuas assembleias","e puseram como sinais os seus estandartes."]},
+{v:5,l:["Pareciam homens que erguem o machado","na espessura do bosque;"]},
+{v:6,l:["e depois, a golpes de machado e martelo,","despedaçaram todas as suas talhas."]},
+{v:7,l:["Lançaram fogo ao teu santuário,","profanaram por terra a morada do teu nome."]},
+{v:8,l:["Disseram no seu coração: Vamos esmagá-los todos!","Queimaram na terra todos os lugares de assembleia de Deus."]},
+{v:9,l:["Já não vemos os nossos sinais, já não há profeta,","e entre nós ninguém sabe até quando."],np:1,n:"O pior da desolação não é a ruína das pedras, mas o silêncio: sem profeta, não há quem diga quanto tempo há de durar, e a dor fica sem medida."},
+{v:10,l:["Até quando, ó Deus, há de insultar o adversário?","Blasfemará o inimigo do teu nome para sempre?"]},
+{v:11,l:["Por que retiras a tua mão","e conservas a destra escondida no teu seio?"]},
+{v:12,l:["Mas Deus é o meu rei desde o princípio,","o que opera salvações no meio da terra."],np:1},
+{v:13,l:["Tu dividiste o mar com a tua força","e quebraste sobre as águas a cabeça dos monstros."],n:"Os versos 13 e 14 falam do mar e do Leviatã com as palavras dos antigos poemas de Canaã sobre o combate do deus contra o caos. Israel toma essas imagens e usa-as para dizer outra coisa: a passagem do Mar Vermelho e a criação são uma só vitória, e nenhum dos monstros é um rival — são criaturas."},
+{v:14,l:["Tu esmagaste as cabeças do Leviatã","e o deste por alimento às feras do deserto."]},
+{v:15,l:["Tu abriste fontes e torrentes,","tu secaste rios que nunca secam."]},
+{v:16,l:["Teu é o dia e tua é a noite;","tu firmaste a lua e o sol."]},
+{v:17,l:["Tu fixaste todos os limites da terra;","tu formaste o verão e o inverno."]},
+{v:18,l:["Lembra-te disto: o inimigo insultou o Senhor,","e um povo insensato blasfemou do teu nome."],np:1},
+{v:19,l:["Não entregues às feras a vida da tua pomba,","não esqueças para sempre a vida dos teus pobres."]},
+{v:20,l:["Olha para a aliança,","porque os recantos da terra se encheram de covis de violência."]},
+{v:21,l:["Não volte humilhado o oprimido;","louvem o teu nome o pobre e o necessitado."]},
+{v:22,l:["Levanta-te, ó Deus, defende a tua causa;","lembra-te do insulto que o insensato te faz o dia inteiro."],np:1},
+{v:23,l:["Não esqueças o clamor dos teus adversários:","sobe sem cessar o tumulto dos que se levantam contra ti."]}
+];
+
+window.TEXTOS_SEED["salmos"][75] = [
+{v:1,t:"Ao mestre do coro. Segundo «Não destruas». Salmo de Asaf. Cântico."},
+{v:2,l:["Damos-te graças, ó Deus, damos-te graças,","e invocamos o teu nome:","contamos as tuas maravilhas."],np:1},
+{v:3,l:["Quando eu marcar o tempo,","serei eu a julgar com retidão."],np:1,n:"A partir daqui e até ao verso 6 é Deus quem fala, sem que o texto o anuncie: a mudança de voz faz-se apenas pelo tom, como acontece muitas vezes nos profetas."},
+{v:4,l:["Ainda que se dissolvam a terra e todos os que nela habitam,","fui eu que firmei as suas colunas."]},
+{v:5,l:["Digo aos arrogantes: Não sejais arrogantes;","e aos ímpios: Não levanteis a fronte."],np:1},
+{v:6,l:["Não levanteis tão alto a vossa fronte","nem faleis de pescoço duro."]},
+{v:7,l:["Porque nem do oriente nem do ocidente,","nem do deserto dos montes vem a exaltação:"],np:1},
+{v:8,l:["é Deus quem julga:","a este humilha, àquele exalta."]},
+{v:9,l:["Há na mão do Senhor um cálice","de vinho forte, cheio de mistura,","e dele derrama;","até as borras hão de sorvê-lo","todos os ímpios da terra."],np:1,n:"O cálice que se dá a beber é figura corrente nos profetas para o juízo. O Novo Testamento havia de recolhê-la em outro sentido, quando o Senhor pede no horto que passe dele o cálice."},
+{v:10,l:["Eu, porém, anunciarei para sempre,","cantarei salmos ao Deus de Jacó."],np:1},
+{v:11,l:["Quebrarei todo o poder dos ímpios,","e há de erguer-se o poder dos justos."]}
+];
+
+window.TEXTOS_SEED["salmos"][76] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. Salmo de Asaf. Cântico."},
+{v:2,l:["Deus é conhecido em Judá,","grande é o seu nome em Israel."],np:1},
+{v:3,l:["Em Salém está a sua tenda","e a sua morada em Sião."],n:"Salém é o nome antigo de Jerusalém, o mesmo da cidade de Melquisedec, no Gênesis; escolhê-lo aqui é lembrar que o lugar era santo antes de ser de Israel."},
+{v:4,l:["Ali quebrou as flechas fulgurantes do arco,","o escudo, a espada e a guerra."]},
+{v:5,l:["Resplandecente és tu, magnífico,","mais do que os montes eternos."],np:1},
+{v:6,l:["Foram despojados os de coração valente e dormiram o seu sono;","e todos os guerreiros não acharam as suas mãos."]},
+{v:7,l:["Ante a tua ameaça, ó Deus de Jacó,","ficaram entorpecidos cavalos e cavaleiros."]},
+{v:8,l:["Tu és temível: quem resistirá diante de ti","quando se acende a tua ira?"],np:1},
+{v:9,l:["Do céu fizeste ouvir a sentença;","a terra temeu e calou-se,"]},
+{v:10,l:["quando Deus se levantou para julgar,","para salvar todos os humildes da terra."]},
+{v:11,l:["Até a fúria do homem te há de louvar,","e os que sobrarem da ira te farão festa."],np:1},
+{v:12,l:["Fazei votos ao Senhor vosso Deus e cumpri-os;","todos os que o rodeiam tragam presentes ao Temível,"],np:1},
+{v:13,l:["ao que abate o orgulho dos príncipes,","ao que é temível aos reis da terra."]}
+];
+
+window.TEXTOS_SEED["salmos"][77] = [
+{v:1,t:"Ao mestre do coro. Segundo Iditum. Salmo de Asaf."},
+{v:2,l:["A minha voz sobe a Deus, e eu clamo;","a minha voz sobe a Deus, para que ele me ouça."],np:1},
+{v:3,l:["No dia da minha angústia busco o Senhor;","de noite a minha mão estende-se sem descanso,","e a minha alma recusa consolação."]},
+{v:4,l:["Lembro-me de Deus e gemo;","medito, e o meu espírito desfalece."],np:1},
+{v:5,l:["Tu seguras abertas as pálpebras dos meus olhos;","estou perturbado e não consigo falar."]},
+{v:6,l:["Penso nos dias antigos","e recordo os anos de outrora."],np:1},
+{v:7,l:["De noite medito no meu coração,","reflito, e o meu espírito vai perguntando:"]},
+{v:8,l:["Rejeitará o Senhor para sempre?","Não voltará a ser-nos favorável?"],np:1},
+{v:9,l:["Cessou para sempre a sua misericórdia?","Acabou-se a sua palavra por todas as gerações?"]},
+{v:10,l:["Esqueceu-se Deus de ter piedade?","Ou fechou na ira as suas entranhas?"]},
+{v:11,l:["E eu disse: Esta é a minha dor:","mudou-se a destra do Altíssimo."],n:"Verso de leitura disputada. Pode entender-se como desespero — a mão direita de Deus já não é a mesma — ou, mudando a vocalização, como o princípio da esperança: lembrarei os anos da destra do Altíssimo. Adota-se aqui a primeira leitura, que é a da Nova Vulgata, e deixa-se ao verso seguinte a viragem."},
+{v:12,l:["Lembro-me das obras do Senhor,","sim, lembro-me das tuas maravilhas antigas."],np:1},
+{v:13,l:["Medito em toda a tua obra","e reflito sobre os teus feitos."]},
+{v:14,l:["Ó Deus, santo é o teu caminho.","Que deus é grande como o nosso Deus?"],np:1},
+{v:15,l:["Tu és o Deus que faz maravilhas;","manifestaste entre os povos o teu poder."]},
+{v:16,l:["Com o teu braço resgataste o teu povo,","os filhos de Jacó e de José."]},
+{v:17,l:["Viram-te as águas, ó Deus,","viram-te as águas e tremeram;","também os abismos se agitaram."],np:1},
+{v:18,l:["Derramaram água as nuvens,","trovejaram os céus,","e as tuas setas voavam."]},
+{v:19,l:["A voz do teu trovão no turbilhão,","os teus relâmpagos iluminaram o mundo;","a terra estremeceu e tremeu."]},
+{v:20,l:["Pelo mar foi o teu caminho,","e as tuas veredas pelas águas profundas,","e não se conheceram as tuas pegadas."],n:"Deus atravessa e não deixa rasto: o salmo diz assim, numa imagem só, que a sua passagem é real e que dela não se faz prova. Termina, porém, apontando o que ficou — um povo conduzido."},
+{v:21,l:["Guiaste o teu povo como um rebanho","pela mão de Moisés e de Aarão."],np:1}
+];

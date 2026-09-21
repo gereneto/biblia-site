@@ -1134,3 +1134,122 @@ window.TEXTOS_SEED["salmos"][62] = [
 {v:12,l:["Uma vez falou Deus, duas vezes ouvi isto:","que o poder pertence a Deus"],np:1,n:"A fórmula «uma vez, duas vezes» é modo hebraico de dizer que a coisa está firmemente assente: o que se ouviu duas vezes não se põe em dúvida."},
 {v:13,l:["e a ti, Senhor, a misericórdia,","porque retribuis a cada um segundo as suas obras."],n:"São Paulo retoma este verso na Carta aos Romanos, e o Apocalipse fecha com ele: retribuir segundo as obras é, no mesmo fôlego, poder e misericórdia."}
 ];
+
+window.TEXTOS_SEED["salmos"][63] = [
+{v:1,t:"Salmo de Davi, quando estava no deserto de Judá."},
+{v:2,l:["Ó Deus, tu és o meu Deus: desde a aurora te busco.","De ti tem sede a minha alma,","por ti anseia a minha carne,","como terra árida, sedenta, sem água."],np:1,n:"Desde os primeiros séculos este é o salmo da manhã: São João Crisóstomo diz que a Igreja determinara que nenhum dia começasse sem ele, e ainda hoje abre as Laudes do domingo."},
+{v:3,l:["Assim no santuário te contemplei,","para ver a tua força e a tua glória."],np:1},
+{v:4,l:["Porque a tua misericórdia vale mais do que a vida,","os meus lábios hão de louvar-te."]},
+{v:5,l:["Assim te bendirei enquanto viver","e em teu nome levantarei as mãos."]},
+{v:6,l:["Como de um banquete se fartará a minha alma,","e com lábios de júbilo te louvará a minha boca,"],np:1},
+{v:7,l:["quando no meu leito me lembrar de ti","e em ti meditar pelas vigílias da noite."]},
+{v:8,l:["Porque tu foste o meu auxílio,","e à sombra das tuas asas exulto."]},
+{v:9,l:["A minha alma se apega a ti;","a tua destra me sustenta."]},
+{v:10,l:["Mas os que procuram a minha vida para a perder","hão de descer às profundezas da terra;"],np:1},
+{v:11,l:["serão entregues ao fio da espada,","virão a ser presa dos chacais."]},
+{v:12,l:["O rei, porém, se alegrará em Deus;","há de gloriar-se todo o que jura por ele,","porque será fechada a boca dos que falam mentira."]}
+];
+
+window.TEXTOS_SEED["salmos"][64] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi."},
+{v:2,l:["Ouve, ó Deus, a voz do meu lamento;","guarda a minha vida do terror do inimigo."],np:1},
+{v:3,l:["Esconde-me do conluio dos malvados,","do tumulto dos que praticam a iniquidade."]},
+{v:4,l:["Afiam como espada a sua língua","e apontam como flecha a palavra amarga,"],np:1},
+{v:5,l:["para atirar às ocultas contra o íntegro;","atiram de repente e não temem."]},
+{v:6,l:["Firmam-se no propósito perverso,","combinam entre si esconder os laços e dizem:","Quem há de vê-los?"]},
+{v:7,l:["Urdem iniquidades e escondem o que urdiram:","o íntimo do homem e o seu coração são um abismo."]},
+{v:8,l:["Mas Deus atira contra eles a sua flecha,","e de repente ficam feridos."],np:1,n:"A ironia do salmo está na inversão: os que apontavam flechas às ocultas são atingidos de repente pela flecha de Deus, e é a própria língua que os derruba."},
+{v:9,l:["A própria língua os faz cair,","e todos os que os veem meneiam a cabeça."]},
+{v:10,l:["Então todos os homens temerão,","anunciarão a obra de Deus","e compreenderão os seus feitos."],np:1},
+{v:11,l:["O justo se alegrará no Senhor e nele buscará refúgio,","e todos os retos de coração hão de gloriar-se."]}
+];
+
+window.TEXTOS_SEED["salmos"][65] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi. Cântico."},
+{v:2,l:["A ti convém o louvor, ó Deus, em Sião,","e a ti se cumpre o voto,"],np:1},
+{v:3,l:["a ti, que escutas a oração.","A ti vem toda a carne"]},
+{v:4,l:["sob o peso das culpas.","As nossas iniquidades nos oprimem,","mas tu as perdoas."]},
+{v:5,l:["Feliz aquele que escolhes e atrais","para que habite nos teus átrios!","Havemos de fartar-nos dos bens da tua casa,","das coisas santas do teu templo."],np:1},
+{v:6,l:["Com prodígios nos respondes em justiça,","ó Deus da nossa salvação,","esperança de todos os confins da terra","e dos mares mais distantes."]},
+{v:7,l:["Tu que firmas os montes com a tua força,","cingido de poder;"],np:1},
+{v:8,l:["que acalmas o bramido dos mares,","o bramido das suas ondas","e o tumulto dos povos."]},
+{v:9,l:["Temem os que habitam os confins, diante dos teus sinais;","tu fazes exultar as portas da aurora e do poente."]},
+{v:10,l:["Visitaste a terra e a regaste,","e a cumulaste de riquezas.","O rio de Deus vai cheio de água;","preparaste o trigo dos homens, pois assim preparaste a terra:"],np:1,n:"O rio de Deus é a chuva vista de cima: o salmo olha para a água que desce e chama-lhe rio celeste, como se o céu tivesse o seu Jordão."},
+{v:11,l:["regaste os seus sulcos, nivelaste os seus torrões,","amoleceste-a com as chuvas e abençoaste os seus germes."]},
+{v:12,l:["Coroaste o ano com a tua bondade,","e os teus caminhos destilam fartura."],np:1},
+{v:13,l:["Destilam as pastagens do deserto,","e as colinas se cingem de júbilo."]},
+{v:14,l:["Vestem-se de rebanhos os prados,","e os vales se cobrem de trigo:","tudo aclama e canta."]}
+];
+
+window.TEXTOS_SEED["salmos"][66] = [
+{v:1,t:"Ao mestre do coro. Cântico. Salmo."},
+{v:2,l:["Aclamai a Deus, terra inteira,","cantai a glória do seu nome,","dai-lhe glória com o louvor."],np:1},
+{v:3,l:["Dizei a Deus: Como são temíveis as tuas obras!","Pela grandeza do teu poder, os teus inimigos te adulam."]},
+{v:4,l:["Que toda a terra te adore e cante para ti,","que cante ao teu nome."]},
+{v:5,l:["Vinde e vede as obras de Deus,","terrível nos seus feitos sobre os filhos dos homens."],np:1},
+{v:6,l:["Mudou o mar em terra seca,","e a pé atravessaram o rio.","Ali nos alegramos nele."],n:"O mar é o Mar Vermelho; o rio, o Jordão. Quem fala é a geração seguinte, que diz ali nos alegramos como se tivesse estado lá: na liturgia de Israel, o êxodo não é lembrança, é presença."},
+{v:7,l:["Domina para sempre com o seu poder;","os seus olhos vigiam as nações;","não se levantem contra ele os rebeldes."]},
+{v:8,l:["Bendizei, ó povos, o nosso Deus,","e fazei ouvir a voz do seu louvor,"],np:1},
+{v:9,l:["ele que conservou a nossa alma na vida","e não deixou vacilar os nossos pés."]},
+{v:10,l:["Porque tu nos provaste, ó Deus,","e nos refinaste como se refina a prata."]},
+{v:11,l:["Fizeste-nos cair no laço,","puseste um fardo sobre os nossos ombros."]},
+{v:12,l:["Deixaste que homens cavalgassem sobre as nossas cabeças;","passamos pelo fogo e pela água,","mas nos conduziste a um lugar de abundância."]},
+{v:13,l:["Entrarei na tua casa com holocaustos","e cumprirei os meus votos,"],np:1},
+{v:14,l:["os que os meus lábios pronunciaram","e a minha boca proferiu na angústia."]},
+{v:15,l:["Holocaustos de animais cevados te oferecerei,","com o fumegar dos carneiros;","hei de sacrificar bois e cabritos."]},
+{v:16,l:["Vinde, ouvi, todos vós que temeis a Deus,","e vos contarei quanto ele fez pela minha alma."],np:1},
+{v:17,l:["A ele clamou a minha boca,","e o louvor estava na minha língua."]},
+{v:18,l:["Se eu tivesse visto iniquidade no meu coração,","o Senhor não me teria ouvido."]},
+{v:19,l:["Mas Deus me ouviu","e atendeu à voz da minha súplica."]},
+{v:20,l:["Bendito seja Deus, que não rejeitou a minha oração","nem afastou de mim a sua misericórdia."]}
+];
+
+window.TEXTOS_SEED["salmos"][67] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. Salmo. Cântico."},
+{v:2,l:["Que Deus se compadeça de nós e nos abençoe,","que faça brilhar sobre nós o seu rosto,"],np:1,n:"O salmo abre citando a bênção sacerdotal de Números 6, mas alarga-a: o que ali se dizia sobre Israel pede-se aqui para que todos os povos conheçam o caminho de Deus."},
+{v:3,l:["para que se conheça na terra o teu caminho","e entre todas as nações a tua salvação."]},
+{v:4,l:["Que os povos te louvem, ó Deus,","que todos os povos te louvem."],np:1},
+{v:5,l:["Alegrem-se e exultem as nações,","porque julgas os povos com retidão","e governas as nações sobre a terra."],np:1},
+{v:6,l:["Que os povos te louvem, ó Deus,","que todos os povos te louvem."],np:1},
+{v:7,l:["A terra deu o seu fruto:","abençoe-nos Deus, o nosso Deus."],np:1},
+{v:8,l:["Abençoe-nos Deus","e temam-no todos os confins da terra."]}
+];
+
+window.TEXTOS_SEED["salmos"][68] = [
+{v:1,t:"Ao mestre do coro. De Davi. Salmo. Cântico."},
+{v:2,l:["Levante-se Deus, e dispersem-se os seus inimigos,","e fujam da sua face os que o odeiam."],np:1,n:"É o grito com que, segundo Números 10, se levantava a arca ao partir o acampamento. O salmo inteiro é uma procissão: tem fama de ser o mais difícil do saltério, com palavras que só aqui aparecem e imagens que mudam de verso para verso, e por isso nele se afastam mais do que o costume as traduções antigas."},
+{v:3,l:["Como se dissipa a fumaça, tu os dissipas;","como a cera se derrete diante do fogo,","assim pereçam os ímpios diante de Deus."]},
+{v:4,l:["Mas os justos se alegrem e exultem diante de Deus","e se rejubilem de alegria."]},
+{v:5,l:["Cantai a Deus, entoai salmos ao seu nome,","abri caminho ao que cavalga sobre as nuvens.","O seu nome é Senhor: exultai diante dele."],np:1,n:"Cavalgar sobre as nuvens era, na poesia de Canaã, título de Baal; o salmo toma-o e devolve-o ao único a quem cabe, como quem retira uma insígnia usurpada."},
+{v:6,l:["Pai dos órfãos e defensor das viúvas","é Deus na sua santa morada."]},
+{v:7,l:["Deus dá casa aos desamparados","e faz sair os cativos para a abundância;","mas os rebeldes ficam em terra seca."]},
+{v:8,l:["Ó Deus, quando saías à frente do teu povo,","quando avançavas pelo deserto,"],np:1},
+{v:9,l:["tremeu a terra, e os céus se desfizeram em chuva","diante de Deus, o do Sinai,","diante de Deus, o Deus de Israel."]},
+{v:10,l:["Chuva generosa derramaste, ó Deus, sobre a tua herança","e, quando ela estava exausta, tu a restauraste."]},
+{v:11,l:["Os teus viventes nela habitaram;","na tua bondade, ó Deus, proveste ao pobre."]},
+{v:12,l:["O Senhor dá a palavra,","e é grande a multidão das mensageiras da vitória:"],np:1,n:"As mensageiras são mulheres: no antigo Israel cabia a elas sair ao encontro do exército vitorioso e anunciar a notícia com cantos e tamborins."},
+{v:13,l:["Fogem, fogem os reis dos exércitos,","e quem ficou em casa reparte os despojos."]},
+{v:14,l:["Enquanto repousais entre os apriscos,","as asas da pomba cobrem-se de prata","e as suas penas, de ouro reluzente."]},
+{v:15,l:["Quando ali o Todo-poderoso dispersava os reis,","caía neve sobre o Salmon."],np:1},
+{v:16,l:["Monte de Deus é o monte de Basã,","monte de muitos cumes é o monte de Basã."]},
+{v:17,l:["Por que olhais com inveja, montes de muitos cumes,","o monte que Deus escolheu para morada sua?","Ali habitará o Senhor para sempre."],np:1,n:"Basã é a serra alta do nordeste, e Sião apenas uma colina: o salmo faz das montanhas grandiosas um coro de invejosas diante do monte pequeno que Deus preferiu."},
+{v:18,l:["Os carros de Deus são miríades e milhares;","do Sinai veio o Senhor para o santuário."]},
+{v:19,l:["Subiste ao alto levando cativos,","recebeste homens como tributo,","até os rebeldes, para que o Senhor Deus ali habitasse."],np:1,n:"São Paulo cita este verso na Carta aos Efésios, aplicando-o à Ascensão, com uma mudança que a tradição judaica já conhecia: onde o salmo diz recebeste dons, o Apóstolo lê deu dons aos homens."},
+{v:20,l:["Bendito seja o Senhor dia após dia:","carrega-nos Deus, a nossa salvação."],np:1},
+{v:21,l:["O nosso Deus é um Deus que salva;","ao Senhor Deus pertencem as saídas da morte."]},
+{v:22,l:["Mas Deus há de quebrar a cabeça dos seus inimigos,","o crânio cabeludo do que caminha nas suas culpas."],np:1},
+{v:23,l:["Disse o Senhor: De Basã eu os farei voltar,","das profundezas do mar eu os farei voltar,"]},
+{v:24,l:["para que mergulhes o teu pé no sangue","e a língua dos teus cães tenha dos inimigos a sua parte."]},
+{v:25,l:["Viu-se o teu cortejo, ó Deus,","o cortejo do meu Deus, do meu rei, no santuário."],np:1},
+{v:26,l:["À frente vão os cantores, atrás os tocadores de cordas;","no meio, as jovens tocando tamborins."]},
+{v:27,l:["Bendizei a Deus nas assembleias,","bendizei ao Senhor, vós que sois da fonte de Israel."]},
+{v:28,l:["Ali está Benjamim, o mais novo, a guiá-los;","os príncipes de Judá em seu grupo,","os príncipes de Zabulão, os príncipes de Neftali."],n:"Duas tribos do sul e duas do norte, e à frente a menor de todas: o desfile é feito de modo que nenhuma parte do povo fique de fora, e a precedência caiba à menor delas."},
+{v:29,l:["Ordena, ó Deus, a tua força;","confirma, ó Deus, o que fizeste por nós."],np:1},
+{v:30,l:["Por causa do teu templo, sobre Jerusalém,","os reis te hão de trazer presentes."]},
+{v:31,l:["Reprime a fera dos canaviais,","a manada dos touros com os novilhos dos povos,","que se prostram com barras de prata.","Dispersa os povos que se comprazem na guerra."],n:"A fera dos canaviais é o hipopótamo ou o crocodilo do Nilo, figura do Egito; os touros e novilhos, os reis e os seus vassalos."}
+,{v:32,l:["Venham os grandes do Egito,","e a Etiópia estenda as suas mãos para Deus."]},
+{v:33,l:["Reinos da terra, cantai a Deus,","entoai salmos ao Senhor,"],np:1},
+{v:34,l:["ao que cavalga sobre os céus, os céus antigos.","Eis que ele faz ouvir a sua voz, voz poderosa."]},
+{v:35,l:["Reconhecei o poder de Deus.","Sobre Israel está a sua majestade,","e o seu poder, nas nuvens."],np:1},
+{v:36,l:["Temível é Deus desde o seu santuário.","O Deus de Israel dá força e vigor ao seu povo.","Bendito seja Deus!"]}
+];

@@ -487,3 +487,113 @@ window.TEXTOS_SEED["salmos"][48] = [
 {v:14,l:["Considerai as suas muralhas,","percorrei os seus palácios,","para contardes à geração futura:"]},
 {v:15,l:["Este é Deus, o nosso Deus para todo o sempre;","ele nos guiará para sempre."]}
 ];
+
+window.TEXTOS_SEED["salmos"][49] = [
+{v:1,t:"Ao mestre do coro. Dos filhos de Coré. Salmo."},
+{v:2,l:["Ouvi isto, todos os povos;","escutai, todos os habitantes do mundo:"],np:1},
+{v:3,l:["gente do povo e gente nobre,","o rico e o pobre juntamente."]},
+{v:4,l:["A minha boca falará sabedoria,","e a meditação do meu coração, inteligência."]},
+{v:5,l:["Inclinarei o meu ouvido à parábola,","e ao som da cítara exporei o meu enigma."],n:"Parábola e enigma traduzem mashal e hidah: o salmo anuncia-se como poema de sabedoria, e não como oração — fala aos homens antes de falar a Deus."},
+{v:6,l:["Por que hei de temer nos dias maus,","quando me cerca a malícia dos que me espreitam,"],np:1},
+{v:7,l:["dos que confiam nas suas riquezas","e se gloriam da sua grande fortuna?"]},
+{v:8,l:["Ninguém pode resgatar a si mesmo,","nem pagar a Deus o seu preço."]},
+{v:9,l:["É caro demais o resgate de uma alma:","nunca lhe bastará"]},
+{v:10,l:["para viver para sempre","e não ver a cova."]},
+{v:11,l:["Pois vê-se que os sábios morrem,","e juntamente perecem o insensato e o estúpido,","e deixam a outros as suas riquezas."]},
+{v:12,l:["Os seus sepulcros são as suas casas para sempre,","as suas moradas de geração em geração,","ainda que tenham dado os seus nomes às terras."]},
+{v:13,l:["O homem, no fausto, não permanece:","é semelhante aos animais que perecem."],n:"Este verso volta, com uma palavra mudada, no fim do salmo: ali dirá não entende, em vez de não permanece. É o refrão que divide o poema."},
+{v:14,l:["Este é o caminho dos que confiam em si,","e o fim dos que se comprazem nas suas palavras."],np:1},
+{v:15,l:["Como ovelhas são postos na morada dos mortos;","a morte os apascenta,","e pela manhã os retos os dominarão.","A sua figura se consome:","a morada dos mortos é a sua habitação."]},
+{v:16,l:["Mas Deus resgatará a minha alma","do poder da morada dos mortos,","porque me tomará consigo."],n:"Tomar consigo é o verbo que o Gênesis usa de Henoc e o segundo livro dos Reis, de Elias: um dos raros lugares do Antigo Testamento em que se entrevê esperança para além da morte."},
+{v:17,l:["Não temas quando alguém enriquece,","quando cresce a glória da sua casa,"],np:1},
+{v:18,l:["porque, ao morrer, nada levará consigo,","nem a sua glória descerá com ele."]},
+{v:19,l:["Ainda que em vida se felicitasse","— e te louvam por te dares bem —,"]},
+{v:20,l:["irá ter com a geração de seus pais,","que nunca mais verão a luz."]},
+{v:21,l:["O homem, no fausto, não entende:","é semelhante aos animais que perecem."]}
+];
+
+window.TEXTOS_SEED["salmos"][50] = [
+{v:1,l:["Salmo de Asaf.","O Deus dos deuses, o Senhor, fala","e convoca a terra,","do nascente do sol até ao poente."],n:"Asaf era outro dos mestres de canto instituídos por Davi, e dá nome a doze salmos. Este é o único dele no segundo livro; os demais vêm juntos, do 73 ao 83."},
+{v:2,l:["De Sião, beleza perfeita,","Deus resplandece."]},
+{v:3,l:["Vem o nosso Deus e não se cala:","diante dele, um fogo devorador;","ao redor dele, forte tempestade."]},
+{v:4,l:["Convoca os céus do alto","e a terra, para julgar o seu povo:"]},
+{v:5,l:["Reuni diante de mim os meus fiéis,","que selaram comigo a aliança pelo sacrifício."]},
+{v:6,l:["E os céus anunciam a sua justiça,","porque é Deus quem julga."]},
+{v:7,l:["Ouve, meu povo, e eu falarei;","Israel, eu darei testemunho contra ti:","eu sou Deus, o teu Deus."],np:1},
+{v:8,l:["Não te repreendo pelos teus sacrifícios,","pois os teus holocaustos estão sempre diante de mim."]},
+{v:9,l:["Não receberei novilho da tua casa,","nem bodes dos teus rebanhos,"]},
+{v:10,l:["porque são meus todos os animais das selvas,","e os rebanhos aos milhares nos montes."]},
+{v:11,l:["Conheço todas as aves do céu,","e o que se move no campo está diante de mim."]},
+{v:12,l:["Se eu tivesse fome, não to diria,","porque meu é o mundo e tudo o que ele contém."],n:"Responde à linguagem antiga dos sacrifícios, que chamava alimento de Deus às ofertas: a Escritura conserva a palavra e aqui desfaz-lhe o sentido."},
+{v:13,l:["Acaso comerei carne de touros","ou beberei sangue de bodes?"]},
+{v:14,l:["Oferece a Deus sacrifício de louvor","e cumpre os teus votos ao Altíssimo;"]},
+{v:15,l:["invoca-me no dia da angústia:","eu te livrarei, e tu me glorificarás."]},
+{v:16,l:["Mas ao ímpio Deus diz:","Por que recitas os meus preceitos","e tens na boca a minha aliança,"],np:1},
+{v:17,l:["tu que odeias a disciplina","e lanças atrás de ti as minhas palavras?"]},
+{v:18,l:["Se vês um ladrão, corres com ele,","e com os adúlteros fazes parte."]},
+{v:19,l:["Soltas a tua boca para o mal,","e a tua língua trama o engano."]},
+{v:20,l:["Sentas-te e falas contra o teu irmão,","difamas o filho de tua mãe."]},
+{v:21,l:["Fizeste isso, e eu me calei;","julgaste que eu era como tu.","Eu te repreenderei","e porei tudo diante dos teus olhos."],n:"Julgaste que eu era como tu: o silêncio de Deus foi tomado por cumplicidade, e é esse o engano que o salmo desfaz."},
+{v:22,l:["Entendei isto, vós que esqueceis Deus,","para que eu não vos despedace, sem que haja quem livre."],np:1},
+{v:23,l:["Quem oferece sacrifício de louvor me honra,","e ao que anda no reto caminho","mostrarei a salvação de Deus."]}
+];
+
+window.TEXTOS_SEED["salmos"][51] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi,"},
+{v:2,t:"quando o profeta Natã veio ter com ele, depois que ele pecara com Betsabeia.",n:"Quarto dos sete salmos penitenciais, e o mais conhecido de todos; pelo seu começo em latim chama-se Miserere. O episódio está no segundo livro de Samuel."},
+{v:3,l:["Tem piedade de mim, ó Deus, segundo a tua misericórdia;","segundo a tua grande compaixão, apaga a minha transgressão."],np:1},
+{v:4,l:["Lava-me inteiramente da minha culpa","e purifica-me do meu pecado."]},
+{v:5,l:["Porque reconheço a minha transgressão,","e o meu pecado está sempre diante de mim."]},
+{v:6,l:["Contra ti, só contra ti, pequei,","e fiz o mal diante dos teus olhos:","assim és justo na tua sentença","e reto no teu julgamento."],n:"Davi pecara contra Betsabeia e contra Urias, que mandou matar; dizer contra ti, só contra ti não nega esse mal, mas reconhece que todo pecado, no fundo, é rutura com Deus."},
+{v:7,l:["Eis que na culpa fui gerado,","e em pecado me concebeu minha mãe."]},
+{v:8,l:["Eis que amas a verdade no íntimo,","e no segredo me ensinas a sabedoria."]},
+{v:9,l:["Aspergirás sobre mim com hissopo, e ficarei puro;","hás de lavar-me, e ficarei mais branco que a neve."],n:"O hissopo é o molho de ervas com que se aspergia o sangue no rito da purificação, descrito em Levítico 14 e em Números 19."},
+{v:10,l:["Faze-me ouvir alegria e júbilo,","e exultarão os ossos que esmagaste."]},
+{v:11,l:["Esconde a tua face dos meus pecados","e apaga todas as minhas culpas."]},
+{v:12,l:["Cria em mim, ó Deus, um coração puro,","e renova dentro de mim um espírito firme."],np:1,n:"Cria traduz bará, verbo que a Escritura reserva a Deus e que abre o Gênesis. Pede-se pelo coração novo o mesmo ato com que se fez o mundo."},
+{v:13,l:["Não me rejeites da tua presença,","nem retires de mim o teu santo espírito."]},
+{v:14,l:["Devolve-me a alegria da tua salvação","e sustenta-me com um espírito generoso."]},
+{v:15,l:["Ensinarei aos transgressores os teus caminhos,","e os pecadores voltarão a ti."]},
+{v:16,l:["Livra-me do sangue, ó Deus, Deus da minha salvação,","e a minha língua exaltará a tua justiça."]},
+{v:17,l:["Senhor, abre os meus lábios,","e a minha boca anunciará o teu louvor."],n:"Verso com que se abre cada dia a Liturgia das Horas: antes de louvar, pede-se a própria capacidade de louvar."},
+{v:18,l:["Pois não te agradas do sacrifício,","e, se eu oferecesse holocausto, não o aceitarias."]},
+{v:19,l:["O sacrifício que agrada a Deus é um espírito contrito;","um coração contrito e humilhado, ó Deus, não o desprezas."]},
+{v:20,l:["Sê benigno para com Sião, na tua bondade,","e reedifica as muralhas de Jerusalém."],np:1,n:"Os dois últimos versículos parecem acrescentados no desterro, quando as muralhas estavam por terra; e corrigem o anterior, devolvendo lugar ao sacrifício depois de o poema o ter posto abaixo."},
+{v:21,l:["Então aceitarás os sacrifícios legítimos,","as oblações e os holocaustos;","então se oferecerão novilhos sobre o teu altar."]}
+];
+
+window.TEXTOS_SEED["salmos"][52] = [
+{v:1,t:"Ao mestre do coro. Poema de Davi,"},
+{v:2,t:"quando Doeg, o edomita, foi contar a Saul: Davi entrou na casa de Aquimelec.",n:"O episódio está no primeiro livro de Samuel: a denúncia de Doeg custou a vida aos sacerdotes de Nobe."},
+{v:3,l:["Por que te glorias na malícia, ó valente?","A misericórdia de Deus dura todo o dia."],np:1},
+{v:4,l:["A tua língua trama a ruína,","como navalha afiada, ó artífice do engano."]},
+{v:5,l:["Amas mais o mal do que o bem,","a mentira mais do que falar com justiça."]},
+{v:6,l:["Amas toda palavra que devora,","ó língua enganadora."]},
+{v:7,l:["Por isso Deus te destruirá para sempre:","há de arrancar-te e tirar-te da tenda,","e desarraigar-te da terra dos viventes."],np:1},
+{v:8,l:["Os justos verão e temerão,","e dele se rirão:"]},
+{v:9,l:["Eis o homem que não pôs em Deus a sua fortaleza,","mas confiou na sua grande riqueza","e se fortaleceu na sua malícia."]},
+{v:10,l:["Eu, porém, sou como oliveira verdejante na casa de Deus;","confio na misericórdia de Deus para todo o sempre."],np:1,n:"A oliveira dá fruto por séculos e não se replanta: o contraste é com o homem do versículo 7, arrancado pela raiz."},
+{v:11,l:["Para sempre te darei graças pelo que fizeste,","e esperarei no teu nome, porque é bom,","diante dos teus fiéis."]}
+];
+
+window.TEXTOS_SEED["salmos"][53] = [
+{v:1,t:"Ao mestre do coro. Sobre a doença. Poema de Davi.",n:"É o Salmo 14 repetido, com uma diferença constante: onde aquele diz Senhor, este diz Deus. A troca percorre todos os salmos de 42 a 83, e por isso se lhes chama o saltério eloísta."},
+{v:2,l:["Diz o insensato no seu coração: Não há Deus.","Corromperam-se, cometeram iniquidades abomináveis;","não há quem faça o bem."],np:1,n:"O insensato não nega a existência de Deus, que ninguém então negava, mas que ele se importe: diz no coração, isto é, para si, o que não ousaria dizer em voz alta."},
+{v:3,l:["Deus olha do céu para os filhos dos homens,","para ver se há algum sensato,","algum que busque a Deus."]},
+{v:4,l:["Todos se desviaram, juntamente se corromperam;","não há quem faça o bem, não há nem um sequer."],n:"São Paulo cita estes versos na Carta aos Romanos, ao mostrar que judeus e gregos estão igualmente sob o pecado."},
+{v:5,l:["Não têm entendimento os que praticam a iniquidade,","que devoram o meu povo como quem come pão","e não invocam a Deus?"],np:1},
+{v:6,l:["Ali tremeram de medo, onde não havia medo,","porque Deus dispersou os ossos dos que te sitiavam;","foram envergonhados, porque Deus os rejeitou."]},
+{v:7,l:["Quem dará de Sião a salvação de Israel?","Quando Deus mudar a sorte do seu povo,","exultará Jacó, e Israel se alegrará."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][54] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. Poema de Davi,"},
+{v:2,t:"quando os zifeus foram dizer a Saul: Não está Davi escondido entre nós?",n:"Também este episódio vem do primeiro livro de Samuel: os zifeus denunciaram duas vezes o esconderijo de Davi."},
+{v:3,l:["Ó Deus, salva-me pelo teu nome","e faze-me justiça pelo teu poder."],np:1},
+{v:4,l:["Ó Deus, ouve a minha oração,","dá ouvidos às palavras da minha boca."]},
+{v:5,l:["Porque estranhos se levantaram contra mim,","e violentos buscam a minha vida;","não põem Deus diante dos seus olhos."]},
+{v:6,l:["Eis que Deus é o meu auxílio;","o Senhor é o amparo da minha vida."],np:1},
+{v:7,l:["Faze recair o mal sobre os que me espreitam;","na tua verdade, destrói-os."]},
+{v:8,l:["De bom grado te oferecerei sacrifício","e louvarei o teu nome, Senhor, porque é bom."]},
+{v:9,l:["Ele me livrou de toda angústia,","e os meus olhos viram a derrota dos meus inimigos."]}
+];

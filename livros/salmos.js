@@ -2654,3 +2654,149 @@ window.TEXTOS_SEED["salmos"][119] = [
 {v:175,l:["Viva a minha alma e te louve,","e ajudem-me os teus juízos."]},
 {v:176,l:["Andei errante como ovelha perdida:","busca o teu servo,","porque não esqueci os teus mandamentos."],n:"Depois de 175 versos sobre guardar a lei, o salmo acaba confessando que se perdeu, e o último pedido não é entendimento nem força: é que venham buscá-lo. Daqui parte a parábola da ovelha perdida."}
 ];
+
+window.TEXTOS_SEED["salmos"][120] = [
+{v:1,l:["Cântico das subidas.","Na minha angústia clamei ao Senhor,","e ele me respondeu."],np:1,n:"Começa aqui o grupo dos quinze Cânticos das Subidas, os Salmos 120 a 134. Cantavam-se a caminho de Jerusalém, nas três peregrinações anuais; subir é o verbo próprio de quem vai ao templo, porque a cidade está no alto. São curtos, simples e ordenados como um itinerário: o primeiro é dito no desterro, e o último, de noite, já dentro da casa do Senhor."},
+{v:2,l:["Senhor, livra a minha alma dos lábios mentirosos,","da língua enganadora."],np:1},
+{v:3,l:["Que te dará e que te acrescentará,","ó língua enganadora?"]},
+{v:4,l:["Flechas agudas de guerreiro,","com brasas de giesta."]},
+{v:5,l:["Ai de mim, que moro como estrangeiro em Mosoc,","que habito entre as tendas de Cedar!"],np:1,n:"Mosoc fica no extremo norte e Cedar no deserto do sul: ninguém pode morar nos dois. É modo de dizer que se está longe de toda parte, entre gente com quem não se pode falar."},
+{v:6,l:["Demasiado tempo morou a minha alma","com os que odeiam a paz."]},
+{v:7,l:["Eu sou pela paz; mas, quando falo,","eles são pela guerra."]}
+];
+
+window.TEXTOS_SEED["salmos"][121] = [
+{v:1,l:["Cântico das subidas.","Levanto os meus olhos para os montes:","donde me virá o socorro?"],np:1,n:"Os montes são ambíguos de propósito: deles vem o perigo dos salteadores, e neles estavam os santuários dos ídolos. O verso seguinte corrige a direção do olhar — o socorro não vem dos montes, vem de quem os fez."},
+{v:2,l:["O meu socorro vem do Senhor,","que fez o céu e a terra."]},
+{v:3,l:["Não deixará vacilar o teu pé,","nem dormirá o que te guarda."],np:1},
+{v:4,l:["Eis que não dormita nem dorme","o que guarda Israel."]},
+{v:5,l:["O Senhor é quem te guarda;","o Senhor é a tua sombra, à tua direita."],np:1},
+{v:6,l:["De dia o sol não te há de ferir,","nem a lua, de noite."]},
+{v:7,l:["O Senhor te guardará de todo mal;","ele guardará a tua vida."],np:1},
+{v:8,l:["O Senhor guardará a tua saída e a tua entrada,","desde agora e para sempre."]}
+];
+
+window.TEXTOS_SEED["salmos"][122] = [
+{v:1,l:["Cântico das subidas. De Davi.","Alegrei-me quando me disseram:","Vamos à casa do Senhor."],np:1},
+{v:2,l:["Já pisam os nossos pés","as tuas portas, Jerusalém."]},
+{v:3,l:["Jerusalém, construída como cidade","bem unida em si mesma."],np:1},
+{v:4,l:["Para lá sobem as tribos, as tribos do Senhor,","segundo o preceito dado a Israel,","para dar graças ao nome do Senhor."]},
+{v:5,l:["Ali estão os tronos do juízo,","os tronos da casa de Davi."]},
+{v:6,l:["Pedi a paz para Jerusalém:","vivam seguros os que te amam."],np:1,n:"O nome da cidade traz dentro de si a palavra paz, e o verso joga com isso: pedir paz para Jerusalém é pedir que ela seja o que o seu nome diz."},
+{v:7,l:["Haja paz dentro dos teus muros","e segurança nos teus palácios."]},
+{v:8,l:["Por amor dos meus irmãos e amigos,","eu direi: A paz esteja em ti."],np:1},
+{v:9,l:["Por amor da casa do Senhor nosso Deus,","buscarei o teu bem."]}
+];
+
+window.TEXTOS_SEED["salmos"][123] = [
+{v:1,l:["Cântico das subidas.","A ti levanto os meus olhos,","a ti, que habitas nos céus."],np:1},
+{v:2,l:["Eis que, como os olhos dos servos","na mão dos seus senhores,","como os olhos da serva","na mão da sua senhora,","assim os nossos olhos no Senhor nosso Deus,","até que tenha piedade de nós."],np:1,n:"O servo não olha para o rosto do senhor, mas para a mão: é dela que vem o sinal, e dela vem o alimento. A comparação diz uma atenção inteira, sem distração possível."},
+{v:3,l:["Tem piedade de nós, Senhor, tem piedade de nós,","porque estamos fartos de desprezo."],np:1},
+{v:4,l:["A nossa alma está farta","do escárnio dos que vivem na fartura,","do desprezo dos soberbos."]}
+];
+
+window.TEXTOS_SEED["salmos"][124] = [
+{v:1,l:["Cântico das subidas. De Davi.","Se o Senhor não estivesse por nós","— diga-o agora Israel —,"],np:1},
+{v:2,l:["se o Senhor não estivesse por nós","quando os homens se levantaram contra nós,"]},
+{v:3,l:["vivos nos teriam engolido,","quando se acendeu a sua ira contra nós."]},
+{v:4,l:["As águas nos teriam arrastado,","a torrente teria passado sobre a nossa alma;"],np:1},
+{v:5,l:["teriam passado sobre a nossa alma","as águas impetuosas."]},
+{v:6,l:["Bendito seja o Senhor,","que não nos entregou por presa aos seus dentes."],np:1},
+{v:7,l:["A nossa alma escapou como pássaro","do laço dos caçadores;","o laço quebrou-se, e nós escapamos."]},
+{v:8,l:["O nosso auxílio está no nome do Senhor,","que fez o céu e a terra."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][125] = [
+{v:1,l:["Cântico das subidas.","Os que confiam no Senhor são como o monte Sião:","não vacila, permanece para sempre."],np:1},
+{v:2,l:["Jerusalém está rodeada de montes,","e o Senhor rodeia o seu povo,","desde agora e para sempre."]},
+{v:3,l:["Não há de pesar o cetro dos ímpios","sobre a herança dos justos,","para que os justos não estendam as mãos à iniquidade."],np:1,n:"A razão dada é notável: o domínio injusto não deve durar, não só pelo que faz sofrer, mas porque acaba por corromper quem o suporta."},
+{v:4,l:["Faze bem, Senhor, aos bons","e aos retos de coração."],np:1},
+{v:5,l:["Mas os que se desviam por caminhos tortuosos,","leve-os o Senhor com os que praticam a iniquidade.","Paz sobre Israel!"]}
+];
+
+window.TEXTOS_SEED["salmos"][126] = [
+{v:1,l:["Cântico das subidas.","Quando o Senhor mudou a sorte de Sião,","éramos como quem sonha."],np:1},
+{v:2,l:["Então a nossa boca se encheu de riso,","e a nossa língua, de cânticos de júbilo.","Então se dizia entre as nações:","Grandes coisas fez o Senhor por eles."]},
+{v:3,l:["Grandes coisas fez o Senhor por nós,","e estamos alegres."]},
+{v:4,l:["Muda, Senhor, a nossa sorte,","como as torrentes do Negueb."],np:1,n:"No Negueb, o deserto do sul, os leitos secos enchem-se de água de repente, numa noite de chuva. A imagem é a da mudança que ninguém viu chegar."},
+{v:5,l:["Os que semeiam em lágrimas","colherão com júbilo."]},
+{v:6,l:["Vai chorando o que leva a semente para semear,","mas volta com júbilo, trazendo os seus feixes."]}
+];
+
+window.TEXTOS_SEED["salmos"][127] = [
+{v:1,l:["Cântico das subidas. De Salomão.","Se o Senhor não edificar a casa,","em vão trabalham os que a edificam.","Se o Senhor não guardar a cidade,","em vão vigia a sentinela."],np:1},
+{v:2,l:["Em vão vos levantais antes da aurora","e vos deitais tarde,","vós que comeis o pão da fadiga,","pois ele o dá aos seus amados enquanto dormem."],n:"Verso de leitura discutida: pode entender-se que Deus dá aos seus o sono, ou que lhes dá o pão durante o sono, sem que se afadiguem por ele. As duas leituras dizem o mesmo por caminhos diferentes, e a Nova Vulgata segue a segunda."},
+{v:3,l:["Eis que os filhos são herança do Senhor,","e recompensa, o fruto do ventre."],np:1},
+{v:4,l:["Como flechas na mão de um guerreiro,","assim são os filhos da juventude."]},
+{v:5,l:["Feliz o homem que encheu deles a sua aljava:","não será envergonhado quando disputar","com os inimigos à porta."]}
+];
+
+window.TEXTOS_SEED["salmos"][128] = [
+{v:1,l:["Cântico das subidas.","Feliz todo o que teme o Senhor","e anda nos seus caminhos."],np:1},
+{v:2,l:["Comerás do trabalho das tuas mãos:","feliz serás, e tudo te irá bem."]},
+{v:3,l:["A tua mulher será como videira fecunda","no interior da tua casa;","os teus filhos, como rebentos de oliveira","ao redor da tua mesa."],np:1},
+{v:4,l:["Assim será abençoado o homem","que teme o Senhor."]},
+{v:5,l:["Abençoe-te o Senhor desde Sião,","e vejas a prosperidade de Jerusalém","todos os dias da tua vida,"],np:1},
+{v:6,l:["e vejas os filhos dos teus filhos.","Paz sobre Israel!"]}
+];
+
+window.TEXTOS_SEED["salmos"][129] = [
+{v:1,l:["Cântico das subidas.","Muito me atormentaram desde a minha juventude","— diga-o agora Israel —,"],np:1},
+{v:2,l:["muito me atormentaram desde a minha juventude,","mas não prevaleceram contra mim."]},
+{v:3,l:["Sobre as minhas costas araram os lavradores","e abriram longos sulcos."]},
+{v:4,l:["O Senhor é justo:","cortou as cordas dos ímpios."]},
+{v:5,l:["Fiquem envergonhados e recuem","todos os que odeiam Sião."],np:1},
+{v:6,l:["Sejam como a erva dos telhados,","que seca antes de ser arrancada,"]},
+{v:7,l:["com que o segador não enche a mão","nem o braço o que faz os feixes,"]},
+{v:8,l:["e não dizem os que passam:","A bênção do Senhor seja sobre vós;","nós vos abençoamos em nome do Senhor."],n:"A maldição consiste em ficar de fora da saudação que se dava aos ceifeiros no campo. Não se pede castigo: pede-se apenas que não haja nada a colher."}
+];
+
+window.TEXTOS_SEED["salmos"][130] = [
+{v:1,l:["Cântico das subidas.","Das profundezas clamo a ti, Senhor."],np:1,n:"Sexto salmo penitencial, e o mais rezado pelos mortos em toda a tradição latina, pelas suas primeiras palavras: De profundis. As profundezas não são aqui o abismo dos mortos, mas a culpa; e o salmo não pede que Deus não veja, mas que perdoe vendo."},
+{v:2,l:["Senhor, ouve a minha voz;","estejam os teus ouvidos atentos","à voz da minha súplica."]},
+{v:3,l:["Se atentares nas culpas, Senhor,","Senhor, quem subsistirá?"],np:1},
+{v:4,l:["Mas em ti está o perdão,","para que te temam."],n:"O verso diz o contrário do que se esperaria: teme-se a Deus não por causa do castigo, mas por causa do perdão. É o temor de quem foi poupado, e não o de quem tem medo."},
+{v:5,l:["Espero no Senhor;","a minha alma espera na sua palavra."],np:1},
+{v:6,l:["A minha alma aguarda o Senhor","mais do que os guardas pela aurora,","mais do que os guardas pela aurora."]},
+{v:7,l:["Espere Israel no Senhor,","porque no Senhor está a misericórdia","e nele, copiosa redenção."],np:1},
+{v:8,l:["E ele redimirá Israel","de todas as suas culpas."]}
+];
+
+window.TEXTOS_SEED["salmos"][131] = [
+{v:1,l:["Cântico das subidas. De Davi.","Senhor, o meu coração não se ensoberbeceu,","nem os meus olhos se levantaram;","não andei em coisas grandes","nem em maravilhas acima de mim."],np:1},
+{v:2,l:["Antes acalmei e aquietei a minha alma,","como criança desmamada no colo de sua mãe;","como criança desmamada está em mim a minha alma."],np:1,n:"A comparação é exata e fácil de perder: não é a criança que mama, que ainda quer algo da mãe, mas a já desmamada, que está ao colo sem pedir nada. Três versículos apenas, e é dos salmos mais citados pelos mestres da vida interior."},
+{v:3,l:["Espere Israel no Senhor,","desde agora e para sempre."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][132] = [
+{v:1,l:["Cântico das subidas.","Lembra-te, Senhor, de Davi","e de toda a sua aflição:"],np:1},
+{v:2,l:["como jurou ao Senhor","e fez voto ao Poderoso de Jacó:"]},
+{v:3,l:["Não entrarei na tenda da minha casa,","não subirei ao leito do meu descanso,"]},
+{v:4,l:["não darei sono aos meus olhos","nem repouso às minhas pálpebras,"]},
+{v:5,l:["até que encontre lugar para o Senhor,","morada para o Poderoso de Jacó."]},
+{v:6,l:["Eis que ouvimos falar dela em Éfrata,","encontramo-la nos campos de Jaar."],np:1,n:"Fala-se da arca, sem a nomear. Jaar é Quiriat-Jearim, onde a arca ficou vinte anos depois de voltar dos filisteus, até que Davi a subiu a Jerusalém."},
+{v:7,l:["Entremos na sua morada,","prostremo-nos diante do escabelo dos seus pés."]},
+{v:8,l:["Levanta-te, Senhor, e vem para o teu repouso,","tu e a arca do teu poder."]},
+{v:9,l:["Vistam-se de justiça os teus sacerdotes","e exultem os teus fiéis."]},
+{v:10,l:["Por amor de Davi, teu servo,","não rejeites a face do teu ungido."]},
+{v:11,l:["Jurou o Senhor a Davi","uma verdade de que não há de retratar-se:","Do fruto do teu ventre","porei sobre o teu trono."],np:1},
+{v:12,l:["Se os teus filhos guardarem a minha aliança","e os meus testemunhos que lhes ensinarei,","também os seus filhos, para sempre,","se sentarão sobre o teu trono."]},
+{v:13,l:["Porque o Senhor escolheu Sião,","desejou-a para sua morada:"],np:1},
+{v:14,l:["Este é o meu repouso para sempre;","aqui habitarei, porque a desejei."]},
+{v:15,l:["Abençoarei com fartura os seus víveres,","saciarei de pão os seus pobres."]},
+{v:16,l:["Vestirei de salvação os seus sacerdotes,","e os seus fiéis exultarão de alegria."]},
+{v:17,l:["Ali farei brotar o poder de Davi;","preparei uma lâmpada para o meu ungido."],np:1,n:"A lâmpada que não se apaga é, nos livros dos Reis, a promessa de que não faltará descendente a Davi. O Benedictus recolhe a imagem no cântico de Zacarias."},
+{v:18,l:["Cobrirei de vergonha os seus inimigos,","mas sobre ele florescerá a sua coroa."]}
+];
+
+window.TEXTOS_SEED["salmos"][133] = [
+{v:1,l:["Cântico das subidas. De Davi.","Eis como é bom e como é suave","que os irmãos vivam unidos!"],np:1},
+{v:2,l:["É como o óleo precioso sobre a cabeça,","que desce pela barba, a barba de Aarão,","que desce até à gola das suas vestes."],np:1,n:"O óleo é o da unção sacerdotal, e o verbo descer repete-se três vezes: a concórdia não sobe de baixo, vem de cima e escorre. Foi sempre o salmo lido nas comunidades religiosas para dizer a vida em comum."},
+{v:3,l:["É como o orvalho do Hermon,","que desce sobre os montes de Sião.","Porque ali ordenou o Senhor a bênção:","a vida para sempre."]}
+];
+
+window.TEXTOS_SEED["salmos"][134] = [
+{v:1,l:["Cântico das subidas.","Eis que bendizei o Senhor,","vós todos, servos do Senhor,","que estais na casa do Senhor","pelas noites."],np:1,n:"Fecha os Cânticos das Subidas, e fecha-os de noite: a peregrinação acabou, e quem fala já está dentro do templo. A liturgia tomou-o para as Completas, a última hora do dia."},
+{v:2,l:["Levantai as vossas mãos para o santuário","e bendizei o Senhor."]},
+{v:3,l:["Abençoe-te o Senhor desde Sião,","ele que fez o céu e a terra."],np:1}
+];

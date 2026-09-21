@@ -1553,3 +1553,111 @@ window.TEXTOS_SEED["salmos"][78] = [
 {v:71,l:["de detrás das ovelhas paridas o trouxe,","para apascentar Jacó, seu povo,","e Israel, sua herança."]},
 {v:72,l:["E ele os apascentou com coração íntegro","e os guiou com mão sábia."],n:"O salmo, que começou por advertir, acaba num pastor: toda a história que percorreu desemboca num homem tirado de trás das ovelhas. Daqui vem a figura do pastor que os profetas e o Evangelho hão de retomar."}
 ];
+
+window.TEXTOS_SEED["salmos"][79] = [
+{v:1,l:["Salmo de Asaf.","Ó Deus, as nações invadiram a tua herança,","profanaram o teu santo templo,","reduziram Jerusalém a ruínas."],np:1},
+{v:2,l:["Deram os cadáveres dos teus servos","por comida às aves do céu,","e a carne dos teus fiéis às feras da terra."]},
+{v:3,l:["Derramaram o seu sangue como água ao redor de Jerusalém,","e não houve quem os sepultasse."]},
+{v:4,l:["Tornamo-nos motivo de escárnio para os nossos vizinhos,","de riso e zombaria para os que nos rodeiam."]},
+{v:5,l:["Até quando, Senhor? Estarás irado para sempre?","Arderá como fogo o teu ciúme?"],np:1},
+{v:6,l:["Derrama a tua ira sobre as nações que não te conhecem","e sobre os reinos que não invocam o teu nome,"]},
+{v:7,l:["porque devoraram Jacó","e devastaram a sua morada."]},
+{v:8,l:["Não lembres contra nós as culpas dos antepassados;","venha depressa ao nosso encontro a tua misericórdia,","porque estamos muito abatidos."],np:1},
+{v:9,l:["Ajuda-nos, ó Deus da nossa salvação,","pela glória do teu nome;","livra-nos e perdoa os nossos pecados","por amor do teu nome."]},
+{v:10,l:["Por que hão de dizer as nações: Onde está o seu Deus?","Conheça-se entre as nações, diante dos nossos olhos,","a vingança do sangue derramado dos teus servos."],np:1},
+{v:11,l:["Chegue à tua presença o gemido dos cativos;","com o teu braço poderoso, guarda os condenados à morte."]},
+{v:12,l:["E paga aos nossos vizinhos, sete vezes no seu seio,","o insulto com que te insultaram, Senhor."]},
+{v:13,l:["E nós, teu povo e ovelhas do teu pasto,","te louvaremos para sempre;","de geração em geração contaremos o teu louvor."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][80] = [
+{v:1,t:"Ao mestre do coro. Segundo «Os lírios do testemunho». Salmo de Asaf."},
+{v:2,l:["Pastor de Israel, escuta,","tu que conduzes José como um rebanho;","tu que te sentas sobre os querubins, resplandece"],np:1},
+{v:3,l:["diante de Efraim, Benjamim e Manassés.","Desperta o teu poder","e vem salvar-nos."]},
+{v:4,l:["Ó Deus, restaura-nos;","faze brilhar o teu rosto, e seremos salvos."],np:1,n:"Este verso volta em 8 e em 20, e vai crescendo: primeiro ó Deus, depois Deus dos exércitos, por fim Senhor, Deus dos exércitos. É o modo que o salmo tem de subir de tom sem mudar de palavras."},
+{v:5,l:["Senhor, Deus dos exércitos,","até quando estarás irado","contra a oração do teu povo?"],np:1},
+{v:6,l:["Deste-lhes a comer pão de lágrimas","e a beber lágrimas em grande medida."]},
+{v:7,l:["Fizeste de nós motivo de disputa para os vizinhos,","e os nossos inimigos zombam de nós."]},
+{v:8,l:["Deus dos exércitos, restaura-nos;","faze brilhar o teu rosto, e seremos salvos."],np:1},
+{v:9,l:["Arrancaste do Egito uma videira,","expulsaste as nações e a plantaste."],np:1,n:"A alegoria da videira percorre toda a Escritura: está em Isaías e em Jeremias, e o Senhor retoma-a nas parábolas da vinha e no discurso da última ceia, quando diz eu sou a videira verdadeira."},
+{v:10,l:["Preparaste o terreno diante dela;","lançou raízes e encheu a terra."]},
+{v:11,l:["Cobriu os montes a sua sombra,","e os cedros de Deus, os seus ramos."]},
+{v:12,l:["Estendeu os seus sarmentos até ao mar","e os seus rebentos até ao Rio."]},
+{v:13,l:["Por que derrubaste os seus muros,","de modo que a vindimam todos os que passam pelo caminho?"],np:1},
+{v:14,l:["Devasta-a o javali da floresta,","e as feras do campo a devoram."]},
+{v:15,l:["Ó Deus dos exércitos, volta-te;","olha do céu e vê,","e visita esta videira."],np:1},
+{v:16,l:["Protege o que a tua destra plantou,","o filho que fortaleceste para ti."]},
+{v:17,l:["Foi queimada pelo fogo e cortada;","pereçam ante a ameaça do teu rosto."]},
+{v:18,l:["Esteja a tua mão sobre o homem da tua destra,","sobre o filho do homem que fortaleceste para ti."],np:1},
+{v:19,l:["E não nos afastaremos de ti;","dá-nos vida, e invocaremos o teu nome."]},
+{v:20,l:["Senhor, Deus dos exércitos, restaura-nos;","faze brilhar o teu rosto, e seremos salvos."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][81] = [
+{v:1,t:"Ao mestre do coro. Segundo a de Gat. De Asaf."},
+{v:2,l:["Exultai em Deus, nossa força,","aclamai o Deus de Jacó."],np:1},
+{v:3,l:["Entoai o cântico e tocai o tamborim,","a cítara suave com a harpa."]},
+{v:4,l:["Tocai a trombeta na lua nova,","na lua cheia, no dia da nossa festa."]},
+{v:5,l:["Porque é uma lei para Israel,","um preceito do Deus de Jacó."],np:1},
+{v:6,l:["Estabeleceu-o como testemunho em José,","quando saiu contra a terra do Egito.","Ouço uma língua que não conhecia:"],n:"O salmo muda aqui de voz. Quem falava era a assembleia, convidando à festa; a partir deste verso é Deus quem fala, e o cantor adverte que ouve uma língua desconhecida — o oráculo que vai transmitir não é dele."},
+{v:7,l:["Livrei os seus ombros do peso,","e as suas mãos deixaram o cesto."],np:1},
+{v:8,l:["Na angústia clamaste, e eu te livrei;","respondi-te do esconderijo do trovão,","provei-te junto às águas de Meribá."]},
+{v:9,l:["Ouve, povo meu, e eu te advertirei.","Israel, quem dera me ouvisses!"],np:1},
+{v:10,l:["Não haja em ti deus estranho,","nem adores um deus alheio."]},
+{v:11,l:["Eu sou o Senhor teu Deus,","que te fiz subir da terra do Egito.","Abre bem a tua boca, e eu a encherei."]},
+{v:12,l:["Mas o meu povo não ouviu a minha voz,","e Israel não me obedeceu."],np:1},
+{v:13,l:["Por isso os entreguei à dureza do seu coração,","para que andassem segundo os seus próprios conselhos."]},
+{v:14,l:["Quem dera o meu povo me ouvisse,","que Israel andasse nos meus caminhos!"],np:1},
+{v:15,l:["Num instante eu humilharia os seus inimigos","e voltaria a minha mão contra os seus adversários."]},
+{v:16,l:["Os que odeiam o Senhor o adulariam,","e o seu tempo duraria para sempre."]},
+{v:17,l:["E eu o alimentaria com a flor do trigo","e o saciaria com mel da rocha."],n:"O salmo acaba em condicional, e não em promessa: o bem estava pronto, e ficou por dar. É dos finais mais melancólicos do saltério."}
+];
+
+window.TEXTOS_SEED["salmos"][82] = [
+{v:1,l:["Salmo de Asaf.","Deus levanta-se na assembleia divina;","no meio dos deuses, julga."],np:1,n:"Os deuses são aqui os poderes que governam os povos, e o salmo condena-os por uma só coisa: não fazerem justiça ao fraco. A cena é um tribunal onde os juízes são julgados."},
+{v:2,l:["Até quando julgareis injustamente","e favorecereis os ímpios?"],np:1},
+{v:3,l:["Fazei justiça ao fraco e ao órfão,","defendei o humilde e o indigente."]},
+{v:4,l:["Livrai o fraco e o pobre,","arrancai-os da mão dos ímpios."]},
+{v:5,l:["Nada sabem, nada entendem,","andam nas trevas:","vacilam todos os fundamentos da terra."],np:1},
+{v:6,l:["Eu disse: Sois deuses","e todos vós, filhos do Altíssimo."],np:1,n:"O Senhor cita este verso no Evangelho de São João, quando o acusam de blasfêmia por dizer-se Filho de Deus: se a Escritura chamou deuses àqueles a quem foi dirigida a palavra de Deus…"},
+{v:7,l:["Contudo, morrereis como homens","e caireis como qualquer dos príncipes."]},
+{v:8,l:["Levanta-te, ó Deus, julga a terra,","porque a ti pertencem todas as nações."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][83] = [
+{v:1,t:"Cântico. Salmo de Asaf."},
+{v:2,l:["Ó Deus, não fiques em silêncio;","não te cales nem descanses, ó Deus."],np:1},
+{v:3,l:["Porque eis que os teus inimigos se agitam,","e os que te odeiam levantam a cabeça."]},
+{v:4,l:["Contra o teu povo tramam astutamente","e conspiram contra os que proteges."]},
+{v:5,l:["Dizem: Vinde, risquemo-los da lista dos povos,","e não se lembre mais o nome de Israel."],np:1},
+{v:6,l:["Conspiraram de comum acordo,","fizeram aliança contra ti:"]},
+{v:7,l:["as tendas de Edom e os ismaelitas,","Moab e os agarenos,"],np:1,n:"A lista de dez povos nunca formou, historicamente, uma aliança só: é o inimigo reunido em figura, de todos os lados ao mesmo tempo."},
+{v:8,l:["Gebal, Amon e Amalec,","a Filisteia com os habitantes de Tiro."]},
+{v:9,l:["Também a Assíria se juntou a eles","e veio a ser o braço dos filhos de Lot."]},
+{v:10,l:["Faze-lhes como a Madiã, como a Sísara,","como a Jabin na torrente de Quison:"],np:1,n:"As duas vitórias que se lembram são do tempo dos Juízes, e em ambas Israel era o mais fraco: o canto de Débora contra Sísara, e os trezentos de Gedeão contra Madiã."},
+{v:11,l:["foram destruídos em En-Dor","e tornaram-se esterco para a terra."]},
+{v:12,l:["Trata os seus príncipes como a Oreb e Zeeb,","e todos os seus chefes como a Zebá e Salmana,"]},
+{v:13,l:["que diziam: Tomemos posse","das pastagens de Deus."]},
+{v:14,l:["Meu Deus, faze-os como folha que gira,","como a palha diante do vento."],np:1},
+{v:15,l:["Como o fogo que queima a floresta,","como a chama que abrasa os montes,"]},
+{v:16,l:["assim os persegue com a tua tempestade","e os aterra com o teu vendaval."]},
+{v:17,l:["Cobre-lhes o rosto de vergonha,","para que busquem o teu nome, Senhor."],np:1,n:"Este salmo é imprecatório, mas o seu pedido tem um fim declarado que os outros não têm: que o inimigo, humilhado, venha a buscar o nome do Senhor. A derrota que se pede é uma conversão."},
+{v:18,l:["Sejam envergonhados e aterrados para sempre,","sejam humilhados e pereçam,"]},
+{v:19,l:["e saibam que só tu tens por nome Senhor,","o Altíssimo sobre toda a terra."]}
+];
+
+window.TEXTOS_SEED["salmos"][84] = [
+{v:1,t:"Ao mestre do coro. Segundo a de Gat. Salmo dos filhos de Coré."},
+{v:2,l:["Como são amáveis as tuas moradas,","Senhor dos exércitos!"],np:1},
+{v:3,l:["A minha alma suspira e desfalece","pelos átrios do Senhor;","o meu coração e a minha carne","exultam pelo Deus vivo."]},
+{v:4,l:["Até o pardal encontrou casa,","e a andorinha, um ninho onde pôr os seus filhotes:","os teus altares, Senhor dos exércitos,","meu rei e meu Deus."],np:1,n:"O peregrino inveja os pássaros que fazem ninho no templo: eles moram onde ele só pode visitar. É a imagem mais terna do saltério sobre o desejo da casa de Deus."},
+{v:5,l:["Felizes os que habitam na tua casa:","hão de louvar-te sem cessar."]},
+{v:6,l:["Feliz o homem cuja força está em ti,","o que traz no coração os caminhos santos."],np:1},
+{v:7,l:["Ao passar pelo vale árido, ele o transforma em fonte,","e a chuva do outono o cobre de bênçãos."]},
+{v:8,l:["Caminham de força em força","e Deus aparece-lhes em Sião."]},
+{v:9,l:["Senhor, Deus dos exércitos, ouve a minha oração;","escuta, ó Deus de Jacó."],np:1},
+{v:10,l:["Ó Deus, nosso escudo, olha","e contempla o rosto do teu ungido."]},
+{v:11,l:["Porque um dia nos teus átrios vale mais do que mil;","prefiro estar à soleira da casa do meu Deus","a habitar nas tendas dos ímpios."],np:1},
+{v:12,l:["Porque o Senhor Deus é sol e escudo;","o Senhor dá graça e glória;","não recusa bens aos que andam na integridade."]},
+{v:13,l:["Senhor dos exércitos,","feliz o homem que confia em ti."],np:1}
+];

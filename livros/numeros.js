@@ -1184,7 +1184,7 @@ window.TEXTOS_SEED["numeros"][27] = [
 window.TEXTOS_SEED["numeros"][28] = [
 {s:"O holocausto de cada dia"},
 {v:1,t:"O Senhor falou a Moisés, dizendo:"},
-{v:2,t:"Ordena aos filhos de Israel e dize a eles: Cuidai de me apresentar no devido tempo a minha oferta, o meu alimento, os sacrifícios pelo fogo, de odor suave.",n:"O meu alimento é linguagem herdada dos cultos vizinhos, em que os deuses comiam de facto; a Escritura conserva a palavra e esvazia-lhe o sentido, como dirá o Salmo 50: se eu tivesse fome, não to diria."},
+{v:2,t:"Ordena aos filhos de Israel e dize a eles: Cuidai de me apresentar no devido tempo a minha oferta, o meu alimento, os sacrifícios pelo fogo, de odor suave.",n:"O meu alimento é linguagem herdada dos cultos vizinhos, em que os deuses comiam de fato; a Escritura conserva a palavra e esvazia-lhe o sentido, como dirá o Salmo 50: se eu tivesse fome, não to diria."},
 {v:3,t:"Dirás a eles: Este é o sacrifício pelo fogo que oferecereis ao Senhor: cada dia, dois cordeiros de um ano, sem defeito, em holocausto perpétuo."},
 {v:4,t:"Oferecereis um cordeiro pela manhã e o outro ao entardecer,"},
 {v:5,t:"com a décima parte de um efá de flor de farinha, amassada com a quarta parte de um him de azeite batido, como oblação."},
@@ -1468,7 +1468,7 @@ window.TEXTOS_SEED["numeros"][34] = [
 {v:3,t:"O lado meridional começará no deserto de Sin, junto a Edom; o limite do sul será desde a extremidade do mar Salgado, ao oriente;"},
 {v:4,t:"virará ao sul pela subida de Acrabim, passará a Sin e chegará ao sul de Cades-Barne; seguirá a Hasar-Adar e passará a Asmon;"},
 {v:5,t:"de Asmon virará para a torrente do Egito e terminará no mar."},
-{v:6,t:"O limite ocidental será o mar Grande: esse será o vosso limite ao ocidente.",np:1,n:"O mar Grande é o Mediterrâneo. Os limites aqui traçados são mais largos do que Israel jamais ocupou de facto."},
+{v:6,t:"O limite ocidental será o mar Grande: esse será o vosso limite ao ocidente.",np:1,n:"O mar Grande é o Mediterrâneo. Os limites aqui traçados são mais largos do que Israel jamais ocupou de fato."},
 {v:7,t:"Este será o vosso limite ao norte: do mar Grande traçareis a linha até ao monte Hor;",np:1},
 {v:8,t:"do monte Hor até à entrada de Emat; o limite chegará a Sedada;"},
 {v:9,t:"seguirá a Zefrona e terminará em Hasar-Enan: esse será o vosso limite ao norte."},

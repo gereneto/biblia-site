@@ -225,6 +225,183 @@ window.TEXTOS_SEED["salmos"][16] = [
 {v:11,l:["Hás de ensinar-me o caminho da vida:","alegria plena na tua presença,","delícias eternas à tua direita."]}
 ];
 
+window.TEXTOS_SEED["salmos"][17] = [
+{v:1,l:["Oração de Davi.","Ouve, Senhor, a justa causa; atende ao meu clamor;","dá ouvidos à minha oração, que não vem de lábios enganosos."],n:"Um dos cinco salmos que se intitulam simplesmente oração. O orante apresenta-se como acusado que pede sentença, e o poema tem a forma de um processo."},
+{v:2,l:["Venha de ti a minha sentença;","vejam os teus olhos o que é reto."]},
+{v:3,l:["Provaste o meu coração, visitaste-me de noite,","examinaste-me pelo fogo e não achaste em mim iniquidade;","a minha boca não transgrediu."],np:1},
+{v:4,l:["Quanto às obras dos homens,","pela palavra dos teus lábios","guardei-me dos caminhos do violento."]},
+{v:5,l:["Os meus passos firmaram-se nas tuas veredas,","e os meus pés não vacilaram."]},
+{v:6,l:["Eu te invoco, ó Deus, porque me respondes;","inclina para mim o teu ouvido, escuta as minhas palavras."],np:1},
+{v:7,l:["Mostra as maravilhas da tua misericórdia,","tu que salvas com a tua direita","os que se refugiam dos que se levantam contra eles."]},
+{v:8,l:["Guarda-me como a pupila dos olhos;","esconde-me à sombra das tuas asas,"],n:"Pupila diz à letra a filhinha do olho, pela figura que ali se vê refletida; a sombra das asas é a da ave que cobre a ninhada."},
+{v:9,l:["dos ímpios que me oprimem,","dos inimigos mortais que me cercam."]},
+{v:10,l:["Fecharam-se no seu sebo;","com a boca falam arrogância."],np:1},
+{v:11,l:["Agora cercam os meus passos;","fixam os olhos para me lançar por terra."]},
+{v:12,l:["São como leão ávido de despedaçar,","como leãozinho emboscado nos esconderijos."]},
+{v:13,l:["Levanta-te, Senhor, enfrenta-o e derruba-o;","livra a minha alma do ímpio com a tua espada,"],np:1},
+{v:14,l:["dos homens, com a tua mão, Senhor,","dos homens deste mundo, cuja parte está nesta vida.","Enches o seu ventre dos teus bens;","fartam-se os filhos","e deixam o que sobra aos seus pequeninos."]},
+{v:15,l:["Eu, porém, na justiça contemplarei a tua face;","ao despertar, hei de saciar-me da tua imagem."],n:"Ao despertar: uns entendem a manhã depois da noite passada no santuário; outros, um despertar para além da morte. O verso fica aberto às duas leituras."}
+];
+
+window.TEXTOS_SEED["salmos"][18] = [
+{v:1,t:"Ao mestre do coro. Do servo do Senhor, Davi, que dirigiu ao Senhor as palavras deste cântico, quando o Senhor o livrou da mão de todos os seus inimigos e da mão de Saul.",n:"O salmo mais longo do primeiro livro, e o único que a Escritura traz duas vezes: vem quase igual no capítulo 22 do segundo livro de Samuel."},
+{v:2,l:["Ele disse: Eu te amo, Senhor, minha força."],np:1},
+{v:3,l:["O Senhor é a minha rocha, a minha fortaleza e o meu libertador;","o meu Deus é o meu rochedo, em que me refugio;","o meu escudo, a força que me salva, o meu baluarte."],n:"Oito nomes seguidos, todos tirados da guerra e do refúgio nas montanhas: é a linguagem de quem passou anos fugindo por cavernas."},
+{v:4,l:["Invoco o Senhor, digno de louvor,","e fico salvo dos meus inimigos."]},
+{v:5,l:["Cercaram-me as ondas da morte,","e as torrentes da destruição me aterraram;"],np:1},
+{v:6,l:["envolveram-me os laços da morada dos mortos,","e os laços da morte me surpreenderam."]},
+{v:7,l:["Na minha angústia invoquei o Senhor","e clamei ao meu Deus;","do seu templo ouviu a minha voz,","e o meu clamor chegou aos seus ouvidos."]},
+{v:8,l:["A terra estremeceu e tremeu;","os fundamentos dos montes abalaram-se","e estremeceram, porque ele se indignou."],np:1,n:"Segue-se uma teofania à maneira antiga, com tempestade, fumo e relâmpagos, como a do Sinai: Deus desce em pessoa para socorrer um só homem."},
+{v:9,l:["Subiu fumaça das suas narinas,","e da sua boca, fogo devorador;","dele saíram brasas acesas."]},
+{v:10,l:["Inclinou os céus e desceu,","com densa nuvem sob os pés."]},
+{v:11,l:["Montou um querubim e voou;","planou sobre as asas do vento."]},
+{v:12,l:["Fez das trevas o seu esconderijo,","e da sua tenda ao redor,","águas escuras e nuvens espessas."]},
+{v:13,l:["Do resplendor diante dele","passaram as suas nuvens:","granizo e brasas de fogo."]},
+{v:14,l:["O Senhor trovejou nos céus,","o Altíssimo fez ouvir a sua voz:","granizo e brasas de fogo."]},
+{v:15,l:["Disparou as suas flechas e os dispersou;","multiplicou os relâmpagos e os confundiu."]},
+{v:16,l:["Apareceram os leitos das águas,","e descobriram-se os fundamentos do mundo,","pela tua repreensão, Senhor,","pelo sopro do vento das tuas narinas."]},
+{v:17,l:["Estendeu do alto a mão e me tomou;","tirou-me das muitas águas."],np:1},
+{v:18,l:["Livrou-me do meu inimigo poderoso","e dos que me odiavam, mais fortes do que eu."]},
+{v:19,l:["Surpreenderam-me no dia da minha desgraça,","mas o Senhor foi o meu amparo."]},
+{v:20,l:["Tirou-me para um lugar espaçoso;","livrou-me, porque me quer bem."]},
+{v:21,l:["O Senhor me retribuiu segundo a minha justiça,","segundo a pureza das minhas mãos me recompensou,"],np:1},
+{v:22,l:["porque guardei os caminhos do Senhor","e não me apartei perversamente do meu Deus."]},
+{v:23,l:["Todos os seus juízos estão diante de mim,","e não afastei de mim os seus preceitos."]},
+{v:24,l:["Fui íntegro diante dele","e guardei-me da minha culpa."]},
+{v:25,l:["O Senhor me retribuiu segundo a minha justiça,","segundo a pureza das minhas mãos diante dos seus olhos."]},
+{v:26,l:["Com o fiel te mostras fiel;","com o homem íntegro te mostras íntegro;"],np:1,n:"Não se diz que Deus mude, mas que cada um o encontra conforme se aproxima: a mesma luz que esclarece o reto cega o tortuoso."},
+{v:27,l:["com o puro te mostras puro,","e com o tortuoso te mostras astuto."]},
+{v:28,l:["Porque tu salvas o povo humilde","e abates os olhos altivos."]},
+{v:29,l:["Tu acendes a minha lâmpada, Senhor;","o meu Deus ilumina as minhas trevas."]},
+{v:30,l:["Contigo assalto uma tropa;","com o meu Deus salto uma muralha."]},
+{v:31,l:["O caminho de Deus é perfeito;","a palavra do Senhor é provada no fogo:","ele é escudo para todos os que nele se refugiam."],np:1},
+{v:32,l:["Pois quem é Deus, senão o Senhor?","Quem é rocha, senão o nosso Deus?"]},
+{v:33,l:["O Deus que me cinge de força","e torna perfeito o meu caminho;"]},
+{v:34,l:["que faz os meus pés como os das corças","e me firma nas alturas;"]},
+{v:35,l:["que adestra as minhas mãos para o combate,","e os meus braços para retesar o arco de bronze."]},
+{v:36,l:["Deste-me o escudo da tua salvação;","a tua direita me sustentou,","e a tua solicitude me engrandeceu."]},
+{v:37,l:["Alargaste o caminho sob os meus passos,","e os meus tornozelos não vacilaram."]},
+{v:38,l:["Persegui os meus inimigos e os alcancei;","não voltei enquanto não os destruí."],np:1},
+{v:39,l:["Esmaguei-os, e não puderam levantar-se;","caíram sob os meus pés."]},
+{v:40,l:["Cingiste-me de força para o combate;","submeteste a mim os que se levantavam contra mim."]},
+{v:41,l:["Puseste em fuga os meus inimigos,","e destruí os que me odiavam."]},
+{v:42,l:["Clamaram, e não houve quem os salvasse;","clamaram ao Senhor, e não lhes respondeu."]},
+{v:43,l:["Reduzi-os a pó, como pó ao vento;","pisei-os como a lama das ruas."]},
+{v:44,l:["Livraste-me das contendas do povo","e me puseste à frente das nações;","um povo que eu não conhecia me serve."],np:1},
+{v:45,l:["Ao ouvirem de mim, obedecem-me;","os estrangeiros me adulam."]},
+{v:46,l:["Os estrangeiros desfalecem","e saem tremendo dos seus esconderijos."]},
+{v:47,l:["Viva o Senhor! Bendita seja a minha rocha!","Seja exaltado o Deus da minha salvação,"],np:1},
+{v:48,l:["o Deus que me concede a vingança","e me submete os povos;"]},
+{v:49,l:["que me livra dos meus inimigos.","Sim, tu me exaltas acima dos que se levantam contra mim","e me livras do homem violento."]},
+{v:50,l:["Por isso te louvarei, Senhor, entre as nações,","e cantarei ao teu nome."],n:"São Paulo cita este verso na Carta aos Romanos, entre os textos que anunciam a entrada das nações no louvor de Israel."},
+{v:51,l:["Ele dá grandes vitórias ao seu rei","e usa de misericórdia com o seu ungido,","com Davi e a sua descendência, para sempre."]}
+];
+
+window.TEXTOS_SEED["salmos"][19] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi."},
+{v:2,l:["Os céus narram a glória de Deus,","e o firmamento anuncia a obra das suas mãos."],np:1},
+{v:3,l:["O dia ao dia transmite a mensagem,","e a noite à noite dá a conhecer o saber."]},
+{v:4,l:["Não é discurso, não são palavras;","a sua voz não se ouve."],n:"O paradoxo é deliberado: a criação fala sem som. Não há aqui um deus-sol, como nos povos vizinhos, mas uma obra que aponta para quem a fez."},
+{v:5,l:["E por toda a terra corre o seu som,","e as suas palavras até aos confins do mundo.","Ali armou uma tenda para o sol,"]},
+{v:6,l:["e ele sai como esposo do seu tálamo,","e exulta como um atleta a correr o seu caminho."]},
+{v:7,l:["Sai de um extremo dos céus","e o seu curso vai até ao outro extremo;","nada se esconde ao seu calor."]},
+{v:8,l:["A lei do Senhor é perfeita, restaura a alma;","o testemunho do Senhor é fiel, dá sabedoria aos simples."],np:1,n:"Muda aqui o assunto e até o nome de Deus, que passa a ser o Senhor: à luz que corre pelo céu sucede a que ilumina por dentro. Uns tiveram o salmo por dois poemas unidos; a tradição lê-o como um só, e o sol e a Lei como as duas vozes da mesma glória."},
+{v:9,l:["Os preceitos do Senhor são retos, alegram o coração;","o mandamento do Senhor é puro, ilumina os olhos."]},
+{v:10,l:["O temor do Senhor é límpido, permanece para sempre;","os juízos do Senhor são verdadeiros, todos igualmente justos."]},
+{v:11,l:["Mais desejáveis que o ouro, que muito ouro fino;","mais doces que o mel, que o mel que escorre dos favos."]},
+{v:12,l:["Por eles é instruído o teu servo;","em os guardar há grande recompensa."]},
+{v:13,l:["Quem percebe os próprios erros?","Purifica-me dos que me são ocultos."],np:1},
+{v:14,l:["Guarda também o teu servo da soberba,","para que não me domine.","Então serei íntegro","e limpo de grande transgressão."]},
+{v:15,l:["Sejam aceitas as palavras da minha boca","e a meditação do meu coração diante de ti,","Senhor, minha rocha e meu redentor."]}
+];
+
+window.TEXTOS_SEED["salmos"][20] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi.",n:"Oração da assembleia pelo rei, antes de sair para a guerra; o versículo 7 parece dito por um só, talvez o sacerdote que anuncia a resposta."},
+{v:2,l:["O Senhor te ouça no dia da angústia;","o nome do Deus de Jacó te proteja."],np:1},
+{v:3,l:["Do seu santuário te envie auxílio","e de Sião te sustente."]},
+{v:4,l:["Lembre-se de todas as tuas oblações","e aceite o teu holocausto."]},
+{v:5,l:["Conceda-te o que o teu coração deseja","e cumpra todos os teus desígnios."]},
+{v:6,l:["Exultaremos pela tua vitória","e no nome do nosso Deus levantaremos os estandartes.","Cumpra o Senhor todos os teus pedidos."]},
+{v:7,l:["Agora sei que o Senhor dá a vitória ao seu ungido;","ele lhe responde do seu santo céu,","com o poder salvador da sua direita."],np:1},
+{v:8,l:["Uns confiam nos carros, outros nos cavalos;","nós, porém, invocamos o nome do Senhor, nosso Deus."],n:"Carros e cavalos eram a arma dos impérios, que Israel não tinha; a frase faz da pobreza um argumento de fé."},
+{v:9,l:["Eles vacilaram e caíram;","nós nos levantamos e ficamos de pé."]},
+{v:10,l:["Senhor, dá a vitória ao rei;","responde-nos no dia em que te invocamos."]}
+];
+
+window.TEXTOS_SEED["salmos"][21] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi."},
+{v:2,l:["Senhor, o rei se alegra na tua força,","e como exulta pela tua vitória!"],np:1},
+{v:3,l:["Concedeste-lhe o desejo do seu coração","e não lhe negaste o pedido dos seus lábios."]},
+{v:4,l:["Vieste ao seu encontro com bênçãos de bondade;","puseste na sua cabeça uma coroa de ouro fino."]},
+{v:5,l:["Pediu-te a vida, e tu lha deste:","longos dias, para todo o sempre."]},
+{v:6,l:["Grande é a sua glória pela tua vitória;","puseste sobre ele majestade e esplendor."]},
+{v:7,l:["Fizeste dele uma bênção para sempre;","alegraste-o de júbilo na tua presença."]},
+{v:8,l:["Porque o rei confia no Senhor,","e pela misericórdia do Altíssimo não vacilará."]},
+{v:9,l:["A tua mão alcançará todos os teus inimigos;","a tua direita alcançará os que te odeiam."],np:1},
+{v:10,l:["Tu os farás como uma fornalha ardente","no tempo da tua vinda;","o Senhor os devorará na sua ira,","e o fogo os consumirá."]},
+{v:11,l:["Exterminarás da terra o seu fruto,","e a sua descendência do meio dos filhos dos homens."]},
+{v:12,l:["Porque tramaram o mal contra ti","e urdiram planos que não puderam executar."]},
+{v:13,l:["Tu os porás em fuga;","com o teu arco mirarás o seu rosto."]},
+{v:14,l:["Levanta-te, Senhor, na tua força;","cantaremos e louvaremos o teu poder."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][22] = [
+{v:1,t:"Ao mestre do coro. Sobre a corça da aurora. Salmo de Davi.",n:"O salmo da Paixão. Jesus di-lo na cruz, e os evangelistas descrevem a cena com as palavras dele; a corça da aurora seria a melodia por que se cantava."},
+{v:2,l:["Meu Deus, meu Deus, por que me abandonaste?","Estão longe da minha salvação as palavras do meu gemido."],np:1,n:"São Mateus e São Marcos conservam o grito em aramaico antes de o traduzirem. Quem o profere não deixa de chamar por Deus: chama-o duas vezes, e chama-lhe meu."},
+{v:3,l:["Meu Deus, clamo de dia, e não respondes;","de noite, e não tenho descanso."]},
+{v:4,l:["Mas tu és santo,","entronizado sobre os louvores de Israel."]},
+{v:5,l:["Em ti confiaram os nossos pais;","confiaram, e tu os libertaste."]},
+{v:6,l:["A ti clamaram e foram salvos;","em ti confiaram e não ficaram envergonhados."]},
+{v:7,l:["Eu, porém, sou um verme, e não um homem,","opróbrio dos homens e desprezado do povo."],np:1},
+{v:8,l:["Todos os que me veem zombam de mim;","torcem os lábios, meneiam a cabeça:"]},
+{v:9,l:["Confiou no Senhor: que ele o livre;","que o salve, se lhe quer bem."],n:"São as palavras que, segundo São Mateus, os que passavam diziam ao pé da cruz."},
+{v:10,l:["Mas foste tu que me tiraste do ventre,","que me deste confiança ao peito de minha mãe."],np:1},
+{v:11,l:["A ti fui entregue desde o seio materno;","desde o ventre de minha mãe, tu és o meu Deus."]},
+{v:12,l:["Não te afastes de mim, porque a angústia está perto","e não há quem me ajude."]},
+{v:13,l:["Cercam-me novilhos numerosos;","touros de Basã me rodeiam."],np:1},
+{v:14,l:["Abrem contra mim a boca,","como leão que despedaça e ruge."]},
+{v:15,l:["Derramei-me como água,","e todos os meus ossos se desconjuntaram.","O meu coração tornou-se como cera,","derretendo-se dentro do meu peito."]},
+{v:16,l:["A minha força secou como um caco,","e a língua se colou ao paladar;","e tu me deitas no pó da morte."]},
+{v:17,l:["Cercam-me cães,","rodeia-me um bando de malfeitores;","trespassaram as minhas mãos e os meus pés."],n:"A última linha é o lugar mais disputado do saltério: o hebraico recebido traz como leão as minhas mãos e os meus pés, mas as versões antigas, o grego e um manuscrito achado em Qumran leem trespassaram."},
+{v:18,l:["Posso contar todos os meus ossos;","eles olham e me observam."]},
+{v:19,l:["Repartem entre si as minhas vestes","e sobre a minha túnica lançam sortes."],n:"Os quatro Evangelhos referem este verso ao que fizeram os soldados; São João cita-o por extenso."},
+{v:20,l:["Mas tu, Senhor, não te afastes;","minha força, apressa-te em socorrer-me."],np:1},
+{v:21,l:["Livra a minha alma da espada;","das garras do cão, a minha única."]},
+{v:22,l:["Salva-me da boca do leão","e dos chifres dos búfalos — tu me respondeste."]},
+{v:23,l:["Anunciarei o teu nome aos meus irmãos;","no meio da assembleia te louvarei."],np:1,n:"Aqui o salmo vira de repente, da súplica ao louvor, sem que nada se explique; a Epístola aos Hebreus põe este verso na boca de Cristo ressuscitado."},
+{v:24,l:["Vós que temeis o Senhor, louvai-o;","toda a descendência de Jacó, glorificai-o;","temei-o, toda a descendência de Israel."]},
+{v:25,l:["Porque não desprezou nem desdenhou a miséria do pobre,","nem escondeu dele a sua face;","quando a ele clamou, o ouviu."]},
+{v:26,l:["De ti vem o meu louvor na grande assembleia;","cumprirei os meus votos diante dos que te temem."]},
+{v:27,l:["Os pobres comerão e ficarão saciados;","louvarão o Senhor os que o buscam:","viva para sempre o vosso coração."]},
+{v:28,l:["Hão de lembrar-se e voltar ao Senhor","todos os confins da terra;","diante dele se prostrarão","todas as famílias das nações."],np:1},
+{v:29,l:["Porque ao Senhor pertence o reino,","e ele domina sobre as nações."]},
+{v:30,l:["Só a ele adorarão todos os poderosos da terra;","diante dele se prostrarão todos os que descem ao pó.","E a minha alma viverá para ele;"]},
+{v:31,l:["a minha descendência o servirá.","Há de falar-se do Senhor à geração que vem;"]},
+{v:32,l:["anunciarão a sua justiça","ao povo que há de nascer:","Eis o que o Senhor fez."],n:"O salmo que começou no abandono termina na palavra fez, dita de uma obra cumprida; não se afasta muito do está consumado de São João."}
+];
+
+window.TEXTOS_SEED["salmos"][23] = [
+{v:1,l:["Salmo de Davi.","O Senhor é o meu pastor: nada me faltará."],n:"Pastor era título dos reis em todo o antigo Oriente. O salmo tira-o dos reis e dá-o só a Deus, e quem fala é uma ovelha que se sabe conduzida."},
+{v:2,l:["Em verdes pastos me faz repousar;","conduz-me a águas tranquilas."]},
+{v:3,l:["Restaura a minha alma;","guia-me por veredas de justiça, por causa do seu nome."]},
+{v:4,l:["Ainda que eu caminhe por um vale tenebroso,","não temerei mal algum, porque tu estás comigo;","o teu bastão e o teu cajado me dão segurança."],n:"Vale tenebroso traduz tsalmavet, palavra que se decompõe em sombra e morte e que a tradição verteu por sombra da morte; diz o escuro mais fundo, seja ele qual for."},
+{v:5,l:["Preparas diante de mim uma mesa,","à vista dos meus adversários;","unges com óleo a minha cabeça,","e o meu cálice transborda."],np:1,n:"Muda a figura, do pastor para o anfitrião: quem era conduzido pelos caminhos é agora recebido à mesa, e a proteção do deserto torna-se a hospitalidade da casa."},
+{v:6,l:["A bondade e a misericórdia me seguirão","todos os dias da minha vida,","e habitarei na casa do Senhor","por dias sem fim."]}
+];
+
+window.TEXTOS_SEED["salmos"][24] = [
+{v:1,l:["De Davi. Salmo.","Do Senhor é a terra e o que a enche,","o mundo e os que nele habitam."],n:"São Paulo cita este verso na primeira Carta aos Coríntios, para resolver a questão das carnes vendidas no mercado."},
+{v:2,l:["Porque ele a fundou sobre os mares","e a firmou sobre as correntes."]},
+{v:3,l:["Quem subirá ao monte do Senhor?","Quem ficará no seu lugar santo?"],np:1,n:"A mesma pergunta do Salmo 15, feita à entrada do santuário, e com a mesma espécie de resposta: condições de conduta, e não de rito."},
+{v:4,l:["O de mãos inocentes e coração puro,","que não entregou a alma à vaidade","nem jurou com engano."]},
+{v:5,l:["Este receberá a bênção do Senhor","e a recompensa de Deus, seu salvador."]},
+{v:6,l:["Esta é a geração dos que o buscam,","dos que buscam a face do Deus de Jacó."]},
+{v:7,l:["Levantai, ó portas, as vossas cabeças;","erguei-vos, ó portais eternos,","e entrará o rei da glória."],np:1,n:"Cantava-se ao entrar a arca em Jerusalém, em diálogo entre quem vinha de fora e quem guardava as portas; a liturgia retomou-o para a Ascensão."},
+{v:8,l:["Quem é este rei da glória?","O Senhor, forte e poderoso,","o Senhor, poderoso na batalha."]},
+{v:9,l:["Levantai, ó portas, as vossas cabeças;","erguei-vos, ó portais eternos,","e entrará o rei da glória."]},
+{v:10,l:["Quem é este rei da glória?","O Senhor dos exércitos:","ele é o rei da glória."]}
+];
+
 window.TEXTOS_SEED["salmos"][25] = [
 {v:1,l:["De Davi.","A ti, Senhor, elevo a minha alma."],n:"Na numeração grega e na Vulgata antiga, este é o Salmo 24; sigo a numeração hebraica, adotada como principal pela Nova Vulgata. O salmo é alfabético: cada versículo começa, no hebraico, com uma letra sucessiva do alfabeto."},
 {v:2,l:["Meu Deus, em ti confio: que eu não seja envergonhado,","que os meus inimigos não exultem sobre mim."]},

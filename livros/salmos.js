@@ -367,3 +367,123 @@ window.TEXTOS_SEED["salmos"][41] = [
 {v:13,l:["A mim, porém, tu me sustentas pela minha integridade","e me firmas diante de ti para sempre."]},
 {v:14,l:["Bendito seja o Senhor, Deus de Israel,","desde a eternidade até à eternidade.","Amém! Amém!"],np:1,n:"Não é o fim deste salmo, mas o de todo o primeiro livro do saltério, que vai do Salmo 1 ao 41. Os cinco livros fecham-se cada um com uma doxologia semelhante, à imitação dos cinco livros da Lei."}
 ];
+
+window.TEXTOS_SEED["salmos"][42] = [
+{v:1,t:"Ao mestre do coro. Poema. Dos filhos de Coré.",n:"Abre-se aqui o segundo livro do saltério. Os filhos de Coré são a linhagem poupada de que fala Números 26, tornada família de cantores do Templo; onze salmos trazem o seu nome."},
+{v:2,l:["Como a corça suspira pelas correntes de água,","assim a minha alma suspira por ti, ó Deus."],np:1},
+{v:3,l:["A minha alma tem sede de Deus, do Deus vivo:","quando irei e verei a face de Deus?"]},
+{v:4,l:["As minhas lágrimas são o meu pão, de dia e de noite,","enquanto me dizem todo o dia:","Onde está o teu Deus?"]},
+{v:5,l:["Recordo-me e derramo dentro de mim a minha alma:","como eu caminhava com a multidão","e a conduzia até à casa de Deus,","entre cantos de júbilo e louvor,","no rumor da festa."]},
+{v:6,l:["Por que te abates, minha alma,","e te agitas dentro de mim?","Espera em Deus, porque ainda o louvarei:","ele é a salvação da minha face e o meu Deus."],n:"Este refrão volta no versículo 12 e no fim do Salmo 43: é o sinal mais claro de que os dois salmos foram um só poema, dividido depois."},
+{v:7,l:["A minha alma se abate dentro de mim;","por isso me lembro de ti","desde a terra do Jordão e do Hermon,","desde o monte Misar."],np:1,n:"São as nascentes do Jordão, ao norte, longe de Jerusalém: quem canta está desterrado, e é dali que se lembra do Templo."},
+{v:8,l:["Um abismo chama outro abismo","ao fragor das tuas cataratas;","todas as tuas ondas e vagas","passaram sobre mim."]},
+{v:9,l:["De dia o Senhor manda a sua misericórdia,","e de noite o seu cântico está comigo:","é a oração ao Deus da minha vida."]},
+{v:10,l:["Digo a Deus, minha rocha:","Por que te esqueceste de mim?","Por que ando triste,","oprimido pelo inimigo?"]},
+{v:11,l:["Quebram-se os meus ossos,","quando os meus adversários me insultam,","dizendo-me todo o dia:","Onde está o teu Deus?"]},
+{v:12,l:["Por que te abates, minha alma,","e te agitas dentro de mim?","Espera em Deus, porque ainda o louvarei:","ele é a salvação da minha face e o meu Deus."]}
+];
+
+window.TEXTOS_SEED["salmos"][43] = [
+{v:1,l:["Faze-me justiça, ó Deus,","e defende a minha causa contra gente sem piedade;","livra-me do homem falso e iníquo."],n:"Único salmo sem título em todo este livro, e com o mesmo refrão do anterior: a tradição hebraica conta-os separados, mas vários manuscritos os trazem unidos."},
+{v:2,l:["Porque tu és o Deus da minha fortaleza:","por que me rejeitaste?","Por que ando triste,","oprimido pelo inimigo?"]},
+{v:3,l:["Envia a tua luz e a tua verdade:","que elas me guiem","e me conduzam ao teu monte santo","e às tuas moradas."],np:1},
+{v:4,l:["E irei ao altar de Deus,","ao Deus da minha alegria e do meu júbilo;","e te louvarei com a cítara,","ó Deus, meu Deus."],n:"Verso com que o sacerdote começava a Missa no rito antigo, ao pé do altar."},
+{v:5,l:["Por que te abates, minha alma,","e te agitas dentro de mim?","Espera em Deus, porque ainda o louvarei:","ele é a salvação da minha face e o meu Deus."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][44] = [
+{v:1,t:"Ao mestre do coro. Dos filhos de Coré. Poema."},
+{v:2,l:["Ó Deus, ouvimos com os nossos ouvidos,","os nossos pais nos contaram","a obra que fizeste nos seus dias,","nos dias de outrora."],np:1},
+{v:3,l:["Com a tua mão expulsaste as nações e os plantaste;","afligiste os povos e os fizeste crescer."]},
+{v:4,l:["Não foi pela sua espada que possuíram a terra,","nem foi o seu braço que os salvou,","mas a tua direita, o teu braço","e a luz da tua face, porque os amaste."]},
+{v:5,l:["Tu és o meu rei e o meu Deus,","que decides as vitórias de Jacó."]},
+{v:6,l:["Por ti derrubamos os nossos inimigos,","e no teu nome pisamos os que se levantam contra nós."]},
+{v:7,l:["Porque não confio no meu arco,","nem é a minha espada que me salva."]},
+{v:8,l:["Mas tu nos salvaste dos nossos adversários","e confundiste os que nos odeiam."]},
+{v:9,l:["Em Deus nos gloriamos todo o dia,","e para sempre louvaremos o teu nome."]},
+{v:10,l:["Agora, porém, nos rejeitaste e nos humilhaste,","e já não sais com os nossos exércitos."],np:1,n:"O salmo vira aqui de repente, e é essa reviravolta o seu assunto: o que Deus fez outrora torna insuportável o que não faz agora."},
+{v:11,l:["Fizeste-nos recuar diante do adversário,","e os que nos odeiam nos saquearam."]},
+{v:12,l:["Entregaste-nos como ovelhas para o matadouro","e nos dispersaste entre as nações."]},
+{v:13,l:["Vendeste o teu povo por um nada,","e não te enriqueceste com o seu preço."]},
+{v:14,l:["Fizeste de nós opróbrio dos nossos vizinhos,","escárnio e zombaria dos que nos cercam."]},
+{v:15,l:["Fizeste de nós provérbio entre as nações,","e os povos meneiam a cabeça."]},
+{v:16,l:["Todo o dia tenho diante de mim a minha vergonha,","e a confusão me cobre o rosto,"]},
+{v:17,l:["à voz do que insulta e ultraja,","à vista do inimigo e do vingador."]},
+{v:18,l:["Tudo isso veio sobre nós, e não te esquecemos,","nem fomos infiéis à tua aliança."],np:1,n:"É a nota que distingue este salmo dos outros lamentos: não se confessa pecado nenhum. O povo diz-se inocente e pede contas, como fará Jó."},
+{v:19,l:["O nosso coração não recuou,","nem os nossos passos se desviaram do teu caminho,"]},
+{v:20,l:["quando nos esmagaste no lugar dos chacais","e nos cobriste de sombra de morte."]},
+{v:21,l:["Se tivéssemos esquecido o nome do nosso Deus","e estendido as mãos a um deus estranho,"]},
+{v:22,l:["não o teria Deus descoberto?","Pois ele conhece os segredos do coração."]},
+{v:23,l:["Por tua causa somos mortos todo o dia,","tidos como ovelhas de matadouro."],n:"São Paulo cita este verso na Carta aos Romanos, no meio do trecho que pergunta quem nos separará do amor de Cristo."},
+{v:24,l:["Desperta! Por que dormes, Senhor?","Levanta-te, não nos rejeites para sempre."],np:1},
+{v:25,l:["Por que escondes a tua face","e esqueces a nossa miséria e a nossa opressão?"]},
+{v:26,l:["A nossa alma está prostrada no pó,","e o nosso ventre colado à terra."]},
+{v:27,l:["Levanta-te em nosso socorro,","e resgata-nos por causa da tua misericórdia."]}
+];
+
+window.TEXTOS_SEED["salmos"][45] = [
+{v:1,t:"Ao mestre do coro. Sobre os lírios. Dos filhos de Coré. Poema. Cântico de amor.",n:"Único cântico nupcial do saltério, composto para as bodas de um rei. A tradição judaica leu-o do Messias, e a cristã, de Cristo e da Igreja."},
+{v:2,l:["Transborda do meu coração uma palavra boa;","eu recito ao rei o meu poema:","a minha língua é a pena de um escriba ágil."],np:1},
+{v:3,l:["És o mais belo dos filhos dos homens;","a graça se derramou nos teus lábios:","por isso Deus te abençoou para sempre."],np:1},
+{v:4,l:["Cinge a espada à cintura, ó valente:","é a tua glória e o teu esplendor."]},
+{v:5,l:["Avança com esplendor, cavalga","pela verdade, pela mansidão e pela justiça;","e a tua direita te ensine feitos temíveis."]},
+{v:6,l:["As tuas flechas são agudas","— os povos cairão debaixo de ti —","e entram no coração dos inimigos do rei."]},
+{v:7,l:["O teu trono, ó Deus, é para todo o sempre;","cetro de retidão é o cetro do teu reino."],n:"O rei é aqui tratado por ó Deus, coisa sem paralelo no Antigo Testamento e que sempre embaraçou os comentadores. A Epístola aos Hebreus cita este verso e o seguinte aplicando-os ao Filho."},
+{v:8,l:["Amaste a justiça e odiaste a iniquidade;","por isso Deus, o teu Deus, te ungiu","com óleo de alegria, mais que aos teus companheiros."]},
+{v:9,l:["Mirra, aloés e cássia exalam as tuas vestes;","dos palácios de marfim te alegram as cordas."]},
+{v:10,l:["Filhas de reis vêm ao teu encontro;","à tua direita está a rainha,","com ouro de Ofir."]},
+{v:11,l:["Ouve, filha, vê e inclina o teu ouvido:","esquece o teu povo e a casa de teu pai."],np:1},
+{v:12,l:["O rei deseja a tua beleza;","ele é o teu senhor: prostra-te diante dele."]},
+{v:13,l:["A filha de Tiro vem com presentes;","os ricos do povo buscam o teu favor."]},
+{v:14,l:["Toda esplêndida entra a filha do rei,","com vestes bordadas de ouro."]},
+{v:15,l:["Em trajes vistosos é conduzida ao rei;","atrás dela, as virgens suas companheiras","são levadas à tua presença."]},
+{v:16,l:["São conduzidas entre alegria e júbilo,","e entram no palácio do rei."]},
+{v:17,l:["Em lugar de teus pais terás filhos;","hás de constituí-los príncipes por toda a terra."],np:1},
+{v:18,l:["Farei memorável o teu nome por todas as gerações;","por isso os povos te louvarão para todo o sempre."]}
+];
+
+window.TEXTOS_SEED["salmos"][46] = [
+{v:1,t:"Ao mestre do coro. Dos filhos de Coré. Sobre as virgens. Cântico."},
+{v:2,l:["Deus é o nosso refúgio e a nossa força,","socorro sempre pronto nas tribulações."],np:1},
+{v:3,l:["Por isso não tememos, ainda que se abale a terra","e os montes desabem no coração do mar;"]},
+{v:4,l:["ainda que rujam e espumem as suas águas,","e os montes tremam à sua fúria."]},
+{v:5,l:["Um rio e os seus braços alegram a cidade de Deus,","a mais santa das moradas do Altíssimo."],np:1,n:"Jerusalém não tem rio: o que corre ali é a fonte de Siloé, um fio de água. O rio do salmo é o do Éden e o que Ezequiel verá sair do Templo."},
+{v:6,l:["Deus está no meio dela: não será abalada;","Deus a socorrerá ao romper da manhã."]},
+{v:7,l:["As nações se agitaram, os reinos se abalaram;","ele fez ouvir a sua voz, e a terra se dissolveu."]},
+{v:8,l:["O Senhor dos exércitos está conosco;","o Deus de Jacó é a nossa fortaleza."]},
+{v:9,l:["Vinde e vede as obras do Senhor,","as maravilhas que fez sobre a terra:"],np:1},
+{v:10,l:["faz cessar as guerras até aos confins da terra,","quebra o arco e despedaça a lança,","queima no fogo os escudos."]},
+{v:11,l:["Parai e sabei que eu sou Deus,","exaltado entre as nações, exaltado sobre a terra."],n:"O verbo hebraico diz largar as armas, deixar cair as mãos: é ordem dada aos povos em guerra, e só depois se torna convite ao silêncio."},
+{v:12,l:["O Senhor dos exércitos está conosco;","o Deus de Jacó é a nossa fortaleza."]}
+];
+
+window.TEXTOS_SEED["salmos"][47] = [
+{v:1,t:"Ao mestre do coro. Dos filhos de Coré. Salmo."},
+{v:2,l:["Povos todos, batei palmas;","aclamai a Deus com brados de alegria."],np:1},
+{v:3,l:["Porque o Senhor é o Altíssimo, o terrível,","o grande rei sobre toda a terra."]},
+{v:4,l:["Ele nos submete os povos","e põe as nações sob os nossos pés."]},
+{v:5,l:["Escolheu para nós a nossa herança,","a glória de Jacó, a quem amou."]},
+{v:6,l:["Deus sobe entre aclamações,","o Senhor, ao som da trombeta."],n:"Falava-se da arca que subia ao Templo entre aclamações; a liturgia cristã canta este verso na Ascensão."},
+{v:7,l:["Cantai a Deus, cantai;","cantai ao nosso rei, cantai."],np:1},
+{v:8,l:["Porque Deus é rei de toda a terra:","cantai com arte."]},
+{v:9,l:["Deus reina sobre as nações;","Deus está sentado no seu trono santo."]},
+{v:10,l:["Os príncipes dos povos se reúnem","com o povo do Deus de Abraão,","porque a Deus pertencem os escudos da terra:","ele é sublime."]}
+];
+
+window.TEXTOS_SEED["salmos"][48] = [
+{v:1,t:"Cântico. Salmo. Dos filhos de Coré."},
+{v:2,l:["Grande é o Senhor e muito digno de louvor","na cidade do nosso Deus.","O seu monte santo,"],np:1},
+{v:3,l:["belo na sua altura, é a alegria de toda a terra:","o monte Sião, no extremo norte,","é a cidade do grande rei."],n:"No extremo norte traduz yarketei tsafon, nome da montanha onde os cananeus punham a morada dos seus deuses. O salmo transfere o título para Sião, que é um monte modesto e fica ao sul."},
+{v:4,l:["Deus, nos seus palácios,","mostrou-se fortaleza segura."]},
+{v:5,l:["Eis que os reis se reuniram","e avançaram juntos;"],np:1},
+{v:6,l:["mal viram, ficaram estupefatos,","perturbaram-se e fugiram."]},
+{v:7,l:["Ali os tomou o tremor,","dores como de parturiente,"]},
+{v:8,l:["como o vento do oriente","que despedaça as naus de Társis."]},
+{v:9,l:["O que ouvimos, vimos","na cidade do Senhor dos exércitos,","na cidade do nosso Deus:","Deus a firmou para sempre."]},
+{v:10,l:["Recordamos, ó Deus, a tua misericórdia","no meio do teu templo."],np:1},
+{v:11,l:["Como o teu nome, ó Deus,","assim o teu louvor chega aos confins da terra;","a tua direita está cheia de justiça."]},
+{v:12,l:["Alegre-se o monte Sião,","exultem as filhas de Judá","por causa dos teus juízos."]},
+{v:13,l:["Percorrei Sião, dai a volta em torno dela,","contai as suas torres."],np:1},
+{v:14,l:["Considerai as suas muralhas,","percorrei os seus palácios,","para contardes à geração futura:"]},
+{v:15,l:["Este é Deus, o nosso Deus para todo o sempre;","ele nos guiará para sempre."]}
+];

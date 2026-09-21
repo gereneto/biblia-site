@@ -994,3 +994,143 @@ window.TEXTOS_SEED["salmos"][54] = [
 {v:8,l:["De bom grado te oferecerei sacrifício","e louvarei o teu nome, Senhor, porque é bom."]},
 {v:9,l:["Ele me livrou de toda angústia,","e os meus olhos viram a derrota dos meus inimigos."]}
 ];
+
+window.TEXTOS_SEED["salmos"][55] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. Poema de Davi."},
+{v:2,l:["Ouve, ó Deus, a minha oração","e não te escondas da minha súplica;"],np:1},
+{v:3,l:["atende-me e responde-me.","Agito-me no meu lamento e estremeço"]},
+{v:4,l:["à voz do inimigo, ante o clamor do ímpio;","porque lançam sobre mim a iniquidade","e com ira me perseguem."]},
+{v:5,l:["O coração se contorce dentro de mim,","e terrores de morte caíram sobre mim."],np:1},
+{v:6,l:["Temor e tremor me sobrevieram,","e o horror me cobriu."]},
+{v:7,l:["E eu disse: Quem me dera asas como de pomba,","para voar e ter repouso!"],np:1,n:"O desejo de fuga é raro no saltério, que mais das vezes pede socorro dentro da provação; aqui o salmista pede antes ser levado para fora dela."},
+{v:8,l:["Eis que fugiria para longe","e ficaria a morar no deserto."]},
+{v:9,l:["Depressa buscaria abrigo","contra o vento que arrebata, contra a tempestade."]},
+{v:10,l:["Destrói, Senhor, divide-lhes as línguas,","porque vejo violência e discórdia na cidade."],np:1,n:"Dividir as línguas ecoa Babel: a cidade injusta desfaz-se pela confusão da própria fala."},
+{v:11,l:["Dia e noite rondam sobre os seus muros,","e dentro dela há iniquidade e opressão;"]},
+{v:12,l:["a ruína está no meio dela,","e da sua praça não se apartam a fraude e o engano."]},
+{v:13,l:["Porque não é um inimigo que me afronta — isso eu suportaria;","nem é quem me odeia que se levanta contra mim — dele me esconderia;"],np:1,n:"Esta é a queixa que a leitura cristã aplicou à traição de Judas, lembrada no Evangelho de São João, quando o Senhor diz que se cumpre a Escritura: o que comia do meu pão levantou contra mim o calcanhar."},
+{v:14,l:["mas és tu, homem que eras o meu igual,","o meu companheiro, o meu conhecido,"]},
+{v:15,l:["com quem eu tinha doce convivência","e andava na casa de Deus entre a multidão em festa."]},
+{v:16,l:["Venha sobre eles a morte, desçam vivos ao abismo,","porque a maldade habita nas suas moradas, no meio deles."],np:1},
+{v:17,l:["Eu, porém, clamarei a Deus,","e o Senhor me salvará."],np:1},
+{v:18,l:["De tarde, de manhã e ao meio-dia lamentarei e gemerei,","e ele ouvirá a minha voz."],n:"As três horas de oração do dia judaico, que a Igreja depois recolheu nas horas do ofício."},
+{v:19,l:["Resgatará em paz a minha vida dos que me assaltam,","porque são muitos contra mim."]},
+{v:20,l:["Deus há de ouvir e os humilhará,","ele que reina desde sempre,","porque neles não há mudança","e não temem a Deus."],np:1},
+{v:21,l:["Cada um estendeu a mão contra quem com ele estava em paz","e violou a sua aliança."]},
+{v:22,l:["Mais branda que manteiga é a sua boca,","mas no coração traz a guerra;","mais macias que o azeite são as suas palavras,","mas são espadas desembainhadas."]},
+{v:23,l:["Lança sobre o Senhor o teu peso, e ele te sustentará;","nunca há de permitir que o justo vacile."],np:1,n:"São Pedro recolhe este verso na sua primeira carta: lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."},
+{v:24,l:["Mas tu, ó Deus, os farás descer ao poço da perdição;","os homens de sangue e de fraude não chegarão à metade dos seus dias.","Eu, porém, confio em ti."]}
+];
+
+window.TEXTOS_SEED["salmos"][56] = [
+{v:1,t:"Ao mestre do coro. Segundo «A pomba dos terebintos distantes». De Davi. Miktam, quando os filisteus o prenderam em Gat.",n:"Miktam é um termo de sentido incerto, talvez inscrição ou poema gravado; aparece nos Salmos 16 e 56 a 60. O episódio de Gat vem do primeiro livro de Samuel: Davi, fugindo de Saul, refugiou-se entre os filisteus e fingiu-se louco para escapar."},
+{v:2,l:["Tem piedade de mim, ó Deus, porque o homem me pisa;","o dia inteiro me oprime combatendo."],np:1},
+{v:3,l:["Os meus adversários me pisam o dia inteiro,","porque são muitos os que contra mim combatem, ó Altíssimo."]},
+{v:4,l:["No dia em que eu temer,","em ti confiarei."]},
+{v:5,l:["Em Deus, cuja palavra eu louvo,","em Deus confio e não temerei:","que me pode fazer a carne?"],np:1},
+{v:6,l:["O dia inteiro torcem as minhas palavras;","contra mim são todos os seus pensamentos para o mal."],np:1},
+{v:7,l:["Reúnem-se, ficam de emboscada,","espreitam os meus passos,","à espera da minha vida."]},
+{v:8,l:["Pela iniquidade, dá-lhes a paga;","na tua ira, ó Deus, abate os povos."]},
+{v:9,l:["Contaste os passos do meu desterro;","recolhe as minhas lágrimas no teu odre.","Não estão elas no teu livro?"],np:1,n:"A imagem é de uma ternura sem paralelo no saltério: Deus guarda as lágrimas do fiel como quem guarda vinho, e as registra num livro."},
+{v:10,l:["Então recuarão os meus inimigos no dia em que eu clamar.","Nisto reconheço que Deus está comigo."]},
+{v:11,l:["Em Deus, cuja palavra eu louvo,","no Senhor, cuja palavra eu louvo,"],np:1},
+{v:12,l:["em Deus confio e não temerei:","que me pode fazer o homem?"]},
+{v:13,l:["Sobre mim pesam, ó Deus, os votos que te fiz;","a ti hei de render sacrifícios de louvor,"],np:1},
+{v:14,l:["porque livraste da morte a minha vida","e os meus pés da queda,","para que eu ande diante de Deus","na luz dos viventes."]}
+];
+
+window.TEXTOS_SEED["salmos"][57] = [
+{v:1,t:"Ao mestre do coro. Segundo «Não destruas». De Davi. Miktam, quando fugiu de Saul para a caverna.",n:"«Não destruas» é a indicação da melodia com que o salmo havia de cantar-se, tomada das primeiras palavras de outro canto. A caverna é a de Adulam, ou a de En-Gadi, onde Davi poupou a vida de Saul."},
+{v:2,l:["Tem piedade de mim, ó Deus, tem piedade de mim,","porque em ti se refugia a minha alma;","à sombra das tuas asas me abrigo,","até que passe a calamidade."],np:1},
+{v:3,l:["Clamo ao Deus altíssimo,","ao Deus que por mim leva tudo a termo."]},
+{v:4,l:["Ele enviará do céu e me salvará,","cobrirá de vergonha os que me pisam;","enviará Deus a sua misericórdia e a sua verdade."]},
+{v:5,l:["A minha alma está no meio de leões;","deito-me entre os que devoram os filhos dos homens.","Os seus dentes são lanças e flechas,","e a sua língua, espada afiada."],np:1},
+{v:6,l:["Ergue-te sobre os céus, ó Deus;","sobre toda a terra, a tua glória."],np:1},
+{v:7,l:["Armaram um laço aos meus passos,","e a minha alma curvou-se;","cavaram diante de mim uma cova,","e nela caíram eles mesmos."],np:1},
+{v:8,l:["Firme está o meu coração, ó Deus,","firme está o meu coração:","cantarei e entoarei salmos."],np:1},
+{v:9,l:["Desperta, minha glória; despertai, harpa e cítara:","quero despertar a aurora."],n:"Não é a aurora que acorda o salmista, mas o salmista que acorda a aurora com o seu canto. A antiga liturgia das Laudes tomou daqui o seu tom."},
+{v:10,l:["Entre os povos te louvarei, Senhor,","entre as nações te cantarei salmos,"]},
+{v:11,l:["porque a tua misericórdia é grande até aos céus,","e até às nuvens a tua verdade."]},
+{v:12,l:["Ergue-te sobre os céus, ó Deus;","sobre toda a terra, a tua glória."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][58] = [
+{v:1,t:"Ao mestre do coro. Segundo «Não destruas». De Davi. Miktam."},
+{v:2,l:["Falais, de fato, a justiça, ó poderosos?","Julgais com retidão os filhos dos homens?"],np:1,n:"A palavra hebraica deste verso é obscura e tem sido lida de três modos: como um silêncio («calados, falais a justiça?»), como um vocativo aos juízes da terra, ou como apóstrofe aos deuses das nações. A Nova Vulgata segue o segundo caminho, e é o que aqui se adota: o salmo interpela os que detêm o poder de julgar."},
+{v:3,l:["Não: no coração praticais iniquidades;","na terra, as vossas mãos pesam violência."]},
+{v:4,l:["Desviaram-se os ímpios desde o ventre,","erraram desde o nascimento os que falam mentira."],np:1},
+{v:5,l:["Têm veneno semelhante ao veneno da serpente,","como a víbora surda que tapa os ouvidos"]},
+{v:6,l:["para não ouvir a voz dos encantadores","nem a do mago que com arte encanta."]},
+{v:7,l:["Ó Deus, quebra-lhes os dentes na boca;","arranca, Senhor, as presas dos leões."],np:1},
+{v:8,l:["Escorram como água que se perde;","as flechas que disparam fiquem sem ponta."]},
+{v:9,l:["Sejam como a lesma que ao andar se desfaz,","como o aborto de mulher, que não viu o sol."]},
+{v:10,l:["Antes que os vossos caldeirões sintam o espinho,","verde ou já em brasa, um turbilhão o leve."],n:"Verso notoriamente corrompido, dos mais difíceis do saltério. A imagem parece ser a de um fogo de gravetos que se apaga antes de a panela aquecer: o ímpio é varrido antes de a sua obra chegar a termo."},
+{v:11,l:["O justo há de alegrar-se ao ver a vingança,","e lavará os pés no sangue do ímpio."],np:1,n:"Nota do tradutor: este é dos salmos imprecatórios mais duros, e não se abranda aqui a sua letra. A Igreja nunca o leu como licença de vingança pessoal, mas como o grito dos oprimidos que reclamam o juízo de Deus e recusam fazer-se justiça por suas mãos: toda a força do salmo está em que a vingança é dele, e não nossa. Os versos 11 e 12 foram retirados do saltério da Liturgia das Horas por essa aspereza, mas o texto conserva-se íntegro na Escritura."},
+{v:12,l:["E dirá o homem: Sim, há fruto para o justo;","sim, há um Deus que julga na terra."]}
+];
+
+window.TEXTOS_SEED["salmos"][59] = [
+{v:1,t:"Ao mestre do coro. Segundo «Não destruas». De Davi. Miktam, quando Saul mandou vigiar a casa para o matar.",n:"O episódio está no primeiro livro de Samuel: Mical, filha de Saul e mulher de Davi, fez que ele descesse por uma janela enquanto os enviados cercavam a casa."},
+{v:2,l:["Livra-me dos meus inimigos, meu Deus;","dos que se levantam contra mim, defende-me."],np:1},
+{v:3,l:["Livra-me dos que praticam a iniquidade","e salva-me dos homens de sangue."]},
+{v:4,l:["Porque eis que armam ciladas à minha vida;","poderosos se ajuntam contra mim","sem que haja em mim transgressão nem pecado, Senhor."],np:1},
+{v:5,l:["Sem culpa minha correm e se preparam.","Desperta, vem ao meu encontro e vê."]},
+{v:6,l:["Tu, Senhor, Deus dos exércitos, Deus de Israel,","ergue-te para visitar todas as nações;","não tenhas piedade dos que traiçoeiramente praticam o mal."]},
+{v:7,l:["Voltam ao cair da tarde, uivam como cães","e rondam a cidade."],np:1},
+{v:8,l:["Eis que a boca lhes transborda,","e há espadas nos seus lábios: Quem nos ouve?"]},
+{v:9,l:["Mas tu, Senhor, ris-te deles;","escarneces de todas as nações."],np:1,n:"O riso de Deus, que aparece também nos Salmos 2 e 37, não é desprezo dos homens, mas a serenidade de quem vê de antemão o fim das tramas que os poderosos julgam definitivas."},
+{v:10,l:["Ó minha força, a ti espero,","porque Deus é o meu baluarte."]},
+{v:11,l:["O meu Deus virá ao meu encontro na sua misericórdia;","Deus me fará ver a queda dos meus adversários."],np:1},
+{v:12,l:["Não os mates, para que o meu povo não esqueça;","dispersa-os com o teu poder e abate-os,","Senhor, escudo nosso."],n:"Pede-se castigo que sirva de lição, e não aniquilação: um inimigo destruído de pronto seria depressa esquecido, e com ele a lembrança do socorro."},
+{v:13,l:["Pelo pecado da sua boca, pela palavra dos seus lábios,","sejam presos na sua soberba;","pela maldição e pela mentira que espalham,"],np:1},
+{v:14,l:["consome-os na tua ira, consome-os até que não existam;","e saibam que Deus reina em Jacó","e até aos confins da terra."]},
+{v:15,l:["Voltam ao cair da tarde, uivam como cães","e rondam a cidade."],np:1},
+{v:16,l:["Vagueiam à procura de comida","e, se não se fartam, passam a noite a rosnar."]},
+{v:17,l:["Eu, porém, cantarei a tua força","e de manhã exaltarei a tua misericórdia,","porque foste o meu baluarte","e o meu refúgio no dia da angústia."],np:1},
+{v:18,l:["Ó minha força, a ti cantarei salmos,","porque Deus é o meu baluarte, o Deus da minha misericórdia."]}
+];
+
+window.TEXTOS_SEED["salmos"][60] = [
+{v:1,t:"Ao mestre do coro. Segundo «O lírio do testemunho». Miktam de Davi. Para ensinar,"},
+{v:2,t:"quando lutou contra Aram-Naaraim e Aram-Sobá, e Joab voltou e feriu doze mil edomitas no vale do Sal.",n:"Aram-Naaraim é a Síria dos dois rios, na alta Mesopotâmia; Aram-Sobá, um reino arameu ao norte de Damasco. As campanhas estão no segundo livro de Samuel."},
+{v:3,l:["Ó Deus, tu nos rejeitaste e nos quebraste;","indignaste-te: restaura-nos!"],np:1},
+{v:4,l:["Abalaste a terra e a fendeste;","sara as suas brechas, porque ela vacila."]},
+{v:5,l:["Deste ao teu povo dureza para ver,","deste-nos a beber um vinho de atordoamento."]},
+{v:6,l:["Ergueste um sinal para os que te temem,","para onde fugir diante do arco."],np:1},
+{v:7,l:["Para que se salvem os teus amados,","socorre com a tua destra e responde-nos."]},
+{v:8,l:["Deus falou no seu santuário:","Exultarei e repartirei Siquém,","e medirei o vale de Sucot."],np:1,n:"Deus fala como um senhor que reparte a herança: nomeia primeiro as duas margens do Jordão, depois as tribos, e por fim os povos vizinhos, reduzidos a objectos domésticos."},
+{v:9,l:["Meu é Galaad e meu é Manassés;","Efraim é o elmo da minha cabeça,","Judá, o meu cetro."]},
+{v:10,l:["Moab é a bacia em que me lavo;","sobre Edom lanço a minha sandália,","contra a Filisteia dou brados de triunfo."]},
+{v:11,l:["Quem me levará à cidade fortificada?","Quem me guiará até Edom?"],np:1},
+{v:12,l:["Não serás tu, ó Deus, que nos rejeitaste","e já não sais, ó Deus, com os nossos exércitos?"]},
+{v:13,l:["Dá-nos auxílio contra o opressor,","porque vão é o socorro do homem."],np:1},
+{v:14,l:["Com Deus faremos proezas,","e ele calcará os que nos oprimem."]}
+];
+
+window.TEXTOS_SEED["salmos"][61] = [
+{v:1,t:"Ao mestre do coro. Com instrumentos de corda. De Davi."},
+{v:2,l:["Ouve, ó Deus, o meu clamor,","atende à minha oração."],np:1},
+{v:3,l:["Desde os confins da terra clamo a ti,","quando desfalece o meu coração.","Conduze-me à rocha alta demais para mim,"]},
+{v:4,l:["porque foste o meu refúgio,","torre forte diante do inimigo."]},
+{v:5,l:["Quero habitar na tua tenda para sempre","e ter abrigo à sombra das tuas asas."],np:1},
+{v:6,l:["Porque tu, ó Deus, ouviste os meus votos","e me deste a herança dos que temem o teu nome."]},
+{v:7,l:["Acrescenta dias aos dias do rei;","sejam os seus anos como gerações e gerações."],np:1,n:"A oração pelo rei, que fecha o salmo, foi lida pela tradição como voto messiânico: nenhum reinado humano se estende por gerações sem fim."},
+{v:8,l:["Permaneça para sempre diante de Deus;","manda que a misericórdia e a verdade o guardem."]},
+{v:9,l:["Assim cantarei salmos ao teu nome para sempre","e cumprirei os meus votos dia após dia."]}
+];
+
+window.TEXTOS_SEED["salmos"][62] = [
+{v:1,t:"Ao mestre do coro. Segundo Iditum. Salmo de Davi.",n:"Iditum, ou Jedutun, era um dos três mestres de canto instituídos por Davi, segundo o livro das Crônicas; o seu nome encabeça também os Salmos 39 e 77."},
+{v:2,l:["Somente em Deus descansa a minha alma;","dele vem a minha salvação."],np:1},
+{v:3,l:["Só ele é a minha rocha e a minha salvação,","o meu baluarte: não hei de vacilar."]},
+{v:4,l:["Até quando investireis contra um homem,","para o derrubardes todos vós,","como a um muro que se inclina,","a uma cerca prestes a ruir?"],np:1},
+{v:5,l:["Só tramam derrubá-lo da sua altura","e comprazem-se na mentira:","com a boca abençoam","e no coração amaldiçoam."]},
+{v:6,l:["Somente em Deus repousa, minha alma,","porque dele vem a minha esperança."],np:1},
+{v:7,l:["Só ele é a minha rocha e a minha salvação,","o meu baluarte: não hei de vacilar."]},
+{v:8,l:["Em Deus está a minha salvação e a minha glória;","a rocha da minha força e o meu refúgio estão em Deus."]},
+{v:9,l:["Confiai nele em todo o tempo, ó povo;","derramai diante dele o vosso coração,","porque Deus é o nosso refúgio."],np:1},
+{v:10,l:["Sopro apenas são os filhos de Adão,","mentira, os filhos do homem;","postos na balança, todos juntos","pesam menos do que um sopro."]},
+{v:11,l:["Não confieis na opressão","nem ponhais esperança vã no roubo;","se as riquezas aumentam,","não lhes entregueis o coração."]},
+{v:12,l:["Uma vez falou Deus, duas vezes ouvi isto:","que o poder pertence a Deus"],np:1,n:"A fórmula «uma vez, duas vezes» é modo hebraico de dizer que a coisa está firmemente assente: o que se ouviu duas vezes não se põe em dúvida."},
+{v:13,l:["e a ti, Senhor, a misericórdia,","porque retribuis a cada um segundo as suas obras."],n:"São Paulo retoma este verso na Carta aos Romanos, e o Apocalipse fecha com ele: retribuir segundo as obras é, no mesmo fôlego, poder e misericórdia."}
+];

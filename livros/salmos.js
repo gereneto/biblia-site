@@ -2329,3 +2329,106 @@ window.TEXTOS_SEED["salmos"][112] = [
 {v:9,l:["Distribuiu, deu aos pobres;","a sua justiça permanece para sempre,","e o seu poder se levanta em glória."],np:1,n:"São Paulo cita este verso na segunda Carta aos Coríntios, ao falar da coleta para os santos de Jerusalém."},
 {v:10,l:["O ímpio verá e se irritará,","rangerá os dentes e definhará;","o desejo dos ímpios há de perecer."]}
 ];
+
+window.TEXTOS_SEED["salmos"][113] = [
+{v:1,l:["Aleluia.","Louvai, servos do Senhor,","louvai o nome do Senhor."],np:1,n:"Começa aqui o Hallel, o grupo dos Salmos 113 a 118 que se cantava na Páscoa judaica. É o que os evangelhos chamam o hino depois da última ceia: cantado o hino, saíram para o monte das Oliveiras."},
+{v:2,l:["Bendito seja o nome do Senhor,","desde agora e para sempre."]},
+{v:3,l:["Do nascer do sol até ao seu ocaso,","seja louvado o nome do Senhor."]},
+{v:4,l:["Excelso sobre todas as nações é o Senhor,","e a sua glória está acima dos céus."],np:1},
+{v:5,l:["Quem é como o Senhor nosso Deus,","que habita nas alturas"]},
+{v:6,l:["e se inclina para olhar","o céu e a terra?"]},
+{v:7,l:["Levanta do pó o desvalido","e do monturo ergue o pobre,"],np:1,n:"Do canto de Ana, no primeiro livro de Samuel, vem esta imagem; e dela virá o Magnificat, que repete o mesmo movimento — derrubar os poderosos, levantar os humildes."},
+{v:8,l:["para o sentar com os príncipes,","com os príncipes do seu povo."]},
+{v:9,l:["Dá casa à estéril,","mãe alegre de filhos.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][114] = [
+{v:1,l:["Quando Israel saiu do Egito,","a casa de Jacó, de um povo de língua estranha,"],np:1,n:"Oito versos apenas, e dos mais admirados do saltério pela sua construção: o mar e o Jordão fogem, os montes saltam, e só no fim se diz por quê. Dante escolheu justamente este salmo para o canto das almas que chegam ao purgatório."},
+{v:2,l:["Judá tornou-se o seu santuário;","Israel, o seu domínio."]},
+{v:3,l:["O mar viu e fugiu;","o Jordão voltou atrás."],np:1},
+{v:4,l:["Os montes saltaram como carneiros,","e as colinas, como cordeiros."]},
+{v:5,l:["Que tens tu, ó mar, para fugires?","E tu, Jordão, para voltares atrás?"],np:1},
+{v:6,l:["Vós, montes, para saltardes como carneiros,","e vós, colinas, como cordeiros?"]},
+{v:7,l:["Treme, ó terra, diante do Senhor,","diante do Deus de Jacó,"],np:1},
+{v:8,l:["que muda a rocha em lago","e o rochedo em fonte de água."]}
+];
+
+window.TEXTOS_SEED["salmos"][115] = [
+{v:1,l:["Não a nós, Senhor, não a nós,","mas ao teu nome dá glória,","pela tua misericórdia e pela tua verdade."],np:1},
+{v:2,l:["Por que hão de dizer as nações:","Onde está o seu Deus?"],np:1},
+{v:3,l:["O nosso Deus está no céu:","tudo o que quis, ele o fez."]},
+{v:4,l:["Os ídolos deles são prata e ouro,","obra das mãos dos homens."],np:1},
+{v:5,l:["Têm boca e não falam,","têm olhos e não veem."]},
+{v:6,l:["Têm ouvidos e não ouvem,","têm narinas e não cheiram."]},
+{v:7,l:["Têm mãos e não apalpam,","têm pés e não caminham;","nenhum som lhes sai da garganta."]},
+{v:8,l:["Tornem-se como eles os que os fazem","e todos os que neles confiam."],n:"A sátira aos ídolos acaba numa sentença: quem adora o que não vê nem ouve torna-se como aquilo que adora. É o mesmo argumento de Isaías, e a Escritura repete-o quase palavra por palavra no Salmo 135."},
+{v:9,l:["A casa de Israel confia no Senhor:","ele é o seu auxílio e o seu escudo."],np:1},
+{v:10,l:["A casa de Aarão confia no Senhor:","ele é o seu auxílio e o seu escudo."]},
+{v:11,l:["Os que temem o Senhor confiam no Senhor:","ele é o seu auxílio e o seu escudo."]},
+{v:12,l:["O Senhor lembrou-se de nós e há de abençoar:","abençoará a casa de Israel,","abençoará a casa de Aarão,"],np:1},
+{v:13,l:["abençoará os que temem o Senhor,","os pequenos com os grandes."]},
+{v:14,l:["O Senhor vos acrescente bens,","a vós e aos vossos filhos."],np:1},
+{v:15,l:["Sede benditos do Senhor,","que fez o céu e a terra."]},
+{v:16,l:["O céu é o céu do Senhor,","mas a terra deu-a aos filhos dos homens."]},
+{v:17,l:["Não são os mortos que louvam o Senhor,","nem os que descem ao silêncio;"],np:1},
+{v:18,l:["mas nós, os vivos, bendizemos o Senhor,","desde agora e para sempre.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][116] = [
+{v:1,l:["Aleluia.","Amo o Senhor, porque ele ouve","a voz da minha súplica."],np:1,n:"A antiga versão grega e a Vulgata partiam este salmo em dois, no verso 10, e daí vem a diferença de numeração que atravessa todo o saltério. A Nova Vulgata segue o hebraico e conserva-o inteiro."},
+{v:2,l:["Porque inclinou para mim o seu ouvido,","hei de invocá-lo todos os meus dias."]},
+{v:3,l:["Envolveram-me os laços da morte,","atingiram-me as angústias do abismo;","encontrei aflição e dor."],np:1},
+{v:4,l:["E invoquei o nome do Senhor:","Senhor, salva a minha vida!"]},
+{v:5,l:["Misericordioso e justo é o Senhor,","e o nosso Deus é compassivo."],np:1},
+{v:6,l:["O Senhor guarda os simples:","eu estava abatido, e ele me salvou."]},
+{v:7,l:["Volta, minha alma, ao teu repouso,","porque o Senhor foi bom para ti."],np:1},
+{v:8,l:["Porque livraste a minha vida da morte,","os meus olhos das lágrimas","e os meus pés da queda."]},
+{v:9,l:["Caminharei diante do Senhor","na terra dos viventes."]},
+{v:10,l:["Mantive a confiança mesmo quando disse:","Estou muito abatido."],np:1,n:"São Paulo cita este verso na segunda Carta aos Coríntios, na forma da versão grega: cri, por isso falei. Faz dele a divisa de quem prega sob perseguição."},
+{v:11,l:["Eu disse na minha perturbação:","Todo homem é mentiroso."]},
+{v:12,l:["Que darei ao Senhor","por tudo o que ele me deu?"],np:1},
+{v:13,l:["Tomarei o cálice da salvação","e invocarei o nome do Senhor."],n:"O cálice da salvação era, no rito, a libação de vinho que acompanhava o sacrifício de ação de graças. A liturgia cristã tomou o verso para o cálice da ceia, e é o único lugar do saltério em que um cálice se levanta para agradecer, e não para beber o juízo."},
+{v:14,l:["Cumprirei os meus votos ao Senhor","diante de todo o seu povo."]},
+{v:15,l:["Preciosa é aos olhos do Senhor","a morte dos seus fiéis."],np:1},
+{v:16,l:["Ó Senhor, eu sou teu servo,","teu servo e filho da tua serva:","tu rompeste as minhas cadeias."]},
+{v:17,l:["Oferecerei um sacrifício de louvor","e invocarei o nome do Senhor."],np:1},
+{v:18,l:["Cumprirei os meus votos ao Senhor","diante de todo o seu povo,"]},
+{v:19,l:["nos átrios da casa do Senhor,","no meio de ti, Jerusalém.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][117] = [
+{v:1,l:["Aleluia.","Louvai o Senhor, todas as nações,","aclamai-o, todos os povos,"],np:1,n:"É o mais curto de todos os salmos, e o capítulo mais curto de toda a Escritura. São Paulo cita-o na Carta aos Romanos, entre os textos que provam que a salvação era desde sempre também para os gentios: e é o que o salmo faz, chamando todas as nações a louvar."},
+{v:2,l:["porque é forte a sua misericórdia para conosco,","e a fidelidade do Senhor permanece para sempre.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][118] = [
+{v:1,l:["Dai graças ao Senhor, porque é bom,","porque é eterna a sua misericórdia."],np:1,n:"Fecha o Hallel e é o salmo da Páscoa por excelência. Dele vêm o hosana e o bendito o que vem em nome do Senhor com que a multidão recebeu o Senhor em Jerusalém, e a pedra rejeitada que ele aplicou a si mesmo."},
+{v:2,l:["Diga a casa de Israel:","eterna é a sua misericórdia."]},
+{v:3,l:["Diga a casa de Aarão:","eterna é a sua misericórdia."]},
+{v:4,l:["Digam os que temem o Senhor:","eterna é a sua misericórdia."]},
+{v:5,l:["Na angústia invoquei o Senhor,","e o Senhor me respondeu e me pôs em lugar espaçoso."],np:1},
+{v:6,l:["O Senhor está comigo: não temerei.","Que me pode fazer o homem?"]},
+{v:7,l:["O Senhor está comigo, é o meu auxílio,","e verei a derrota dos que me odeiam."]},
+{v:8,l:["Melhor é refugiar-se no Senhor","do que confiar no homem."],np:1},
+{v:9,l:["Melhor é refugiar-se no Senhor","do que confiar nos príncipes."]},
+{v:10,l:["Todas as nações me cercaram;","em nome do Senhor eu as repeli."],np:1},
+{v:11,l:["Cercaram-me, sim, cercaram-me;","em nome do Senhor eu as repeli."]},
+{v:12,l:["Cercaram-me como abelhas,","arderam como fogo de espinhos;","em nome do Senhor eu as repeli."]},
+{v:13,l:["Empurraram-me com força para eu cair,","mas o Senhor me socorreu."]},
+{v:14,l:["O Senhor é a minha força e o meu canto","e veio a ser a minha salvação."],np:1},
+{v:15,l:["Voz de júbilo e de salvação","nas tendas dos justos:","A destra do Senhor fez proezas!"]},
+{v:16,l:["A destra do Senhor está levantada,","a destra do Senhor fez proezas!"]},
+{v:17,l:["Não morrerei, mas viverei","e contarei as obras do Senhor."],np:1},
+{v:18,l:["O Senhor me castigou duramente,","mas não me entregou à morte."]},
+{v:19,l:["Abri-me as portas da justiça:","entrarei por elas e darei graças ao Senhor."],np:1},
+{v:20,l:["Esta é a porta do Senhor:","por ela entram os justos."]},
+{v:21,l:["Dou-te graças porque me respondeste","e vieste a ser a minha salvação."]},
+{v:22,l:["A pedra que os construtores rejeitaram","veio a ser a pedra angular."],np:1,n:"O Senhor cita este verso no fim da parábola dos vinhateiros homicidas; São Pedro repete-o diante do sinédrio e na sua primeira carta. Nenhum outro verso do saltério foi tão usado pela primeira pregação para explicar a cruz."},
+{v:23,l:["Pelo Senhor foi feito isto:","é maravilhoso aos nossos olhos."]},
+{v:24,l:["Este é o dia que o Senhor fez:","exultemos e alegremo-nos nele."],np:1},
+{v:25,l:["Ó Senhor, salva-nos!","Ó Senhor, dá-nos prosperidade!"]},
+{v:26,l:["Bendito o que vem em nome do Senhor!","Da casa do Senhor vos abençoamos."],np:1,n:"Salva-nos, no verso anterior, diz-se em hebraico hoshiá-ná: é o hosana. Os dois versos vêm juntos nos lábios da multidão no domingo de Ramos, e o segundo entrou na missa, no fim do Sanctus."},
+{v:27,l:["O Senhor é Deus e fez brilhar sobre nós a sua luz.","Ordenai a procissão com ramos","até aos chifres do altar."]},
+{v:28,l:["Tu és o meu Deus, e eu te darei graças;","meu Deus, eu te exaltarei."],np:1},
+{v:29,l:["Dai graças ao Senhor, porque é bom,","porque é eterna a sua misericórdia."],np:1}
+];

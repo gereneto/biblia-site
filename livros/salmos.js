@@ -1791,3 +1791,109 @@ window.TEXTOS_SEED["salmos"][89] = [
 {v:52,l:["com que insultaram os teus inimigos, Senhor,","com que insultaram os passos do teu ungido."]},
 {v:53,l:["Bendito seja o Senhor para sempre.","Amém! Amém!"],np:1,n:"Não pertence ao salmo: é a doxologia que encerra o terceiro livro do saltério. Cai aqui com particular estranheza, logo depois da queixa mais amarga sobre a aliança rompida, e o contraste ficou assim na Escritura."}
 ];
+
+window.TEXTOS_SEED["salmos"][90] = [
+{v:1,l:["Oração de Moisés, homem de Deus.","Senhor, tu foste para nós um refúgio","de geração em geração."],np:1,n:"Abre-se aqui o quarto livro do saltério, e é o único salmo atribuído a Moisés. Depois do 89, que acabava na queixa da aliança rompida, o saltério recua para antes de Davi e de todos os reis: o que fica, quando não fica nada, é que Deus era refúgio já antes de haver montes."},
+{v:2,l:["Antes que nascessem os montes","e se formassem a terra e o mundo,","desde sempre e para sempre tu és Deus."]},
+{v:3,l:["Fazes voltar o homem ao pó","e dizes: Voltai, filhos dos homens."],np:1},
+{v:4,l:["Porque mil anos, aos teus olhos,","são como o dia de ontem, que passou,","como uma vigília da noite."],n:"A segunda carta de São Pedro cita este verso para responder aos que zombavam da demora da promessa: diante do Senhor, um dia é como mil anos, e mil anos como um dia."},
+{v:5,l:["Tu os arrebatas: são como um sonho;","de manhã são como a erva que brota:"]},
+{v:6,l:["de manhã floresce e cresce,","à tarde é cortada e seca."]},
+{v:7,l:["Sim, somos consumidos pela tua ira","e pelo teu furor somos perturbados."],np:1},
+{v:8,l:["Puseste diante de ti as nossas culpas,","e os nossos segredos à luz do teu rosto."]},
+{v:9,l:["Todos os nossos dias passam sob a tua ira;","consumimos os nossos anos como um suspiro."]},
+{v:10,l:["Os dias da nossa vida chegam a setenta anos,","ou a oitenta, se há vigor;","e a maior parte deles é fadiga e nada,","pois passam depressa, e nós voamos."]},
+{v:11,l:["Quem conhece a força da tua ira","e teme o teu furor?"],np:1},
+{v:12,l:["Ensina-nos a contar os nossos dias,","para que alcancemos um coração sábio."],n:"O pedido não é o de viver mais, mas o de saber quanto se tem: contar os dias é o princípio da sabedoria, porque só quem sabe que o tempo acaba o emprega bem."},
+{v:13,l:["Volta-te, Senhor; até quando?","Tem compaixão dos teus servos."],np:1},
+{v:14,l:["Sacia-nos de manhã com a tua misericórdia,","e exultaremos e nos alegraremos todos os nossos dias."]},
+{v:15,l:["Alegra-nos pelos dias em que nos afligiste,","pelos anos em que vimos a desgraça."]},
+{v:16,l:["Apareça aos teus servos a tua obra,","e aos seus filhos, o teu esplendor."],np:1},
+{v:17,l:["Venha sobre nós a bondade do Senhor nosso Deus;","consolida a obra das nossas mãos,","sim, consolida a obra das nossas mãos."]}
+];
+
+window.TEXTOS_SEED["salmos"][91] = [
+{v:1,l:["Quem habita no abrigo do Altíssimo","e mora à sombra do Onipotente"],np:1},
+{v:2,l:["diz ao Senhor: Meu refúgio e minha fortaleza,","meu Deus, em quem confio."]},
+{v:3,l:["Porque ele te livrará do laço do caçador","e da peste destruidora."],np:1},
+{v:4,l:["Com as suas penas te cobrirá,","e sob as suas asas terás refúgio;","escudo e couraça é a sua verdade."]},
+{v:5,l:["Não temerás o terror da noite,","nem a flecha que voa de dia,"],np:1},
+{v:6,l:["nem a peste que caminha nas trevas,","nem o flagelo que devasta ao meio-dia."]},
+{v:7,l:["Cairão mil ao teu lado","e dez mil à tua direita,","mas a ti não há de chegar."]},
+{v:8,l:["Somente com os teus olhos olharás","e verás a paga dos ímpios."]},
+{v:9,l:["Porque tu, Senhor, és o meu refúgio;","puseste no Altíssimo a tua morada."],np:1},
+{v:10,l:["Não te sobrevirá desgraça,","nem praga chegará à tua tenda,"]},
+{v:11,l:["porque aos seus anjos mandará a teu respeito","que te guardem em todos os teus caminhos."],np:1,n:"É o verso que o tentador cita ao Senhor no pináculo do templo, e que ele recusa usar — a promessa é para quem confia, não para quem quer forçar a mão de Deus."},
+{v:12,l:["Nas mãos te levarão,","para que o teu pé não tropece na pedra."]},
+{v:13,l:["Sobre o leão e a víbora caminharás,","calcarás o leãozinho e o dragão."]},
+{v:14,l:["Porque a mim se apegou, eu o livrarei;","eu o protegerei, porque conheceu o meu nome."],np:1,n:"Os três últimos versos mudam de voz: até aqui falava-se ao fiel, agora é Deus quem responde, e em primeira pessoa. O salmo acaba com a promessa vinda de quem a pode cumprir."},
+{v:15,l:["Clamará por mim, e eu o ouvirei;","com ele estarei na angústia,","eu o livrarei e o glorificarei."]},
+{v:16,l:["Com longos dias o saciarei","e lhe mostrarei a minha salvação."]}
+];
+
+window.TEXTOS_SEED["salmos"][92] = [
+{v:1,t:"Salmo. Cântico. Para o dia de sábado."},
+{v:2,l:["Bom é louvar o Senhor","e cantar salmos ao teu nome, ó Altíssimo,"],np:1},
+{v:3,l:["anunciar de manhã a tua misericórdia","e de noite a tua fidelidade,"]},
+{v:4,l:["com a lira de dez cordas e com a harpa,","ao som da cítara."]},
+{v:5,l:["Porque me alegraste, Senhor, com os teus feitos,","e exulto pelas obras das tuas mãos."],np:1},
+{v:6,l:["Como são grandes as tuas obras, Senhor!","Que profundos são os teus pensamentos!"]},
+{v:7,l:["O homem estúpido não os conhece,","e o insensato não os entende."]},
+{v:8,l:["Quando os ímpios brotam como a erva","e florescem todos os que praticam a iniquidade,","é para serem destruídos para sempre."]},
+{v:9,l:["Tu, porém, Senhor, és o Altíssimo eternamente."],np:1,n:"Único verso de uma só linha em todo o salmo, e fica exatamente no meio: oito versos antes, oito depois. O eixo do poema é também a afirmação que o sustenta."},
+{v:10,l:["Porque eis que os teus inimigos, Senhor,","eis que os teus inimigos hão de perecer,","e serão dispersos todos os que praticam a iniquidade."],np:1},
+{v:11,l:["Mas tu levantaste o meu poder como o do búfalo","e me ungiste com óleo fresco."]},
+{v:12,l:["Os meus olhos viram os que me espreitavam,","e os meus ouvidos ouviram os que se levantavam contra mim."]},
+{v:13,l:["O justo florescerá como a palmeira,","crescerá como o cedro do Líbano."],np:1},
+{v:14,l:["Plantados na casa do Senhor,","florescerão nos átrios do nosso Deus."]},
+{v:15,l:["Ainda na velhice darão fruto,","permanecerão viçosos e frondosos,"]},
+{v:16,l:["para anunciar que o Senhor é reto:","ele é a minha rocha, e nele não há injustiça."]}
+];
+
+window.TEXTOS_SEED["salmos"][93] = [
+{v:1,l:["O Senhor reina, vestido de majestade;","vestiu-se o Senhor e cingiu-se de força.","Firmou o mundo, e ele não há de vacilar."],np:1,n:"Começa aqui a série dos salmos do reinado do Senhor, que vai até ao 99. Todos abrem com a mesma aclamação, que era provavelmente o grito de uma festa: o Senhor reina."},
+{v:2,l:["Firme está o teu trono desde então;","tu existes desde a eternidade."]},
+{v:3,l:["Levantaram os rios, Senhor,","levantaram os rios a sua voz,","levantam os rios o seu fragor."],np:1},
+{v:4,l:["Mais do que a voz das águas caudalosas,","mais do que as ondas do mar,","poderoso nas alturas é o Senhor."]},
+{v:5,l:["Os teus testemunhos são dignos de toda a fé;","à tua casa convém a santidade, Senhor,","por longos dias."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][94] = [
+{v:1,l:["Deus das vinganças, Senhor,","Deus das vinganças, manifesta-te!"],np:1,n:"Vingança traduz aqui uma palavra hebraica que não é a do rancor particular, mas a do resgate feito pelo parente mais próximo: quem não tem quem o defenda apela ao único que ainda lhe resta."},
+{v:2,l:["Levanta-te, juiz da terra,","dá aos soberbos o que merecem."]},
+{v:3,l:["Até quando os ímpios, Senhor,","até quando os ímpios hão de exultar?"],np:1},
+{v:4,l:["Proferem palavras insolentes;","gloriam-se todos os que praticam a iniquidade."]},
+{v:5,l:["Esmagam o teu povo, Senhor,","e oprimem a tua herança."]},
+{v:6,l:["Matam a viúva e o estrangeiro","e assassinam os órfãos."]},
+{v:7,l:["E dizem: O Senhor não vê,","o Deus de Jacó não percebe."]},
+{v:8,l:["Compreendei, ó insensatos do povo;","e vós, estúpidos, quando sereis sábios?"],np:1},
+{v:9,l:["O que plantou o ouvido, não ouvirá?","O que formou o olho, não verá?"]},
+{v:10,l:["O que corrige as nações, não castigará,","ele que ensina ao homem o conhecimento?"]},
+{v:11,l:["O Senhor conhece os pensamentos dos homens:","não passam de um sopro."]},
+{v:12,l:["Feliz o homem que tu corriges, Senhor,","e a quem ensinas a tua lei,"],np:1},
+{v:13,l:["para lhe dares descanso nos dias maus,","até que se abra a cova para o ímpio."]},
+{v:14,l:["Porque o Senhor não rejeitará o seu povo","nem abandonará a sua herança;"]},
+{v:15,l:["mas o julgamento voltará à justiça,","e a seguirão todos os retos de coração."]},
+{v:16,l:["Quem se levantará por mim contra os malfeitores?","Quem ficará comigo contra os que praticam a iniquidade?"],np:1},
+{v:17,l:["Se o Senhor não me tivesse socorrido,","em pouco tempo a minha alma habitaria no silêncio."]},
+{v:18,l:["Quando eu digo: O meu pé vacila,","a tua misericórdia, Senhor, me sustenta."]},
+{v:19,l:["Quando se multiplicam as inquietações dentro de mim,","as tuas consolações alegram a minha alma."]},
+{v:20,l:["Porventura se aliará a ti o tribunal da iniquidade,","que fabrica opressão sob capa de lei?"],np:1,n:"O salmo não acusa a ilegalidade, mas a lei injusta: a opressão que se faz por decreto e tem forma de direito."},
+{v:21,l:["Atacam a vida do justo","e condenam o sangue inocente."]},
+{v:22,l:["Mas o Senhor tornou-se a minha fortaleza,","e o meu Deus, a rocha do meu refúgio."]},
+{v:23,l:["Fará recair sobre eles a sua iniquidade","e pela sua maldade os destruirá;","o Senhor nosso Deus os destruirá."]}
+];
+
+window.TEXTOS_SEED["salmos"][95] = [
+{v:1,l:["Vinde, cantemos ao Senhor,","aclamemos a rocha da nossa salvação."],np:1,n:"É o salmo com que, há mais de mil e quinhentos anos, se abre cada dia do ofício divino. Começa em convite e acaba em advertência: o mesmo texto que chama ao louvor lembra que se pode ouvir a voz de Deus e endurecer o coração."},
+{v:2,l:["Apresentemo-nos diante dele com louvores,","aclamemo-lo com cânticos."]},
+{v:3,l:["Porque o Senhor é um Deus grande,","rei grande sobre todos os deuses."],np:1},
+{v:4,l:["Nas suas mãos estão as profundezas da terra,","e dele são os cumes dos montes."]},
+{v:5,l:["Dele é o mar, pois ele o fez,","e a terra firme, que as suas mãos formaram."]},
+{v:6,l:["Vinde, adoremos e prostremo-nos,","ajoelhemos diante do Senhor que nos criou,"],np:1},
+{v:7,l:["porque ele é o nosso Deus,","e nós, o povo do seu pasto","e as ovelhas da sua mão.","Quem dera ouvísseis hoje a sua voz:"]},
+{v:8,l:["Não endureçais os vossos corações como em Meribá,","como no dia de Massá, no deserto,"],np:1},
+{v:9,l:["onde os vossos pais me tentaram,","me puseram à prova, ainda que tinham visto a minha obra."]},
+{v:10,l:["Durante quarenta anos enfadou-me aquela geração,","e eu disse: É um povo de coração errante;","não conheceram os meus caminhos."],np:1},
+{v:11,l:["Por isso jurei na minha ira:","Não entrarão no meu descanso."],n:"A Carta aos Hebreus constrói dois capítulos inteiros sobre estes últimos versos, tomando o hoje do verso 7 como o tempo em que ainda se pode ouvir, e o descanso como aquele que resta ao povo de Deus."}
+];

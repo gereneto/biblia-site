@@ -2185,3 +2185,147 @@ window.TEXTOS_SEED["salmos"][106] = [
 {v:47,l:["Salva-nos, Senhor nosso Deus,","e reúne-nos de entre as nações,","para que demos graças ao teu santo nome","e nos gloriemos no teu louvor."],np:1},
 {v:48,l:["Bendito seja o Senhor, Deus de Israel,","desde sempre e para sempre.","E diga todo o povo: Amém! Aleluia!"],np:1,n:"Doxologia que encerra o quarto livro do saltério. O pedido do verso anterior — reúne-nos de entre as nações — mostra que o salmo se rezava já no exílio, ou depois dele."}
 ];
+
+window.TEXTOS_SEED["salmos"][107] = [
+{s:"Digam-no os que o Senhor resgatou"},
+{v:1,l:["Dai graças ao Senhor, porque é bom,","porque é eterna a sua misericórdia."],np:1,n:"Abre-se aqui o quinto e último livro do saltério. O salmo tem 43 versículos e é feito de quatro quadros — o deserto, o cárcere, a doença, o mar —, cada um com o mesmo par de refrãos: clamaram na angústia, e ele os livrou; deem graças pela sua misericórdia. Por ser dos muito grandes, vai em trechos com subtítulo."},
+{v:2,l:["Digam-no os resgatados do Senhor,","os que ele resgatou da mão do opressor"]},
+{v:3,l:["e reuniu de entre as terras,","do oriente e do ocidente,","do norte e do sul."]},
+
+{s:"Os que erravam pelo deserto"},
+{v:4,l:["Erravam pelo deserto, na solidão;","não encontravam caminho para uma cidade onde habitar."],np:1},
+{v:5,l:["Famintos e sedentos,","a sua alma desfalecia neles."]},
+{v:6,l:["Na angústia clamaram ao Senhor,","e ele os livrou das suas aflições."]},
+{v:7,l:["E os conduziu por caminho reto,","para que chegassem a uma cidade onde habitar."]},
+{v:8,l:["Deem graças ao Senhor pela sua misericórdia","e pelas suas maravilhas para com os filhos dos homens,"],np:1},
+{v:9,l:["porque saciou a alma sedenta","e encheu de bens a alma faminta."]},
+
+{s:"Os que jaziam nas trevas"},
+{v:10,l:["Habitavam nas trevas e na sombra da morte,","prisioneiros na miséria e no ferro,"],np:1},
+{v:11,l:["porque se revoltaram contra as palavras de Deus","e desprezaram o conselho do Altíssimo."]},
+{v:12,l:["Humilhou-lhes o coração com trabalhos;","vacilaram, e não havia quem os socorresse."]},
+{v:13,l:["Na angústia clamaram ao Senhor,","e ele os salvou das suas aflições."]},
+{v:14,l:["E os tirou das trevas e da sombra da morte","e quebrou as suas correntes."]},
+{v:15,l:["Deem graças ao Senhor pela sua misericórdia","e pelas suas maravilhas para com os filhos dos homens,"],np:1},
+{v:16,l:["porque quebrou as portas de bronze","e despedaçou os ferrolhos de ferro."]},
+
+{s:"Os que adoeciam por sua culpa"},
+{v:17,l:["Estavam doentes por causa dos seus caminhos de iniquidade","e afligidos por causa das suas culpas."],np:1},
+{v:18,l:["A sua alma abominou todo alimento,","e chegaram às portas da morte."]},
+{v:19,l:["Na angústia clamaram ao Senhor,","e ele os salvou das suas aflições."]},
+{v:20,l:["Enviou a sua palavra e os curou","e os arrancou da perdição."],n:"Enviou a sua palavra e os curou: a antiga leitura cristã viu neste verso, mais do que em nenhum outro do saltério, o anúncio da palavra que seria enviada em pessoa."},
+{v:21,l:["Deem graças ao Senhor pela sua misericórdia","e pelas suas maravilhas para com os filhos dos homens,"],np:1},
+{v:22,l:["e ofereçam sacrifícios de louvor","e anunciem com júbilo as suas obras."]},
+
+{s:"Os que desciam ao mar em navios"},
+{v:23,l:["Os que desciam ao mar em navios,","negociando sobre as grandes águas,"],np:1},
+{v:24,l:["esses viram as obras do Senhor","e as suas maravilhas no abismo."]},
+{v:25,l:["Falou, e levantou-se um vento de tempestade","que ergueu as suas ondas."]},
+{v:26,l:["Subiam até ao céu, desciam até aos abismos;","a sua alma desfalecia no perigo."]},
+{v:27,l:["Cambaleavam e vacilavam como bêbados,","e toda a sua perícia se perdeu."]},
+{v:28,l:["Na angústia clamaram ao Senhor,","e ele os tirou das suas aflições."],np:1},
+{v:29,l:["Mudou a tempestade em brisa,","e calaram-se as ondas do mar."],n:"Os evangelhos contam a tempestade acalmada com as palavras deste salmo, e a pergunta que os discípulos fazem — quem é este, a quem até o vento e o mar obedecem? — tem aqui a resposta."},
+{v:30,l:["Alegraram-se porque se aquietaram,","e ele os conduziu ao porto desejado."]},
+{v:31,l:["Deem graças ao Senhor pela sua misericórdia","e pelas suas maravilhas para com os filhos dos homens,"],np:1},
+{v:32,l:["e exaltem-no na assembleia do povo","e louvem-no no conselho dos anciãos."]},
+
+{s:"Ele muda os rios em deserto"},
+{v:33,l:["Ele muda os rios em deserto","e as nascentes de água em terra sedenta,"],np:1},
+{v:34,l:["a terra fértil em salina,","por causa da maldade dos que nela habitam."]},
+{v:35,l:["Muda o deserto em lagos","e a terra árida em nascentes de água."],np:1},
+{v:36,l:["Ali faz habitar os famintos,","e eles fundam uma cidade onde morar."]},
+{v:37,l:["Semeiam campos e plantam vinhas","e recolhem os seus frutos."]},
+{v:38,l:["Abençoa-os, e multiplicam-se muito,","e não deixa diminuir o seu gado."]},
+{v:39,l:["Mas depois diminuem e definham","sob o peso da opressão, do mal e da dor."],np:1},
+{v:40,l:["Derrama o desprezo sobre os príncipes","e os faz errar por lugares sem caminho."]},
+{v:41,l:["Mas levanta o pobre da miséria","e multiplica as famílias como rebanhos."]},
+{v:42,l:["Veem os retos e se alegram,","e toda a iniquidade fecha a boca."]},
+{v:43,l:["Quem é sábio guarde estas coisas","e compreenda as misericórdias do Senhor."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][108] = [
+{v:1,t:"Cântico. Salmo de Davi.",n:"Não é um salmo novo: é feito de dois pedaços já cantados, o fim do Salmo 57 e o fim do Salmo 60, unidos num só. O saltério recompõe assim os seus próprios versos, como quem monta uma antífona com o que já tem."},
+{v:2,l:["Firme está o meu coração, ó Deus;","cantarei e entoarei salmos.","Desperta, minha glória."],np:1},
+{v:3,l:["Despertai, harpa e cítara:","quero despertar a aurora."]},
+{v:4,l:["Entre os povos te louvarei, Senhor,","entre as nações te cantarei salmos,"],np:1},
+{v:5,l:["porque a tua misericórdia é grande até acima dos céus,","e até às nuvens a tua verdade."]},
+{v:6,l:["Ergue-te sobre os céus, ó Deus;","sobre toda a terra, a tua glória."]},
+{v:7,l:["Para que se salvem os teus amados,","socorre com a tua destra e responde-nos."],np:1},
+{v:8,l:["Deus falou no seu santuário:","Exultarei e repartirei Siquém,","e medirei o vale de Sucot."],np:1},
+{v:9,l:["Meu é Galaad e meu é Manassés;","Efraim é o elmo da minha cabeça,","Judá, o meu cetro."]},
+{v:10,l:["Moab é a bacia em que me lavo;","sobre Edom lanço a minha sandália,","contra a Filisteia dou brados de triunfo."]},
+{v:11,l:["Quem me levará à cidade fortificada?","Quem me guiará até Edom?"],np:1},
+{v:12,l:["Não serás tu, ó Deus, que nos rejeitaste","e já não sais, ó Deus, com os nossos exércitos?"]},
+{v:13,l:["Dá-nos auxílio contra o opressor,","porque vão é o socorro do homem."],np:1},
+{v:14,l:["Com Deus faremos proezas,","e ele calcará os que nos oprimem."]}
+];
+
+window.TEXTOS_SEED["salmos"][109] = [
+{v:1,l:["Ao mestre do coro. Salmo de Davi.","Ó Deus do meu louvor, não fiques calado,"],np:1,n:"Nota do tradutor: é o mais duro dos salmos imprecatórios, e traduz-se aqui sem abrandamento. Muitos intérpretes, antigos e modernos, entendem que os versos 6 a 19 não são a maldição do salmista, mas a maldição dos seus acusadores, citada por ele e devolvida no verso 20 — o que explicaria a passagem brusca do plural ao singular no verso 6. A leitura é possível e o texto não a impõe; conserva-se aqui a sequência tal como está, e deixa-se a nota. Em qualquer dos casos, o que o salmo faz é entregar a Deus o que não se quer fazer com as próprias mãos."},
+{v:2,l:["porque abriram contra mim boca ímpia e enganosa","e me falaram com língua mentirosa."]},
+{v:3,l:["Rodearam-me de palavras de ódio","e combateram-me sem motivo."]},
+{v:4,l:["Em troca do meu amor, acusam-me;","eu, porém, não faço senão orar."]},
+{v:5,l:["Puseram sobre mim o mal em troca do bem,","e o ódio em troca do meu amor."]},
+{v:6,l:["Põe sobre ele um ímpio,","e esteja um acusador à sua direita."],np:1},
+{v:7,l:["Quando for julgado, saia condenado,","e a sua oração se torne pecado."]},
+{v:8,l:["Sejam poucos os seus dias,","e outro receba o seu cargo."],n:"São Pedro cita este verso nos Atos dos Apóstolos, ao propor que se eleja quem tome o lugar de Judas entre os doze."},
+{v:9,l:["Fiquem órfãos os seus filhos","e viúva a sua mulher."],np:1},
+{v:10,l:["Andem errantes os seus filhos, mendigando,","expulsos das suas ruínas."]},
+{v:11,l:["O usurário lhe tome tudo o que tem,","e estranhos saqueiem o fruto do seu trabalho."]},
+{v:12,l:["Não haja quem lhe faça misericórdia","nem quem se compadeça dos seus órfãos."]},
+{v:13,l:["Seja exterminada a sua descendência;","na geração seguinte se apague o seu nome."]},
+{v:14,l:["Lembre-se o Senhor da culpa dos seus pais,","e não se apague o pecado de sua mãe."],np:1},
+{v:15,l:["Estejam sempre diante do Senhor,","e ele corte da terra a sua memória,"]},
+{v:16,l:["porque não se lembrou de fazer misericórdia,","mas perseguiu o pobre e o indigente","e o de coração ferido, para o matar."]},
+{v:17,l:["Amou a maldição: venha sobre ele;","não quis a bênção: afaste-se dele."],np:1},
+{v:18,l:["Vestiu-se de maldição como de um manto:","entre ela como água nas suas entranhas","e como azeite nos seus ossos."]},
+{v:19,l:["Seja para ele como a roupa que o cobre,","como o cinto que sempre o cinge."]},
+{v:20,l:["Seja esta, da parte do Senhor, a paga dos meus acusadores,","dos que falam mal contra a minha alma."],np:1},
+{v:21,l:["Mas tu, Senhor Deus, age por mim","por amor do teu nome;","porque é boa a tua misericórdia, livra-me."],np:1},
+{v:22,l:["Porque sou pobre e indigente,","e dentro de mim o meu coração está ferido."]},
+{v:23,l:["Vou-me como a sombra que declina,","sou sacudido como um gafanhoto."]},
+{v:24,l:["Os meus joelhos vacilam de jejum,","e a minha carne emagreceu sem gordura."]},
+{v:25,l:["E vim a ser para eles motivo de escárnio:","ao ver-me, meneiam a cabeça."]},
+{v:26,l:["Ajuda-me, Senhor meu Deus,","salva-me segundo a tua misericórdia."],np:1},
+{v:27,l:["Saibam que esta é a tua mão,","que foste tu, Senhor, quem o fez."]},
+{v:28,l:["Eles amaldiçoem, mas tu abençoa;","fiquem envergonhados os que se levantam contra mim,","e alegre-se o teu servo."]},
+{v:29,l:["Cubram-se de desonra os meus acusadores","e envolvam-se na sua vergonha como num manto."]},
+{v:30,l:["Darei muitas graças ao Senhor com a minha boca;","no meio da multidão o louvarei,"],np:1},
+{v:31,l:["porque se põe à direita do pobre","para o salvar dos que o condenam."],n:"O salmo fecha com a inversão de tudo o que pediu: o lugar à direita, que no verso 6 era o do acusador, passa a ser o de Deus junto do pobre. Quem acusava fica sem o lugar."}
+];
+
+window.TEXTOS_SEED["salmos"][110] = [
+{v:1,l:["De Davi. Salmo.","Disse o Senhor ao meu senhor:","Senta-te à minha direita,","até que eu ponha os teus inimigos","por escabelo dos teus pés."],np:1,n:"É o versículo do Antigo Testamento mais citado pelo Novo — mais de vinte vezes —, e o próprio Senhor o cita no templo para perguntar como pode Davi chamar senhor ao seu filho. Em português, a distinção que o hebraico faz entre os dois nomes perde-se: o primeiro é o nome divino, o segundo é o título do rei."},
+{v:2,l:["O cetro do teu poder estenderá o Senhor desde Sião:","domina no meio dos teus inimigos."],np:1},
+{v:3,l:["Contigo está o principado no dia do teu poder,","entre os esplendores santos;","do seio, antes da aurora, eu te gerei."],n:"Dos versos mais corrompidos do saltério: as versões antigas divergem entre si quase palavra por palavra. Segue-se a Nova Vulgata, que conserva a leitura antes da aurora eu te gerei, tomada pelos Padres como anúncio da geração eterna do Filho."},
+{v:4,l:["Jurou o Senhor e não se há de arrepender:","Tu és sacerdote para sempre,","segundo a ordem de Melquisedec."],np:1,n:"Sobre este único verso a Carta aos Hebreus constrói três capítulos: um sacerdócio que não vem de Levi nem se transmite por descendência, e por isso não acaba."},
+{v:5,l:["O Senhor está à tua direita:","esmagará os reis no dia da sua ira."],np:1},
+{v:6,l:["Julgará as nações, amontoando cadáveres;","esmagará as cabeças sobre a terra imensa."]},
+{v:7,l:["Beberá da torrente no caminho,","e por isso levantará a cabeça."],n:"Verso enigmático, e de propósito: o vencedor detém-se a beber num riacho e segue. A tradição leu na torrente a humilhação assumida, e no levantar da cabeça a ressurreição."}
+];
+
+window.TEXTOS_SEED["salmos"][111] = [
+{v:1,l:["Aleluia.","Darei graças ao Senhor de todo o coração,","no conselho dos justos e na assembleia."],np:1,n:"Salmo alfabético: as suas vinte e duas linhas começam, em hebraico, pelas vinte e duas letras do alfabeto, por ordem. O artifício não se pode reproduzir em português sem violentar o sentido, e por isso se perde; fica aqui o registro, porque explica por que as frases são tão curtas e pouco ligadas entre si."},
+{v:2,l:["Grandes são as obras do Senhor,","dignas de estudo para todos os que as amam."],np:1},
+{v:3,l:["Esplendor e majestade é a sua obra,","e a sua justiça permanece para sempre."]},
+{v:4,l:["Deixou memória das suas maravilhas:","misericordioso e compassivo é o Senhor."]},
+{v:5,l:["Deu alimento aos que o temem;","lembra-se para sempre da sua aliança."]},
+{v:6,l:["Mostrou ao seu povo a força das suas obras,","dando-lhe a herança das nações."]},
+{v:7,l:["As obras das suas mãos são verdade e direito;","seguros são todos os seus preceitos,"],np:1},
+{v:8,l:["firmes para sempre e sempre,","feitos com verdade e retidão."]},
+{v:9,l:["Enviou a redenção ao seu povo,","estabeleceu para sempre a sua aliança:","santo e temível é o seu nome."]},
+{v:10,l:["O princípio da sabedoria é o temor do Senhor;","são sensatos todos os que o praticam.","O seu louvor permanece para sempre."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][112] = [
+{v:1,l:["Aleluia.","Feliz o homem que teme o Senhor","e muito se compraz nos seus mandamentos."],np:1,n:"Também alfabético, e par do salmo anterior: aquele descrevia as obras de Deus, este descreve as do homem que o teme, repetindo de propósito as mesmas palavras. O que ali se dizia do Senhor — misericordioso e compassivo, a sua justiça permanece para sempre — diz-se aqui do justo."},
+{v:2,l:["Poderosa na terra será a sua descendência;","a geração dos retos será abençoada."],np:1},
+{v:3,l:["Bens e riquezas há na sua casa,","e a sua justiça permanece para sempre."]},
+{v:4,l:["Nasce nas trevas como luz para os retos:","é misericordioso, compassivo e justo."]},
+{v:5,l:["Bem lhe vai ao homem que se compadece e empresta,","que regula os seus negócios com justiça,"],np:1},
+{v:6,l:["porque nunca há de vacilar:","o justo será lembrado para sempre."]},
+{v:7,l:["Não temerá más notícias;","firme está o seu coração, confiante no Senhor."]},
+{v:8,l:["Seguro está o seu coração, não temerá,","até ver a derrota dos seus adversários."]},
+{v:9,l:["Distribuiu, deu aos pobres;","a sua justiça permanece para sempre,","e o seu poder se levanta em glória."],np:1,n:"São Paulo cita este verso na segunda Carta aos Coríntios, ao falar da coleta para os santos de Jerusalém."},
+{v:10,l:["O ímpio verá e se irritará,","rangerá os dentes e definhará;","o desejo dos ímpios há de perecer."]}
+];

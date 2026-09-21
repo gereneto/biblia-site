@@ -7,6 +7,7 @@
 window.LIVROS_SEED = {
   "levitico":   { nome: "Levítico",    grupo: "Pentateuco",          capitulos: 27 },
   "numeros":    { nome: "Números",     grupo: "Pentateuco",          capitulos: 36 },
+  "deuteronomio": { nome: "Deuteronômio", grupo: "Pentateuco",        capitulos: 34 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
   "2corintios": { nome: "II Coríntios", grupo: "Cartas de São Paulo", capitulos: 13 },
@@ -15,7 +16,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "levitico": {}, "numeros": {}, "salmos": {},
+  "levitico": {}, "numeros": {}, "deuteronomio": {}, "salmos": {},
   "1corintios": {}, "2corintios": {}, "evangelhos": {}
 };
 

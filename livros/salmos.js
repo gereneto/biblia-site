@@ -2800,3 +2800,278 @@ window.TEXTOS_SEED["salmos"][134] = [
 {v:2,l:["Levantai as vossas mãos para o santuário","e bendizei o Senhor."]},
 {v:3,l:["Abençoe-te o Senhor desde Sião,","ele que fez o céu e a terra."],np:1}
 ];
+
+window.TEXTOS_SEED["salmos"][135] = [
+{v:1,l:["Aleluia.","Louvai o nome do Senhor,","louvai-o, servos do Senhor,"],np:1},
+{v:2,l:["vós que estais na casa do Senhor,","nos átrios da casa do nosso Deus."]},
+{v:3,l:["Louvai o Senhor, porque o Senhor é bom;","cantai ao seu nome, porque é suave."]},
+{v:4,l:["Porque o Senhor escolheu para si Jacó,","Israel como seu tesouro."]},
+{v:5,l:["Eu sei que o Senhor é grande,","e o nosso Senhor, acima de todos os deuses."],np:1},
+{v:6,l:["Tudo o que o Senhor quer, ele o faz,","no céu e na terra,","nos mares e em todos os abismos."]},
+{v:7,l:["Faz subir as nuvens dos confins da terra,","produz os relâmpagos para a chuva,","tira dos seus depósitos o vento."]},
+{v:8,l:["Feriu os primogênitos do Egito,","desde o homem até ao animal."],np:1},
+{v:9,l:["Enviou sinais e prodígios no meio de ti, ó Egito,","contra o faraó e contra todos os seus servos."]},
+{v:10,l:["Feriu muitas nações","e matou reis poderosos:"]},
+{v:11,l:["Seon, rei dos amorreus,","e Og, rei de Basã,","e todos os reinos de Canaã."]},
+{v:12,l:["E deu a sua terra como herança,","herança a Israel, seu povo."]},
+{v:13,l:["Senhor, o teu nome é eterno;","Senhor, a tua memória, de geração em geração."],np:1},
+{v:14,l:["Porque o Senhor fará justiça ao seu povo","e se compadecerá dos seus servos."]},
+{v:15,l:["Os ídolos das nações são prata e ouro,","obra das mãos dos homens."],np:1,n:"Os versos 15 a 18 repetem quase palavra por palavra o Salmo 115. Este salmo é feito assim, de pedaços de outros: da lei, dos profetas e do saltério, recompostos num louvor só."},
+{v:16,l:["Têm boca e não falam,","têm olhos e não veem."]},
+{v:17,l:["Têm ouvidos e não ouvem,","e não há sopro algum na sua boca."]},
+{v:18,l:["Tornem-se como eles os que os fazem","e todos os que neles confiam."]},
+{v:19,l:["Casa de Israel, bendizei o Senhor;","casa de Aarão, bendizei o Senhor;"],np:1},
+{v:20,l:["casa de Levi, bendizei o Senhor;","vós que temeis o Senhor, bendizei o Senhor."]},
+{v:21,l:["Bendito seja o Senhor desde Sião,","ele que habita em Jerusalém.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][136] = [
+{v:1,l:["Dai graças ao Senhor, porque é bom:","porque é eterna a sua misericórdia."],np:1,n:"Chamado o Grande Hallel. Todos os vinte e seis versos repetem o mesmo refrão, que o povo respondia enquanto o cantor ia dizendo a primeira linha: é o mais antigo vestígio de canto alternado que a Escritura conserva. O refrão traz a palavra hesed, que é a fidelidade de Deus à sua aliança, e não só a compaixão."},
+{v:2,l:["Dai graças ao Deus dos deuses:","porque é eterna a sua misericórdia."]},
+{v:3,l:["Dai graças ao Senhor dos senhores:","porque é eterna a sua misericórdia."]},
+{v:4,l:["Àquele que sozinho faz grandes maravilhas:","porque é eterna a sua misericórdia."],np:1},
+{v:5,l:["Àquele que com sabedoria fez os céus:","porque é eterna a sua misericórdia."]},
+{v:6,l:["Àquele que firmou a terra sobre as águas:","porque é eterna a sua misericórdia."]},
+{v:7,l:["Àquele que fez os grandes luzeiros:","porque é eterna a sua misericórdia."]},
+{v:8,l:["O sol, para governar o dia:","porque é eterna a sua misericórdia."]},
+{v:9,l:["A lua e as estrelas, para governar a noite:","porque é eterna a sua misericórdia."]},
+{v:10,l:["Àquele que feriu o Egito nos seus primogênitos:","porque é eterna a sua misericórdia."],np:1},
+{v:11,l:["E fez sair Israel do meio deles:","porque é eterna a sua misericórdia."]},
+{v:12,l:["Com mão forte e braço estendido:","porque é eterna a sua misericórdia."]},
+{v:13,l:["Àquele que dividiu em duas partes o Mar Vermelho:","porque é eterna a sua misericórdia."]},
+{v:14,l:["E fez passar Israel pelo meio dele:","porque é eterna a sua misericórdia."]},
+{v:15,l:["E lançou o faraó e o seu exército no Mar Vermelho:","porque é eterna a sua misericórdia."]},
+{v:16,l:["Àquele que conduziu o seu povo pelo deserto:","porque é eterna a sua misericórdia."],np:1},
+{v:17,l:["Àquele que feriu grandes reis:","porque é eterna a sua misericórdia."]},
+{v:18,l:["E matou reis poderosos:","porque é eterna a sua misericórdia."]},
+{v:19,l:["Seon, rei dos amorreus:","porque é eterna a sua misericórdia."]},
+{v:20,l:["E Og, rei de Basã:","porque é eterna a sua misericórdia."]},
+{v:21,l:["E deu a sua terra como herança:","porque é eterna a sua misericórdia."]},
+{v:22,l:["Herança a Israel, seu servo:","porque é eterna a sua misericórdia."]},
+{v:23,l:["Que na nossa humilhação se lembrou de nós:","porque é eterna a sua misericórdia."],np:1},
+{v:24,l:["E nos livrou dos nossos opressores:","porque é eterna a sua misericórdia."]},
+{v:25,l:["Que dá alimento a toda carne:","porque é eterna a sua misericórdia."],n:"Depois de percorrer a criação e a história, o salmo acaba na coisa mais simples: dar de comer a tudo o que vive. E é essa, não a divisão do mar, que fecha a lista das maravilhas."},
+{v:26,l:["Dai graças ao Deus do céu:","porque é eterna a sua misericórdia."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][137] = [
+{v:1,l:["Junto aos rios de Babilônia,","ali nos sentávamos e chorávamos,","lembrando-nos de Sião."],np:1,n:"O único salmo que diz, ele mesmo, onde foi composto. O exílio na Babilônia durou de 587 a 538 antes de Cristo."},
+{v:2,l:["Nos salgueiros que há no meio dela","penduramos as nossas cítaras."]},
+{v:3,l:["Porque ali os que nos levaram cativos","pediam-nos cânticos,","e os nossos opressores, alegria:","Cantai-nos um dos cânticos de Sião!"]},
+{v:4,l:["Como cantaremos o cântico do Senhor","em terra estrangeira?"]},
+{v:5,l:["Se eu me esquecer de ti, Jerusalém,","que se esqueça de mim a minha mão direita."],np:1},
+{v:6,l:["Apegue-se a minha língua ao paladar,","se eu não me lembrar de ti,","se não puser Jerusalém","acima de toda a minha alegria."]},
+{v:7,l:["Lembra-te, Senhor, dos filhos de Edom,","que no dia de Jerusalém diziam:","Arrasai, arrasai até aos seus alicerces!"],np:1},
+{v:8,l:["Filha de Babilônia, devastadora:","feliz quem te pagar","o que nos fizeste."]},
+{v:9,l:["Feliz quem pegar nos teus filhos pequenos","e os esmagar contra a rocha."],n:"Nota do tradutor: este é o verso mais duro de toda a Escritura, e traduz-se aqui sem atenuação, porque atenuá-lo seria fingir que não está escrito. Três coisas se devem dizer. A primeira é que o salmo descreve o que Babilônia fizera à própria Jerusalém: matar as crianças dos vencidos era prática corrente das guerras do tempo, e o desejo é de retribuição exata, não de invenção. A segunda é que o salmo não mata ninguém: entrega a Deus, em palavra, uma dor que não tem para onde ir — e é isso, e não o silêncio, que impede a mão de agir. A terceira é que a Escritura conserva este grito sem o aprovar. A liturgia latina retirou o verso do saltério das Horas; o texto bíblico manteve-o, para que ninguém possa dizer que a fé exige esconder o que se sente. Quem reza este salmo reza também com os que hoje perderam filhos, e é a eles que a última palavra pertence."}
+];
+
+window.TEXTOS_SEED["salmos"][138] = [
+{v:1,l:["De Davi.","Dou-te graças, Senhor, de todo o coração,","porque ouviste as palavras da minha boca.","Diante dos anjos cantarei para ti,"],np:1},
+{v:2,l:["hei de prostrar-me diante do teu santo templo","e dar graças ao teu nome,","pela tua misericórdia e pela tua verdade,","porque exaltaste acima de tudo","o teu nome e a tua promessa."]},
+{v:3,l:["No dia em que clamei, tu me respondeste;","aumentaste a força na minha alma."],np:1},
+{v:4,l:["Hão de dar-te graças, Senhor, todos os reis da terra,","porque ouviram as palavras da tua boca."],np:1},
+{v:5,l:["E cantarão os caminhos do Senhor,","porque grande é a glória do Senhor."]},
+{v:6,l:["Porque o Senhor é excelso e olha para o humilde,","mas ao soberbo conhece de longe."]},
+{v:7,l:["Se eu caminhar em meio à angústia, tu me darás vida;","contra a ira dos meus inimigos estenderás a tua mão,","e a tua destra me salvará."],np:1},
+{v:8,l:["O Senhor completará por mim o que começou.","Senhor, a tua misericórdia é eterna:","não abandones a obra das tuas mãos."],n:"O salmo acaba pedindo que Deus não largue a meio o que está fazendo, e a obra das suas mãos é quem reza. É dos versos que melhor dizem a confiança: não que se mereça, mas que não se costuma abandonar o que se começou."}
+];
+
+window.TEXTOS_SEED["salmos"][139] = [
+{v:1,l:["Ao mestre do coro. De Davi. Salmo.","Senhor, tu me sondas e me conheces;"],np:1},
+{v:2,l:["tu sabes quando me sento e quando me levanto,","de longe penetras o meu pensamento."]},
+{v:3,l:["Observas o meu andar e o meu repouso,","e todos os meus caminhos te são familiares."]},
+{v:4,l:["Ainda a palavra não me chegou à língua,","e eis que tu, Senhor, já a conheces toda."]},
+{v:5,l:["Por trás e por diante tu me cercas","e pões sobre mim a tua mão."]},
+{v:6,l:["Maravilhoso é para mim tal conhecimento,","tão alto que não o alcanço."]},
+{v:7,l:["Para onde irei, longe do teu espírito?","Para onde fugirei da tua face?"],np:1},
+{v:8,l:["Se subir ao céu, ali estás;","se descer ao abismo, ali te encontro."]},
+{v:9,l:["Se tomar as asas da aurora","e for habitar nos confins do mar,"]},
+{v:10,l:["também ali me conduzirá a tua mão","e me segurará a tua destra."]},
+{v:11,l:["Se eu disser: Ao menos as trevas me cobrirão,","e a noite será a luz ao meu redor,"],np:1},
+{v:12,l:["nem as trevas são escuras para ti,","e a noite é clara como o dia:","as trevas são como a luz."]},
+{v:13,l:["Porque tu formaste o meu íntimo,","teceste-me no ventre de minha mãe."],np:1},
+{v:14,l:["Dou-te graças, porque de modo admirável fui formado;","admiráveis são as tuas obras,","e a minha alma bem o sabe."]},
+{v:15,l:["Não te estavam ocultos os meus ossos","quando eu era feito em segredo,","bordado nas profundezas da terra."],n:"Bordado nas profundezas da terra: a formação do corpo no ventre é dita com as palavras da formação de Adão do pó, e com o verbo de quem borda um tecido. O escondido do ventre e o escondido da terra são o mesmo lugar."},
+{v:16,l:["Os teus olhos viam as minhas ações,","e no teu livro estavam todas escritas;","os dias estavam contados","antes que um só deles existisse."]},
+{v:17,l:["Como me são preciosos os teus pensamentos, ó Deus!","Como é imenso o seu conjunto!"],np:1},
+{v:18,l:["Se os contasse, seriam mais do que a areia;","e, se chegasse ao fim, ainda estaria contigo."]},
+{v:19,l:["Quem dera matasses, ó Deus, os ímpios!","Afastai-vos de mim, homens de sangue."],np:1,n:"A mudança de tom é brusca e desconcerta quem lê: do assombro diante de Deus passa-se à imprecação. O salmo, porém, responde-se a si mesmo nos dois últimos versos, ao pedir que o mesmo olhar que tudo sonda sonde também quem fala."},
+{v:20,l:["Falam de ti com perfídia;","os teus inimigos tomam em vão o teu nome."]},
+{v:21,l:["Acaso não odeio, Senhor, os que te odeiam?","Não me repugnam os que se levantam contra ti?"]},
+{v:22,l:["Com ódio total eu os odeio;","tornaram-se para mim inimigos."]},
+{v:23,l:["Sonda-me, ó Deus, e conhece o meu coração;","prova-me e conhece os meus pensamentos."],np:1},
+{v:24,l:["Vê se há em mim caminho de perdição","e conduze-me pelo caminho eterno."]}
+];
+
+window.TEXTOS_SEED["salmos"][140] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi."},
+{v:2,l:["Livra-me, Senhor, do homem mau,","guarda-me do homem violento,"],np:1},
+{v:3,l:["dos que tramam o mal no coração","e o dia inteiro provocam contendas."]},
+{v:4,l:["Afiam a língua como serpente;","veneno de víbora há nos seus lábios."],n:"São Paulo cita este verso na Carta aos Romanos, na série de textos do saltério com que mostra que todos estão sob o pecado."},
+{v:5,l:["Guarda-me, Senhor, das mãos do ímpio,","guarda-me do homem violento,","que trama derrubar os meus passos."],np:1},
+{v:6,l:["Os soberbos esconderam laços para mim","e estenderam cordas como rede;","à beira do caminho puseram armadilhas."]},
+{v:7,l:["Eu disse ao Senhor: Tu és o meu Deus;","escuta, Senhor, a voz da minha súplica."],np:1},
+{v:8,l:["Senhor Deus, minha força e minha salvação,","cobres a minha cabeça no dia do combate."]},
+{v:9,l:["Não concedas, Senhor, os desejos do ímpio;","não deixes que os seus planos tenham êxito."],np:1},
+{v:10,l:["Os que me cercam levantam a cabeça:","caia sobre eles a malícia dos seus lábios."]},
+{v:11,l:["Caiam brasas sobre eles;","sejam lançados no fogo,","nos abismos, donde não se levantem."]},
+{v:12,l:["O homem de má língua não se firmará na terra;","o mal caçará o violento, para o abater."]},
+{v:13,l:["Sei que o Senhor fará justiça ao pobre","e defenderá o direito dos necessitados."],np:1},
+{v:14,l:["Sim, os justos darão graças ao teu nome,","e os retos habitarão na tua presença."]}
+];
+
+window.TEXTOS_SEED["salmos"][141] = [
+{v:1,l:["Salmo de Davi.","Senhor, clamo a ti: vem depressa a mim;","escuta a minha voz quando clamo a ti."],np:1},
+{v:2,l:["Suba a minha oração como incenso diante de ti,","e as minhas mãos levantadas, como o sacrifício da tarde."],n:"Por este verso o salmo é, desde os primeiros séculos, o salmo das Vésperas; nas liturgias orientais canta-se com incensação. A oração do pobre, que não tem o que oferecer, vale o sacrifício da tarde."},
+{v:3,l:["Põe, Senhor, uma guarda à minha boca","e uma sentinela à porta dos meus lábios."],np:1},
+{v:4,l:["Não inclines o meu coração a palavras más,","a cometer ações perversas","com os homens que praticam a iniquidade;","e que eu não coma das suas delícias."]},
+{v:5,l:["Fira-me o justo com misericórdia e me corrija:","óleo de pecador não unja a minha cabeça;","pois a minha oração é contra as suas maldades."],np:1,n:"Antes ser ferido por quem é justo do que ungido por quem não é: a correção de um amigo vale mais do que a lisonja de um adversário."},
+{v:6,l:["Quando os seus chefes forem lançados pelas rochas,","ouvirão as minhas palavras, porque são suaves."]},
+{v:7,l:["Como quem fende e rompe a terra,","assim os nossos ossos foram espalhados","à boca do abismo."]},
+{v:8,l:["Mas para ti, Senhor Deus, se voltam os meus olhos;","em ti me refugio: não desampares a minha alma."],np:1},
+{v:9,l:["Guarda-me do laço que me armaram","e das armadilhas dos que praticam a iniquidade."]},
+{v:10,l:["Caiam os ímpios nas suas próprias redes,","enquanto eu passo ao largo."]}
+];
+
+window.TEXTOS_SEED["salmos"][142] = [
+{v:1,t:"Poema de Davi, quando estava na caverna. Oração."},
+{v:2,l:["Com a minha voz clamo ao Senhor,","com a minha voz suplico ao Senhor."],np:1},
+{v:3,l:["Derramo diante dele o meu lamento,","diante dele exponho a minha angústia."]},
+{v:4,l:["Quando desfalece em mim o meu espírito,","tu conheces o meu caminho.","No caminho por onde ando","esconderam um laço para mim."],np:1},
+{v:5,l:["Olho para a direita e vejo:","não há quem me reconheça.","Não tenho para onde fugir,","não há quem cuide da minha vida."],n:"À direita ficava, no tribunal, o lugar do defensor. Olhar para a direita e não ver ninguém é dizer que não há quem tome a sua causa."},
+{v:6,l:["Clamo a ti, Senhor, e digo: Tu és o meu refúgio,","a minha porção na terra dos viventes."],np:1},
+{v:7,l:["Atende ao meu clamor,","porque estou muito abatido.","Livra-me dos que me perseguem,","porque são mais fortes do que eu."]},
+{v:8,l:["Tira a minha alma da prisão,","para que eu dê graças ao teu nome.","Os justos me rodearão","quando me fizeres bem."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][143] = [
+{v:1,l:["Salmo de Davi.","Senhor, ouve a minha oração;","na tua fidelidade, dá ouvidos à minha súplica;","na tua justiça, responde-me."],np:1,n:"Último dos sete salmos penitenciais. O verso 2 é dos mais citados por São Paulo e por Santo Agostinho, e é o fundamento do que a teologia chamaria justificação: diante de Deus, nenhum vivente é justo por si."},
+{v:2,l:["Não entres em juízo com o teu servo,","porque nenhum vivente é justo diante de ti."]},
+{v:3,l:["Porque o inimigo persegue a minha alma,","abateu por terra a minha vida,","fez-me habitar nas trevas","como os que morreram há muito."],np:1},
+{v:4,l:["Desfalece em mim o meu espírito,","e dentro de mim o meu coração está perturbado."]},
+{v:5,l:["Lembro-me dos dias antigos,","medito em todas as tuas obras,","considero o trabalho das tuas mãos."],np:1},
+{v:6,l:["Estendo para ti as minhas mãos;","a minha alma tem sede de ti como terra ressequida."]},
+{v:7,l:["Responde-me depressa, Senhor:","o meu espírito desfalece.","Não escondas de mim o teu rosto,","para que eu não seja como os que descem à cova."],np:1},
+{v:8,l:["Faze-me ouvir de manhã a tua misericórdia,","porque em ti confio.","Mostra-me o caminho por onde devo andar,","porque a ti elevo a minha alma."]},
+{v:9,l:["Livra-me dos meus inimigos, Senhor:","em ti me refugio."],np:1},
+{v:10,l:["Ensina-me a fazer a tua vontade,","porque tu és o meu Deus.","O teu bom espírito me conduza","por terra plana."]},
+{v:11,l:["Por amor do teu nome, Senhor, dá-me vida;","na tua justiça, tira a minha alma da angústia."],np:1},
+{v:12,l:["E, na tua misericórdia, destrói os meus inimigos","e faze perecer todos os que oprimem a minha alma,","porque eu sou teu servo."]}
+];
+
+window.TEXTOS_SEED["salmos"][144] = [
+{v:1,l:["De Davi.","Bendito o Senhor, minha rocha,","que adestra as minhas mãos para o combate","e os meus dedos para a guerra."],np:1},
+{v:2,l:["Minha misericórdia e minha fortaleza,","meu baluarte e meu libertador,","meu escudo, em quem me refugio,","que submete a mim o meu povo."]},
+{v:3,l:["Senhor, que é o homem, para que te lembres dele?","O filho do homem, para que penses nele?"],np:1,n:"A pergunta é a do Salmo 8, mas a resposta é outra: ali o assombro era o de ver o homem coroado de glória; aqui é o de ver Deus ocupar-se de um sopro."},
+{v:4,l:["O homem é como um sopro;","os seus dias, como sombra que passa."]},
+{v:5,l:["Senhor, inclina os teus céus e desce;","toca os montes, e eles fumegarão."],np:1},
+{v:6,l:["Lança relâmpagos e dispersa-os,","atira as tuas flechas e confunde-os."]},
+{v:7,l:["Estende a tua mão do alto;","livra-me e tira-me das águas caudalosas,","da mão dos estrangeiros,"]},
+{v:8,l:["cuja boca fala falsidade","e cuja destra é destra de mentira."]},
+{v:9,l:["Ó Deus, cantarei para ti um cântico novo,","com a lira de dez cordas tocarei para ti,"],np:1},
+{v:10,l:["para ti, que dás a salvação aos reis,","que livras Davi, teu servo, da espada maligna."]},
+{v:11,l:["Livra-me e tira-me da mão dos estrangeiros,","cuja boca fala falsidade","e cuja destra é destra de mentira."]},
+{v:12,l:["Sejam os nossos filhos como plantas","que crescem na sua juventude;","as nossas filhas, como colunas de ângulo,","esculpidas como as de um palácio."],np:1},
+{v:13,l:["Estejam cheios os nossos celeiros,","transbordando de toda espécie de frutos;","multipliquem-se aos milhares os nossos rebanhos,","às dezenas de milhares nos nossos campos."]},
+{v:14,l:["Sejam robustos os nossos bois.","Não haja brecha nem fuga,","nem gritos nas nossas praças."]},
+{v:15,l:["Feliz o povo a quem assim acontece;","feliz o povo cujo Deus é o Senhor."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][145] = [
+{v:1,l:["Louvor. De Davi.","Eu te exaltarei, meu Deus e meu rei,","e bendirei o teu nome para sempre."],np:1,n:"Último salmo atribuído a Davi e o único que traz por título a palavra louvor — tehilá, donde vem tehilim, o nome hebraico de todo o saltério. É alfabético, e falta-lhe no texto massorético o verso da letra nun; a Nova Vulgata restitui-o na segunda metade do versículo 13, segundo a versão grega e um manuscrito de Qumran."},
+{v:2,l:["Todos os dias te bendirei","e louvarei o teu nome para sempre."]},
+{v:3,l:["Grande é o Senhor e muito digno de louvor;","a sua grandeza não se pode medir."]},
+{v:4,l:["Uma geração louvará as tuas obras à outra","e anunciará os teus feitos poderosos."],np:1},
+{v:5,l:["Falarão do esplendor glorioso da tua majestade","e das tuas maravilhas."]},
+{v:6,l:["Falarão do poder dos teus feitos temíveis,","e eu contarei a tua grandeza."]},
+{v:7,l:["Proclamarão a lembrança da tua imensa bondade","e cantarão a tua justiça."]},
+{v:8,l:["Clemente e misericordioso é o Senhor,","lento para a ira e cheio de bondade."],np:1},
+{v:9,l:["O Senhor é bom para todos,","e a sua ternura se estende a todas as suas obras."],n:"Para todos, sem distinção: é o verso em que o saltério vai mais longe na universalidade da bondade de Deus, e o que está por trás do mandamento de amar os inimigos."},
+{v:10,l:["Que todas as tuas obras te deem graças, Senhor,","e os teus fiéis te bendigam."]},
+{v:11,l:["Falarão da glória do teu reino","e contarão o teu poder,"],np:1},
+{v:12,l:["para dar a conhecer aos filhos dos homens os teus feitos poderosos","e o esplendor glorioso do teu reino."]},
+{v:13,l:["O teu reino é reino de todos os séculos,","e o teu domínio, de geração em geração.","Fiel é o Senhor em todas as suas palavras","e santo em todas as suas obras."]},
+{v:14,l:["O Senhor sustenta todos os que caem","e levanta todos os que estão abatidos."],np:1},
+{v:15,l:["Os olhos de todos esperam em ti,","e tu lhes dás o alimento a seu tempo."]},
+{v:16,l:["Abres a tua mão","e sacias de bênção tudo o que vive."]},
+{v:17,l:["Justo é o Senhor em todos os seus caminhos","e santo em todas as suas obras."],np:1},
+{v:18,l:["Perto está o Senhor de todos os que o invocam,","de todos os que o invocam em verdade."]},
+{v:19,l:["Cumpre o desejo dos que o temem,","ouve o seu clamor e os salva."]},
+{v:20,l:["O Senhor guarda todos os que o amam,","mas destruirá todos os ímpios."]},
+{v:21,l:["A minha boca proclamará o louvor do Senhor,","e toda carne bendiga o seu santo nome","para sempre."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][146] = [
+{v:1,l:["Aleluia.","Louva, minha alma, o Senhor!"],np:1,n:"Começam aqui os cinco salmos finais, de 146 a 150, todos abertos e fechados por um Aleluia. Fazem as vezes de doxologia do quinto livro e de fecho de todo o saltério, que começou pedindo que se evitasse o conselho dos ímpios e termina pedindo que tudo o que respira louve."},
+{v:2,l:["Louvarei o Senhor enquanto viver,","cantarei salmos ao meu Deus enquanto existir."]},
+{v:3,l:["Não confieis nos príncipes,","nem no filho do homem, em quem não há salvação."],np:1},
+{v:4,l:["Sai-lhe o espírito, e ele volta ao pó;","naquele dia perecem os seus projetos."]},
+{v:5,l:["Feliz aquele cujo auxílio é o Deus de Jacó,","cuja esperança está no Senhor seu Deus,"],np:1},
+{v:6,l:["que fez o céu e a terra,","o mar e tudo o que neles há;","que guarda a fidelidade para sempre,"]},
+{v:7,l:["que faz justiça aos oprimidos,","que dá pão aos famintos.","O Senhor solta os prisioneiros,"]},
+{v:8,l:["o Senhor abre os olhos aos cegos,","o Senhor levanta os abatidos,","o Senhor ama os justos."],n:"Destes três versos tirou o Senhor, na sinagoga de Nazaré e na resposta aos enviados do Batista, os sinais pelos quais havia de reconhecer-se o tempo da salvação."},
+{v:9,l:["O Senhor guarda os estrangeiros,","ampara o órfão e a viúva,","mas transtorna o caminho dos ímpios."]},
+{v:10,l:["Reinará o Senhor para sempre,","o teu Deus, ó Sião, de geração em geração.","Aleluia!"],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][147] = [
+{v:1,l:["Aleluia.","Louvai o Senhor, porque é bom cantar salmos ao nosso Deus;","porque é suave, e cabe-lhe o louvor."],np:1,n:"A antiga versão grega e a Vulgata dividiam este salmo em dois, a partir do versículo 12; por isso as Bíblias que seguem essa numeração têm um Salmo 147 mais curto. A Nova Vulgata segue o hebraico e conserva-o inteiro."},
+{v:2,l:["O Senhor reconstrói Jerusalém,","reúne os dispersos de Israel."]},
+{v:3,l:["Ele cura os de coração quebrantado","e liga as suas feridas."]},
+{v:4,l:["Conta o número das estrelas","e chama cada uma pelo nome."],n:"Os dois versos que se seguem um ao outro dizem o mesmo cuidado em duas escalas: ele sabe o nome de cada estrela e conhece cada ferida. Nenhuma das duas coisas é grande demais nem pequena demais."},
+{v:5,l:["Grande é o nosso Senhor e imenso o seu poder;","a sua sabedoria não tem medida."]},
+{v:6,l:["O Senhor sustenta os humildes,","mas abate até ao chão os ímpios."]},
+{v:7,l:["Cantai ao Senhor em ação de graças,","tocai a cítara ao nosso Deus,"],np:1},
+{v:8,l:["que cobre o céu de nuvens","e prepara a chuva para a terra,","que faz brotar a erva nos montes","e as plantas para o serviço do homem."]},
+{v:9,l:["Ele dá o alimento ao gado","e aos filhotes do corvo que gritam."]},
+{v:10,l:["Não se compraz na força do cavalo","nem se agrada das pernas do homem."],np:1},
+{v:11,l:["O Senhor se compraz nos que o temem,","nos que esperam na sua misericórdia."]},
+{v:12,l:["Glorifica o Senhor, Jerusalém;","louva o teu Deus, Sião,"],np:1},
+{v:13,l:["porque reforçou os ferrolhos das tuas portas","e abençoou dentro de ti os teus filhos."]},
+{v:14,l:["Estabeleceu a paz nas tuas fronteiras","e te sacia com a flor do trigo."]},
+{v:15,l:["Envia a sua palavra à terra,","e a sua ordem corre veloz."],np:1},
+{v:16,l:["Dá a neve como lã,","espalha a geada como cinza."]},
+{v:17,l:["Lança o seu gelo como migalhas:","diante do seu frio, quem resistirá?"]},
+{v:18,l:["Envia a sua palavra e os derrete;","faz soprar o seu vento, e as águas correm."]},
+{v:19,l:["Anuncia a sua palavra a Jacó,","os seus estatutos e juízos a Israel."],np:1},
+{v:20,l:["Não fez assim com nenhuma outra nação","nem lhes deu a conhecer os seus juízos.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][148] = [
+{v:1,l:["Aleluia.","Louvai o Senhor desde os céus,","louvai-o nas alturas."],np:1,n:"O salmo chama ao louvor tudo o que existe, por ordem: primeiro o que está acima do firmamento, depois o que está sob ele, e por fim os homens — e entre os homens os reis vêm depois dos monstros marinhos e antes das crianças. Deste salmo, e do cântico dos três jovens de Daniel, nasceu o Cântico das Criaturas de São Francisco."},
+{v:2,l:["Louvai-o, todos os seus anjos;","louvai-o, todos os seus exércitos."]},
+{v:3,l:["Louvai-o, sol e lua;","louvai-o, todas as estrelas luminosas."]},
+{v:4,l:["Louvai-o, céus dos céus,","e vós, águas que estais acima dos céus."]},
+{v:5,l:["Louvem o nome do Senhor,","porque ele falou, e foram feitos;","ele ordenou, e foram criados."],np:1},
+{v:6,l:["Firmou-os para sempre e eternamente;","deu-lhes uma lei que não passará."]},
+{v:7,l:["Louvai o Senhor desde a terra,","monstros marinhos e todos os abismos,"],np:1},
+{v:8,l:["fogo e granizo, neve e névoa,","vento de tempestade que executa a sua palavra,"]},
+{v:9,l:["montes e todas as colinas,","árvores frutíferas e todos os cedros,"]},
+{v:10,l:["feras e todo o gado,","répteis e aves que voam,"]},
+{v:11,l:["reis da terra e todos os povos,","príncipes e todos os juízes da terra,"]},
+{v:12,l:["jovens e também donzelas,","velhos junto com crianças:"]},
+{v:13,l:["louvem o nome do Senhor,","porque só o seu nome é excelso;","a sua majestade está acima da terra e do céu,"],np:1},
+{v:14,l:["e ele exaltou o poder do seu povo.","Louvor para todos os seus fiéis,","para os filhos de Israel, o povo que lhe está próximo.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][149] = [
+{v:1,l:["Aleluia.","Cantai ao Senhor um cântico novo,","o seu louvor na assembleia dos fiéis."],np:1},
+{v:2,l:["Alegre-se Israel no seu Criador,","exultem no seu rei os filhos de Sião."]},
+{v:3,l:["Louvem o seu nome com danças,","cantem-lhe salmos com tamborim e cítara,"]},
+{v:4,l:["porque o Senhor se compraz no seu povo","e coroa de salvação os humildes."]},
+{v:5,l:["Exultem os fiéis na glória,","alegrem-se nos seus leitos."],np:1},
+{v:6,l:["Os louvores de Deus estejam na sua boca","e espadas de dois gumes nas suas mãos,"],n:"Nota do tradutor: os versos 6 a 9 foram invocados, na Idade Média e depois, para justificar guerras; é leitura que o texto não autoriza. O salmo é um canto de festa, dançado e tocado, e a sentença escrita que se executa é a de Deus, não a de quem canta. A tradição cristã leu sempre a espada de dois gumes como a palavra — é assim que a Carta aos Hebreus e o Apocalipse a tomam —, e os Padres entenderam a vitória como a que se ganha sobre o próprio mal. Traduz-se aqui a letra, e registra-se a advertência."},
+{v:7,l:["para fazer vingança entre as nações","e castigos entre os povos,"]},
+{v:8,l:["para prender os seus reis com grilhões","e os seus nobres com algemas de ferro,"]},
+{v:9,l:["para executar contra eles a sentença escrita.","Esta é a glória de todos os seus fiéis.","Aleluia!"]}
+];
+
+window.TEXTOS_SEED["salmos"][150] = [
+{v:1,l:["Aleluia.","Louvai o Senhor no seu santuário,","louvai-o no firmamento do seu poder."],np:1,n:"O último salmo não pede nada e não conta nada: é só o mandato de louvar, repetido dez vezes em seis versículos, com a orquestra inteira do templo. Serve de doxologia final a todo o saltério, que abriu com um homem sozinho meditando na lei e fecha com tudo o que respira."},
+{v:2,l:["Louvai-o pelos seus feitos poderosos,","louvai-o pela sua imensa grandeza."]},
+{v:3,l:["Louvai-o ao som da trombeta,","louvai-o com a harpa e a cítara."],np:1},
+{v:4,l:["Louvai-o com tamborim e dança,","louvai-o com cordas e flauta."]},
+{v:5,l:["Louvai-o com címbalos sonoros,","louvai-o com címbalos retumbantes."]},
+{v:6,l:["Tudo o que respira louve o Senhor.","Aleluia!"],np:1,n:"Tudo o que respira: o hebraico diz toda a respiração, kol ha-neshamá. Nem todo o povo, nem todo o fiel — tudo o que tem fôlego. É a última palavra do saltério, e a mais larga."}
+];

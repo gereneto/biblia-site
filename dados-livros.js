@@ -9,12 +9,14 @@ window.LIVROS_SEED = {
   "numeros":    { nome: "Números",     grupo: "Pentateuco",          capitulos: 36 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
+  "2corintios": { nome: "II Coríntios", grupo: "Cartas de São Paulo", capitulos: 13 },
   "evangelhos": { nome: "Evangelhos cronológicos", grupo: "Novo Testamento",
                   capitulos: 202, harmonia: true }
 };
 
 window.TEXTOS_SEED = {
-  "levitico": {}, "numeros": {}, "salmos": {}, "1corintios": {}, "evangelhos": {}
+  "levitico": {}, "numeros": {}, "salmos": {},
+  "1corintios": {}, "2corintios": {}, "evangelhos": {}
 };
 
 window.HARMONIA = [

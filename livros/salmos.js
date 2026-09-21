@@ -117,6 +117,114 @@ window.TEXTOS_SEED["salmos"][8] = [
 {v:10,l:["Senhor, nosso Senhor,","como é admirável o teu nome em toda a terra!"],np:1,n:"O salmo fecha repetindo o verso com que abriu — o único do saltério construído assim, como um círculo."}
 ];
 
+window.TEXTOS_SEED["salmos"][9] = [
+{v:1,t:"Ao mestre do coro. Sobre a melodia «A morte do filho». Salmo de Davi.",n:"Este salmo e o seguinte formam um só poema alfabético, repartido pelas duas metades do alfabeto. Por isso o grego e o latim os contam como um só, e daí em diante a numeração deles fica uma unidade atrás da hebraica, até ao Salmo 147."},
+{v:2,l:["Eu te darei graças, Senhor, de todo o coração;","contarei todas as tuas maravilhas."],np:1},
+{v:3,l:["Em ti me alegrarei e exultarei;","cantarei ao teu nome, ó Altíssimo."]},
+{v:4,l:["Ao recuarem os meus inimigos,","tropeçam e perecem diante da tua face,"]},
+{v:5,l:["porque defendeste o meu direito e a minha causa;","sentaste no trono, ó juiz justo."]},
+{v:6,l:["Repreendeste as nações, destruíste o ímpio;","apagaste o seu nome para todo o sempre."],np:1},
+{v:7,l:["Os inimigos acabaram em ruínas perpétuas;","arrasaste as suas cidades,","e a sua memória pereceu com elas."]},
+{v:8,l:["Mas o Senhor está entronizado para sempre;","firmou o seu trono para o julgamento."]},
+{v:9,l:["Ele julgará o mundo com justiça","e governará os povos com retidão."]},
+{v:10,l:["O Senhor é refúgio para o oprimido,","refúgio nos tempos de angústia."],np:1},
+{v:11,l:["Confiem em ti os que conhecem o teu nome,","porque não abandonas os que te buscam, Senhor."]},
+{v:12,l:["Cantai ao Senhor, que habita em Sião;","anunciai entre os povos os seus feitos."]},
+{v:13,l:["Porque ele, que pede contas do sangue, lembra-se deles;","não esquece o clamor dos pobres."]},
+{v:14,l:["Tem piedade de mim, Senhor;","vê a aflição que me causam os que me odeiam,","tu que me ergues das portas da morte,"],np:1},
+{v:15,l:["para que eu anuncie todo o teu louvor","às portas da filha de Sião","e exulte na tua salvação."]},
+{v:16,l:["As nações caíram na cova que abriram;","o seu pé ficou preso na rede que esconderam."],np:1},
+{v:17,l:["O Senhor deu-se a conhecer, fez justiça;","o ímpio caiu na obra das suas mãos."]},
+{v:18,l:["Voltem os ímpios à morada dos mortos,","todas as nações que esquecem Deus."]},
+{v:19,l:["Porque o pobre não será esquecido para sempre,","nem a esperança dos aflitos perecerá para sempre."],np:1},
+{v:20,l:["Levanta-te, Senhor; não prevaleça o homem;","sejam julgadas as nações diante de ti."]},
+{v:21,l:["Infunde-lhes o terror, Senhor;","saibam as nações que não passam de homens."]}
+];
+
+window.TEXTOS_SEED["salmos"][10] = [
+{v:1,l:["Por que, Senhor, ficas ao longe?","Por que te escondes nos tempos de angústia?"],n:"Continua o acróstico começado no salmo anterior, e por isso não tem título: é a segunda metade do mesmo poema."},
+{v:2,l:["Na sua soberba, o ímpio persegue o pobre:","caiam eles nas tramas que urdiram."]},
+{v:3,l:["O ímpio gloria-se do desejo da sua alma,","e o ganancioso blasfema e despreza o Senhor."],np:1},
+{v:4,l:["O ímpio, no seu orgulho, não busca:","Não há Deus — é todo o seu pensamento."]},
+{v:5,l:["Os seus caminhos prosperam sempre;","os teus juízos estão muito acima dele;","a todos os seus adversários ele despreza."]},
+{v:6,l:["Diz no seu coração: Não vacilarei;","de geração em geração não me alcançará o mal."]},
+{v:7,l:["A sua boca está cheia de maldição, de engano e de violência;","sob a sua língua há tormento e iniquidade."],np:1},
+{v:8,l:["Põe-se de emboscada junto às aldeias;","nos esconderijos mata o inocente;","os seus olhos espiam o desvalido."]},
+{v:9,l:["Espreita no esconderijo, como o leão na sua toca;","espreita para arrebatar o pobre;","arrebata o pobre, arrastando-o na sua rede."]},
+{v:10,l:["Agacha-se e se abaixa,","e os desvalidos caem na sua força."]},
+{v:11,l:["Diz no seu coração: Deus esqueceu;","escondeu a sua face, nunca verá."],n:"É a terceira vez que o ímpio fala no seu coração, e as três frases desenham o seu credo: não vacilarei, não há Deus, Deus não vê."},
+{v:12,l:["Levanta-te, Senhor; ó Deus, ergue a tua mão;","não te esqueças dos pobres."],np:1},
+{v:13,l:["Por que despreza o ímpio a Deus,","dizendo no seu coração: Tu não pedirás contas?"]},
+{v:14,l:["Mas tu vês o tormento e a dor,","e olhas para os tomar nas tuas mãos.","A ti se entrega o desvalido;","tu és o socorro do órfão."]},
+{v:15,l:["Quebra o braço do ímpio e do mau;","pede-lhe contas da sua malícia,","e não se achará mais."]},
+{v:16,l:["O Senhor é rei para todo o sempre;","as nações desapareceram da sua terra."],np:1},
+{v:17,l:["Senhor, ouviste o desejo dos humildes;","firmas o seu coração e lhes dás ouvidos,"]},
+{v:18,l:["para fazer justiça ao órfão e ao oprimido,","para que o homem, feito de terra, não volte a aterrorizar."]}
+];
+
+window.TEXTOS_SEED["salmos"][11] = [
+{v:1,l:["Ao mestre do coro. De Davi.","No Senhor me refugio. Como dizeis à minha alma:","Foge para o monte como um pássaro?"],n:"O salmo abre com o conselho dos amigos, que mandam fugir, e o resto é a recusa desse conselho."},
+{v:2,l:["Pois eis que os ímpios retesam o arco,","ajustam a flecha à corda,","para atirar na sombra aos retos de coração."]},
+{v:3,l:["Quando os fundamentos são destruídos,","que pode fazer o justo?"]},
+{v:4,l:["O Senhor está no seu santo templo;","o Senhor tem o seu trono nos céus.","Os seus olhos contemplam,","as suas pálpebras examinam os filhos dos homens."],np:1},
+{v:5,l:["O Senhor examina o justo e o ímpio,","e a sua alma odeia o que ama a violência."]},
+{v:6,l:["Fará chover sobre os ímpios brasas e enxofre,","e vento abrasador será a parte do seu cálice."]},
+{v:7,l:["Porque o Senhor é justo e ama a justiça:","os retos verão a sua face."]}
+];
+
+window.TEXTOS_SEED["salmos"][12] = [
+{v:1,t:"Ao mestre do coro. Sobre a oitava. Salmo de Davi."},
+{v:2,l:["Salva, Senhor, porque já não há fiéis;","a lealdade desapareceu entre os filhos dos homens."],np:1},
+{v:3,l:["Falam mentira uns aos outros;","falam com lábios lisonjeiros e coração dobrado."],n:"Coração dobrado diz à letra coração e coração: dois por dentro, um só por fora."},
+{v:4,l:["Destrua o Senhor todos os lábios lisonjeiros","e a língua que fala com arrogância,"]},
+{v:5,l:["os que dizem: Pela nossa língua seremos fortes;","os nossos lábios são nossos: quem é senhor sobre nós?"]},
+{v:6,l:["Pela opressão dos pobres e pelo gemido dos necessitados,","agora me levantarei, diz o Senhor;","porei a salvo o que por ela suspira."],np:1},
+{v:7,l:["As palavras do Senhor são palavras puras,","prata refinada no crisol,","sete vezes purificada."],n:"Contra as palavras dos homens, ditas nos versículos anteriores, põem-se as de Deus: o salmo é todo sobre a fala, e mede-a pela pureza do metal."},
+{v:8,l:["Tu, Senhor, nos guardarás;","nos protegerás desta geração para sempre,"]},
+{v:9,l:["enquanto os ímpios rondam ao redor","e a baixeza se exalta entre os filhos dos homens."]}
+];
+
+window.TEXTOS_SEED["salmos"][13] = [
+{v:1,t:"Ao mestre do coro. Salmo de Davi."},
+{v:2,l:["Até quando, Senhor? Hás de esquecer-te de mim para sempre?","Até quando esconderás de mim a tua face?"],np:1,n:"O até quando repete-se quatro vezes em dois versículos, e é o salmo mais curto de lamento do saltério: a impaciência está na própria medida do poema."},
+{v:3,l:["Até quando terei cuidados na minha alma","e tristeza no meu coração todo o dia?","Até quando se exaltará o meu inimigo sobre mim?"]},
+{v:4,l:["Olha e responde-me, Senhor, meu Deus;","ilumina os meus olhos, para que eu não adormeça na morte,"],np:1},
+{v:5,l:["para que o meu inimigo não diga: Prevaleci contra ele,","e não exultem os meus adversários se eu vacilar."]},
+{v:6,l:["Eu, porém, confio na tua misericórdia;","o meu coração exultará na tua salvação.","Cantarei ao Senhor, porque me fez bem."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][14] = [
+{v:1,l:["Ao mestre do coro. De Davi.","Diz o insensato no seu coração: Não há Deus.","Corromperam-se, tornaram-se abomináveis nas suas obras;","não há quem faça o bem."],n:"O Salmo 53 repete este quase palavra por palavra, trocando Senhor por Deus, como fazem todos os salmos de 42 a 83."},
+{v:2,l:["O Senhor olha do céu para os filhos dos homens,","para ver se há algum sensato,","algum que busque a Deus."]},
+{v:3,l:["Todos se desviaram, juntamente se corromperam;","não há quem faça o bem, não há nem um sequer."]},
+{v:4,l:["Não têm entendimento todos os que praticam a iniquidade,","que devoram o meu povo como quem come pão","e não invocam o Senhor?"],np:1},
+{v:5,l:["Ali tremeram de medo,","porque Deus está com a geração dos justos."]},
+{v:6,l:["Zombais do plano do pobre,","mas o Senhor é o seu refúgio."]},
+{v:7,l:["Quem dará de Sião a salvação de Israel?","Quando o Senhor mudar a sorte do seu povo,","exultará Jacó, e Israel se alegrará."],np:1}
+];
+
+window.TEXTOS_SEED["salmos"][15] = [
+{v:1,l:["Salmo de Davi.","Senhor, quem habitará na tua tenda?","Quem morará no teu monte santo?"],n:"Pergunta que se fazia à entrada do santuário, e a que o sacerdote respondia com a lista que se segue. Nenhum dos requisitos é ritual: são todos de conduta para com o próximo."},
+{v:2,l:["O que anda sem mancha e pratica a justiça,","o que diz a verdade no seu coração;"],np:1},
+{v:3,l:["o que não calunia com a língua,","não faz mal ao próximo","nem lança injúria contra o seu vizinho;"]},
+{v:4,l:["o que tem por desprezível o réprobo,","mas honra os que temem o Senhor;","o que jura em seu prejuízo e não se retrata;"]},
+{v:5,l:["o que não empresta o seu dinheiro a juros","nem aceita suborno contra o inocente.","Quem assim procede jamais será abalado."]}
+];
+
+window.TEXTOS_SEED["salmos"][16] = [
+{v:1,l:["Poema de Davi.","Guarda-me, ó Deus, porque em ti me refugio."],n:"Poema traduz miktam, termo obscuro que encabeça seis salmos; já se entendeu inscrição, e também canto em voz baixa."},
+{v:2,l:["Digo ao Senhor: Tu és o meu Senhor;","não há para mim bem algum fora de ti."],np:1},
+{v:3,l:["Quanto aos santos que estão na terra,","são os nobres em quem está todo o meu agrado."]},
+{v:4,l:["Multiplicam-se as dores dos que correm atrás de outros deuses;","não derramarei as suas libações de sangue,","nem os seus nomes passarão pelos meus lábios."]},
+{v:5,l:["O Senhor é a parte da minha herança e do meu cálice:","tu tens nas mãos a minha sorte."],np:1,n:"Palavras ditas dos levitas, que não receberam terra porque o Senhor era a sua herança, como se lê em Números 18; aqui qualquer fiel as toma por suas."},
+{v:6,l:["Caiu-me a corda em terra aprazível;","e é formosa a herança que me coube."],n:"A corda é a de medir, com que se repartiam os lotes; fala-se da partilha da terra como quem fala do que recebeu da vida."},
+{v:7,l:["Bendigo o Senhor, que me aconselha;","até de noite o meu íntimo me instrui."]},
+{v:8,l:["Ponho sempre o Senhor diante de mim;","estando ele à minha direita, não vacilarei."],np:1},
+{v:9,l:["Por isso se alegra o meu coração e exulta a minha alma;","também a minha carne repousará em segurança,"]},
+{v:10,l:["porque não abandonarás a minha alma na morada dos mortos,","nem deixarás que o teu fiel veja a corrupção."],n:"Verso que São Pedro cita em Pentecostes e São Paulo em Antioquia, ambos para dizer que em Davi não se cumpriu, pois o seu sepulcro ali estava, mas em Cristo sim."},
+{v:11,l:["Hás de ensinar-me o caminho da vida:","alegria plena na tua presença,","delícias eternas à tua direita."]}
+];
+
 window.TEXTOS_SEED["salmos"][25] = [
 {v:1,l:["De Davi.","A ti, Senhor, elevo a minha alma."],n:"Na numeração grega e na Vulgata antiga, este é o Salmo 24; sigo a numeração hebraica, adotada como principal pela Nova Vulgata. O salmo é alfabético: cada versículo começa, no hebraico, com uma letra sucessiva do alfabeto."},
 {v:2,l:["Meu Deus, em ti confio: que eu não seja envergonhado,","que os meus inimigos não exultem sobre mim."]},

@@ -5,19 +5,46 @@
 // =====================================================================
 
 window.LIVROS_SEED = {
+  "genesis":    { nome: "Gênesis",     grupo: "Pentateuco",          capitulos: 50 },
   "levitico":   { nome: "Levítico",    grupo: "Pentateuco",          capitulos: 27 },
   "numeros":    { nome: "Números",     grupo: "Pentateuco",          capitulos: 36 },
   "deuteronomio": { nome: "Deuteronômio", grupo: "Pentateuco",        capitulos: 34 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
+  "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
   "2corintios": { nome: "II Coríntios", grupo: "Cartas de São Paulo", capitulos: 13 },
+  "galatas":    { nome: "Gálatas",     grupo: "Cartas de São Paulo", capitulos: 6 },
+  "efesios":    { nome: "Efésios",     grupo: "Cartas de São Paulo", capitulos: 6 },
+  "filipenses": { nome: "Filipenses",  grupo: "Cartas de São Paulo", capitulos: 4 },
+  "colossenses": { nome: "Colossenses", grupo: "Cartas de São Paulo", capitulos: 4 },
+  "1tessalonicenses": { nome: "I Tessalonicenses", grupo: "Cartas de São Paulo", capitulos: 5 },
+  "2tessalonicenses": { nome: "II Tessalonicenses", grupo: "Cartas de São Paulo", capitulos: 3 },
+  "1timoteo":   { nome: "I Timóteo",   grupo: "Cartas de São Paulo", capitulos: 6 },
+  "2timoteo":   { nome: "II Timóteo",  grupo: "Cartas de São Paulo", capitulos: 4 },
+  "tito":       { nome: "Tito",        grupo: "Cartas de São Paulo", capitulos: 3 },
+  "filemon":    { nome: "Filêmon",     grupo: "Cartas de São Paulo", capitulos: 1 },
+  "hebreus":    { nome: "Hebreus",     grupo: "Novo Testamento",     capitulos: 13 },
+  "tiago":      { nome: "Tiago",       grupo: "Cartas Católicas",    capitulos: 5 },
+  "1pedro":     { nome: "I Pedro",     grupo: "Cartas Católicas",    capitulos: 5 },
+  "2pedro":     { nome: "II Pedro",    grupo: "Cartas Católicas",    capitulos: 3 },
+  "1joao":      { nome: "I João",      grupo: "Cartas Católicas",    capitulos: 5 },
+  "2joao":      { nome: "II João",     grupo: "Cartas Católicas",    capitulos: 1 },
+  "3joao":      { nome: "III João",    grupo: "Cartas Católicas",    capitulos: 1 },
+  "judas":      { nome: "Judas",       grupo: "Cartas Católicas",    capitulos: 1 },
+  "apocalipse": { nome: "Apocalipse",  grupo: "Novo Testamento",     capitulos: 22 },
   "evangelhos": { nome: "Evangelhos cronológicos", grupo: "Novo Testamento",
                   capitulos: 202, harmonia: true }
 };
 
 window.TEXTOS_SEED = {
-  "levitico": {}, "numeros": {}, "deuteronomio": {}, "salmos": {},
-  "1corintios": {}, "2corintios": {}, "evangelhos": {}
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "salmos": {},
+  "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
+  "efesios": {}, "filipenses": {}, "colossenses": {},
+  "1tessalonicenses": {}, "2tessalonicenses": {},
+  "1timoteo": {}, "2timoteo": {}, "tito": {}, "filemon": {}, "hebreus": {},
+  "tiago": {}, "1pedro": {}, "2pedro": {},
+  "1joao": {}, "2joao": {}, "3joao": {}, "judas": {}, "apocalipse": {},
+  "evangelhos": {}
 };
 
 window.HARMONIA = [

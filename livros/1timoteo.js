@@ -1,0 +1,155 @@
+// =====================================================================
+// I Timóteo — tradução dos originais (versificação: Nova Vulgata)
+// Formato: {s:"subtítulo"} abre trecho; {v,t,n} prosa; {v,l:[...]} verso;
+// np:1 marca início de parágrafo.
+// =====================================================================
+
+
+window.TEXTOS_SEED["1timoteo"][1] = [
+{s:"Saudação"},
+{v:1,t:"Paulo, apóstolo de Cristo Jesus por mandado de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança,",n:"As duas cartas a Timóteo e a de Tito chamam-se pastorais desde o século XVIII: não se dirigem a uma comunidade, mas a quem a governa, e tratam do ofício de pastor."},
+{v:2,t:"a Timóteo, verdadeiro filho na fé: graça, misericórdia e paz, da parte de Deus Pai e de Cristo Jesus, nosso Senhor."},
+{s:"Contra as doutrinas estranhas"},
+{v:3,t:"Ao partir para a Macedônia, pedi-te que ficasses em Éfeso, para ordenares a alguns que não ensinem doutrinas estranhas,"},
+{v:4,t:"nem se ocupem de fábulas e de genealogias sem fim, que mais servem a discussões do que ao desígnio de Deus, o qual se funda na fé."},
+{v:5,t:"O fim desta ordem é a caridade, que nasce de um coração puro, de uma consciência boa e de uma fé sem fingimento."},
+{v:6,t:"Alguns, desviando-se destas coisas, perderam-se em vãs palavras:"},
+{v:7,t:"querem passar por doutores da lei, sem entenderem nem o que dizem nem o que afirmam."},
+{v:8,t:"Sabemos que a lei é boa, contanto que dela se use legitimamente,"},
+{v:9,t:"reconhecendo que a lei não é feita para o justo, mas para os sem lei e insubmissos, para os ímpios e pecadores, para os sacrílegos e profanos, para os parricidas e matricidas, para os homicidas,"},
+{v:10,t:"para os impudicos, os sodomitas, os traficantes de homens, os mentirosos, os perjuros, e para tudo o que se opõe à sã doutrina,"},
+{v:11,t:"segundo o Evangelho da glória do Deus bem-aventurado, que me foi confiado."},
+{s:"A misericórdia recebida"},
+{v:12,t:"Dou graças àquele que me fortaleceu, Cristo Jesus, nosso Senhor, porque me julgou fiel, pondo-me a seu serviço,"},
+{v:13,t:"a mim, que antes fui blasfemo, perseguidor e insolente. Mas alcancei misericórdia, porque agi por ignorância, na incredulidade."},
+{v:14,t:"E a graça de nosso Senhor transbordou, com a fé e o amor que estão em Cristo Jesus."},
+{v:15,t:"É palavra digna de fé e de ser aceita por todos: Cristo Jesus veio ao mundo para salvar os pecadores — dos quais eu sou o primeiro."},
+{v:16,t:"Mas por isso mesmo alcancei misericórdia: para que em mim, o primeiro, mostrasse Cristo Jesus toda a sua longanimidade, como exemplo para os que hão de crer nele, para a vida eterna."},
+{v:17,t:"Ao Rei dos séculos, imortal, invisível, único Deus, honra e glória pelos séculos dos séculos. Amém."},
+{s:"O bom combate"},
+{v:18,t:"Esta é a ordem que te confio, Timóteo, meu filho, segundo as profecias que antes se fizeram a teu respeito: que por elas travesses o bom combate,"},
+{v:19,t:"mantendo a fé e uma boa consciência. Alguns, por a terem rejeitado, naufragaram na fé;"},
+{v:20,t:"entre eles, Himeneu e Alexandre, que entreguei a Satanás, para que aprendam a não blasfemar."}
+];
+
+window.TEXTOS_SEED["1timoteo"][2] = [
+{s:"A oração por todos os homens"},
+{v:1,t:"Recomendo, pois, antes de tudo, que se façam súplicas, orações, intercessões e ações de graças por todos os homens,"},
+{v:2,t:"pelos reis e por todos os que estão no poder, para que levemos uma vida tranquila e serena, com toda piedade e dignidade."},
+{v:3,t:"Isto é bom e agradável diante de Deus, nosso Salvador,"},
+{v:4,t:"que quer que todos os homens se salvem e cheguem ao conhecimento da verdade."},
+{v:5,t:"Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,"},
+{v:6,t:"que se entregou a si mesmo em resgate por todos — testemunho dado a seu tempo."},
+{v:7,t:"Para isso fui constituído pregador e apóstolo — digo a verdade, não minto —, mestre dos gentios na fé e na verdade."},
+{s:"Na assembleia"},
+{v:8,t:"Quero, pois, que os homens orem em todo lugar, levantando mãos puras, sem ira nem discussões."},
+{v:9,t:"Do mesmo modo, que as mulheres se apresentem com decoro e sobriedade, e se adornem não com tranças, ouro, pérolas ou vestidos custosos,"},
+{v:10,t:"mas com boas obras, como convém a mulheres que professam a piedade."},
+{v:11,t:"A mulher aprenda em silêncio, com toda submissão."},
+{v:12,t:"Não permito que a mulher ensine, nem que se imponha ao homem; esteja, antes, em silêncio."},
+{v:13,t:"Porque primeiro foi formado Adão, depois Eva;"},
+{v:14,t:"e não foi Adão que se deixou seduzir, mas a mulher, seduzida, caiu em transgressão."},
+{v:15,t:"Há de salvar-se, porém, pela maternidade, contanto que permaneça, com modéstia, na fé, no amor e na santidade."}
+];
+
+window.TEXTOS_SEED["1timoteo"][3] = [
+{s:"Os bispos"},
+{v:1,t:"É palavra digna de fé: se alguém aspira ao episcopado, deseja uma boa obra."},
+{v:2,t:"É preciso, pois, que o bispo seja irrepreensível, marido de uma só mulher, sóbrio, prudente, digno, hospitaleiro, capaz de ensinar;"},
+{v:3,t:"não dado ao vinho nem violento, mas ponderado, pacífico, desapegado do dinheiro;"},
+{v:4,t:"que governe bem a própria casa e mantenha os filhos na obediência, com toda dignidade —"},
+{v:5,t:"pois quem não sabe governar a própria casa, como cuidará da Igreja de Deus? —;"},
+{v:6,t:"que não seja recém-convertido, para que não se ensoberbeça e caia na condenação do diabo."},
+{v:7,t:"É preciso também que goze de boa reputação entre os de fora, para não cair em descrédito e no laço do diabo."},
+{s:"Os diáconos"},
+{v:8,t:"Do mesmo modo, os diáconos sejam dignos, sem duplicidade de linguagem, não dados a muito vinho nem a lucros desonestos;"},
+{v:9,t:"guardem o mistério da fé numa consciência pura."},
+{v:10,t:"Sejam antes provados; e, se forem irrepreensíveis, exerçam o ministério."},
+{v:11,t:"Do mesmo modo, as mulheres sejam dignas, não maldizentes, sóbrias, fiéis em tudo."},
+{v:12,t:"Os diáconos sejam maridos de uma só mulher, e governem bem os filhos e as próprias casas."},
+{v:13,t:"Porque os que exercem bem o ministério alcançam para si um bom grau e grande segurança na fé em Cristo Jesus."},
+{s:"O mistério da piedade"},
+{v:14,t:"Escrevo-te estas coisas na esperança de ir ver-te em breve;"},
+{v:15,t:"mas, se eu demorar, quero que saibas como se deve proceder na casa de Deus, que é a Igreja do Deus vivo, coluna e fundamento da verdade."},
+{v:16,l:["E é grande, sem dúvida, o mistério da piedade:","Ele foi manifestado na carne,","justificado no Espírito,","visto pelos anjos,","anunciado entre os gentios,","acreditado no mundo,","elevado na glória."],n:"O versículo recolhe um hino cristológico antigo. Os seis membros desenham, dois a dois, a carne e o Espírito, a terra e o céu, o anúncio e a glória."}
+];
+
+window.TEXTOS_SEED["1timoteo"][4] = [
+{s:"Os falsos ascetas"},
+{v:1,t:"O Espírito diz expressamente que, nos últimos tempos, alguns hão de apostatar da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,"},
+{v:2,t:"pela hipocrisia de mentirosos, marcados a ferro na própria consciência,"},
+{v:3,t:"que proíbem o casamento e o uso de alimentos que Deus criou para serem recebidos com ação de graças pelos fiéis e pelos que conhecem a verdade."},
+{v:4,t:"Porque tudo o que Deus criou é bom, e nada é para rejeitar, quando se recebe com ação de graças:"},
+{v:5,t:"fica santificado pela palavra de Deus e pela oração."},
+{s:"O bom ministro de Cristo"},
+{v:6,t:"Expondo estas coisas aos irmãos, serás bom ministro de Cristo Jesus, alimentado com as palavras da fé e da boa doutrina que seguiste."},
+{v:7,t:"Rejeita as fábulas profanas e as histórias de velhas. Exercita-te, antes, na piedade;"},
+{v:8,t:"porque o exercício do corpo para pouco aproveita, ao passo que a piedade é útil para tudo, tendo a promessa da vida presente e da futura."},
+{v:9,t:"É palavra digna de fé e de ser aceita por todos."},
+{v:10,t:"É para isso que trabalhamos e lutamos: porque pusemos a nossa esperança no Deus vivo, salvador de todos os homens, principalmente dos fiéis."},
+{v:11,t:"Ordena e ensina estas coisas.",np:1},
+{v:12,t:"Ninguém despreze a tua juventude; sê, antes, modelo para os fiéis, na palavra, na conduta, na caridade, na fé, na pureza."},
+{v:13,t:"Até que eu chegue, aplica-te à leitura, à exortação e ao ensino."},
+{v:14,t:"Não descuides do dom que há em ti, que te foi conferido pela profecia, com a imposição das mãos do colégio dos presbíteros."},
+{v:15,t:"Cuida destas coisas, dedica-te a elas, para que o teu progresso seja manifesto a todos."},
+{v:16,t:"Vela por ti mesmo e pelo ensino; persevera nisso. Assim procedendo, salvarás a ti mesmo e aos que te ouvem."}
+];
+
+window.TEXTOS_SEED["1timoteo"][5] = [
+{s:"Cada um segundo a sua condição"},
+{v:1,t:"Não repreendas com aspereza o homem idoso; exorta-o como a um pai; aos mais jovens, como a irmãos;"},
+{v:2,t:"às mulheres idosas, como a mães; às jovens, como a irmãs, com toda pureza."},
+{s:"As viúvas"},
+{v:3,t:"Honra as viúvas, as que são verdadeiramente viúvas."},
+{v:4,t:"Mas, se alguma viúva tem filhos ou netos, aprendam eles primeiro a cumprir os deveres para com a própria casa e a retribuir aos que lhes deram o ser, porque isso é agradável a Deus."},
+{v:5,t:"A que é verdadeiramente viúva e ficou só põe a sua esperança em Deus e persevera, noite e dia, nas súplicas e nas orações."},
+{v:6,t:"A que vive nos prazeres, essa, embora viva, está morta."},
+{v:7,t:"Ordena também estas coisas, para que sejam irrepreensíveis."},
+{v:8,t:"Se alguém não cuida dos seus, e sobretudo dos de sua casa, negou a fé e é pior do que um infiel."},
+{v:9,t:"Seja inscrita como viúva a que não tenha menos de sessenta anos e tenha sido mulher de um só marido,",np:1},
+{v:10,t:"e goze de bom testemunho pelas suas boas obras: se criou filhos, se praticou a hospitalidade, se lavou os pés dos santos, se socorreu os atribulados, se se dedicou a toda boa obra."},
+{v:11,t:"Às viúvas mais jovens, recusa; porque, quando o desejo as afasta de Cristo, querem casar-se,"},
+{v:12,t:"e incorrem na culpa de haverem quebrado o primeiro compromisso."},
+{v:13,t:"Além disso, aprendem a ficar ociosas, correndo de casa em casa; e não só ociosas, mas faladeiras e curiosas, dizendo o que não convém."},
+{v:14,t:"Quero, pois, que as mais jovens se casem, tenham filhos, governem a casa e não deem ao adversário nenhuma ocasião de maledicência."},
+{v:15,t:"Algumas, com efeito, já se desviaram para seguir a Satanás."},
+{v:16,t:"Se alguma fiel tem viúvas na família, socorra-as, e não fique a Igreja sobrecarregada, para que possa atender às que são verdadeiramente viúvas."},
+{s:"Os presbíteros"},
+{v:17,t:"Os presbíteros que presidem bem sejam tidos por dignos de dupla honra, sobretudo os que se afadigam na palavra e no ensino."},
+{v:18,t:"Porque diz a Escritura: Não amordaçarás o boi que debulha; e ainda: O operário é digno do seu salário."},
+{v:19,t:"Não aceites acusação contra um presbítero, a não ser com duas ou três testemunhas."},
+{v:20,t:"Aos que pecam, repreende-os diante de todos, para que também os outros temam."},
+{v:21,t:"Conjuro-te, diante de Deus, de Cristo Jesus e dos anjos eleitos, que guardes estas coisas sem prevenção, nada fazendo por favoritismo."},
+{v:22,t:"A ninguém imponhas as mãos precipitadamente, nem te faças cúmplice dos pecados alheios. Conserva-te puro."},
+{v:23,t:"Não continues a beber só água; toma um pouco de vinho, por causa do estômago e das tuas frequentes indisposições."},
+{v:24,t:"Os pecados de alguns homens são manifestos e vão adiante deles ao julgamento; os de outros, porém, só depois aparecem."},
+{v:25,t:"Assim também as boas obras são manifestas; e as que não o são não podem ficar ocultas."}
+];
+
+window.TEXTOS_SEED["1timoteo"][6] = [
+{s:"Servos e senhores"},
+{v:1,t:"Todos os que estão sob o jugo da escravidão tenham os seus senhores por dignos de toda honra, para que não sejam blasfemados o nome de Deus e a doutrina."},
+{v:2,t:"E os que têm senhores fiéis não os desprezem por serem irmãos; sirvam-nos antes melhor, porque são fiéis e amados os que recebem o benefício. Ensina e exorta estas coisas."},
+{s:"A avareza e o contentamento"},
+{v:3,t:"Se alguém ensina de outro modo e não se atém às sãs palavras de nosso Senhor Jesus Cristo e à doutrina conforme à piedade,"},
+{v:4,t:"está inchado de orgulho e nada sabe; padece da mania das questões e das disputas de palavras, das quais nascem invejas, contendas, injúrias, suspeitas malignas,"},
+{v:5,t:"e os atritos de homens de mente corrompida, privados da verdade, que tomam a piedade por fonte de lucro."},
+{v:6,t:"Grande fonte de lucro é, sim, a piedade acompanhada de contentamento."},
+{v:7,t:"Porque nada trouxemos a este mundo, e nada podemos levar dele."},
+{v:8,t:"Tendo com que nos alimentar e com que nos cobrir, estejamos contentes."},
+{v:9,t:"Os que querem enriquecer caem na tentação, no laço e em muitos desejos insensatos e nocivos, que precipitam os homens na ruína e na perdição."},
+{v:10,t:"Porque a raiz de todos os males é a avareza; alguns, por a cobiçarem, desviaram-se da fé e se atormentaram com muitas dores."},
+{s:"O bom combate da fé"},
+{v:11,t:"Tu, porém, homem de Deus, foge dessas coisas. Busca a justiça, a piedade, a fé, o amor, a constância, a mansidão."},
+{v:12,t:"Trava o bom combate da fé; alcança a vida eterna, à qual foste chamado e da qual fizeste bela confissão diante de muitas testemunhas."},
+{v:13,t:"Diante de Deus, que a tudo dá vida, e de Cristo Jesus, que deu testemunho perante Pôncio Pilatos com bela confissão, ordeno-te:"},
+{v:14,t:"guarda o mandamento, sem mácula e sem reproche, até a manifestação de nosso Senhor Jesus Cristo,"},
+{v:15,t:"que há de mostrar, a seu tempo, o bem-aventurado e único Soberano, o Rei dos reis e Senhor dos senhores,"},
+{v:16,t:"o único que possui a imortalidade e habita uma luz inacessível, a quem nenhum homem viu nem pode ver. A ele honra e poder eterno. Amém."},
+{s:"Aos ricos deste mundo"},
+{v:17,t:"Aos ricos deste mundo, ordena que não sejam altivos nem ponham a esperança na incerteza das riquezas, mas em Deus, que tudo nos dá com abundância para nosso proveito."},
+{v:18,t:"Que façam o bem, sejam ricos de boas obras, generosos, prontos a repartir;"},
+{v:19,t:"assim acumularão para si um bom fundamento para o futuro, a fim de alcançarem a verdadeira vida."},
+{v:20,t:"Ó Timóteo, guarda o depósito; evita as conversas vãs e profanas e as objeções de uma falsa ciência.",n:"Depósito traduz paratheke, o bem alheio confiado à guarda de alguém. A fé não é do pastor: ele a recebe para entregá-la intacta."},
+{v:21,t:"Alguns, por professá-la, desviaram-se da fé. A graça esteja convosco."}
+];

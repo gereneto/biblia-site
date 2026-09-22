@@ -2442,3 +2442,124 @@ EV[110] = [
 {v:20,t:"Muitos deles diziam: Tem um demônio e está louco; por que o ouvis?"},
 {v:21,t:"Outros diziam: Estas palavras não são de quem tem demônio. Pode, porventura, um demônio abrir os olhos aos cegos?",n:"O argumento que fecha o discurso é o milagre do capítulo anterior. Os dois capítulos são, também por aqui, uma só cena."}
 ];
+
+EV[111] = [
+{p:"Mateus 19:1-2"},
+{v:1,t:"E aconteceu que, tendo Jesus acabado estas palavras, partiu da Galileia e veio para as regiões da Judeia, além do Jordão."},
+{v:2,t:"E seguiram-no grandes multidões, e ele as curou ali."},
+{p:"Marcos 10:1"},
+{v:1,t:"Levantando-se dali, foi para as regiões da Judeia, além do Jordão; e de novo se reuniram multidões junto dele; e, como costumava, de novo as ensinava."},
+{p:"Lucas 9:51-56"},
+{v:51,t:"Aconteceu que, ao completarem-se os dias da sua assunção, ele firmou o rosto para ir a Jerusalém.",n:"É o eixo do evangelho de São Lucas: a partir deste versículo, tudo o que se conta passa-se num caminho, e o caminho vai dar à cruz. Assunção traduz analempsis, o ser levado ao alto; e firmou o rosto é a expressão do servo de Isaías 50, que endurece o rosto como pedra para não recuar."},
+{v:52,t:"E enviou mensageiros adiante de si; e eles, tendo partido, entraram numa aldeia de samaritanos, para lhe preparar pousada."},
+{v:53,t:"Mas não o receberam, porque o seu rosto estava voltado para Jerusalém.",n:"Samaritanos e judeus disputavam havia séculos qual era o monte do culto verdadeiro: o Garizim ou Sião. Quem ia em peregrinação a Jerusalém era, pelo próprio destino da viagem, um adversário."},
+{v:54,t:"Vendo isso, os discípulos Tiago e João disseram: Senhor, queres que mandemos descer fogo do céu e os consuma?",n:"É o que Elias fizera na Samaria, no segundo livro dos Reis, e os dois irmãos sabem-no. Alguns manuscritos acrescentam aqui a referência expressa a Elias e uma resposta mais longa; as testemunhas mais antigas trazem apenas a repreensão seca do versículo seguinte."},
+{v:55,t:"Mas ele, voltando-se, repreendeu-os."},
+{v:56,t:"E foram para outra aldeia.",n:"O capítulo 10 começará com um samaritano por herói, e no livro dos Atos a Samaria será a primeira terra evangelizada fora de Jerusalém. São Lucas prepara isso desde aqui."}
+];
+
+EV[112] = [
+{p:"Lucas 9:57-62"},
+{v:57,t:"Enquanto iam pelo caminho, alguém lhe disse: Hei de seguir-te para onde quer que fores."},
+{v:58,t:"E disse-lhe Jesus: As raposas têm covis, e as aves do céu, ninhos; mas o Filho do Homem não tem onde reclinar a cabeça."},
+{v:59,t:"E disse a outro: Segue-me. Mas ele respondeu: Senhor, permite-me ir primeiro enterrar meu pai."},
+{v:60,t:"Jesus lhe disse: Deixa que os mortos enterrem os seus mortos; tu, porém, vai e anuncia o Reino de Deus."},
+{v:61,t:"Outro ainda disse: Hei de seguir-te, Senhor; mas permite-me primeiro despedir-me dos de minha casa.",n:"É exatamente o que Eliseu pede a Elias, no primeiro livro dos Reis, e que Elias lhe concede. Aqui não se concede — e a diferença entre os dois episódios é o argumento."},
+{v:62,t:"E Jesus lhe disse: Ninguém que põe a mão no arado e olha para trás é apto para o Reino de Deus.",n:"Quem arava conduzia o arado com uma mão e a junta com a outra; bastava virar a cabeça para o sulco sair torto. A imagem não é de nostalgia proibida, é de trabalho estragado."}
+];
+
+EV[113] = [
+{p:"Lucas 10:1-24"},
+{v:1,t:"Depois disso, designou o Senhor outros setenta e dois e enviou-os dois a dois adiante de si, a toda cidade e lugar aonde ele havia de ir.",n:"Os manuscritos dividem-se entre setenta e setenta e dois, e a Nova Vulgata lê setenta e dois. Os dois números remetem ao capítulo 10 do Gênesis, que conta as nações da terra — setenta no texto hebraico, setenta e dois no grego. Depois dos Doze, que eram as tribos de Israel, este segundo envio tem a medida do mundo."},
+{v:2,t:"E dizia-lhes: A messe é grande, mas os trabalhadores são poucos. Rogai, pois, ao Senhor da messe que envie trabalhadores para a sua messe."},
+{v:3,t:"Ide; eis que vos envio como cordeiros no meio de lobos."},
+{v:4,t:"Não leveis bolsa, nem alforje, nem sandálias; e a ninguém saudeis pelo caminho.",n:"A saudação oriental era demorada, com perguntas pela casa inteira. A proibição não é descortesia: é a pressa de quem leva uma notícia que não espera — a mesma ordem que Eliseu dá ao seu servo em missão urgente."},
+{v:5,t:"Em qualquer casa em que entrardes, dizei primeiro: Paz a esta casa."},
+{v:6,t:"E, se ali houver um filho da paz, a vossa paz repousará sobre ele; se não, voltará para vós.",n:"Filho da paz é hebraísmo: quem é digno dela, quem a acolhe. E a paz é tratada como coisa real, que pousa ou regressa — não como fórmula de cortesia."},
+{v:7,t:"Ficai na mesma casa, comendo e bebendo do que tiverem, porque o trabalhador é digno do seu salário. Não passeis de casa em casa."},
+{v:8,t:"E, em qualquer cidade em que entrardes e vos receberem, comei o que vos puserem diante"},
+{v:9,t:"e curai os enfermos que nela houver, e dizei-lhes: Está próximo de vós o Reino de Deus."},
+{v:10,t:"Mas, em qualquer cidade em que entrardes e não vos receberem, saindo pelas suas praças, dizei:"},
+{v:11,t:"Até o pó da vossa cidade, que se nos pegou aos pés, sacudimos contra vós; sabei, contudo, isto: está próximo o Reino de Deus.",n:"A mesma notícia é dada nas duas cidades, na que acolhe e na que recusa. O que muda não é o anúncio — é o que ele significa para cada uma."},
+{v:12,t:"Digo-vos que naquele dia haverá menos rigor para Sodoma do que para aquela cidade."},
+{v:13,t:"Ai de ti, Corazin! Ai de ti, Betsaida! Porque, se em Tiro e Sidônia se tivessem feito os milagres que em vós se fizeram, há muito, sentadas em cilício e cinza, teriam feito penitência."},
+{v:14,t:"Contudo, no juízo haverá menos rigor para Tiro e Sidônia do que para vós."},
+{v:15,t:"E tu, Cafarnaum, acaso serás elevada até ao céu? Até ao abismo descerás."},
+{v:16,t:"Quem vos ouve, a mim me ouve; e quem vos rejeita, a mim me rejeita; e quem me rejeita, rejeita aquele que me enviou."},
+{v:17,t:"Voltaram os setenta e dois com alegria, dizendo: Senhor, até os demônios se nos submetem em teu nome."},
+{v:18,t:"E ele lhes disse: Eu via Satanás cair do céu como um raio.",n:"O tempo do verbo grego indica algo visto enquanto acontecia. Não é profecia do futuro nem lembrança de um mito antigo: é o que se dá enquanto setenta e dois homens vão pelas aldeias anunciando o Reino."},
+{v:19,t:"Eis que vos dei poder de pisar sobre serpentes e escorpiões, e sobre todo o poder do inimigo; e nada vos fará dano."},
+{v:20,t:"Contudo, não vos alegreis porque os espíritos se vos submetem; alegrai-vos antes porque os vossos nomes estão escritos nos céus.",n:"A correção é delicada e vai ao fundo: o motivo da alegria não pode ser o que se consegue fazer, mas o que se é. O primeiro depende do êxito; o segundo, não."},
+{v:21,t:"Naquela hora, exultou no Espírito Santo e disse: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e prudentes e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado.",n:"É o mesmo passo que São Mateus traz no tópico 85. Só São Lucas diz que Jesus exultou, e é a única vez em todo o Novo Testamento que se atribui alegria ao próprio Cristo."},
+{v:22,t:"Tudo me foi entregue por meu Pai; e ninguém conhece quem é o Filho senão o Pai, nem quem é o Pai senão o Filho, e aquele a quem o Filho o quiser revelar."},
+{v:23,t:"E, voltando-se para os discípulos, disse em particular: Bem-aventurados os olhos que veem o que vós vedes."},
+{v:24,t:"Porque eu vos digo que muitos profetas e reis desejaram ver o que vós vedes, e não viram; e ouvir o que ouvis, e não ouviram."}
+];
+
+EV[114] = [
+{p:"Lucas 10:25-37"},
+{v:25,t:"E eis que um doutor da lei se levantou, para o pôr à prova, dizendo: Mestre, que farei para herdar a vida eterna?"},
+{v:26,t:"E ele lhe disse: Que está escrito na lei? Como lês?",n:"Jesus não responde: devolve a pergunta, e devolve-a ao próprio terreno do perguntador. O doutor da lei acaba por dar sozinho a resposta certa, e é por isso que precisa depois de justificar-se."},
+{v:27,t:"Ele respondeu: Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, com todas as tuas forças e com toda a tua mente; e ao teu próximo como a ti mesmo."},
+{v:28,t:"Disse-lhe Jesus: Respondeste corretamente; faze isso e viverás."},
+{v:29,t:"Mas ele, querendo justificar-se, disse a Jesus: E quem é o meu próximo?",n:"A pergunta procura um limite: até onde vai a obrigação. A parábola não lhe responde — inverte-a. No fim, a pergunta já não é quem é o meu próximo, mas de quem me fiz próximo, e essa não tem limite nenhum."},
+{v:30,t:"Tomando a palavra, Jesus disse: Um homem descia de Jerusalém para Jericó e caiu nas mãos de salteadores, que o despojaram, o espancaram e foram embora, deixando-o meio morto.",n:"A estrada descia mil metros em vinte e sete quilômetros, por desfiladeiros desertos, e tinha fama justificada de perigosa. O homem não é identificado: nem judeu, nem estrangeiro, nem justo, nem pecador — está despido e meio morto, e é tudo o que se sabe dele."},
+{v:31,t:"Por acaso, descia um sacerdote por aquele caminho e, vendo-o, passou ao largo.",n:"O contato com um cadáver tornava impuro, e um sacerdote impuro não podia exercer o seu ministério. Os dois que passam ao largo têm, portanto, uma razão da lei para o fazer. A parábola não a discute: deixa-a em pé, e mostra o resultado."},
+{v:32,t:"Do mesmo modo, um levita, chegando àquele lugar e vendo-o, passou ao largo."},
+{v:33,t:"Mas um samaritano, que ia de viagem, chegou perto dele e, vendo-o, compadeceu-se;",n:"O auditório esperava, depois do sacerdote e do levita, um leigo israelita — era assim que se dividia o povo. Vem um samaritano, isto é, um herege e um inimigo. Contada a um doutor da lei de Jerusalém, a escolha é quase insultuosa."},
+{v:34,t:"e, aproximando-se, atou-lhe as feridas, deitando nelas azeite e vinho; e, pondo-o sobre a sua própria montaria, levou-o a uma hospedaria e cuidou dele."},
+{v:35,t:"No dia seguinte, tirou dois denários, deu-os ao hospedeiro e disse: Cuida dele; e o que gastares a mais, eu te pagarei quando voltar.",n:"Dois denários pagavam cerca de duas semanas de hospedagem. E o crédito aberto sem limite é o pormenor mais caro da parábola: o samaritano não só socorre, como fica responsável."},
+{v:36,t:"Qual destes três te parece ter sido o próximo daquele que caiu nas mãos dos salteadores?"},
+{v:37,t:"Ele disse: Aquele que usou de misericórdia para com ele. E Jesus lhe disse: Vai e faze tu o mesmo.",n:"O doutor da lei não consegue dizer a palavra samaritano, e responde por rodeio. É o último pormenor da cena, e São Lucas não o comenta."}
+];
+
+EV[115] = [
+{p:"Lucas 10:38-42"},
+{v:38,t:"Enquanto iam de caminho, entrou ele numa aldeia; e certa mulher, chamada Marta, o recebeu em sua casa."},
+{v:39,t:"Tinha ela uma irmã chamada Maria, a qual, sentada aos pés do Senhor, ouvia a sua palavra.",n:"Sentar-se aos pés de um mestre é a expressão técnica para ser seu discípulo — São Paulo diz que se sentou aos pés de Gamaliel. A mulheres não se ensinava a Lei, e a cena, antes de qualquer outra coisa, mostra Maria no lugar de um discípulo, sem que ninguém a mande sair dele."},
+{v:40,t:"Marta, porém, andava ocupada com muito serviço. Aproximando-se, disse: Senhor, não te importa que minha irmã me deixe servir sozinha? Dize-lhe, pois, que me ajude."},
+{v:41,t:"Respondendo, disse-lhe o Senhor: Marta, Marta, andas inquieta e te preocupas com muitas coisas;",n:"A repetição do nome é, na Escritura, sinal de ternura e de chamamento — Abraão, Abraão; Samuel, Samuel; Simão, Simão. A resposta não é uma reprimenda seca."},
+{v:42,t:"mas uma só é necessária. Maria escolheu a melhor parte, que não lhe será tirada.",n:"Não se condena o serviço: São Lucas é o evangelista que mais insiste nele, e a parábola do samaritano vem imediatamente antes. O que se diz é que a inquietação com muitas coisas não é a mesma coisa que servir, e que há uma ordem entre ouvir e fazer."}
+];
+
+EV[116] = [
+{p:"João 10:22-42"},
+{v:22,t:"Celebrava-se então em Jerusalém a festa da Dedicação. Era inverno,",n:"A Dedicação, em hebraico Hanucá, celebra a purificação do templo por Judas Macabeu, em 164 antes de Cristo, depois de ter sido profanado. Dura oito dias em dezembro e acendem-se luzes. É a única festa judaica de instituição não bíblica que os evangelhos mencionam."},
+{v:23,t:"e Jesus passeava no templo, no pórtico de Salomão."},
+{v:24,t:"Rodearam-no, pois, os judeus e lhe diziam: Até quando nos deixarás em suspenso? Se tu és o Cristo, dize-o abertamente."},
+{v:25,t:"Respondeu-lhes Jesus: Eu vos disse, e não credes. As obras que eu faço em nome de meu Pai, essas dão testemunho de mim."},
+{v:26,t:"Mas vós não credes, porque não sois das minhas ovelhas."},
+{v:27,t:"As minhas ovelhas ouvem a minha voz; eu as conheço, e elas me seguem."},
+{v:28,t:"E eu lhes dou a vida eterna, e jamais perecerão, e ninguém as arrebatará da minha mão."},
+{v:29,t:"O que meu Pai me deu é maior do que tudo, e ninguém o pode arrebatar da mão do Pai."},
+{v:30,t:"Eu e o Pai somos um.",n:"O grego diz uma coisa só, no neutro, e não um só, no masculino: não se afirma que sejam uma só pessoa, mas que são um na obra e no poder de que se acabou de falar. Foi sobre esta distinção que se travaram as controvérsias dos primeiros séculos, e os ouvintes, no versículo seguinte, entendem que se disse o bastante para apedrejar."},
+{v:31,t:"De novo os judeus pegaram em pedras para o apedrejar."},
+{v:32,t:"Respondeu-lhes Jesus: Muitas obras boas vos mostrei, vindas do Pai; por qual delas me apedrejais?"},
+{v:33,t:"Responderam-lhe os judeus: Não te apedrejamos por obra boa, mas por blasfêmia; porque tu, sendo homem, te fazes Deus."},
+{v:34,t:"Respondeu-lhes Jesus: Não está escrito na vossa lei: Eu disse: sois deuses?",n:"A citação é do Salmo 82, versículo 6, traduzido neste mesmo sítio. O argumento é do tipo que os rabinos chamavam do menor para o maior: se a Escritura pôde chamar deuses a juízes injustos, não é blasfêmia que se chame Filho de Deus aquele a quem o Pai enviou."},
+{v:35,t:"Se chamou deuses àqueles a quem foi dirigida a palavra de Deus — e a Escritura não pode ser anulada —,"},
+{v:36,t:"àquele que o Pai santificou e enviou ao mundo dizeis vós: Blasfemas, porque disse: Sou Filho de Deus?"},
+{v:37,t:"Se não faço as obras de meu Pai, não creiais em mim."},
+{v:38,t:"Mas, se as faço, ainda que não creiais em mim, crede nas obras, para que conheçais e reconheçais que o Pai está em mim, e eu no Pai.",n:"Oferece-se um caminho mais baixo a quem não pode dar o passo maior: crede ao menos no que vedes fazer. É a única vez em que Jesus propõe começar pelas obras, quando a pessoa não consegue começar por ele."},
+{v:39,t:"Procuravam, pois, de novo prendê-lo; mas ele escapou-lhes das mãos."},
+{v:40,t:"E foi de novo para além do Jordão, ao lugar onde João primeiro batizava; e ali ficou."},
+{v:41,t:"E muitos vieram a ele e diziam: João, na verdade, não fez sinal algum; mas tudo o que João disse deste homem era verdade.",n:"O epitáfio do Batista é feito por gente anônima e diz duas coisas: não fez milagres, e não errou em nada. São João fecha assim o seu ministério público, no mesmo lugar onde o começara."},
+{v:42,t:"E muitos ali creram nele."}
+];
+
+EV[117] = [
+{p:"Lucas 11:1-13"},
+{v:1,t:"E aconteceu que, estando ele orando em certo lugar, quando acabou, um dos seus discípulos lhe disse: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.",n:"Cada mestre dava aos seus uma oração própria, que os identificava. O pedido é, portanto, também um pedido de identidade: dá-nos a oração que nos faça teus."},
+{v:2,t:"E ele lhes disse: Quando orardes, dizei: Pai, santificado seja o teu nome; venha o teu Reino;",n:"A versão de São Lucas é mais curta do que a de São Mateus, traduzida no tópico 53: faltam-lhe duas petições, e começa por Pai, sem mais. É provavelmente a forma mais antiga. Pai traduz aqui o aramaico Abbá, que São Paulo conserva sem traduzir nas suas cartas — palavra da intimidade familiar, que nenhum judeu usaria para falar a Deus."},
+{v:3,t:"dá-nos cada dia o nosso pão cotidiano;",n:"Cotidiano verte epiousios, palavra que não existe em nenhum outro texto grego conhecido, e que os tradutores discutem desde São Jerônimo. Pode querer dizer o necessário para subsistir, o de cada dia, ou o do dia que vem. A Vulgata traduz de um modo em São Mateus e de outro em São Lucas, sinal de que a dificuldade é antiga."},
+{v:4,t:"e perdoa-nos os nossos pecados, pois também nós perdoamos a todo o que nos deve; e não nos deixes cair em tentação."},
+{v:5,t:"E disse-lhes: Qual de vós, tendo um amigo, irá a ele à meia-noite e lhe dirá: Amigo, empresta-me três pães,"},
+{v:6,t:"pois um amigo meu chegou de viagem à minha casa, e não tenho o que lhe oferecer;"},
+{v:7,t:"e ele, de dentro, responderá: Não me incomodes; a porta já está fechada, e os meus filhos estão comigo na cama; não posso levantar-me para te dar?",n:"A casa de um camponês era de uma só divisão, e a família dormia toda no mesmo estrado. Levantar-se significava acordar todos. E a recusa da hospitalidade a um viajante era, naquela sociedade, quase impensável — o que dá toda a força ao absurdo da cena."},
+{v:8,t:"Eu vos digo: ainda que não se levante para lhe dar os pães por ser seu amigo, há de levantar-se e dar-lhe quanto precisar por causa da sua importunidade.",n:"Importunidade traduz anaideia, que à letra é falta de vergonha. Não se elogia a insistência como virtude: descreve-se o que faz alguém que não tem outro recurso, e diz-se que também assim se obtém."},
+{v:9,t:"E eu vos digo: pedi, e recebereis; buscai, e achareis; batei, e a porta vos será aberta."},
+{v:10,t:"Porque todo o que pede, recebe; e quem busca, acha; e a quem bate, será aberto."},
+{v:11,t:"Qual de vós, sendo pai, se o filho lhe pedir um peixe, em vez de peixe lhe dará uma serpente?"},
+{v:12,t:"Ou, se lhe pedir um ovo, lhe dará um escorpião?",n:"Os pares são escolhidos pela semelhança: uma enguia parece um peixe, e o escorpião branco, enrolado, parece um ovo. O pai mau não daria pedras — daria coisas que se parecem com o que se pediu."},
+{v:13,t:"Se, pois, vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais o Pai do céu dará o Espírito Santo aos que o pedirem.",n:"Onde São Mateus diz coisas boas, São Lucas diz o Espírito Santo. É a substituição mais significativa que faz a um texto comum: o dom que se promete a quem pede não é uma coisa, é Deus mesmo."}
+];

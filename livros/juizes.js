@@ -562,3 +562,56 @@ window.TEXTOS_SEED["juizes"][16] = [
 {v:30,t:"e disse: Morra eu com os filisteus! Empurrou com força, e o templo caiu sobre os príncipes e sobre todo o povo que nele estava. E os que ele matou ao morrer foram mais do que os que matara em vida.",n:"Nota do tradutor: a morte de Sansão não é apresentada como um suicídio a imitar, e a Igreja nunca a leu assim; Santo Agostinho explica que Sansão agiu por impulso do Espírito que nele habitava, e não por desespero. O narrador vê nela o último ato de um libertador que se entrega com o inimigo. A Carta aos Hebreus nomeia Sansão entre os homens de fé."},
 {v:31,t:"Seus irmãos e toda a família de seu pai desceram, tomaram-no e levaram-no para sepultá-lo entre Saraá e Estaol, no sepulcro de Manué, seu pai. Ele julgara Israel durante vinte anos.",np:1}
 ];
+
+window.TEXTOS_SEED["juizes"][17] = [
+{s:"O ídolo de Micas"},
+{v:1,t:"Havia um homem da montanha de Efraim chamado Micas,",n:"Os capítulos 17 a 21 formam um apêndice, fora da sequência dos juízes: dois episódios que mostram a desordem religiosa e moral de um Israel sem rei. O refrão que os enquadra é: naqueles dias não havia rei em Israel. Micas, Mikayehu, quer dizer quem é como o Senhor? — nome irônico para o homem que fabrica um ídolo."},
+{v:2,t:"que disse a sua mãe: Os mil e cem siclos de prata que te foram tirados, e a respeito dos quais proferiste uma maldição, que eu mesmo ouvi, estão comigo: fui eu que os tirei. Sua mãe disse: Bendito seja o meu filho pelo Senhor!",n:"O filho devolve o dinheiro por medo da maldição da mãe, e ela a anula com uma bênção. A religião da família é feita de fórmulas mágicas."},
+{v:3,t:"Ele devolveu os mil e cem siclos de prata a sua mãe, e ela disse: Consagro de minha mão esta prata ao Senhor, em favor do meu filho, para fazer uma imagem esculpida e uma imagem de metal fundido. Agora, pois, eu a entrego a ti."},
+{v:4,t:"Mas ele devolveu a prata a sua mãe; e a mãe tomou duzentos siclos e deu-os ao ourives, que fez com eles uma imagem esculpida e uma imagem de metal fundido; e ficaram na casa de Micas.",n:"Consagrados ao Senhor, mil e cem siclos; gastos na imagem, duzentos. E uma imagem do Senhor era proibida pelo mandamento do Sinai."},
+{v:5,t:"Esse homem, Micas, tinha uma casa de Deus; fez um efod e terafins, e investiu um de seus filhos, que se tornou o seu sacerdote.",n:"Os terafins eram ídolos domésticos, como os que Raquel roubou a seu pai. Investir, à letra encher a mão, era a expressão técnica da ordenação sacerdotal."},
+{v:6,t:"Naqueles dias não havia rei em Israel: cada um fazia o que lhe parecia reto.",n:"É o refrão do apêndice. Para o narrador, a desordem pede um rei; a história dos Reis mostrará que nem os reis bastam."},
+{s:"O levita de Micas"},
+{v:7,t:"Havia um jovem de Belém de Judá, do clã de Judá; era levita e residia ali como estrangeiro.",np:1},
+{v:8,t:"Esse homem saiu da cidade de Belém de Judá para ir morar onde encontrasse lugar; e, seguindo o seu caminho, chegou à montanha de Efraim, à casa de Micas."},
+{v:9,t:"Micas perguntou-lhe: De onde vens? Ele respondeu: Sou levita, de Belém de Judá, e vou morar onde encontrar lugar."},
+{v:10,t:"Micas disse-lhe: Fica comigo e sê para mim pai e sacerdote; eu te darei dez siclos de prata por ano, a roupa e o sustento."},
+{v:11,t:"O levita consentiu em ficar com aquele homem, e o jovem foi para ele como um dos seus filhos."},
+{v:12,t:"Micas investiu o levita, e o jovem tornou-se o seu sacerdote e ficou na casa de Micas."},
+{v:13,t:"E Micas disse: Agora sei que o Senhor me fará bem, porque tenho um levita como sacerdote.",n:"Micas pensa comprar a bênção de Deus com um sacerdote de boa família: a religião como garantia de prosperidade."}
+];
+
+window.TEXTOS_SEED["juizes"][18] = [
+{s:"A migração de Dã"},
+{v:1,t:"Naqueles dias não havia rei em Israel; e a tribo de Dã procurava para si um território onde habitar, pois até aquele dia não lhe tinha cabido herança no meio das tribos de Israel.",n:"O livro de Josué dizia que o território de Dã lhe escapou das mãos; aqui se conta como a tribo foi procurar outro."},
+{v:2,t:"Os filhos de Dã enviaram, do seu clã, cinco homens valentes, de Saraá e de Estaol, para explorar e examinar a terra; e disseram-lhes: Ide, examinai a terra. Eles chegaram à montanha de Efraim, à casa de Micas, e ali pernoitaram."},
+{v:3,t:"Estando perto da casa de Micas, reconheceram a voz do jovem levita; desviaram-se para lá e perguntaram-lhe: Quem te trouxe aqui? Que fazes aqui? Que tens aqui?",n:"Reconheceram a voz: talvez o sotaque do sul, ou a voz de alguém conhecido."},
+{v:4,t:"Ele respondeu-lhes: Micas fez por mim isto e aquilo; contratou-me, e sou o seu sacerdote."},
+{v:5,t:"Disseram-lhe: Consulta a Deus, para sabermos se a viagem que fazemos será bem-sucedida."},
+{v:6,t:"O sacerdote respondeu-lhes: Ide em paz; o caminho que seguis está diante do Senhor."},
+{v:7,t:"Os cinco homens partiram e chegaram a Lais; viram que o povo que ali habitava vivia em segurança, à maneira dos sidônios, tranquilo e confiante; não havia na terra quem os molestasse nem quem exercesse domínio; estavam longe dos sidônios e não tinham relações com a Síria.",np:1},
+{v:8,t:"Voltaram a seus irmãos, em Saraá e Estaol, e os irmãos perguntaram-lhes: Que notícias trazeis?"},
+{v:9,t:"Eles responderam: Levantai-vos e subamos contra eles, porque vimos a terra, e é muito boa. E vós ficais parados? Não sejais preguiçosos em ir tomar posse da terra."},
+{v:10,t:"Quando lá chegardes, encontrareis um povo confiante, e a terra é espaçosa; Deus a entregou nas vossas mãos: é um lugar onde não falta nada do que há na terra."},
+{v:11,t:"Partiram dali, do clã dos danitas, de Saraá e de Estaol, seiscentos homens armados para a guerra.",np:1},
+{v:12,t:"Subiram e acamparam em Cariat-Iarim, em Judá; por isso aquele lugar se chama Maané-Dã até o dia de hoje; fica a oeste de Cariat-Iarim."},
+{v:13,t:"Dali passaram à montanha de Efraim. Quando chegaram à casa de Micas,",np:1},
+{v:14,t:"os cinco homens que tinham ido explorar a terra de Lais disseram a seus irmãos: Sabeis que nestas casas há um efod, terafins, uma imagem esculpida e uma imagem de metal fundido? Vede agora o que deveis fazer."},
+{v:15,t:"Desviaram-se para lá, entraram na casa do jovem levita, na casa de Micas, e saudaram-no."},
+{v:16,t:"Os seiscentos homens dos filhos de Dã, armados para a guerra, ficaram à entrada da porta."},
+{v:17,t:"Os cinco homens que tinham ido explorar a terra entraram e tomaram a imagem esculpida, o efod, os terafins e a imagem de metal fundido, enquanto o sacerdote estava à entrada da porta com os seiscentos homens armados."},
+{v:18,t:"Quando aqueles entraram na casa de Micas e tomaram a imagem esculpida, o efod, os terafins e a imagem de metal fundido, o sacerdote disse-lhes: Que fazeis?"},
+{v:19,t:"Eles responderam-lhe: Cala-te, põe a mão sobre a boca e vem conosco, e sê para nós pai e sacerdote. Que é melhor para ti: ser sacerdote da casa de um só homem, ou ser sacerdote de uma tribo e de um clã em Israel?"},
+{v:20,t:"O sacerdote alegrou-se; tomou o efod, os terafins e a imagem esculpida e foi no meio do povo.",n:"O levita troca de patrão sem escrúpulo, por um cargo melhor. O ídolo roubado será o santuário da tribo."},
+{v:21,t:"Voltaram-se e partiram, pondo à frente as crianças, o gado e os bens.",np:1},
+{v:22,t:"Já estavam longe da casa de Micas, quando os homens que moravam nas casas vizinhas da casa de Micas foram convocados e alcançaram os filhos de Dã."},
+{v:23,t:"Gritaram atrás deles; e os filhos de Dã voltaram-se e disseram a Micas: Que queres? Por que vens com tanta gente?"},
+{v:24,t:"Ele respondeu: Tomastes os deuses que eu fiz, e o sacerdote, e tudo o que tenho, e ainda me perguntais: Que tens?",n:"Os deuses que eu fiz: a frase condena-se a si mesma. Um deus que se pode roubar não salva ninguém."},
+{v:25,t:"Os filhos de Dã disseram-lhe: Não nos faças ouvir mais a tua voz, para que não caiam sobre vós homens exasperados, e percas a tua vida com toda a tua casa."},
+{v:26,t:"E os filhos de Dã seguiram o seu caminho. Micas, vendo que eram mais fortes do que ele, voltou-se e foi para sua casa."},
+{v:27,t:"Eles tomaram o que Micas tinha feito e o sacerdote que ele tinha, e chegaram a Lais, a um povo tranquilo e confiante; passaram-no ao fio da espada e incendiaram a cidade.",np:1},
+{v:28,t:"Não houve quem a socorresse, porque estava longe de Sidônia e não tinha relações com a Síria. Ficava no vale que pertence a Bet-Roob. Reconstruíram a cidade e habitaram nela,",n:"O narrador insiste na vítima: um povo pacífico e sem defesa. A conquista de Dã não tem nada de guerra santa."},
+{v:29,t:"e deram à cidade o nome de Dã, do nome de Dã, seu pai, que nascera de Israel; mas antes a cidade chamava-se Lais."},
+{v:30,t:"Os filhos de Dã ergueram para si a imagem esculpida; e Jônatas, filho de Gérson, filho de Moisés, e os seus filhos foram sacerdotes da tribo de Dã até o dia do exílio da terra.",n:"Neto de Moisés: o levita de Micas descendia do grande legislador. Os copistas judeus, para poupar a honra de Moisés, acrescentaram ao nome uma letra suspensa, e passou a ler-se Manassés; a Nova Vulgata lê Moisés. Dã será, com Betel, um dos dois santuários do reino do Norte, onde Jeroboão porá um bezerro de ouro."},
+{v:31,t:"Assim, a imagem esculpida que Micas tinha feito ficou entre eles durante todo o tempo em que a casa de Deus esteve em Silo."}
+];

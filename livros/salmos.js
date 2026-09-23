@@ -2126,7 +2126,7 @@ window.TEXTOS_SEED["salmos"][105] = [
 
 window.TEXTOS_SEED["salmos"][106] = [
 {s:"Pecamos como os nossos pais"},
-{v:1,l:["Aleluia!","Dai graças ao Senhor, porque é bom,","porque é eterna a sua misericórdia."],np:1,n:"Com 48 versículos, é o par do Salmo 105 e o seu contrário: a mesma história, contada como confissão. Onde o outro só registrava maravilhas, este só regista infidelidades — e ainda assim acaba em louvor. Vai também em trechos com subtítulo."},
+{v:1,l:["Aleluia!","Dai graças ao Senhor, porque é bom,","porque é eterna a sua misericórdia."],np:1,n:"Com 48 versículos, é o par do Salmo 105 e o seu contrário: a mesma história, contada como confissão. Onde o outro só registrava maravilhas, este só registra infidelidades — e ainda assim acaba em louvor. Vai também em trechos com subtítulo."},
 {v:2,l:["Quem contará as proezas do Senhor,","quem fará ouvir todo o seu louvor?"]},
 {v:3,l:["Felizes os que guardam o direito","e praticam a justiça em todo o tempo."]},
 {v:4,l:["Lembra-te de mim, Senhor, pelo amor ao teu povo;","visita-me com a tua salvação,"],np:1},

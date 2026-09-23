@@ -428,7 +428,7 @@ window.TEXTOS_SEED["1samuel"][15] = [
 {v:4,t:"Saul convocou o povo e passou-o em revista em Telém: duzentos mil homens de infantaria e dez mil homens de Judá.",np:1},
 {v:5,t:"Saul chegou até a cidade de Amalec e armou uma emboscada no vale."},
 {v:6,t:"E Saul disse aos quenitas: Ide, retirai-vos, saí do meio dos amalecitas, para que eu não vos destrua com eles; porque fostes bondosos para com todos os filhos de Israel, quando subiam do Egito. E os quenitas retiraram-se do meio dos amalecitas.",n:"Os quenitas eram aparentados com Moisés, cujo sogro era quenita, e acompanharam Israel desde o deserto (Juízes 1,16)."},
-{v:7,t:"Saul feriu os amalecitas desde Hévila até Sur, que fica defronte do Egito."},
+{v:7,t:"Saul feriu os amalecitas desde Havilá até Sur, que fica defronte do Egito."},
 {v:8,t:"Apanhou vivo Agag, rei de Amalec, e passou ao fio da espada todo o povo."},
 {v:9,t:"Mas Saul e o povo pouparam Agag e o melhor das ovelhas e dos bois, os animais gordos e os cordeiros, e tudo o que era bom; não quiseram votá-los ao extermínio. Só o que era sem valor e desprezível votaram ao extermínio."},
 {s:"Saul rejeitado"},

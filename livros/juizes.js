@@ -447,3 +447,56 @@ window.TEXTOS_SEED["juizes"][12] = [
 {v:14,t:"Teve quarenta filhos e trinta netos, que montavam setenta jumentinhos. Julgou Israel durante oito anos;"},
 {v:15,t:"depois Abdon, filho de Hilel, o faratonita, morreu e foi sepultado em Faraton, na terra de Efraim, na montanha dos amalecitas."}
 ];
+
+window.TEXTOS_SEED["juizes"][13] = [
+{s:"O anúncio do nascimento de Sansão"},
+{v:1,t:"Os filhos de Israel voltaram a fazer o que era mau aos olhos do Senhor, e o Senhor os entregou nas mãos dos filisteus durante quarenta anos.",n:"Os filisteus, um dos Povos do Mar vindos do Egeu no século XII antes de Cristo, instalaram-se na costa sul de Canaã e dominavam a metalurgia do ferro. Por meio dos gregos e dos romanos, deram à terra o nome de Palestina."},
+{v:2,t:"Havia um homem de Saraá, do clã dos danitas, chamado Manué; a sua mulher era estéril e não tinha filhos.",np:1,n:"A mulher estéril a quem Deus dá um filho, como Sara, Rebeca, Raquel, a mãe de Samuel e Isabel: o nascimento é dom, e o filho tem uma missão."},
+{v:3,t:"O anjo do Senhor apareceu à mulher e disse-lhe: Eis que és estéril e não tens filhos; mas conceberás e darás à luz um filho."},
+{v:4,t:"Agora, pois, guarda-te de beber vinho ou bebida fermentada, e não comas nada impuro,"},
+{v:5,t:"porque vais conceber e dar à luz um filho. Navalha não passará pela sua cabeça, porque o menino será nazireu de Deus desde o ventre materno; e ele começará a livrar Israel das mãos dos filisteus.",n:"O nazireu era consagrado a Deus: não bebia vinho, não cortava o cabelo, não tocava cadáveres, segundo o livro dos Números. O voto costumava ser temporário; o de Sansão é para a vida inteira e começa antes do nascimento — por isso também a mãe se abstém. Começará: a libertação dos filisteus só será completa com Davi."},
+{v:6,t:"A mulher foi dizer ao marido: Um homem de Deus veio a mim; o seu aspecto era como o de um anjo de Deus, muito terrível. Não lhe perguntei de onde era, e ele não me disse o seu nome."},
+{v:7,t:"Mas disse-me: Vais conceber e dar à luz um filho; agora, pois, não bebas vinho nem bebida fermentada, e não comas nada impuro, porque o menino será nazireu de Deus desde o ventre materno até o dia da sua morte.",n:"Até o dia da sua morte: a mãe acrescenta, sem saber, o que o anjo não dissera, e que se cumprirá."},
+{v:8,t:"Manué orou ao Senhor, dizendo: Ah, Senhor! Que o homem de Deus que enviaste volte a nós e nos ensine o que devemos fazer com o menino que vai nascer.",np:1},
+{v:9,t:"Deus ouviu a voz de Manué, e o anjo de Deus voltou à mulher, quando ela estava sentada no campo; mas Manué, seu marido, não estava com ela."},
+{v:10,t:"A mulher correu depressa a avisar o marido e disse-lhe: Eis que me apareceu o homem que veio a mim no outro dia."},
+{v:11,t:"Manué levantou-se, seguiu a mulher, chegou até o homem e perguntou-lhe: És tu o homem que falou a esta mulher? Ele respondeu: Sou eu."},
+{v:12,t:"Manué disse: Quando se cumprir a tua palavra, qual será a regra de vida do menino, e o que ele deverá fazer?"},
+{v:13,t:"O anjo do Senhor respondeu a Manué: Que a mulher se abstenha de tudo o que eu lhe disse:"},
+{v:14,t:"não coma nada do que procede da videira, não beba vinho nem bebida fermentada, não coma nada impuro; que observe tudo o que lhe ordenei."},
+{v:15,t:"Manué disse ao anjo do Senhor: Permite que te retenhamos e te preparemos um cabrito.",np:1},
+{v:16,t:"O anjo do Senhor respondeu a Manué: Ainda que me retenhas, não comerei do teu pão; mas, se queres oferecer um holocausto, oferece-o ao Senhor. Manué não sabia que era o anjo do Senhor."},
+{v:17,t:"Manué disse ao anjo do Senhor: Qual é o teu nome, para que te honremos quando se cumprir a tua palavra?"},
+{v:18,t:"O anjo do Senhor respondeu-lhe: Por que perguntas pelo meu nome? Ele é maravilhoso.",n:"Maravilhoso, peli: o mesmo adjetivo que Isaías dará ao Menino prometido, cujo nome será Conselheiro Maravilhoso. O nome de Deus não se deixa possuir."},
+{v:19,t:"Manué tomou o cabrito e a oblação e ofereceu-os sobre a rocha ao Senhor, que faz maravilhas; e Manué e a sua mulher olhavam."},
+{v:20,t:"Quando a chama subia do altar para o céu, o anjo do Senhor subiu na chama do altar. Vendo isso, Manué e a sua mulher prostraram-se com o rosto por terra;"},
+{v:21,t:"e o anjo do Senhor não voltou a aparecer a Manué e à sua mulher. Então Manué compreendeu que era o anjo do Senhor,"},
+{v:22,t:"e disse à sua mulher: Certamente vamos morrer, porque vimos Deus."},
+{v:23,t:"Mas a mulher respondeu-lhe: Se o Senhor quisesse matar-nos, não teria aceitado da nossa mão o holocausto e a oblação, nem nos teria mostrado todas estas coisas, nem nos teria feito ouvir agora tais palavras.",n:"A mulher, que nem nome tem no relato, é quem raciocina com fé; o marido tem medo. O anjo dirigira-se primeiro a ela."},
+{v:24,t:"A mulher deu à luz um filho e pôs-lhe o nome de Sansão. O menino cresceu, e o Senhor o abençoou.",np:1,n:"Sansão, Shimshon, vem de shemesh, sol: pequeno sol. Bet-Sames, a casa do sol, ficava perto."},
+{v:25,t:"E o Espírito do Senhor começou a impeli-lo em Maané-Dã, entre Saraá e Estaol.",n:"Maané-Dã quer dizer acampamento de Dã."}
+];
+
+window.TEXTOS_SEED["juizes"][14] = [
+{s:"O casamento de Sansão em Tamna"},
+{v:1,t:"Sansão desceu a Tamna e viu ali uma mulher, uma das filhas dos filisteus."},
+{v:2,t:"Subiu e contou-o a seu pai e a sua mãe, dizendo: Vi em Tamna uma mulher, uma das filhas dos filisteus; tomai-a agora para mim por mulher."},
+{v:3,t:"Seu pai e sua mãe disseram-lhe: Não há mulher entre as filhas de teus irmãos e em todo o meu povo, para ires tomar mulher dos filisteus incircuncisos? Sansão respondeu a seu pai: Toma-a para mim, porque ela me agrada.",n:"Ela me agrada, à letra é reta aos meus olhos: a mesma expressão com que o livro se fecha — cada um fazia o que era reto aos seus olhos. Sansão é o espelho de um Israel que faz o que quer."},
+{v:4,t:"Seu pai e sua mãe não sabiam que isto vinha do Senhor, que buscava uma ocasião contra os filisteus; pois naquele tempo os filisteus dominavam sobre Israel.",n:"Deus escreve com as linhas tortas de Sansão: as suas paixões serão ocasião de libertação para Israel."},
+{v:5,t:"Sansão desceu com seu pai e sua mãe a Tamna. Quando chegaram às vinhas de Tamna, eis que um leão novo veio rugindo ao seu encontro.",np:1},
+{v:6,t:"O Espírito do Senhor apoderou-se de Sansão, e ele despedaçou o leão como se despedaça um cabrito, sem ter nada na mão; mas não contou a seu pai nem a sua mãe o que tinha feito."},
+{v:7,t:"Desceu e falou à mulher, e ela agradou a Sansão."},
+{v:8,t:"Alguns dias depois, voltou para casar-se com ela e desviou-se do caminho para ver o cadáver do leão: havia no corpo do leão um enxame de abelhas e mel.",n:"Tocar num cadáver era proibido ao nazireu. Sansão passa por cima da sua consagração, um passo de cada vez."},
+{v:9,t:"Tirou o mel com as mãos e foi comendo pelo caminho; quando chegou a seu pai e a sua mãe, deu-lhes, e eles comeram; mas não lhes disse que tinha tirado o mel do corpo do leão."},
+{v:10,t:"Seu pai desceu à casa da mulher, e Sansão ofereceu ali um banquete, como os jovens costumavam fazer.",np:1,n:"Banquete, à letra festa de bebida: difícil de imaginar sem vinho, outra proibição do nazireu."},
+{v:11,t:"Quando o viram, escolheram trinta companheiros para ficarem com ele."},
+{v:12,t:"Sansão disse-lhes: Vou propor-vos um enigma; se o decifrardes dentro dos sete dias do banquete e o acertardes, eu vos darei trinta túnicas de linho e trinta mudas de roupa;"},
+{v:13,t:"mas, se não puderdes decifrá-lo, vós me dareis trinta túnicas de linho e trinta mudas de roupa. Eles responderam-lhe: Propõe o teu enigma, que o ouviremos."},
+{v:14,l:["Ele lhes disse:","Do que come saiu comida,","e do forte saiu doçura.","Durante três dias, não conseguiram decifrar o enigma."]},
+{v:15,t:"No quarto dia, disseram à mulher de Sansão: Seduz o teu marido para que nos revele o enigma; senão, queimaremos a ti e a casa de teu pai. Foi para nos despojar que nos convidastes?",n:"O hebraico diz no sétimo dia; a Nova Vulgata, com a versão grega, lê no quarto, o que concorda com os três dias do versículo anterior."},
+{v:16,t:"A mulher de Sansão chorava junto dele e dizia: Tu me odeias e não me amas; propuseste um enigma aos filhos do meu povo e a mim não o explicaste. Ele respondeu-lhe: Nem a meu pai nem a minha mãe o expliquei, e havia de explicá-lo a ti?"},
+{v:17,t:"Ela chorou junto dele durante os sete dias do banquete; e, no sétimo dia, ele o explicou, porque ela o importunava; e ela logo o explicou aos filhos do seu povo."},
+{v:18,l:["No sétimo dia, antes do pôr do sol, os homens da cidade disseram-lhe:","Que há mais doce que o mel?","E que há mais forte que o leão?","Ele respondeu-lhes:","Se não tivésseis lavrado com a minha novilha,","não teríeis decifrado o meu enigma."],n:"Lavrar com a novilha alheia: usar sem direito o que é de outro. A imagem é grosseira, como a situação."},
+{v:19,t:"Então o Espírito do Senhor apoderou-se dele; desceu a Ascalon, matou ali trinta homens, tomou os seus despojos e deu as mudas de roupa aos que tinham decifrado o enigma; e, ardendo de ira, subiu à casa de seu pai.",np:1,n:"Ascalon ficava a uns quarenta quilômetros. O Espírito que vem sobre Sansão dá-lhe força, e não sabedoria: a força de Deus nas mãos de um homem sem freio."},
+{v:20,t:"E a mulher de Sansão foi dada ao companheiro que lhe servira de padrinho."}
+];

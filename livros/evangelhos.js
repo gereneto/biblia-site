@@ -2303,8 +2303,10 @@ EV[105] = [
 ];
 
 EV[106] = [
+{p:"João 7:53"},
+{v:53,t:"E cada um foi para sua casa.",n:"Nota do tradutor: o episódio que começa neste versículo falta nos manuscritos gregos mais antigos e melhores, e onde aparece surge por vezes noutros lugares — no fim de São João, ou depois de Lucas 21. O vocabulário e o estilo são mais próximos de São Lucas do que do quarto evangelho. Quase todos os estudiosos concluem, por isso, que não fazia parte do texto original de São João; e quase todos concluem também que é antiquíssimo e verdadeiro. O Concílio de Trento declarou-o canônico, e a Nova Vulgata mantém-no no seu lugar tradicional, como aqui se faz. É a página que a tradição não quis perder."},
 {p:"João 8:1-11"},
-{v:1,t:"Jesus, porém, foi para o monte das Oliveiras.",n:"Nota do tradutor: este episódio falta nos manuscritos gregos mais antigos e melhores, e onde aparece surge por vezes noutros lugares — no fim de São João, ou depois de Lucas 21. O vocabulário e o estilo são mais próximos de São Lucas do que do quarto evangelho. Quase todos os estudiosos concluem, por isso, que não fazia parte do texto original de São João; e quase todos concluem também que é antiquíssimo e verdadeiro. O Concílio de Trento declarou-o canônico, e a Nova Vulgata mantém-no no seu lugar tradicional, como aqui se faz. É a página que a tradição não quis perder."},
+{v:1,t:"Jesus, porém, foi para o monte das Oliveiras."},
 {v:2,t:"E de madrugada voltou ao templo, e todo o povo vinha a ele; e, sentando-se, ensinava-os."},
 {v:3,t:"Os escribas e os fariseus trouxeram uma mulher surpreendida em adultério e, pondo-a no meio,"},
 {v:4,t:"disseram-lhe: Mestre, esta mulher foi surpreendida em flagrante adultério."},

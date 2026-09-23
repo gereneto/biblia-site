@@ -168,7 +168,7 @@ window.HARMONIA = [
 {g:"Festas em Jerusalém", t:[
  {n:104, t:"Subida à festa dos Tabernáculos", r:"João 7:2-13"},
  {n:105, t:"Jesus ensina na festa", r:"João 7:14-52"},
- {n:106, t:"A mulher adúltera", r:"João 8:1-11"},
+ {n:106, t:"A mulher adúltera", r:"João 7:53–8:11"},
  {n:107, t:"A luz do mundo", r:"João 8:12-30"},
  {n:108, t:"A verdade vos libertará", r:"João 8:31-59"},
  {n:109, t:"O cego de nascença", r:"João 9:1-41"},

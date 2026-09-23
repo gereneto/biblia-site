@@ -4674,3 +4674,101 @@ EV[196] = [
 {v:34,t:"que diziam: O Senhor ressuscitou verdadeiramente e apareceu a Simão!",n:"Nenhum evangelista conta a aparição a Simão Pedro; mas São Paulo, na Primeira Carta aos Coríntios, põe-na em primeiro lugar entre as testemunhas: apareceu a Cefas e, depois, aos Doze."},
 {v:35,t:"E eles contaram o que lhes acontecera pelo caminho, e como o tinham reconhecido ao partir do pão.",n:"O partir do pão é o nome que os Atos dos Apóstolos dão à Eucaristia: perseveravam no ensino dos apóstolos, na comunhão, no partir do pão e nas orações."}
 ];
+
+EV[197] = [
+{p:"Lucas 24:36-43"},
+{v:36,t:"Enquanto falavam destas coisas, ele mesmo apareceu no meio deles e disse-lhes: A paz esteja convosco!"},
+{v:37,t:"Espantados e cheios de medo, julgavam ver um espírito."},
+{v:38,t:"Mas ele lhes disse: Por que estais perturbados, e por que surgem dúvidas nos vossos corações?"},
+{v:39,t:"Vede as minhas mãos e os meus pés: sou eu mesmo! Tocai-me e vede: um espírito não tem carne nem ossos, como vedes que eu tenho.",n:"São Lucas insiste no corpo: o ressuscitado não é uma alma sem corpo nem uma visão. É o mesmo — sou eu mesmo —, e não é como antes: aparece e desaparece, e não é logo reconhecido. A fé da Igreja chama a isso corpo glorioso."},
+{v:40,t:"E, dizendo isso, mostrou-lhes as mãos e os pés."},
+{v:41,t:"E, como eles, de tanta alegria, ainda não acreditassem e estivessem admirados, disse-lhes: Tendes aqui alguma coisa de comer?",n:"Não acreditavam de alegria: a notícia parece boa demais para ser verdade."},
+{v:42,t:"Eles ofereceram-lhe um pedaço de peixe assado."},
+{v:43,t:"Ele o tomou e comeu diante deles.",n:"Nos Atos, São Pedro dirá que os apóstolos comeram e beberam com ele depois da ressurreição. Comer diante deles é a prova mais simples de que não é um fantasma."},
+{p:"João 20:19-23"},
+{v:19,t:"Ao entardecer daquele dia, o primeiro da semana, estando fechadas as portas do lugar onde os discípulos se encontravam, por medo dos judeus, Jesus veio, pôs-se no meio deles e disse-lhes: A paz esteja convosco!",n:"A paz, shalom, era a saudação de todos os dias. Mas é a paz que ele prometera na ceia — deixo-vos a paz, a minha paz vos dou —, e é dita a homens que o tinham abandonado, fechados por medo."},
+{v:20,t:"Dito isso, mostrou-lhes as mãos e o lado. E os discípulos alegraram-se, vendo o Senhor."},
+{v:21,t:"Jesus disse-lhes de novo: A paz esteja convosco! Assim como o Pai me enviou, também eu vos envio."},
+{v:22,t:"Dito isso, soprou sobre eles e disse-lhes: Recebei o Espírito Santo.",n:"Soprou é o verbo da versão grega do Gênesis, quando Deus soprou nas narinas do homem o sopro da vida, e de Ezequiel, quando o espírito soprou sobre os ossos secos. Na tarde da Páscoa começa uma nova criação."},
+{v:23,t:"Àqueles a quem perdoardes os pecados, serão perdoados; àqueles a quem os retiverdes, serão retidos.",n:"Nota do tradutor: o Concílio de Trento ensinou que nestas palavras o Senhor deu aos apóstolos e aos seus sucessores o poder de perdoar os pecados, que a Igreja exerce no sacramento da penitência. O dom do Espírito e a missão de perdoar vêm juntos, e o primeiro encargo que o ressuscitado confia aos que o abandonaram é o perdão."}
+];
+
+EV[198] = [
+{p:"Marcos 16:14"},
+{v:14,t:"Por fim, apareceu aos Onze, quando estavam à mesa, e censurou-lhes a incredulidade e a dureza de coração, porque não tinham acreditado nos que o tinham visto ressuscitado."},
+{p:"João 20:24-29"},
+{v:24,t:"Tomé, um dos Doze, chamado Dídimo, não estava com eles quando Jesus veio."},
+{v:25,t:"Os outros discípulos disseram-lhe: Vimos o Senhor! Mas ele lhes disse: Se eu não vir nas suas mãos o sinal dos cravos, e não puser o dedo no lugar dos cravos, e não puser a mão no seu lado, não crerei."},
+{v:26,t:"Oito dias depois, os discípulos estavam outra vez dentro de casa, e Tomé com eles. Jesus veio, estando as portas fechadas, pôs-se no meio deles e disse: A paz esteja convosco!",n:"Oito dias depois: de domingo a domingo, contando os dois dias, à maneira antiga. A comunidade já se reúne no primeiro dia da semana, e é aí que o ressuscitado vem."},
+{v:27,t:"Depois disse a Tomé: Põe aqui o teu dedo e vê as minhas mãos; estende a tua mão e põe-na no meu lado; e não sejas incrédulo, mas fiel.",n:"Incrédulo e fiel são, em grego, a mesma palavra com e sem negação: apistos e pistos, sem fé e com fé. Jesus oferece a Tomé exatamente a prova que ele pedira. O texto não diz que Tomé chegou a tocá-lo."},
+{v:28,t:"Tomé respondeu-lhe: Meu Senhor e meu Deus!",n:"É a confissão mais alta de todo o evangelho, que tinha começado dizendo: e o Verbo era Deus. O livro fecha-se como abriu, e quem a pronuncia é o que mais duvidou. Os Salmos invocavam assim o Deus de Israel: meu Deus e meu Senhor."},
+{v:29,t:"Disse-lhe Jesus: Porque me viste, creste. Felizes os que não viram e creram!",n:"É a última bem-aventurança dos evangelhos, e é para os que vierem depois: os que creem pelo testemunho, sem ter visto — os leitores deste livro."}
+];
+
+EV[199] = [
+{p:"João 21:1-23"},
+{v:1,t:"Depois disso, Jesus manifestou-se outra vez aos discípulos, junto ao mar de Tiberíades; e manifestou-se deste modo.",n:"O capítulo 21 vem depois de uma conclusão, a do capítulo 20, e parece um epílogo acrescentado, talvez pelos discípulos do evangelista. Mas não há manuscrito do evangelho que não o tenha."},
+{v:2,t:"Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael, que era de Caná da Galileia, os filhos de Zebedeu e outros dois dos seus discípulos."},
+{v:3,t:"Simão Pedro disse-lhes: Vou pescar. Eles disseram-lhe: Nós também vamos contigo. Saíram e subiram ao barco; mas naquela noite nada apanharam."},
+{v:4,t:"Quando já amanhecia, Jesus estava de pé na praia; mas os discípulos não sabiam que era Jesus."},
+{v:5,t:"Jesus disse-lhes: Filhos, tendes alguma coisa para comer? Responderam-lhe: Não."},
+{v:6,t:"Ele disse-lhes: Lançai a rede do lado direito do barco, e achareis. Lançaram-na, e já não conseguiam puxá-la, por causa da quantidade de peixes."},
+{v:7,t:"Então o discípulo que Jesus amava disse a Pedro: É o Senhor! Simão Pedro, ouvindo que era o Senhor, cingiu-se com a túnica, pois estava nu, e lançou-se ao mar.",n:"Nu quer dizer aqui com pouca roupa, como trabalhavam os pescadores. O discípulo amado é o primeiro a reconhecê-lo, como foi o primeiro a crer diante do sepulcro; Pedro é o primeiro a lançar-se."},
+{v:8,t:"Os outros discípulos vieram no barco, arrastando a rede com os peixes, pois não estavam longe da terra, apenas uns duzentos côvados.",n:"Cerca de noventa metros."},
+{v:9,t:"Ao descerem para terra, viram um fogo de brasas, com peixe em cima, e pão.",n:"Fogo de brasas é a mesma palavra, anthrakia, da fogueira no pátio do sumo sacerdote, junto da qual Pedro negou três vezes conhecer Jesus. É junto de outro fogo de brasas que ele vai ser interrogado três vezes."},
+{v:10,t:"Jesus disse-lhes: Trazei alguns dos peixes que apanhastes agora."},
+{v:11,t:"Simão Pedro subiu ao barco e puxou para terra a rede, cheia de cento e cinquenta e três grandes peixes; e, apesar de serem tantos, a rede não se rompeu.",n:"O número intrigou os leitores desde os primeiros séculos. São Jerônimo afirma que os naturalistas gregos contavam cento e cinquenta e três espécies de peixes: a rede da Igreja recolhe gente de todos os povos, e não se rompe. Santo Agostinho notou que é a soma dos números de um a dezessete. Talvez seja apenas a lembrança exata de quem os contou."},
+{v:12,t:"Jesus disse-lhes: Vinde comer. E nenhum dos discípulos se atrevia a perguntar-lhe: Quem és tu?, porque sabiam que era o Senhor."},
+{v:13,t:"Jesus aproximou-se, tomou o pão e deu-lhes; e fez o mesmo com o peixe."},
+{v:14,t:"Esta foi a terceira vez que Jesus se manifestou aos discípulos, depois de ressuscitar dos mortos."},
+{v:15,t:"Depois de comerem, Jesus disse a Simão Pedro: Simão, filho de João, tu me amas mais do que estes? Ele respondeu: Sim, Senhor, tu sabes que te quero bem. Jesus disse-lhe: Apascenta os meus cordeiros.",n:"Nota do tradutor: o grego alterna aqui dois verbos de amar, agapao e phileo. Nas duas primeiras perguntas Jesus usa agapao, e Pedro responde com phileo, o verbo da amizade; na terceira, Jesus desce ao verbo de Pedro. A Nova Vulgata guarda a diferença — diligis, amo, amas —, e esta tradução também: amar e querer bem. Muitos leram na troca uma lição: Jesus pede o amor maior e acolhe o que Pedro, depois da queda, ousa prometer. Outros observam que São João gosta de variar sinônimos. A nota fica para quem quiser pesar a diferença."},
+{v:16,t:"Disse-lhe de novo, pela segunda vez: Simão, filho de João, tu me amas? Ele respondeu: Sim, Senhor, tu sabes que te quero bem. Jesus disse-lhe: Apascenta as minhas ovelhas."},
+{v:17,t:"Disse-lhe pela terceira vez: Simão, filho de João, tu me queres bem? Pedro entristeceu-se por lhe ter perguntado pela terceira vez: Tu me queres bem?, e respondeu-lhe: Senhor, tu sabes tudo; tu sabes que te quero bem. Jesus disse-lhe: Apascenta as minhas ovelhas.",n:"Três negações, três confissões de amor; e, a cada uma, a mesma missão: apascentar. A Igreja leu nestes versículos, junto com as palavras de Mateus 16, a missão de Pedro como pastor de todo o rebanho."},
+{v:18,t:"Em verdade, em verdade te digo: quando eras mais novo, tu mesmo te cingias e andavas por onde querias; mas, quando fores velho, estenderás as mãos, e outro te cingirá e te levará para onde não queres.",n:"Estender as mãos era expressão antiga para a crucifixão. Segundo a tradição, Pedro foi crucificado em Roma, sob Nero, por volta do ano 64."},
+{v:19,t:"Disse isso para indicar com que morte ele havia de glorificar a Deus. E, depois de dizer isso, acrescentou: Segue-me.",n:"É o chamado do princípio, junto a este mesmo mar, feito de novo depois da queda."},
+{v:20,t:"Pedro, voltando-se, viu que os seguia o discípulo que Jesus amava, aquele que, na ceia, se tinha reclinado sobre o peito dele e perguntara: Senhor, quem é que te vai entregar?"},
+{v:21,t:"Vendo-o, Pedro disse a Jesus: Senhor, e este?"},
+{v:22,t:"Jesus disse-lhe: Se eu quiser que ele fique até que eu venha, que te importa? Tu, segue-me."},
+{v:23,t:"Espalhou-se então entre os irmãos o boato de que aquele discípulo não morreria. Mas Jesus não lhe tinha dito que não morreria, e sim: Se eu quiser que ele fique até que eu venha, que te importa?",n:"O versículo parece escrito depois da morte do discípulo amado, para desfazer a perturbação que ela causou: Jesus nunca prometera que ele não morreria."}
+];
+
+EV[200] = [
+{p:"Mateus 28:16-20"},
+{v:16,t:"Os onze discípulos foram para a Galileia, ao monte que Jesus lhes tinha indicado."},
+{v:17,t:"E, quando o viram, adoraram-no; mas alguns duvidaram.",n:"Alguns duvidaram: São Mateus não esconde a dúvida, nem no último encontro. A missão é confiada a uma comunidade em que a fé e a hesitação convivem."},
+{v:18,t:"Jesus aproximou-se e falou-lhes, dizendo: Foi-me dado todo o poder no céu e na terra.",n:"É a linguagem de Daniel 7: ao Filho do Homem foi dado poder, glória e reino, e todos os povos o servirão. O que o livro de Daniel via numa visão é dito agora por Jesus de si mesmo."},
+{v:19,t:"Ide, pois, e fazei discípulos todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo,",n:"Fazei discípulos traduz matheteusate; a Vulgata diz docete, ensinai. Em nome, no singular: um só nome para o Pai, o Filho e o Espírito Santo. É a fórmula do batismo da Igreja desde o princípio, e a mais clara confissão da Trindade nos evangelhos."},
+{v:20,t:"ensinando-os a observar tudo o que vos mandei. E eis que eu estou convosco todos os dias, até o fim do mundo.",n:"O evangelho de São Mateus começou com o nome Emanuel, que significa Deus conosco, e acaba com a mesma promessa: eu estou convosco. O livro inteiro cabe entre essas duas frases."},
+{p:"Marcos 16:15-18"},
+{v:15,t:"E disse-lhes: Ide pelo mundo inteiro e anunciai o Evangelho a toda a criatura."},
+{v:16,t:"Quem crer e for batizado será salvo; quem não crer será condenado."},
+{v:17,t:"Estes são os sinais que acompanharão os que crerem: em meu nome expulsarão demônios, falarão línguas novas,"},
+{v:18,t:"pegarão serpentes com as mãos e, se beberem algum veneno mortal, não lhes fará mal; imporão as mãos sobre os doentes, e eles ficarão curados.",n:"Nota do tradutor: os Atos contam que São Paulo, em Malta, foi mordido por uma víbora e nada sofreu. A promessa fala da proteção de Deus sobre os enviados; não é um convite a pô-la à prova. O próprio Jesus respondeu ao tentador, no deserto: não tentarás o Senhor teu Deus. Houve e há quem tome o versículo como mandamento e manipule serpentes no culto; nenhuma tradição antiga da Igreja o leu assim."},
+{p:"Lucas 24:44-49"},
+{v:44,t:"Depois disse-lhes: Eram estas as palavras que eu vos dizia quando ainda estava convosco: é necessário que se cumpra tudo o que está escrito a meu respeito na Lei de Moisés, nos Profetas e nos Salmos.",n:"Lei, Profetas e Salmos: as três partes da Bíblia hebraica, a Lei, os Profetas e os Escritos, dos quais os Salmos são o primeiro livro. Quer dizer: toda a Escritura."},
+{v:45,t:"Então abriu-lhes o entendimento para compreenderem as Escrituras."},
+{v:46,t:"E disse-lhes: Assim está escrito: o Cristo havia de sofrer e ressuscitar dos mortos ao terceiro dia,"},
+{v:47,t:"e em seu nome seria pregada a conversão, para o perdão dos pecados, a todas as nações, começando por Jerusalém."},
+{v:48,t:"Vós sois testemunhas destas coisas."},
+{v:49,t:"E eis que eu vou enviar sobre vós o que meu Pai prometeu; ficai, pois, na cidade, até que sejais revestidos da força do alto.",n:"O que o Pai prometeu é o Espírito Santo, que virá no Pentecostes. O segundo livro de São Lucas, os Atos dos Apóstolos, começa exatamente neste ponto."}
+];
+
+EV[201] = [
+{p:"Marcos 16:19-20"},
+{v:19,t:"E o Senhor Jesus, depois de lhes ter falado, foi elevado ao céu e sentou-se à direita de Deus.",n:"Sentar-se à direita de Deus é a linguagem do Salmo 110, já traduzido aqui: disse o Senhor ao meu senhor: senta-te à minha direita. Não indica um lugar, mas a participação no poder e na glória de Deus."},
+{v:20,t:"E eles partiram e pregaram por toda a parte, e o Senhor agia com eles e confirmava a palavra com os sinais que a acompanhavam.",n:"O evangelho de São Marcos termina com o começo de outra história: a da pregação, que os Atos dos Apóstolos vão contar."},
+{p:"Lucas 24:50-53"},
+{v:50,t:"Depois levou-os para fora, até perto de Betânia, e, erguendo as mãos, abençoou-os.",n:"Erguer as mãos para abençoar era o gesto do sumo sacerdote no fim do culto, como Aarão no Levítico e o sumo sacerdote Simão no livro de Ben Sirá. O evangelho de São Lucas começou no templo, com um sacerdote, Zacarias, que saiu do santuário mudo e não pôde abençoar o povo; termina com a bênção que faltava."},
+{v:51,t:"E aconteceu que, enquanto os abençoava, separou-se deles e foi elevado ao céu.",n:"Nos Atos, a ascensão acontece quarenta dias depois da Páscoa; aqui, São Lucas parece contá-la na tarde do mesmo dia. É o mesmo autor: no fim do evangelho, junta os acontecimentos numa só cena; no começo dos Atos, dá-lhes a duração."},
+{v:52,t:"Eles o adoraram e voltaram para Jerusalém com grande alegria;"},
+{v:53,t:"e estavam continuamente no templo, bendizendo a Deus.",n:"O evangelho acaba onde começou, no templo, e na alegria que o anjo anunciara aos pastores: uma grande alegria, que será para todo o povo."}
+];
+
+EV[202] = [
+{p:"João 20:30-31"},
+{v:30,t:"Jesus fez ainda, diante dos seus discípulos, muitos outros sinais que não estão escritos neste livro."},
+{v:31,t:"Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais a vida em seu nome.",n:"É a primeira conclusão do quarto evangelho, e diz para que foi escrito. Os manuscritos hesitam entre para que creiais e para que continueis a crer: o livro pode ter sido escrito para trazer à fé, ou para firmar nela os que já creem."},
+{p:"João 21:24-25"},
+{v:24,t:"Este é o discípulo que dá testemunho destas coisas e que as escreveu; e sabemos que o seu testemunho é verdadeiro.",n:"Sabemos: quem fala aqui é a comunidade do discípulo amado, que garante o seu testemunho."},
+{v:25,t:"Há ainda muitas outras coisas que Jesus fez; se fossem escritas uma por uma, creio que nem o mundo inteiro poderia conter os livros que seriam escritos.",n:"Com esta frase termina a harmonia dos quatro evangelhos. Lidos juntos, não esgotam o que Jesus fez e disse, e não pretendem esgotar: o último evangelista o diz com as suas próprias palavras."}
+];

@@ -635,7 +635,7 @@ window.TEXTOS_SEED["1samuel"][20] = [
 {v:12,t:"Jônatas disse a Davi: Pelo Senhor, Deus de Israel! Amanhã ou depois de amanhã, a esta hora, sondarei o pensamento de meu pai; e, se ele estiver bem disposto para com Davi, e eu não mandar logo avisar-te,"},
 {v:13,t:"que o Senhor faça isto a Jônatas e mais aquilo! Mas, se meu pai persistir em querer o teu mal, também te farei saber e te deixarei partir, para que vás em paz. E o Senhor esteja contigo, como esteve com meu pai."},
 {v:14,t:"E, se eu ainda estiver vivo, usarás comigo a bondade do Senhor; e, se eu morrer,"},
-{v:15,t:"não retirarás jamais a tua bondade da minha casa, nem mesmo quando o Senhor tiver exterminado da face da terra todos os inimigos de Davi.",n:"Davi cumprirá a promessa acolhendo Mefiboset, filho de Jônatas, à sua mesa (2 Samuel 9)."},
+{v:15,t:"não retirarás jamais a tua bondade da minha casa, nem mesmo quando o Senhor tiver exterminado da face da terra todos os inimigos de Davi.",n:"Davi cumprirá a promessa acolhendo Meribaal, filho de Jônatas, à sua mesa (2 Samuel 9)."},
 {v:16,t:"Assim Jônatas fez aliança com a casa de Davi, dizendo: Que o Senhor peça contas aos inimigos de Davi!"},
 {v:17,t:"E Jônatas fez Davi jurar de novo, pelo amor que lhe tinha; porque o amava como a si mesmo."},
 {v:18,t:"Jônatas disse-lhe: Amanhã é lua nova, e sentirão a tua falta,",np:1},

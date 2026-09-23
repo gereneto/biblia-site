@@ -2565,3 +2565,155 @@ EV[117] = [
 {v:12,t:"Ou, se lhe pedir um ovo, lhe dará um escorpião?",n:"Os pares são escolhidos pela semelhança: uma enguia parece um peixe, e o escorpião branco, enrolado, parece um ovo. O pai mau não daria pedras — daria coisas que se parecem com o que se pediu."},
 {v:13,t:"Se, pois, vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais o Pai do céu dará o Espírito Santo aos que o pedirem.",n:"Onde São Mateus diz coisas boas, São Lucas diz o Espírito Santo. É a substituição mais significativa que faz a um texto comum: o dom que se promete a quem pede não é uma coisa, é Deus mesmo."}
 ];
+
+EV[118] = [
+{p:"Lucas 11:33-36"},
+{v:33,t:"Ninguém acende uma lâmpada e a põe em lugar escondido nem debaixo do alqueire, mas no candelabro, para que os que entram vejam a luz."},
+{v:34,t:"A lâmpada do corpo é o teu olho. Quando o teu olho é simples, todo o teu corpo é luminoso; mas, quando é mau, também o teu corpo é tenebroso.",n:"Simples traduz haplous, que diz o que não tem dobras — o olhar indiviso —, e em grego da época também o generoso. O olho mau era, na linguagem judaica, a inveja e a avareza. A frase fala de visão e de mesquinhez ao mesmo tempo."},
+{v:35,t:"Vê, pois, que a luz que há em ti não seja trevas."},
+{v:36,t:"Se, pois, todo o teu corpo for luminoso, sem ter parte alguma tenebrosa, será todo luminoso, como quando a lâmpada te ilumina com o seu fulgor."}
+];
+
+EV[119] = [
+{p:"Lucas 11:37-54"},
+{v:37,t:"Enquanto falava, um fariseu convidou-o para almoçar em sua casa; e ele entrou e pôs-se à mesa."},
+{v:38,t:"O fariseu, vendo isso, admirou-se de que ele não se tivesse lavado antes do almoço."},
+{v:39,t:"Mas o Senhor lhe disse: Vós, fariseus, limpais o exterior do copo e do prato, mas o vosso interior está cheio de rapina e de maldade."},
+{v:40,t:"Insensatos! Aquele que fez o exterior não fez também o interior?"},
+{v:41,t:"Dai antes em esmola o que está dentro, e eis que tudo será puro para vós.",n:"Frase difícil, que admite duas leituras: dai em esmola o conteúdo dos pratos, em vez de vos preocupardes com a louça; ou dai a partir do interior, do coração. Em ambas, a pureza deixa de ser coisa de superfície e passa a ser coisa de dar."},
+{v:42,t:"Mas ai de vós, fariseus, que pagais o dízimo da hortelã, da arruda e de toda hortaliça, e deixais de lado a justiça e o amor de Deus! Estas coisas era preciso praticar, sem deixar de lado aquelas."},
+{v:43,t:"Ai de vós, fariseus, que amais os primeiros assentos nas sinagogas e as saudações nas praças!"},
+{v:44,t:"Ai de vós, que sois como os sepulcros que não se veem, sobre os quais os homens andam sem o saber!",n:"Pisar um sepulcro tornava impuro, e por isso se caiavam as sepulturas antes das festas, para que ninguém se contaminasse sem querer. O sepulcro sem marca contamina quem passa, sem que ninguém perceba."},
+{v:45,t:"Então um dos doutores da lei, tomando a palavra, disse-lhe: Mestre, dizendo isso, também a nós nos ofendes."},
+{v:46,t:"Ele disse: Ai de vós também, doutores da lei, porque carregais os homens com fardos insuportáveis, e vós mesmos nem com um dedo tocais os fardos!"},
+{v:47,t:"Ai de vós, que edificais os sepulcros dos profetas, e foram os vossos pais que os mataram!"},
+{v:48,t:"Assim, sois testemunhas e aprovais as obras de vossos pais: porque eles os mataram, e vós edificais os seus sepulcros."},
+{v:49,t:"Por isso também disse a Sabedoria de Deus: Hei de enviar-lhes profetas e apóstolos, e a alguns deles matarão e perseguirão,"},
+{v:50,t:"para que se peça conta a esta geração do sangue de todos os profetas, derramado desde a criação do mundo,"},
+{v:51,t:"desde o sangue de Abel até ao sangue de Zacarias, que pereceu entre o altar e o santuário. Sim, eu vos digo: será pedida conta a esta geração.",n:"Abel é o primeiro homem assassinado na Escritura, no Gênesis; Zacarias, o último, no fim do segundo livro das Crônicas, que era o último livro da Bíblia hebraica. De A a Z, diríamos: todo o sangue justo, do primeiro livro ao último."},
+{v:52,t:"Ai de vós, doutores da lei, que tomastes a chave da ciência! Vós mesmos não entrastes, e impedistes os que queriam entrar."},
+{v:53,t:"Quando ele saiu dali, os escribas e os fariseus começaram a pressioná-lo fortemente e a provocá-lo a falar sobre muitas coisas,"},
+{v:54,t:"armando-lhe ciladas, para apanharem alguma palavra da sua boca."}
+];
+
+EV[120] = [
+{p:"Lucas 12:1-12"},
+{v:1,t:"Entretanto, tendo-se reunido multidões aos milhares, a ponto de se pisarem uns aos outros, começou a dizer, primeiro aos seus discípulos: Acautelai-vos do fermento dos fariseus, que é a hipocrisia."},
+{v:2,t:"Nada há encoberto que não venha a ser descoberto, nem oculto que não venha a ser conhecido."},
+{v:3,t:"Por isso, tudo o que dissestes nas trevas será ouvido à luz; e o que falastes ao ouvido, nos quartos, será proclamado sobre os telhados."},
+{v:4,t:"Digo-vos a vós, meus amigos: não temais os que matam o corpo e depois disso nada mais podem fazer.",n:"Meus amigos: é a única vez nos sinóticos que Jesus chama assim aos discípulos. E vem justamente antes de lhes falar em morte."},
+{v:5,t:"Vou mostrar-vos a quem deveis temer: temei aquele que, depois de matar, tem poder de lançar na geena. Sim, eu vos digo: a este temei."},
+{v:6,t:"Não se vendem cinco passarinhos por dois asses? E nenhum deles é esquecido diante de Deus.",n:"São Mateus dizia dois por um asse; São Lucas, cinco por dois — quem comprava duas porções levava uma de brinde. Nem o passarinho que se dava de graça, e que não valia nada, é esquecido."},
+{v:7,t:"Até os cabelos da vossa cabeça estão todos contados. Não temais: mais valeis vós do que muitos passarinhos."},
+{v:8,t:"Eu vos digo: todo aquele que me confessar diante dos homens, também o Filho do Homem o confessará diante dos anjos de Deus;"},
+{v:9,t:"mas quem me negar diante dos homens será negado diante dos anjos de Deus."},
+{v:10,t:"E a todo aquele que disser uma palavra contra o Filho do Homem, será perdoado; mas a quem blasfemar contra o Espírito Santo não será perdoado."},
+{v:11,t:"Quando vos levarem às sinagogas, aos magistrados e às autoridades, não vos preocupeis com o modo como vos defendereis nem com o que haveis de dizer;"},
+{v:12,t:"porque o Espírito Santo vos ensinará naquela mesma hora o que deveis dizer."}
+];
+
+EV[121] = [
+{p:"Lucas 12:13-34"},
+{v:13,t:"Alguém da multidão lhe disse: Mestre, dize a meu irmão que reparta comigo a herança."},
+{v:14,t:"Ele lhe respondeu: Homem, quem me constituiu juiz ou partidor entre vós?",n:"Pedir a um rabi que arbitrasse questões de herança era comum. A recusa é a frase que os hebreus disseram a Moisés no Egito — quem te constituiu chefe e juiz sobre nós? —, e Jesus toma-a para si: não veio repartir heranças, veio mudar o que se deseja herdar."},
+{v:15,t:"E disse-lhes: Olhai e guardai-vos de toda avareza, porque a vida de um homem não consiste na abundância dos bens que possui."},
+{v:16,t:"E contou-lhes uma parábola, dizendo: O campo de um homem rico produziu muito."},
+{v:17,t:"E ele pensava consigo mesmo: Que farei, pois não tenho onde recolher os meus frutos?"},
+{v:18,t:"E disse: Farei isto: derrubarei os meus celeiros e construirei maiores, e ali recolherei todo o meu trigo e os meus bens;"},
+{v:19,t:"e direi à minha alma: Alma, tens muitos bens guardados para muitos anos; descansa, come, bebe e regala-te.",n:"O homem só fala consigo mesmo: meus celeiros, meus frutos, minha alma. Em toda a parábola não aparece mais ninguém — nem família, nem trabalhadores, nem pobres — até que Deus fale."},
+{v:20,t:"Mas Deus lhe disse: Insensato! Esta noite te pedirão a tua alma; e o que preparaste, para quem será?",n:"Pedirão está no plural impessoal e usa o verbo de quem reclama um empréstimo. A vida era emprestada, e o credor cobra-a de volta."},
+{v:21,t:"Assim é o que entesoura para si mesmo e não é rico diante de Deus."},
+{v:22,t:"E disse aos seus discípulos: Por isso vos digo: não vos preocupeis com a vossa vida, quanto ao que haveis de comer, nem com o corpo, quanto ao que haveis de vestir."},
+{v:23,t:"A vida é mais do que o alimento, e o corpo mais do que a roupa."},
+{v:24,t:"Olhai os corvos: não semeiam nem colhem, não têm despensa nem celeiro, e Deus os alimenta. Quanto mais valeis vós do que as aves!",n:"Onde São Mateus diz as aves do céu, São Lucas diz os corvos — ave impura segundo o Levítico, a que ninguém daria valor. Até esses Deus alimenta."},
+{v:25,t:"Qual de vós, por mais que se preocupe, pode acrescentar um côvado à duração da sua vida?"},
+{v:26,t:"Se, pois, nem o mínimo podeis, por que vos preocupais com o resto?"},
+{v:27,t:"Olhai os lírios, como crescem: não trabalham nem fiam; e eu vos digo que nem Salomão, em toda a sua glória, se vestiu como um deles."},
+{v:28,t:"Se, pois, Deus assim veste a erva que hoje está no campo e amanhã é lançada no forno, quanto mais a vós, homens de pouca fé!"},
+{v:29,t:"Também vós não procureis o que haveis de comer ou beber, nem andeis inquietos."},
+{v:30,t:"Porque são os gentios do mundo que procuram todas estas coisas; e vosso Pai sabe que precisais delas."},
+{v:31,t:"Buscai antes o seu Reino, e estas coisas vos serão acrescentadas."},
+{v:32,t:"Não temas, pequeno rebanho, porque aprouve a vosso Pai dar-vos o Reino.",n:"Pequeno rebanho: a expressão está no diminutivo em grego, e é das mais ternas do evangelho. O Reino não é prêmio de quem o conquista, é dom de quem quis dá-lo."},
+{v:33,t:"Vendei o que possuís e dai esmola. Fazei para vós bolsas que não envelhecem, um tesouro inesgotável nos céus, aonde o ladrão não chega e a traça não destrói."},
+{v:34,t:"Porque, onde está o vosso tesouro, ali estará também o vosso coração."}
+];
+
+EV[122] = [
+{p:"Lucas 12:35-59"},
+{v:35,t:"Estejam cingidos os vossos rins e acesas as vossas lâmpadas.",n:"Cingir os rins era prender a túnica comprida no cinto para poder andar depressa ou trabalhar. É a ordem dada a Israel na noite da Páscoa: comei-a com os rins cingidos, prontos para partir."},
+{v:36,t:"Sede semelhantes a homens que esperam o seu senhor quando volta das bodas, para lhe abrirem logo que chegar e bater."},
+{v:37,t:"Felizes aqueles servos que o senhor, ao chegar, encontrar vigiando! Em verdade vos digo que ele se cingirá, os fará sentar à mesa e, passando, os servirá.",n:"Nenhum senhor da antiguidade servia os seus servos. A parábola inverte a ordem social no meio da frase, e é a mesma inversão que o lava-pés há de encenar."},
+{v:38,t:"E, se chegar na segunda vigília ou na terceira e assim os encontrar, felizes serão eles."},
+{v:39,t:"Sabei, porém, isto: se o dono da casa soubesse a que hora havia de vir o ladrão, não deixaria arrombar a sua casa."},
+{v:40,t:"Vós também estai preparados, porque na hora em que não pensais virá o Filho do Homem."},
+{v:41,t:"Disse-lhe então Pedro: Senhor, dizes esta parábola para nós ou também para todos?"},
+{v:42,t:"E o Senhor disse: Quem é, pois, o administrador fiel e prudente, que o senhor porá à frente da sua criadagem, para lhes dar a ração de trigo a seu tempo?",n:"A resposta à pergunta de Pedro é outra pergunta. A parábola é para todos, mas pesa mais sobre quem recebeu encargo sobre os outros — é o que dizem os versículos 47 e 48."},
+{v:43,t:"Feliz aquele servo que o seu senhor, ao chegar, encontrar fazendo assim!"},
+{v:44,t:"Em verdade vos digo que o porá à frente de todos os seus bens."},
+{v:45,t:"Mas, se aquele servo disser no seu coração: O meu senhor demora a vir; e começar a espancar os criados e as criadas, e a comer, a beber e a embriagar-se,"},
+{v:46,t:"virá o senhor daquele servo no dia em que não o espera e na hora que não sabe, e o separará, e lhe dará a sorte dos infiéis."},
+{v:47,t:"O servo que conheceu a vontade do seu senhor e não se preparou nem agiu segundo a sua vontade receberá muitos açoites;"},
+{v:48,t:"mas o que não a conheceu e fez coisas dignas de açoites receberá poucos. A quem muito foi dado, muito se pedirá; e a quem muito se confiou, mais se lhe exigirá."},
+{v:49,t:"Eu vim lançar fogo sobre a terra, e como desejaria que já estivesse aceso!"},
+{v:50,t:"Tenho de receber um batismo, e como me angustio até que se cumpra!",n:"Batismo é aqui a Paixão, como na resposta aos filhos de Zebedeu: ser mergulhado. É dos raros versículos em que Jesus fala do que sente diante do que o espera, e o que diz é angústia."},
+{v:51,t:"Pensais que vim trazer paz à terra? Não, eu vos digo, mas divisão."},
+{v:52,t:"Porque, daqui em diante, estarão cinco divididos numa casa: três contra dois, e dois contra três;"},
+{v:53,t:"estarão divididos o pai contra o filho e o filho contra o pai, a mãe contra a filha e a filha contra a mãe, a sogra contra a nora e a nora contra a sogra."},
+{v:54,t:"Dizia também às multidões: Quando vedes subir uma nuvem do poente, logo dizeis: Vem chuva; e assim acontece."},
+{v:55,t:"E, quando sopra o vento do sul, dizeis: Haverá calor; e assim acontece.",n:"Na Palestina o poente é o Mediterrâneo, donde vem a chuva, e o sul é o deserto, donde vem o vento quente. Os ouvintes liam o céu com toda a exatidão."},
+{v:56,t:"Hipócritas, sabeis discernir o aspecto da terra e do céu; como é que não discernis este tempo?"},
+{v:57,t:"E por que não julgais por vós mesmos o que é justo?"},
+{v:58,t:"Quando fores com o teu adversário ao magistrado, procura, no caminho, livrar-te dele, para que não te arraste ao juiz, e o juiz te entregue ao oficial de justiça, e o oficial de justiça te lance na prisão."},
+{v:59,t:"Digo-te que não sairás de lá enquanto não pagares o último centavo."}
+];
+
+EV[123] = [
+{p:"Lucas 13:1-9"},
+{v:1,t:"Naquele mesmo tempo, estavam presentes alguns que lhe contavam o caso dos galileus cujo sangue Pilatos misturara com o dos seus sacrifícios.",n:"O episódio não é conhecido por outra fonte, mas combina com o que o historiador Flávio Josefo conta de Pilatos, que mais de uma vez mandou massacrar multidões. Galileus mortos no templo, enquanto ofereciam sacrifícios, pelo governador romano."},
+{v:2,t:"E ele lhes respondeu: Pensais que esses galileus eram mais pecadores do que todos os outros galileus, por terem sofrido tal coisa?"},
+{v:3,t:"Não, eu vos digo; mas, se não vos converterdes, perecereis todos do mesmo modo."},
+{v:4,t:"Ou aqueles dezoito sobre os quais caiu a torre de Siloé e os matou: pensais que eram mais culpados do que todos os outros habitantes de Jerusalém?",n:"Os dois casos são escolhidos pelo contraste: um é violência política, o outro um desastre sem culpado. A resposta é a mesma para os dois, e recusa nas duas vezes a pergunta pela culpa dos mortos, para a voltar para os vivos."},
+{v:5,t:"Não, eu vos digo; mas, se não vos converterdes, perecereis todos da mesma maneira."},
+{v:6,t:"E contou esta parábola: Um homem tinha uma figueira plantada na sua vinha; e veio procurar fruto nela, e não o encontrou."},
+{v:7,t:"Disse então ao vinhateiro: Eis que há três anos venho procurar fruto nesta figueira e não o encontro. Corta-a; por que há de ocupar ainda a terra inutilmente?"},
+{v:8,t:"Mas ele respondeu: Senhor, deixa-a ainda este ano, até que eu cave ao redor dela e lhe deite adubo."},
+{v:9,t:"Talvez dê fruto no futuro; se não, tu a cortarás.",n:"A parábola acaba sem desfecho: não se diz se a figueira deu fruto nem se foi cortada. O ano concedido é o tempo em que o ouvinte está."}
+];
+
+EV[124] = [
+{p:"Lucas 13:10-17"},
+{v:10,t:"Estava ele ensinando numa das sinagogas, num sábado."},
+{v:11,t:"E eis que estava ali uma mulher que havia dezoito anos tinha um espírito que a tornava enferma; andava encurvada e não podia de modo algum endireitar-se."},
+{v:12,t:"Vendo-a, Jesus chamou-a e disse-lhe: Mulher, estás livre da tua enfermidade."},
+{v:13,t:"E impôs-lhe as mãos; e ela logo se endireitou e glorificava a Deus."},
+{v:14,t:"Mas o chefe da sinagoga, indignado porque Jesus curara em dia de sábado, dizia à multidão: Há seis dias em que se deve trabalhar; vinde, pois, nesses dias para serdes curados, e não em dia de sábado.",n:"O chefe da sinagoga não se dirige a Jesus: fala à multidão, e repreende a vítima em vez de quem a curou."},
+{v:15,t:"Respondeu-lhe o Senhor: Hipócritas! Cada um de vós não solta da manjedoura, no sábado, o seu boi ou o seu jumento, e não o leva a beber?"},
+{v:16,t:"E esta filha de Abraão, que Satanás tinha presa havia dezoito anos, não devia ser solta desta prisão em dia de sábado?",n:"Filha de Abraão é expressão que não aparece em nenhum outro lugar da Escritura. O argumento joga com o verbo soltar: se se solta o animal para beber, quanto mais esta. E o Deuteronômio funda o sábado precisamente na libertação do Egito."},
+{v:17,t:"Dizendo ele isso, todos os seus adversários ficavam envergonhados; e toda a multidão se alegrava com todas as coisas gloriosas que ele fazia."}
+];
+
+EV[125] = [
+{p:"Lucas 13:18-30"},
+{v:18,t:"Dizia, pois: A que é semelhante o Reino de Deus, e a que o compararei?"},
+{v:19,t:"É semelhante a um grão de mostarda que um homem tomou e lançou na sua horta; cresceu e tornou-se árvore, e as aves do céu fizeram ninho nos seus ramos."},
+{v:20,t:"E disse ainda: A que compararei o Reino de Deus?"},
+{v:21,t:"É semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até ficar tudo levedado."},
+{v:22,t:"E ia passando pelas cidades e aldeias, ensinando e caminhando para Jerusalém."},
+{v:23,t:"Alguém lhe perguntou: Senhor, são poucos os que se salvam? Ele lhes disse:"},
+{v:24,t:"Esforçai-vos por entrar pela porta estreita, porque muitos, eu vos digo, procurarão entrar e não conseguirão.",n:"A pergunta pede um número e a resposta dá uma ordem: não se diz quantos, diz-se o que fazer. Esforçai-vos traduz agonizesthe, o verbo do atleta na competição, donde vem agonia."},
+{v:25,t:"Quando o dono da casa se tiver levantado e fechado a porta, e vós, ficando de fora, começardes a bater à porta, dizendo: Senhor, abre-nos!, ele vos responderá: Não sei donde sois."},
+{v:26,t:"Então começareis a dizer: Comemos e bebemos na tua presença, e tu ensinaste nas nossas praças."},
+{v:27,t:"E ele vos dirá: Não sei donde sois; afastai-vos de mim, todos os que praticais a iniquidade."},
+{v:28,t:"Ali haverá choro e ranger de dentes, quando virdes Abraão, Isaac e Jacó e todos os profetas no Reino de Deus, e vós lançados fora."},
+{v:29,t:"E virão do oriente e do ocidente, do norte e do sul, e hão de sentar-se à mesa no Reino de Deus."},
+{v:30,t:"E eis que há últimos que serão primeiros, e primeiros que serão últimos."}
+];
+
+EV[126] = [
+{p:"Lucas 13:31-35"},
+{v:31,t:"Naquela mesma hora, aproximaram-se alguns fariseus, dizendo-lhe: Sai e vai-te daqui, porque Herodes quer matar-te."},
+{v:32,t:"Ele lhes disse: Ide dizer a essa raposa: Eis que expulso demônios e faço curas hoje e amanhã, e no terceiro dia chego ao fim.",n:"Raposa era, na linguagem dos rabinos, o bicho pequeno e astuto, por oposição ao leão: é tratar Herodes de manhoso e de menor. E chego ao fim traduz teleioumai, sou levado à consumação — da mesma raiz de tudo está consumado, a última palavra na cruz segundo São João."},
+{v:33,t:"Contudo, é necessário que eu siga o meu caminho hoje, amanhã e depois de amanhã, porque não convém que um profeta pereça fora de Jerusalém."},
+{v:34,t:"Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis reunir os teus filhos, como a galinha reúne a sua ninhada debaixo das asas, e não quiseste!",n:"A imagem da ave que abriga os filhos sob as asas é a que o Deuteronômio e os salmos usam para Deus. Jesus toma-a para si, e escolhe a ave mais doméstica e menos heroica de todas."},
+{v:35,t:"Eis que a vossa casa vos ficará abandonada. E eu vos digo que não me vereis até que venha o dia em que digais: Bendito o que vem em nome do Senhor!",n:"É o versículo 26 do Salmo 118, que a multidão há de gritar, poucos capítulos adiante, na entrada em Jerusalém."}
+];

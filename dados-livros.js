@@ -14,6 +14,7 @@ window.LIVROS_SEED = {
   "rute":       { nome: "Rute",        grupo: "Livros Históricos",   capitulos: 4 },
   "1samuel":    { nome: "I Samuel",    grupo: "Livros Históricos",   capitulos: 31 },
   "2samuel":    { nome: "II Samuel",   grupo: "Livros Históricos",   capitulos: 24 },
+  "1reis":      { nome: "I Reis",      grupo: "Livros Históricos",   capitulos: 22 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -43,7 +44,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "salmos": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "salmos": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

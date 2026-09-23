@@ -1633,7 +1633,7 @@ EV[86] = [
 {v:38,t:"Rogai, pois, ao Senhor da messe que envie trabalhadores para a sua messe."},
 {p:"Mateus 10:1-42"},
 {v:1,t:"E, chamando os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem e para curarem toda doença e toda enfermidade."},
-{v:2,t:"Os nomes dos doze apóstolos são estes: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;",n:"Apóstolo significa enviado, e é a única vez que São Mateus usa a palavra. O número doze não é casual: corresponde às tribos de Israel, e diz que se está a refundar o povo."},
+{v:2,t:"Os nomes dos doze apóstolos são estes: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;",n:"Apóstolo significa enviado, e é a única vez que São Mateus usa a palavra. O número doze não é casual: corresponde às tribos de Israel, e diz que o povo está sendo refundado."},
 {v:3,t:"Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Tadeu;"},
 {v:4,t:"Simão, o cananeu, e Judas Iscariotes, o mesmo que o entregou.",n:"Cananeu não diz aqui a terra de Canaã, mas verte o aramaico qananaya, o zeloso — o mesmo que São Lucas traduz por zelota. Na mesma lista estão um cobrador de impostos de Roma e um homem do partido que queria expulsá-la."},
 {v:5,t:"A estes doze enviou Jesus, dando-lhes as seguintes instruções: Não sigais pelo caminho dos gentios nem entreis em cidade de samaritanos;"},
@@ -2859,4 +2859,125 @@ EV[135] = [
 {v:8,t:"Não lhe dirá antes: Prepara-me o jantar, cinge-te e serve-me, enquanto como e bebo; e depois comerás e beberás tu?"},
 {v:9,t:"Acaso fica agradecido ao servo por ter feito o que lhe foi mandado?"},
 {v:10,t:"Assim também vós, quando tiverdes feito tudo o que vos foi mandado, dizei: Somos servos inúteis; fizemos apenas o que devíamos fazer.",n:"Inúteis traduz achreioi, que não diz sem valor, mas sem direito a pagamento: servos a quem nada se deve. E a mesma parábola que manda dizer isto foi precedida, no capítulo 12, pela do senhor que se cinge para servir os servos — as duas coisas vêm juntas."}
+];
+
+EV[136] = [
+{p:"João 11:1-45"},
+{v:1,t:"Estava doente um certo Lázaro, de Betânia, a aldeia de Maria e de Marta, sua irmã."},
+{v:2,t:"Maria era a que ungiu o Senhor com perfume e lhe enxugou os pés com os seus cabelos; e era seu irmão Lázaro que estava doente.",n:"O evangelista refere-se à unção como coisa já conhecida do leitor, embora só a conte no capítulo seguinte. Escreve para quem já sabe a história."},
+{v:3,t:"As irmãs mandaram, pois, dizer a Jesus: Senhor, eis que está doente aquele que amas."},
+{v:4,t:"Ouvindo isso, Jesus disse: Esta doença não é para a morte, mas para a glória de Deus, para que por ela seja glorificado o Filho de Deus."},
+{v:5,t:"Jesus amava Marta, e a sua irmã, e Lázaro."},
+{v:6,t:"Quando, pois, soube que ele estava doente, ficou ainda dois dias no lugar onde estava.",n:"O pois liga a demora ao amor do versículo anterior, e é de propósito desconcertante: porque os amava, esperou. O quarto evangelho não explica a lógica; conta o que ela produziu."},
+{v:7,t:"Depois disso, disse aos discípulos: Voltemos para a Judeia."},
+{v:8,t:"Disseram-lhe os discípulos: Rabi, ainda há pouco os judeus procuravam apedrejar-te, e voltas para lá?"},
+{v:9,t:"Respondeu Jesus: Não são doze as horas do dia? Se alguém anda de dia, não tropeça, porque vê a luz deste mundo;"},
+{v:10,t:"mas, se anda de noite, tropeça, porque a luz não está nele."},
+{v:11,t:"Disse isso e, depois, acrescentou: Lázaro, o nosso amigo, dorme; mas vou despertá-lo."},
+{v:12,t:"Disseram-lhe, pois, os discípulos: Senhor, se dorme, há de salvar-se."},
+{v:13,t:"Jesus, porém, falara da sua morte; mas eles pensavam que falava do repouso do sono."},
+{v:14,t:"Então Jesus disse-lhes claramente: Lázaro morreu;"},
+{v:15,t:"e alegro-me por vossa causa de não ter estado lá, para que creiais. Mas vamos ter com ele."},
+{v:16,t:"Disse então Tomé, chamado Dídimo, aos companheiros: Vamos também nós, para morrermos com ele.",n:"Dídimo quer dizer gêmeo, e é tradução grega do aramaico Tomé. O discípulo que ficou conhecido pela dúvida aparece pela primeira vez disposto a morrer."},
+{v:17,t:"Chegando, Jesus encontrou-o já sepultado havia quatro dias."},
+{v:18,t:"Betânia ficava perto de Jerusalém, a uns quinze estádios."},
+{v:19,t:"E muitos dos judeus tinham ido ter com Marta e Maria para as consolar a respeito do irmão."},
+{v:20,t:"Marta, quando ouviu que Jesus chegava, saiu-lhe ao encontro; Maria, porém, ficou sentada em casa."},
+{v:21,t:"Disse Marta a Jesus: Senhor, se tivesses estado aqui, meu irmão não teria morrido."},
+{v:22,t:"Mas, mesmo agora, sei que tudo o que pedires a Deus, Deus te concederá."},
+{v:23,t:"Disse-lhe Jesus: Teu irmão há de ressuscitar."},
+{v:24,t:"Disse-lhe Marta: Sei que há de ressuscitar na ressurreição, no último dia."},
+{v:25,t:"Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá;",n:"Marta falava da ressurreição como de um acontecimento futuro, no último dia; a resposta põe-na no presente e numa pessoa. Não se diz eu farei ressuscitar, mas eu sou."},
+{v:26,t:"e todo o que vive e crê em mim não morrerá eternamente. Crês nisto?"},
+{v:27,t:"Disse-lhe ela: Sim, Senhor; eu creio que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo.",n:"É a mesma confissão que Pedro faz nos sinóticos, e no quarto evangelho é Marta quem a faz, com os mesmos títulos, antes do milagre e não depois."},
+{v:28,t:"Dito isso, foi chamar Maria, sua irmã, e disse-lhe em segredo: O Mestre está aí e te chama."},
+{v:29,t:"Ela, ao ouvir isso, levantou-se depressa e foi ter com ele."},
+{v:30,t:"Jesus ainda não tinha entrado na aldeia, mas estava no lugar onde Marta o encontrara."},
+{v:31,t:"Os judeus que estavam com ela em casa e a consolavam, vendo Maria levantar-se depressa e sair, seguiram-na, pensando que ia ao sepulcro chorar ali."},
+{v:32,t:"Quando Maria chegou onde estava Jesus, vendo-o, lançou-se a seus pés e disse-lhe: Senhor, se tivesses estado aqui, meu irmão não teria morrido."},
+{v:33,t:"Jesus, quando a viu chorar, e também os judeus que tinham vindo com ela, comoveu-se profundamente no espírito e perturbou-se,",n:"Comoveu-se traduz enebrimesato, verbo que em grego diz o resfolegar do cavalo e, nas pessoas, a indignação que se contém. Não é só tristeza: é revolta diante da morte. O versículo 38 repete-o."},
+{v:34,t:"e disse: Onde o pusestes? Disseram-lhe: Senhor, vem e vê."},
+{v:35,t:"Jesus chorou.",n:"O versículo mais curto da Escritura. O verbo não é o do pranto ruidoso das carpideiras, usado no versículo 33, mas o das lágrimas silenciosas. É a única vez que os evangelhos dizem que Jesus chorou por alguém."},
+{v:36,t:"Diziam, pois, os judeus: Vede como o amava!"},
+{v:37,t:"Mas alguns deles disseram: Este, que abriu os olhos ao cego, não podia fazer também que este não morresse?"},
+{v:38,t:"Jesus, pois, comovendo-se de novo em si mesmo, foi ao sepulcro. Era uma gruta, e tinha uma pedra posta à entrada."},
+{v:39,t:"Disse Jesus: Tirai a pedra. Disse-lhe Marta, irmã do morto: Senhor, já cheira mal, porque é o quarto dia.",n:"Corria entre os judeus a crença de que a alma rondava o corpo durante três dias e o deixava ao quarto, quando começava a corrupção. Ao quarto dia a morte era, para todos, definitiva."},
+{v:40,t:"Disse-lhe Jesus: Não te disse que, se creres, verás a glória de Deus?"},
+{v:41,t:"Tiraram, pois, a pedra. E Jesus, levantando os olhos ao alto, disse: Pai, dou-te graças porque me ouviste."},
+{v:42,t:"Eu sabia que sempre me ouves; mas disse-o por causa da multidão que me rodeia, para que creiam que tu me enviaste."},
+{v:43,t:"Tendo dito isso, clamou em alta voz: Lázaro, vem para fora!"},
+{v:44,t:"E saiu o morto, atados os pés e as mãos com faixas, e o rosto envolto num sudário. Disse-lhes Jesus: Desatai-o e deixai-o ir.",n:"Lázaro sai com as faixas e o sudário e precisa de que o desatem. No capítulo 20, no sepulcro de Jesus, as faixas e o sudário ficarão dobrados no lugar: o que é chamado de volta não é o mesmo que ressuscita."},
+{v:45,t:"Muitos, pois, dos judeus que tinham ido ter com Maria e viram o que Jesus fizera creram nele."}
+];
+
+EV[137] = [
+{p:"João 11:46-57"},
+{v:46,t:"Alguns deles, porém, foram ter com os fariseus e contaram-lhes o que Jesus fizera."},
+{v:47,t:"Os sumos sacerdotes e os fariseus reuniram então o sinédrio e diziam: Que faremos? Este homem faz muitos sinais."},
+{v:48,t:"Se o deixarmos assim, todos crerão nele, e virão os romanos e destruirão o nosso lugar e a nossa nação.",n:"O nosso lugar é o templo. Mataram-no para o salvar, e os romanos destruíram-no do mesmo modo, no ano 70 — quando São João escrevia, os leitores já o sabiam."},
+{v:49,t:"Mas um deles, Caifás, que era sumo sacerdote naquele ano, disse-lhes: Vós nada sabeis,"},
+{v:50,t:"nem considerais que vos convém que um só homem morra pelo povo, e que não pereça a nação inteira."},
+{v:51,t:"Ora, ele não disse isso por si mesmo; mas, sendo sumo sacerdote naquele ano, profetizou que Jesus havia de morrer pela nação,",n:"Caifás fala como político, e o evangelista lê nas suas palavras uma profecia que ele não sabia que fazia. A frase cínica diz, sem querer, o sentido da cruz."},
+{v:52,t:"e não somente pela nação, mas também para reunir na unidade os filhos de Deus que estavam dispersos."},
+{v:53,t:"Desde aquele dia, resolveram matá-lo."},
+{v:54,t:"Por isso Jesus já não andava em público entre os judeus, mas retirou-se para uma região vizinha do deserto, para uma cidade chamada Efraim, e ali ficou com os seus discípulos."},
+{v:55,t:"Estava próxima a Páscoa dos judeus, e muitos daquela região subiram a Jerusalém antes da Páscoa, para se purificarem."},
+{v:56,t:"Procuravam, pois, Jesus e diziam uns aos outros, estando no templo: Que vos parece? Não virá à festa?"},
+{v:57,t:"Os sumos sacerdotes e os fariseus tinham dado ordens para que, se alguém soubesse onde ele estava, o denunciasse, para o prenderem."}
+];
+
+EV[138] = [
+{p:"Lucas 17:11-19"},
+{v:11,t:"Aconteceu que, indo ele para Jerusalém, passava entre a Samaria e a Galileia."},
+{v:12,t:"Ao entrar numa aldeia, vieram ao seu encontro dez homens leprosos, que pararam ao longe"},
+{v:13,t:"e levantaram a voz, dizendo: Jesus, Mestre, tem piedade de nós!"},
+{v:14,t:"Vendo-os, disse-lhes: Ide mostrar-vos aos sacerdotes. E aconteceu que, enquanto iam, ficaram purificados.",n:"Mostrar-se ao sacerdote era o que o Levítico mandava fazer depois da cura, para ser declarado limpo. São mandados antes de estarem curados, e é no caminho que a cura acontece."},
+{v:15,t:"Um deles, vendo-se curado, voltou, glorificando a Deus em alta voz,"},
+{v:16,t:"e prostrou-se com o rosto em terra aos pés de Jesus, dando-lhe graças. E este era samaritano.",n:"Na lepra, judeus e samaritanos viviam juntos, excluídos da mesma maneira. Curados, os nove podiam voltar ao templo; o samaritano não tinha templo aonde ir, e voltou a Jesus."},
+{v:17,t:"Tomando a palavra, Jesus disse: Não foram purificados os dez? Onde estão os outros nove?"},
+{v:18,t:"Não houve quem voltasse para dar glória a Deus, senão este estrangeiro?"},
+{v:19,t:"E disse-lhe: Levanta-te e vai; a tua fé te salvou.",n:"Os dez foram purificados; só a este se diz que a fé o salvou. O verbo muda, e a diferença entre os dois é o caminho de volta."}
+];
+
+EV[139] = [
+{p:"Lucas 17:20-37"},
+{v:20,t:"Interrogado pelos fariseus sobre quando viria o Reino de Deus, respondeu-lhes: O Reino de Deus não vem de modo observável,"},
+{v:21,t:"nem se dirá: Ei-lo aqui!, ou: Ei-lo ali!; porque eis que o Reino de Deus está no meio de vós.",n:"No meio de vós traduz entos hymon, que também pode querer dizer dentro de vós, como leram a Vulgata e a Nova Vulgata. Dito aos fariseus, o primeiro sentido parece mais natural: o Reino já está entre eles, na pessoa de quem lhes fala. As duas leituras têm defensores desde a antiguidade."},
+{v:22,t:"E disse aos discípulos: Virão dias em que desejareis ver um só dos dias do Filho do Homem, e não o vereis."},
+{v:23,t:"E vos dirão: Ei-lo ali!, ou: Ei-lo aqui!; não vades, nem os sigais."},
+{v:24,t:"Porque, como o relâmpago, fulgurando de uma extremidade do céu, brilha até à outra, assim será o Filho do Homem no seu dia."},
+{v:25,t:"Mas primeiro é necessário que ele sofra muito e seja rejeitado por esta geração."},
+{v:26,t:"E, como aconteceu nos dias de Noé, assim será também nos dias do Filho do Homem:"},
+{v:27,t:"comiam, bebiam, casavam-se e davam-se em casamento, até ao dia em que Noé entrou na arca; e veio o dilúvio e fez perecer a todos.",n:"Nenhuma das coisas enumeradas é pecado: comer, casar, plantar, construir. O que se censura é viver como se nada fosse acontecer."},
+{v:28,t:"Do mesmo modo, como aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam e edificavam;"},
+{v:29,t:"mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre e fez perecer a todos."},
+{v:30,t:"Assim será no dia em que o Filho do Homem se revelar."},
+{v:31,t:"Naquele dia, quem estiver no terraço e tiver os seus bens em casa, não desça para os buscar; e, do mesmo modo, quem estiver no campo não volte para trás."},
+{v:32,t:"Lembrai-vos da mulher de Ló."},
+{v:33,t:"Quem procurar salvar a sua vida há de perdê-la; e quem a perder há de conservá-la."},
+{v:34,t:"Eu vos digo: naquela noite estarão dois numa cama; um será tomado, e o outro será deixado."},
+{v:35,t:"Duas mulheres estarão moendo juntas; uma será tomada, e a outra será deixada.",n:"Alguns manuscritos acrescentam um versículo 36 — dois estarão no campo; um será tomado, e o outro deixado —, trazido de São Mateus. Falta nos mais antigos, e a Nova Vulgata omite-o; a numeração salta do 35 ao 37."},
+{v:37,t:"Tomando a palavra, disseram-lhe: Onde, Senhor? Ele lhes disse: Onde estiver o corpo, ali se ajuntarão também os abutres.",n:"Abutres traduz aetoi, que em grego serve para a águia e para o abutre; a tradição latina leu águias. O provérbio é o da carniça, e fala do inevitável: onde há o corpo morto, as aves vêm."}
+];
+
+EV[140] = [
+{p:"Lucas 18:1-8"},
+{v:1,t:"Contou-lhes também uma parábola sobre a necessidade de orar sempre, sem desanimar,"},
+{v:2,t:"dizendo: Havia numa cidade um juiz que não temia a Deus nem respeitava os homens."},
+{v:3,t:"Havia também naquela cidade uma viúva, que ia ter com ele, dizendo: Faze-me justiça contra o meu adversário.",n:"A viúva é, em toda a lei de Israel, a figura de quem não tem defensor: sem marido que a represente e sem dinheiro para subornar. Só lhe resta insistir."},
+{v:4,t:"E durante muito tempo ele não quis. Mas depois disse consigo mesmo: Ainda que eu não tema a Deus nem respeite os homens,"},
+{v:5,t:"todavia, como esta viúva me importuna, vou fazer-lhe justiça, para que não venha continuamente esgotar-me a paciência.",n:"Esgotar-me traduz hypopiazo, termo do pugilismo: deixar o olho roxo. O juiz tem medo de levar um soco da viúva. A parábola tem humor, e o argumento sobe de um juiz assim a Deus."},
+{v:6,t:"E disse o Senhor: Ouvi o que diz o juiz iníquo."},
+{v:7,t:"E Deus não fará justiça aos seus escolhidos, que clamam a ele dia e noite, ainda que os faça esperar?"},
+{v:8,t:"Digo-vos que depressa lhes fará justiça. Mas, quando vier o Filho do Homem, acaso achará fé sobre a terra?",n:"A parábola acaba numa pergunta que muda de lado. Não se duvida de que Deus faça justiça: duvida-se de que haja quem continue a pedir."}
+];
+
+EV[141] = [
+{p:"Lucas 18:9-14"},
+{v:9,t:"Disse também esta parábola a alguns que confiavam em si mesmos, por se julgarem justos, e desprezavam os outros:"},
+{v:10,t:"Dois homens subiram ao templo para orar: um fariseu e o outro publicano."},
+{v:11,t:"O fariseu, de pé, orava assim consigo mesmo: Ó Deus, dou-te graças porque não sou como os outros homens, ladrões, injustos, adúlteros, nem como este publicano.",n:"Consigo mesmo pode também ler-se para si mesmo. O grego admite as duas coisas, e as duas dizem o mesmo: é uma oração que não sai de quem a faz."},
+{v:12,t:"Jejuo duas vezes por semana e pago o dízimo de tudo o que ganho.",n:"A lei só mandava jejuar um dia por ano, no Dia da Expiação. O fariseu faz muito mais do que lhe pedem, e não mente em nada do que diz."},
+{v:13,t:"O publicano, porém, mantendo-se à distância, nem sequer ousava levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, tem piedade de mim, pecador.",n:"Destas palavras nasceu, nas Igrejas do Oriente, a oração de Jesus, repetida sem cessar pelos monges: Senhor Jesus Cristo, Filho de Deus, tem piedade de mim, pecador."},
+{v:14,t:"Digo-vos que este desceu justificado para sua casa, e não aquele; porque todo o que se exalta será humilhado, e o que se humilha será exaltado."}
 ];

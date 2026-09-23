@@ -103,3 +103,92 @@ window.TEXTOS_SEED["1samuel"][3] = [
 {v:20,t:"Todo o Israel, desde Dã até Bersabeia, reconheceu que Samuel era um profeta acreditado do Senhor."},
 {v:21,t:"O Senhor continuou a manifestar-se em Silo, porque o Senhor se revelava a Samuel em Silo, pela sua palavra. E a palavra de Samuel chegava a todo o Israel."}
 ];
+
+window.TEXTOS_SEED["1samuel"][4] = [
+{s:"A arca tomada pelos filisteus"},
+{v:1,t:"Naqueles dias, os filisteus reuniram-se para a guerra contra Israel, e Israel saiu ao encontro dos filisteus para o combate e acampou junto a Ebenézer; os filisteus acamparam em Afec.",n:"O começo da guerra vem da versão grega, que a Nova Vulgata segue; o hebraico é aqui mais breve. Ebenézer quer dizer pedra do socorro: o nome só lhe será dado no capítulo 7, e o narrador o antecipa."},
+{v:2,t:"Os filisteus dispuseram-se em linha de batalha contra Israel. Travou-se o combate, e Israel foi derrotado pelos filisteus, que mataram no campo de batalha cerca de quatro mil homens."},
+{v:3,t:"O povo voltou ao acampamento, e os anciãos de Israel disseram: Por que o Senhor nos deixou derrotar hoje diante dos filisteus? Vamos buscar em Silo a arca da aliança do Senhor, para que venha para o meio de nós e nos salve da mão dos nossos inimigos.",n:"Os anciãos tratam a arca como um amuleto que obrigaria Deus a combater. O capítulo mostra que Deus não se deixa manipular."},
+{v:4,t:"O povo mandou buscar em Silo a arca da aliança do Senhor dos exércitos, que está sentado sobre os querubins; e os dois filhos de Heli, Ofni e Fineias, estavam ali com a arca da aliança de Deus.",n:"Sentado sobre os querubins: a arca era o escabelo do trono invisível de Deus, guardado por dois querubins de ouro."},
+{v:5,t:"Quando a arca da aliança do Senhor chegou ao acampamento, todo o Israel soltou um grande grito de guerra, e a terra estremeceu."},
+{v:6,t:"Os filisteus ouviram o barulho do grito e disseram: Que significa este grande grito no acampamento dos hebreus? E souberam que a arca do Senhor tinha chegado ao acampamento.",n:"Hebreus é o nome que os estrangeiros dão aos israelitas, com uma ponta de desprezo."},
+{v:7,t:"Os filisteus tiveram medo, porque diziam: Deus veio ao acampamento! E gemiam, dizendo:"},
+{v:8,t:"Ai de nós! Nunca, até agora, houve tal júbilo entre eles. Ai de nós! Quem nos livrará da mão destes deuses poderosos? São os deuses que feriram o Egito com toda espécie de pragas no deserto."},
+{v:9,t:"Coragem, filisteus, e sede homens, para não serdes escravos dos hebreus, como eles foram vossos escravos! Sede homens e combatei!"},
+{v:10,t:"Os filisteus combateram, e Israel foi derrotado; cada um fugiu para a sua tenda. A derrota foi muito grande: caíram de Israel trinta mil homens de infantaria.",np:1},
+{v:11,t:"A arca de Deus foi tomada, e os dois filhos de Heli, Ofni e Fineias, morreram.",n:"Cumpre-se o sinal anunciado a Heli: os dois filhos morrem no mesmo dia."},
+{s:"A morte de Heli"},
+{v:12,t:"Um homem de Benjamim correu do campo de batalha e chegou a Silo naquele mesmo dia, com as vestes rasgadas e a cabeça coberta de terra.",np:1,n:"Uma tradição judaica diz que esse mensageiro era Saul."},
+{v:13,t:"Quando chegou, Heli estava sentado na cadeira, junto à porta, olhando para o caminho, porque o seu coração tremia pela arca de Deus. O homem entrou na cidade para dar a notícia, e toda a cidade soltou gritos."},
+{v:14,t:"Heli ouviu o barulho dos gritos e perguntou: Que barulho é este? O homem veio depressa e deu a notícia a Heli."},
+{v:15,t:"Heli tinha noventa e oito anos; os seus olhos tinham escurecido, e já não podia ver."},
+{v:16,t:"O homem disse a Heli: Sou eu que vim do campo de batalha; fugi hoje do campo de batalha. Heli perguntou: Que aconteceu, meu filho?"},
+{v:17,t:"O mensageiro respondeu: Israel fugiu diante dos filisteus, e houve grande mortandade entre o povo; também os teus dois filhos, Ofni e Fineias, morreram, e a arca de Deus foi tomada."},
+{v:18,t:"Quando ele mencionou a arca de Deus, Heli caiu da cadeira para trás, junto à porta, quebrou o pescoço e morreu, porque era velho e pesado. Tinha julgado Israel durante quarenta anos.",n:"Não é a morte dos filhos que o derruba, mas a notícia da arca: o velho sacerdote amava a Deus mais do que soubera mostrar."},
+{v:19,t:"Sua nora, mulher de Fineias, estava grávida e prestes a dar à luz. Quando ouviu a notícia de que a arca de Deus tinha sido tomada e de que o sogro e o marido tinham morrido, curvou-se e deu à luz, porque lhe sobrevieram as dores.",np:1},
+{v:20,t:"No momento em que ia morrer, as mulheres que a assistiam disseram-lhe: Não tenhas medo, porque deste à luz um filho. Mas ela não respondeu nem fez caso."},
+{v:21,t:"Deu ao menino o nome de Icabod, por causa da arca de Deus, que tinha sido tomada, e por causa do sogro e do marido; e disse: A glória foi exilada de Israel!",n:"Icabod quer dizer onde está a glória?, ou sem glória. A glória de Deus, a sua presença, parte para o exílio com a arca."},
+{v:22,t:"E disse: A glória foi exilada de Israel, porque a arca de Deus foi tomada."}
+];
+
+window.TEXTOS_SEED["1samuel"][5] = [
+{s:"A arca entre os filisteus"},
+{v:1,t:"Os filisteus tomaram a arca de Deus e levaram-na de Ebenézer para Azoto."},
+{v:2,t:"Tomaram a arca de Deus, levaram-na ao templo de Dagon e colocaram-na ao lado de Dagon.",n:"Pôr a arca junto do deus vencedor era o costume com os deuses dos vencidos: um troféu. O capítulo narra, com humor, a humilhação do deus vencedor."},
+{v:3,t:"No dia seguinte, os habitantes de Azoto levantaram-se de madrugada, e eis que Dagon estava caído com o rosto por terra diante da arca do Senhor. Tomaram Dagon e o repuseram no seu lugar."},
+{v:4,t:"No dia seguinte, levantaram-se de madrugada, e eis que Dagon estava de novo caído com o rosto por terra diante da arca do Senhor; e a cabeça de Dagon e as duas mãos estavam cortadas, sobre a soleira;"},
+{v:5,t:"só o tronco de Dagon tinha ficado no seu lugar. Por isso, os sacerdotes de Dagon e todos os que entram no templo de Dagon não pisam a soleira de Dagon, em Azoto, até o dia de hoje.",n:"Dagon prostrado diante da arca: o deus dos vencedores adora o Deus dos vencidos. O costume de saltar a soleira, conhecido também em outros povos, é explicado pela história."},
+{v:6,t:"A mão do Senhor pesou sobre os habitantes de Azoto; devastou-os e feriu-os de tumores, em Azoto e no seu território.",np:1,n:"Tumores: provavelmente a peste bubônica, transmitida pelos ratos, que o capítulo seguinte mencionará."},
+{v:7,t:"Vendo o que acontecia, os homens de Azoto disseram: Que a arca do Deus de Israel não fique entre nós, porque a sua mão é dura contra nós e contra Dagon, o nosso deus."},
+{v:8,t:"Mandaram reunir junto de si todos os príncipes dos filisteus e disseram: Que faremos com a arca do Deus de Israel? Eles responderam: Que a arca do Deus de Israel seja levada a Gat. E levaram para lá a arca do Deus de Israel."},
+{v:9,t:"Depois que a levaram, a mão do Senhor pesou sobre a cidade, com um pânico muito grande; e feriu os homens da cidade, do menor ao maior, e brotaram-lhes tumores."},
+{v:10,t:"Então mandaram a arca de Deus para Acaron. Mas, quando a arca de Deus chegou a Acaron, os acaronitas gritaram: Trouxeram-nos a arca do Deus de Israel, para nos matar, a nós e ao nosso povo!"},
+{v:11,t:"Mandaram reunir todos os príncipes dos filisteus e disseram: Mandai embora a arca do Deus de Israel; volte ela para o seu lugar, e não nos mate, a nós e ao nosso povo."},
+{v:12,t:"Pois havia um pânico mortal em toda a cidade, e a mão de Deus pesava muito sobre ela. Os que não morriam eram feridos de tumores, e o clamor da cidade subia até o céu."}
+];
+
+window.TEXTOS_SEED["1samuel"][6] = [
+{s:"A arca devolvida a Israel"},
+{v:1,t:"A arca do Senhor ficou sete meses na terra dos filisteus."},
+{v:2,t:"Os filisteus chamaram os sacerdotes e os adivinhos e disseram: Que faremos com a arca do Senhor? Dizei-nos como a devolveremos ao seu lugar. Eles responderam:"},
+{v:3,t:"Se devolverdes a arca do Deus de Israel, não a mandeis vazia, mas pagai-lhe uma oferta de reparação; então sereis curados e sabereis por que a sua mão não se afastava de vós."},
+{v:4,t:"Eles perguntaram: Que oferta de reparação lhe devemos pagar? Responderam:"},
+{v:5,t:"Segundo o número dos príncipes dos filisteus, cinco tumores de ouro e cinco ratos de ouro, porque a mesma praga atingiu todos vós e os vossos príncipes. Fareis imagens dos vossos tumores e imagens dos ratos que devastam a terra, e dareis glória ao Deus de Israel; talvez ele alivie a sua mão de sobre vós, de sobre os vossos deuses e de sobre a vossa terra.",n:"As imagens de ouro dos males eram oferendas conhecidas na antiguidade: devolvia-se à divindade a imagem da doença de que se pedia a cura."},
+{v:6,t:"Por que endureceríeis o vosso coração, como os egípcios e o faraó endureceram o seu? Não foi depois de castigados por ele que os egípcios deixaram partir os israelitas, e eles se foram?",n:"Os filisteus conhecem a história do Êxodo: a fama do Deus de Israel corre entre os pagãos."},
+{v:7,t:"Agora, pois, preparai um carro novo e tomai duas vacas que estejam amamentando, e que nunca tenham levado jugo; atrelai as vacas ao carro e prendei em casa os seus bezerros.",np:1},
+{v:8,t:"Tomai a arca do Senhor e ponde-a no carro; e os objetos de ouro que lhe pagais como oferta de reparação, ponde-os numa caixa ao lado dela; e deixai-a ir."},
+{v:9,t:"E observai: se ela subir pelo caminho do seu território, em direção a Bet-Sames, foi ele quem nos fez este grande mal; se não, saberemos que não foi a sua mão que nos feriu, mas foi um acaso que nos aconteceu.",n:"Vacas que amamentam, com os bezerros presos em casa, voltariam naturalmente para eles. Se forem na direção oposta, contra o instinto, é Deus quem as leva."},
+{v:10,t:"Assim fizeram: tomaram duas vacas que amamentavam, atrelaram-nas ao carro e prenderam os bezerros em casa."},
+{v:11,t:"Puseram no carro a arca do Senhor e a caixa com os ratos de ouro e as imagens dos tumores."},
+{v:12,t:"As vacas foram direto pelo caminho de Bet-Sames; seguiam por uma única estrada, mugindo enquanto andavam, sem se desviarem nem para a direita nem para a esquerda. Os príncipes dos filisteus foram atrás delas até a fronteira de Bet-Sames.",n:"Mugindo: chamam os bezerros, e seguem no sentido contrário. É a imagem do sinal pedido."},
+{v:13,t:"Os habitantes de Bet-Sames ceifavam o trigo no vale; levantaram os olhos, viram a arca e alegraram-se ao vê-la.",np:1},
+{v:14,t:"O carro chegou ao campo de Josué, o betsamita, e parou ali. Havia ali uma grande pedra; racharam a madeira do carro e ofereceram as vacas em holocausto ao Senhor."},
+{v:15,t:"Os levitas desceram a arca do Senhor e a caixa que estava junto dela, com os objetos de ouro, e puseram-nas sobre a grande pedra. Naquele dia, os homens de Bet-Sames ofereceram holocaustos e sacrifícios ao Senhor."},
+{v:16,t:"Os cinco príncipes dos filisteus viram isso e voltaram a Acaron naquele mesmo dia."},
+{v:17,t:"Estes são os tumores de ouro que os filisteus pagaram ao Senhor como oferta de reparação: um por Azoto, um por Gaza, um por Ascalon, um por Gat e um por Acaron;",np:1},
+{v:18,t:"e os ratos de ouro eram tantos quantas as cidades dos filisteus pertencentes aos cinco príncipes, desde as cidades fortificadas até as aldeias sem muralha. E a grande pedra, sobre a qual puseram a arca do Senhor, está ainda hoje como testemunha no campo de Josué, o betsamita."},
+{v:19,t:"Mas os filhos de Jeconias não se alegraram com os homens de Bet-Sames, quando viram a arca do Senhor; e o Senhor feriu setenta homens do povo. O povo ficou de luto, porque o Senhor ferira o povo com uma grande mortandade.",np:1,n:"Nota do tradutor: o hebraico diz que o Senhor feriu os homens de Bet-Sames por terem olhado para a arca do Senhor, e feriu do povo setenta homens, cinquenta mil homens — número duplo, que parece somar duas tradições. A Nova Vulgata segue aqui a versão grega, na qual a culpa é de um clã, os filhos de Jeconias, que ficaram indiferentes à volta da arca; e conserva só os setenta. Em um caso ou em outro, a lição é a mesma: a santidade de Deus não é coisa com que se brinque."},
+{v:20,t:"E os homens de Bet-Sames disseram: Quem pode subsistir diante do Senhor, este Deus santo? E para quem subirá ele, saindo de nós?"},
+{v:21,t:"Enviaram mensageiros aos habitantes de Cariat-Iarim, dizendo: Os filisteus devolveram a arca do Senhor; descei e levai-a para junto de vós."}
+];
+
+window.TEXTOS_SEED["1samuel"][7] = [
+{s:"Samuel, juiz de Israel"},
+{v:1,t:"Os homens de Cariat-Iarim vieram e levaram a arca do Senhor; introduziram-na na casa de Abinadab, na colina, e consagraram Eleazar, seu filho, para guardar a arca do Senhor.",n:"A arca ficará em Cariat-Iarim até que Davi a leve para Jerusalém. Silo, segundo Jeremias, foi destruída: por isso a arca não volta para lá."},
+{v:2,t:"Desde o dia em que a arca ficou em Cariat-Iarim, passou muito tempo — vinte anos —, e toda a casa de Israel suspirava pelo Senhor.",np:1},
+{v:3,t:"Samuel disse a toda a casa de Israel: Se é de todo o coração que voltais ao Senhor, tirai do meio de vós os deuses estrangeiros e as Astartes, dirigi o vosso coração para o Senhor e servi somente a ele; e ele vos livrará da mão dos filisteus."},
+{v:4,t:"Os filhos de Israel tiraram do meio deles os baais e as Astartes e serviram somente ao Senhor."},
+{v:5,t:"Samuel disse: Reuni todo o Israel em Masfa, e eu orarei ao Senhor por vós.",np:1},
+{v:6,t:"Reuniram-se em Masfa, tiraram água e derramaram-na diante do Senhor; jejuaram naquele dia e disseram ali: Pecamos contra o Senhor. E Samuel julgou os filhos de Israel em Masfa.",n:"Derramar água diante do Senhor: rito de penitência de que não há outro exemplo na Bíblia. Talvez significasse o coração derramado como água, na expressão das Lamentações."},
+{v:7,t:"Quando os filisteus souberam que os filhos de Israel se tinham reunido em Masfa, os príncipes dos filisteus subiram contra Israel. Os filhos de Israel souberam disso e tiveram medo dos filisteus,",np:1},
+{v:8,t:"e disseram a Samuel: Não deixes de clamar por nós ao Senhor nosso Deus, para que nos salve da mão dos filisteus."},
+{v:9,t:"Samuel tomou um cordeiro de leite e ofereceu-o inteiro em holocausto ao Senhor; e Samuel clamou ao Senhor por Israel, e o Senhor o atendeu."},
+{v:10,t:"Enquanto Samuel oferecia o holocausto, os filisteus avançaram para combater contra Israel; mas o Senhor trovejou naquele dia com grande estrondo sobre os filisteus, lançou-os em pânico, e foram derrotados diante de Israel.",n:"Samuel vence como Moisés, pela oração: o povo não combate, e o céu troveja."},
+{v:11,t:"Os homens de Israel saíram de Masfa, perseguiram os filisteus e derrotaram-nos até abaixo de Bet-Car."},
+{v:12,t:"Samuel tomou uma pedra e colocou-a entre Masfa e Sen, e deu àquele lugar o nome de Ebenézer, isto é, Pedra do Socorro, dizendo: Até aqui o Senhor nos socorreu.",np:1,n:"O nome de Ebenézer, que no capítulo 4 marcava a derrota, marca agora a vitória. A frase de Samuel, até aqui o Senhor nos socorreu, tornou-se oração de agradecimento na tradição cristã."},
+{v:13,t:"Os filisteus foram humilhados e não voltaram mais a entrar no território de Israel; e a mão do Senhor pesou sobre os filisteus durante todos os dias de Samuel."},
+{v:14,t:"As cidades que os filisteus tinham tomado de Israel voltaram a Israel, desde Acaron até Gat; e Israel libertou o seu território da mão dos filisteus. E havia paz entre Israel e os amorreus."},
+{v:15,t:"Samuel julgou Israel durante todos os dias da sua vida.",np:1},
+{v:16,t:"Todos os anos, fazia um percurso por Betel, Guilgal e Masfa, e julgava Israel em todos esses lugares."},
+{v:17,t:"Depois voltava a Ramá, porque ali estava a sua casa; e ali julgava Israel. E construiu ali um altar ao Senhor."}
+];

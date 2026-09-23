@@ -2717,3 +2717,146 @@ EV[126] = [
 {v:34,t:"Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis reunir os teus filhos, como a galinha reúne a sua ninhada debaixo das asas, e não quiseste!",n:"A imagem da ave que abriga os filhos sob as asas é a que o Deuteronômio e os salmos usam para Deus. Jesus toma-a para si, e escolhe a ave mais doméstica e menos heroica de todas."},
 {v:35,t:"Eis que a vossa casa vos ficará abandonada. E eu vos digo que não me vereis até que venha o dia em que digais: Bendito o que vem em nome do Senhor!",n:"É o versículo 26 do Salmo 118, que a multidão há de gritar, poucos capítulos adiante, na entrada em Jerusalém."}
 ];
+
+EV[127] = [
+{p:"Lucas 14:1-15"},
+{v:1,t:"Aconteceu que, tendo ele entrado, num sábado, na casa de um dos chefes dos fariseus para comer, eles o observavam."},
+{v:2,t:"E eis que diante dele estava um homem hidrópico."},
+{v:3,t:"Tomando a palavra, Jesus disse aos doutores da lei e aos fariseus: É lícito ou não curar no sábado?"},
+{v:4,t:"Eles, porém, calaram-se. E ele, tomando o homem, curou-o e despediu-o."},
+{v:5,t:"E disse-lhes: Qual de vós, se o filho ou o boi lhe cair num poço, não o tirará logo, mesmo em dia de sábado?",n:"Parte dos manuscritos lê o jumento ou o boi, que é a dupla habitual; a Nova Vulgata segue os que leem o filho ou o boi, leitura mais difícil e por isso provavelmente original. O argumento sobe do animal ao filho, e ninguém lhe responde."},
+{v:6,t:"E não lhe puderam responder a isso."},
+{v:7,t:"Observando como os convidados escolhiam os primeiros lugares, contou-lhes uma parábola, dizendo:"},
+{v:8,t:"Quando fores convidado por alguém para umas bodas, não te sentes no primeiro lugar, para que não aconteça que tenha sido convidado alguém mais digno do que tu,"},
+{v:9,t:"e, vindo o que te convidou a ti e a ele, te diga: Dá o lugar a este; e então, envergonhado, vás ocupar o último lugar."},
+{v:10,t:"Mas, quando fores convidado, vai sentar-te no último lugar, para que, quando vier o que te convidou, te diga: Amigo, sobe mais para cima. Então terás honra diante de todos os que estiverem contigo à mesa.",n:"O conselho está em Provérbios 25, quase à letra. Mas não é lição de etiqueta: o versículo seguinte dá-lhe a medida do Reino, onde quem distribui os lugares é outro."},
+{v:11,t:"Porque todo o que se exalta será humilhado, e o que se humilha será exaltado."},
+{v:12,t:"E dizia também ao que o tinha convidado: Quando deres um almoço ou um jantar, não chames os teus amigos, nem os teus irmãos, nem os teus parentes, nem os vizinhos ricos, para que não aconteça que também eles te convidem por sua vez e tenhas a recompensa."},
+{v:13,t:"Mas, quando deres um banquete, chama os pobres, os aleijados, os coxos e os cegos;",n:"A lista é a mesma dos que a regra de Qumran excluía da assembleia dos santos, e a mesma que o dono da casa manda buscar na parábola seguinte. Os excluídos de todas as mesas são os convidados desta."},
+{v:14,t:"e serás feliz, porque eles não têm com que te retribuir; e serás retribuído na ressurreição dos justos."},
+{v:15,t:"Ouvindo isso, um dos que estavam com ele à mesa disse-lhe: Feliz aquele que comer o pão no Reino de Deus!"}
+];
+
+EV[128] = [
+{p:"Lucas 14:16-24"},
+{v:16,t:"Ele, porém, lhe disse: Um homem deu um grande jantar e convidou muitos."},
+{v:17,t:"E, à hora do jantar, enviou o seu servo a dizer aos convidados: Vinde, porque tudo já está pronto.",n:"Era costume convidar duas vezes: primeiro para o dia, depois, quando tudo estava pronto, para a hora. Quem recusa o segundo convite já tinha aceitado o primeiro."},
+{v:18,t:"E todos, à uma, começaram a desculpar-se. O primeiro disse-lhe: Comprei um campo e preciso ir vê-lo; peço-te que me dês por desculpado.",n:"As desculpas são de propósito inverossímeis: ninguém compra um campo sem o ver, nem cinco juntas de bois sem as experimentar. Quem as ouvia percebia que eram pretextos."},
+{v:19,t:"Outro disse: Comprei cinco juntas de bois e vou experimentá-las; peço-te que me dês por desculpado."},
+{v:20,t:"E outro disse: Casei-me, e por isso não posso ir."},
+{v:21,t:"O servo voltou e contou isso ao seu senhor. Então, irado, o dono da casa disse ao servo: Sai depressa pelas praças e ruas da cidade e traze aqui os pobres, os aleijados, os cegos e os coxos."},
+{v:22,t:"Disse o servo: Senhor, fez-se o que mandaste, e ainda há lugar."},
+{v:23,t:"E o senhor disse ao servo: Sai pelos caminhos e pelas cercas e obriga-os a entrar, para que a minha casa se encha.",n:"Nota do tradutor: obriga-os a entrar, em latim compelle intrare, foi invocado por Santo Agostinho, e depois dele durante séculos, para justificar a coação em matéria de fé. O texto não o diz. No Oriente, o pobre convidado por um rico recusava por decoro, e era preciso insistir e levá-lo pela mão; é essa a obrigação de que se fala — a da hospitalidade que não aceita recusa, e não a da força."},
+{v:24,t:"Porque eu vos digo que nenhum daqueles homens que foram convidados provará o meu jantar."}
+];
+
+EV[129] = [
+{p:"Lucas 14:25-35"},
+{v:25,t:"Iam com ele grandes multidões; e, voltando-se, disse-lhes:"},
+{v:26,t:"Se alguém vem a mim e não odeia seu pai, sua mãe, sua mulher, seus filhos, seus irmãos e suas irmãs, e até a própria vida, não pode ser meu discípulo.",n:"Odiar é, no hebraico, o modo de dizer preferir menos: no Gênesis, Jacó odiava Lia, e o texto explica que amava mais a Raquel. São Mateus traduz a mesma frase por quem ama o pai mais do que a mim. Conserva-se a palavra dura, que é a que São Lucas escreveu, e diz-se aqui o que ela quer dizer."},
+{v:27,t:"E quem não carrega a sua cruz e não vem após mim não pode ser meu discípulo."},
+{v:28,t:"Pois qual de vós, querendo construir uma torre, não se senta primeiro para calcular a despesa e ver se tem com que acabá-la?"},
+{v:29,t:"Para que não aconteça que, depois de lançar os alicerces e não podendo acabá-la, todos os que o virem comecem a zombar dele,"},
+{v:30,t:"dizendo: Este homem começou a construir e não pôde acabar."},
+{v:31,t:"Ou qual é o rei que, indo guerrear contra outro rei, não se senta primeiro a considerar se com dez mil pode enfrentar o que vem contra ele com vinte mil?"},
+{v:32,t:"Do contrário, enquanto o outro ainda está longe, envia-lhe uma embaixada e pede as condições de paz."},
+{v:33,t:"Assim, pois, qualquer de vós que não renuncia a tudo o que possui não pode ser meu discípulo.",n:"As duas parábolas pedem cálculo, e a conclusão parece virar a lógica: calcula-se para concluir que é preciso dar tudo. Quem faz as contas com honestidade descobre que não tem com que acabar a torre por si."},
+{v:34,t:"Bom é o sal; mas, se o sal se tornar insípido, com que se há de temperar?"},
+{v:35,t:"Não é útil nem para a terra nem para o esterco; lançam-no fora. Quem tem ouvidos para ouvir, ouça."}
+];
+
+EV[130] = [
+{p:"Lucas 15:1-7"},
+{v:1,t:"Aproximavam-se dele todos os publicanos e pecadores para o ouvir."},
+{v:2,t:"E os fariseus e os escribas murmuravam, dizendo: Este recebe pecadores e come com eles.",n:"As três parábolas do capítulo 15 são uma só resposta a este murmúrio. Cada uma acaba numa festa, e a terceira acaba com alguém que não quer entrar nela."},
+{v:3,t:"Então lhes contou esta parábola, dizendo:"},
+{v:4,t:"Qual de vós, tendo cem ovelhas e perdendo uma delas, não deixa as noventa e nove no deserto e vai atrás da perdida até encontrá-la?"},
+{v:5,t:"E, quando a encontra, põe-na sobre os ombros, cheio de alegria,"},
+{v:6,t:"e, chegando a casa, reúne os amigos e vizinhos e diz-lhes: Alegrai-vos comigo, porque encontrei a minha ovelha que estava perdida."},
+{v:7,t:"Digo-vos que assim haverá mais alegria no céu por um só pecador que se converte do que por noventa e nove justos que não precisam de conversão."}
+];
+
+EV[131] = [
+{p:"Lucas 15:8-10"},
+{v:8,t:"Ou qual é a mulher que, tendo dez dracmas e perdendo uma, não acende a lâmpada, varre a casa e a procura cuidadosamente até encontrá-la?",n:"A dracma valia um dia de trabalho. As casas pobres não tinham janela, e o chão era de terra batida: procurar uma moeda era varrer às cegas. A parábola põe, sem comentário, uma mulher a fazer as vezes de Deus."},
+{v:9,t:"E, quando a encontra, reúne as amigas e vizinhas, dizendo: Alegrai-vos comigo, porque encontrei a dracma que tinha perdido."},
+{v:10,t:"Assim, eu vos digo, há alegria diante dos anjos de Deus por um só pecador que se converte."}
+];
+
+EV[132] = [
+{p:"Lucas 15:11-32"},
+{v:11,t:"Disse ainda: Um homem tinha dois filhos."},
+{v:12,t:"O mais novo disse ao pai: Pai, dá-me a parte dos bens que me cabe. E ele repartiu entre eles os seus haveres.",n:"Pedir a herança em vida do pai equivalia, nos costumes da época, a desejar-lhe a morte. O pai não discute: dá, e dá aos dois."},
+{v:13,t:"Poucos dias depois, o filho mais novo, juntando tudo, partiu para uma terra distante e ali dissipou os seus bens, vivendo dissolutamente."},
+{v:14,t:"Depois de ter gastado tudo, sobreveio uma grande fome naquela terra, e ele começou a passar necessidade."},
+{v:15,t:"Foi então pôr-se ao serviço de um dos cidadãos daquela terra, que o mandou para os seus campos guardar porcos.",n:"Guardar porcos, animal impuro, para um estrangeiro, era para um judeu o último degrau: dizia-se entre os rabinos maldito quem cria porcos."},
+{v:16,t:"E desejava encher o estômago com as alfarrobas que os porcos comiam, mas ninguém lhe dava nada."},
+{v:17,t:"Caindo em si, disse: Quantos empregados de meu pai têm pão em abundância, e eu aqui morro de fome!"},
+{v:18,t:"Vou levantar-me, irei ter com meu pai e lhe direi: Pai, pequei contra o céu e diante de ti;"},
+{v:19,t:"já não sou digno de ser chamado teu filho; trata-me como a um dos teus empregados."},
+{v:20,t:"E, levantando-se, foi ter com seu pai. Estando ele ainda longe, seu pai viu-o, encheu-se de compaixão, correu, lançou-se ao seu pescoço e cobriu-o de beijos.",n:"Um homem velho e honrado, no Oriente, não corria: tinha de levantar a túnica e expor as pernas, o que era vergonhoso. O pai faz a coisa indigna antes que o filho diga uma palavra."},
+{v:21,t:"E o filho lhe disse: Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado teu filho.",n:"O filho não chega a acabar o discurso que ensaiara: falta-lhe a última frase, trata-me como a um dos teus empregados. O pai interrompe-o antes."},
+{v:22,t:"Mas o pai disse aos seus servos: Trazei depressa a melhor túnica e vesti-o; ponde-lhe um anel no dedo e sandálias nos pés.",n:"A túnica é a de honra; o anel, o do selo, que dá autoridade sobre os bens; as sandálias, a marca do homem livre — os escravos andavam descalços. As três coisas desfazem, uma a uma, o que o filho pedira para ser."},
+{v:23,t:"Trazei o novilho cevado e matai-o; comamos e façamos festa,"},
+{v:24,t:"porque este meu filho estava morto e voltou à vida; estava perdido e foi encontrado. E começaram a festejar."},
+{v:25,t:"Ora, o filho mais velho estava no campo. Quando voltou e se aproximou da casa, ouviu a música e as danças."},
+{v:26,t:"E, chamando um dos criados, perguntou-lhe o que era aquilo."},
+{v:27,t:"Este lhe disse: Teu irmão voltou, e teu pai mandou matar o novilho cevado, porque o recuperou com saúde."},
+{v:28,t:"Ele indignou-se e não queria entrar. Então o pai saiu e insistia com ele.",n:"O pai sai de casa duas vezes, uma por cada filho. A segunda saída é tão humilhante quanto a primeira corrida: o dono da casa deixa os convidados para ir rogar a um filho que não quer entrar."},
+{v:29,t:"Mas ele respondeu ao pai: Há tantos anos que te sirvo sem nunca transgredir uma ordem tua, e nunca me deste um cabrito para eu fazer festa com os meus amigos."},
+{v:30,t:"Mas, quando veio este teu filho, que devorou os teus bens com prostitutas, mandaste matar para ele o novilho cevado.",n:"Este teu filho: o mais velho não diz meu irmão. E o pai, no versículo 32, devolve-lhe a palavra que recusou — este teu irmão."},
+{v:31,t:"Disse-lhe o pai: Filho, tu estás sempre comigo, e tudo o que é meu é teu."},
+{v:32,t:"Mas era preciso fazer festa e alegrar-se, porque este teu irmão estava morto e voltou à vida; estava perdido e foi encontrado.",n:"A parábola acaba sem se saber se o filho mais velho entrou. Os que ouviam eram os fariseus do versículo 2, que murmuravam por Jesus comer com pecadores: o fim fica em aberto porque são eles que têm de decidir."}
+];
+
+EV[133] = [
+{p:"Lucas 16:1-17"},
+{v:1,t:"Dizia também aos discípulos: Havia um homem rico que tinha um administrador, e este foi denunciado a ele como quem dissipava os seus bens."},
+{v:2,t:"Chamou-o e disse-lhe: Que é isto que ouço dizer de ti? Presta contas da tua administração, porque já não podes ser administrador."},
+{v:3,t:"Disse então o administrador consigo mesmo: Que farei, pois o meu senhor me tira a administração? Cavar, não tenho forças; mendigar, tenho vergonha."},
+{v:4,t:"Já sei o que hei de fazer, para que, quando for afastado da administração, haja quem me receba em sua casa."},
+{v:5,t:"E, chamando um a um os devedores do seu senhor, disse ao primeiro: Quanto deves ao meu senhor?"},
+{v:6,t:"Ele respondeu: Cem medidas de azeite. Disse-lhe: Toma a tua conta, senta-te depressa e escreve cinquenta."},
+{v:7,t:"Depois disse a outro: E tu, quanto deves? Ele respondeu: Cem medidas de trigo. Disse-lhe: Toma a tua conta e escreve oitenta."},
+{v:8,t:"E o senhor louvou o administrador desonesto, por ter agido com esperteza; porque os filhos deste mundo são mais espertos com os da sua geração do que os filhos da luz.",n:"A parábola mais embaraçosa dos evangelhos. O que se louva não é a desonestidade — o administrador continua a ser chamado desonesto —, mas a lucidez de quem, sabendo que vai perder tudo, usa o que ainda tem nas mãos para garantir o futuro. Senhor pode ser o patrão da história ou o próprio Jesus: o grego diz kyrios, e os dois sentidos são possíveis."},
+{v:9,t:"E eu vos digo: fazei amigos com o dinheiro da iniquidade, para que, quando ele vos faltar, vos recebam nas moradas eternas.",n:"Dinheiro traduz mamona, palavra aramaica que São Lucas conserva e que designa a riqueza tratada como coisa a que se serve. É iníquo não por ser mal ganho, mas por prometer o que não pode dar."},
+{v:10,t:"Quem é fiel no mínimo é fiel também no muito; e quem é injusto no mínimo é injusto também no muito."},
+{v:11,t:"Se, pois, não fostes fiéis no dinheiro iníquo, quem vos confiará o verdadeiro bem?"},
+{v:12,t:"E, se não fostes fiéis no que era alheio, quem vos dará o que é vosso?"},
+{v:13,t:"Nenhum servo pode servir a dois senhores: ou há de odiar um e amar o outro, ou há de dedicar-se a um e desprezar o outro. Não podeis servir a Deus e ao dinheiro."},
+{v:14,t:"Os fariseus, que eram amigos do dinheiro, ouviam tudo isso e zombavam dele."},
+{v:15,t:"E disse-lhes: Vós sois os que vos justificais diante dos homens, mas Deus conhece os vossos corações; porque o que é elevado entre os homens é abominação diante de Deus."},
+{v:16,t:"A Lei e os Profetas duraram até João; desde então é anunciado o Reino de Deus, e cada um se esforça para entrar nele."},
+{v:17,t:"É mais fácil passarem o céu e a terra do que cair um só traço da Lei."}
+];
+
+EV[134] = [
+{p:"Lucas 16:19-31"},
+{v:19,t:"Havia um homem rico que se vestia de púrpura e linho fino e se banqueteava esplendidamente todos os dias.",n:"O rico não tem nome; a tradição latina chamou-lhe Dives, que é simplesmente rico em latim. O pobre é o único personagem de todas as parábolas que tem nome: Lázaro, forma grega de Eleazar, Deus ajuda."},
+{v:20,t:"E um pobre, chamado Lázaro, jazia à sua porta, coberto de chagas,"},
+{v:21,t:"desejando saciar-se com o que caía da mesa do rico; e até os cães vinham lamber-lhe as chagas."},
+{v:22,t:"Aconteceu que morreu o pobre e foi levado pelos anjos ao seio de Abraão; morreu também o rico e foi sepultado."},
+{v:23,t:"E, no abismo, estando em tormentos, levantou os olhos e viu ao longe Abraão, e Lázaro no seu seio."},
+{v:24,t:"E, clamando, disse: Pai Abraão, tem piedade de mim e manda Lázaro molhar na água a ponta do dedo para me refrescar a língua, porque estou atormentado nesta chama.",n:"Mesmo no tormento, o rico continua a tratar Lázaro como um criado que se pode mandar. Sabia-lhe o nome — e nunca lhe abrira a porta."},
+{v:25,t:"Mas Abraão lhe disse: Filho, lembra-te de que recebeste os teus bens em vida, e Lázaro, igualmente, os males; agora, porém, ele aqui é consolado, e tu és atormentado."},
+{v:26,t:"E, além de tudo isso, entre nós e vós está firmado um grande abismo, de modo que os que quisessem passar daqui para vós não podem, nem os de lá passar para nós."},
+{v:27,t:"Disse ele: Rogo-te, pois, pai, que o mandes à casa de meu pai,"},
+{v:28,t:"pois tenho cinco irmãos, para que os advirta, a fim de que não venham também eles para este lugar de tormento."},
+{v:29,t:"Disse-lhe Abraão: Têm Moisés e os Profetas; que os ouçam."},
+{v:30,t:"Ele disse: Não, pai Abraão; mas, se alguém dentre os mortos for ter com eles, hão de converter-se."},
+{v:31,t:"Respondeu-lhe: Se não ouvem Moisés e os Profetas, tampouco se deixarão persuadir, ainda que alguém ressuscite dentre os mortos.",n:"A frase final soa como profecia: um homem chamado Lázaro havia de voltar dos mortos, no capítulo 11 de São João, e o sinédrio decidiria, por causa disso, matar Jesus."}
+];
+
+EV[135] = [
+{p:"Lucas 17:1-10"},
+{v:1,t:"Disse aos seus discípulos: É impossível que não venham escândalos; mas ai daquele por quem vêm!"},
+{v:2,t:"Melhor lhe fora que se lhe pusesse ao pescoço uma mó de moinho e fosse lançado ao mar, do que escandalizar um destes pequeninos."},
+{v:3,t:"Tende cuidado convosco. Se teu irmão pecar, repreende-o; e, se se arrepender, perdoa-lhe."},
+{v:4,t:"E, se pecar contra ti sete vezes no dia e sete vezes no dia voltar a ti, dizendo: Arrependo-me, perdoa-lhe."},
+{v:5,t:"Disseram então os apóstolos ao Senhor: Aumenta-nos a fé.",n:"O pedido vem logo depois da exigência de perdoar sete vezes por dia: é diante do perdão, e não de um milagre, que os apóstolos sentem que lhes falta fé."},
+{v:6,t:"E o Senhor disse: Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: Arranca-te e planta-te no mar; e ela vos obedeceria.",n:"A amoreira-negra tinha fama de ter as raízes mais profundas de todas as árvores; os rabinos diziam que ela podia viver seiscentos anos. Arrancá-la e plantá-la na água é duplamente impossível."},
+{v:7,t:"Qual de vós, tendo um servo lavrando ou apascentando, lhe dirá, quando ele voltar do campo: Vem depressa e senta-te à mesa?"},
+{v:8,t:"Não lhe dirá antes: Prepara-me o jantar, cinge-te e serve-me, enquanto como e bebo; e depois comerás e beberás tu?"},
+{v:9,t:"Acaso fica agradecido ao servo por ter feito o que lhe foi mandado?"},
+{v:10,t:"Assim também vós, quando tiverdes feito tudo o que vos foi mandado, dizei: Somos servos inúteis; fizemos apenas o que devíamos fazer.",n:"Inúteis traduz achreioi, que não diz sem valor, mas sem direito a pagamento: servos a quem nada se deve. E a mesma parábola que manda dizer isto foi precedida, no capítulo 12, pela do senhor que se cinge para servir os servos — as duas coisas vêm juntas."}
+];

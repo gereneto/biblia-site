@@ -10,6 +10,7 @@ window.LIVROS_SEED = {
   "numeros":    { nome: "Números",     grupo: "Pentateuco",          capitulos: 36 },
   "deuteronomio": { nome: "Deuteronômio", grupo: "Pentateuco",        capitulos: 34 },
   "josue":      { nome: "Josué",       grupo: "Livros Históricos",   capitulos: 24 },
+  "juizes":     { nome: "Juízes",      grupo: "Livros Históricos",   capitulos: 21 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -39,7 +40,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "salmos": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "salmos": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

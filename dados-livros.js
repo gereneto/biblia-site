@@ -17,6 +17,7 @@ window.LIVROS_SEED = {
   "1reis":      { nome: "I Reis",      grupo: "Livros Históricos",   capitulos: 22 },
   "2reis":      { nome: "II Reis",     grupo: "Livros Históricos",   capitulos: 25 },
   "1cronicas":  { nome: "I Crônicas",  grupo: "Livros Históricos",   capitulos: 29 },
+  "2cronicas":  { nome: "II Crônicas", grupo: "Livros Históricos",   capitulos: 36 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -46,7 +47,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "salmos": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "salmos": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

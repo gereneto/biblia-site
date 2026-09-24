@@ -1,0 +1,96 @@
+// =====================================================================
+// II Crônicas — tradução dos originais (versificação: Nova Vulgata)
+// Formato: {s:"subtítulo"} abre trecho; {v,t,n} prosa; {v,l:[...]} verso;
+// np:1 marca início de parágrafo.
+// =====================================================================
+
+window.TEXTOS_SEED["2cronicas"][1] = [
+{s:"Salomão pede a sabedoria"},
+{v:1,t:"Salomão, filho de Davi, firmou-se no seu reino; o Senhor seu Deus estava com ele e o engrandeceu sobremaneira.",n:"Os dois livros das Crônicas formavam na origem uma só obra. O segundo começa com o reinado de Salomão, o construtor do templo (capítulos 1 a 9), e depois acompanha só os reis de Judá, da divisão do reino até o exílio e o edito de Ciro."},
+{v:2,t:"Salomão falou a todo o Israel, aos chefes de mil e de cem, aos juízes e a todos os príncipes de todo o Israel, chefes das famílias;"},
+{v:3,t:"e foi, com toda a assembleia, ao lugar alto de Gabaon, porque ali estava a tenda da reunião de Deus, que Moisés, servo do Senhor, tinha feito no deserto.",n:"Para o cronista, o culto de Salomão em Gabaon é legítimo, porque ali estavam a tenda de Moisés e o altar dos holocaustos (1 Crônicas 16,39; 21,29)."},
+{v:4,t:"A arca de Deus, porém, Davi a tinha trazido de Cariat-Iarim para o lugar que lhe tinha preparado, porque lhe tinha armado uma tenda em Jerusalém."},
+{v:5,t:"E o altar de bronze feito por Beseleel, filho de Uri, filho de Hur, estava ali, diante da morada do Senhor; e ali Salomão e a assembleia buscaram o Senhor."},
+{v:6,t:"Salomão subiu ali ao altar de bronze, diante do Senhor, junto à tenda da reunião, e ofereceu sobre ele mil holocaustos."},
+{v:7,t:"Naquela noite, Deus apareceu a Salomão e lhe disse: Pede o que queres que eu te dê.",np:1},
+{v:8,t:"Salomão respondeu a Deus: Tu usaste de grande bondade com Davi, meu pai, e me fizeste reinar em seu lugar."},
+{v:9,t:"Agora, Senhor Deus, que se cumpra a palavra que deste a Davi, meu pai; porque tu me fizeste reinar sobre um povo numeroso como o pó da terra."},
+{v:10,t:"Dá-me, pois, sabedoria e conhecimento, para que eu saiba sair e entrar à frente deste povo; pois quem poderia julgar este teu povo tão grande?"},
+{v:11,t:"Deus respondeu a Salomão: Porque foi isto que desejaste no teu coração, e não pediste riquezas, nem bens, nem glória, nem a vida dos teus inimigos, nem mesmo vida longa, mas pediste para ti sabedoria e conhecimento para julgar o meu povo, sobre o qual te fiz reinar,"},
+{v:12,t:"a sabedoria e o conhecimento te são dados; e te darei também riquezas, bens e glória, como não tiveram os reis que houve antes de ti, nem terão os que virão depois de ti."},
+{v:13,t:"Salomão voltou do lugar alto de Gabaon, de diante da tenda da reunião, para Jerusalém, e reinou sobre Israel."},
+{s:"A riqueza de Salomão"},
+{v:14,t:"Salomão reuniu carros e cavaleiros: tinha mil e quatrocentos carros e doze mil cavaleiros, que distribuiu pelas cidades dos carros e junto do rei, em Jerusalém.",np:1,n:"Ver 1 Reis 10,26-29. O cronista põe aqui, logo depois do sonho de Gabaon, o cumprimento da promessa de riquezas."},
+{v:15,t:"O rei fez que em Jerusalém a prata e o ouro fossem tão comuns como as pedras, e os cedros tão numerosos como os sicômoros que crescem na Sefelá."},
+{v:16,t:"Os cavalos de Salomão vinham do Egito e de Cua; os mercadores do rei os compravam em Cua por um preço fixo."},
+{v:17,t:"Um carro trazido do Egito custava seiscentos siclos de prata, e um cavalo, cento e cinquenta; e da mesma forma, por meio deles, eram exportados para todos os reis dos heteus e da Síria."},
+{v:18,t:"Salomão decidiu construir uma casa ao nome do Senhor e um palácio real para si.",np:1}
+];
+
+window.TEXTOS_SEED["2cronicas"][2] = [
+{s:"Salomão e Hiram, rei de Tiro"},
+{v:1,t:"Salomão recrutou setenta mil carregadores e oitenta mil cortadores de pedra na montanha, e três mil e seiscentos capatazes para dirigi-los."},
+{v:2,t:"E Salomão mandou dizer a Hiram, rei de Tiro: Como fizeste com Davi, meu pai, a quem enviaste madeira de cedro para construir uma casa onde habitasse,",np:1},
+{v:3,t:"faze também comigo, pois vou construir uma casa ao nome do Senhor meu Deus, para consagrá-la a ele, para queimar diante dele incenso aromático, para a apresentação contínua dos pães e para os holocaustos da manhã e da tarde, dos sábados, das luas novas e das festas do Senhor nosso Deus, como é prescrito para sempre a Israel."},
+{v:4,t:"A casa que vou construir será grande, porque o nosso Deus é maior que todos os deuses."},
+{v:5,t:"Mas quem será capaz de lhe construir uma casa digna dele, se os céus, e os céus dos céus, não o podem conter? E quem sou eu para lhe construir uma casa, a não ser para queimar incenso diante dele?",n:"A mesma consciência aparece na oração da dedicação (6,18): Deus não cabe num templo; o templo é o lugar onde o povo o encontra e lhe presta culto."},
+{v:6,t:"Envia-me, pois, um homem hábil em trabalhar o ouro, a prata, o bronze e o ferro, a púrpura, o carmesim e a púrpura violeta, e que saiba fazer esculturas, para trabalhar com os artesãos que tenho comigo em Judá e em Jerusalém, e que Davi, meu pai, preparou."},
+{v:7,t:"Envia-me também do Líbano madeira de cedro, de cipreste e de sândalo, porque sei que os teus servos sabem cortar as árvores do Líbano; e os meus servos estarão com os teus servos,"},
+{v:8,t:"para me prepararem madeira em grande quantidade, porque a casa que vou construir será grande e maravilhosa."},
+{v:9,t:"Aos teus servos, os lenhadores que cortarem as árvores, darei vinte mil coros de trigo, vinte mil coros de cevada, vinte mil batos de vinho e vinte mil batos de azeite.",n:"Em 1 Reis 5,25, as provisões são para a casa de Hiram; aqui, para os operários."},
+{v:10,t:"Hiram, rei de Tiro, respondeu numa carta que enviou a Salomão: Porque o Senhor ama o seu povo, ele te fez rei sobre ele.",np:1},
+{v:11,t:"E acrescentou: Bendito seja o Senhor, Deus de Israel, que fez o céu e a terra, porque deu ao rei Davi um filho sábio, dotado de prudência e de inteligência, que vai construir uma casa ao Senhor e um palácio real para si!"},
+{v:12,t:"Envio-te, pois, um homem hábil e muito entendido, o mestre Hiram,",n:"À letra, Hiram, meu pai: título de honra de um mestre artesão. Não é o rei, mas o artífice de 1 Reis 7,13-14."},
+{v:13,t:"filho de uma mulher das filhas de Dã e de pai tírio. Sabe trabalhar o ouro, a prata, o bronze, o ferro, a pedra e a madeira, a púrpura, a púrpura violeta, o linho fino e o carmesim; sabe fazer toda espécie de esculturas e executar qualquer projeto que se lhe confie, com os teus artesãos e com os artesãos do meu senhor Davi, teu pai.",n:"Em 1 Reis 7,14, a mãe é da tribo de Neftali. Como Ooliab, companheiro de Beseleel no deserto, que também era da tribo de Dã (Êxodo 31,6)."},
+{v:14,t:"Agora, pois, o trigo, a cevada, o azeite e o vinho de que falou o meu senhor, que ele os mande aos seus servos."},
+{v:15,t:"Nós cortaremos no Líbano toda a madeira de que precisares e a levaremos em jangadas, por mar, até Jope; e tu a farás subir a Jerusalém."},
+{v:16,t:"Salomão fez o recenseamento de todos os estrangeiros que viviam na terra de Israel, depois do recenseamento que Davi, seu pai, tinha feito; e encontraram-se cento e cinquenta e três mil e seiscentos.",np:1,n:"O cronista atribui o trabalho forçado aos estrangeiros, e não aos israelitas, como em 1 Reis 5,27; ver também 8,9."},
+{v:17,t:"Deles, fez setenta mil carregadores, oitenta mil cortadores de pedra na montanha e três mil e seiscentos capatazes, para fazer trabalhar o povo."}
+];
+
+window.TEXTOS_SEED["2cronicas"][3] = [
+{s:"A construção do templo"},
+{v:1,t:"Salomão começou a construir a casa do Senhor em Jerusalém, no monte Moriá, onde o Senhor tinha aparecido a Davi, seu pai, no lugar que Davi tinha preparado, na eira de Ornã, o jebuseu.",n:"Moriá: o monte onde Abraão ia sacrificar Isaac (Gênesis 22,2). Só aqui a Bíblia identifica o monte do templo com o lugar do sacrifício de Abraão: onde Deus proveu o cordeiro, Israel oferecerá os seus sacrifícios."},
+{v:2,t:"Começou a construção no segundo mês do quarto ano do seu reinado."},
+{v:3,t:"Estas são as medidas que Salomão estabeleceu para a construção da casa de Deus: sessenta côvados de comprimento, segundo a medida antiga, e vinte côvados de largura.",np:1,n:"A medida antiga: o côvado de antes do exílio, um pouco maior que o côvado comum (Ezequiel 40,5)."},
+{v:4,t:"O vestíbulo, na frente, tinha vinte côvados de comprimento, igual à largura da casa, e cento e vinte de altura; e ele o revestiu por dentro de ouro puro.",n:"Cento e vinte côvados, uns sessenta metros: uma torre desproporcionada ao edifício. Talvez se deva ler vinte, como em algumas versões antigas."},
+{v:5,t:"Revestiu a sala maior de madeira de cipreste, que cobriu de ouro fino, e fez esculpir nela palmeiras e correntes."},
+{v:6,t:"Adornou a casa com pedras preciosas, para lhe dar beleza."},
+{v:7,t:"O ouro era ouro de Parvaim; com ele revestiu a casa, as vigas, os umbrais, as paredes e as portas; e esculpiu querubins nas paredes.",n:"Parvaim: região de localização desconhecida, famosa pelo seu ouro."},
+{v:8,t:"Fez também a sala do Santo dos Santos: tinha vinte côvados de comprimento, igual à largura da casa, e vinte côvados de largura; e revestiu-a de ouro fino, no valor de seiscentos talentos.",np:1},
+{v:9,t:"O peso dos pregos era de cinquenta siclos de ouro. Revestiu também de ouro as salas superiores."},
+{v:10,t:"Na sala do Santo dos Santos fez dois querubins, obra de escultura, e revestiu-os de ouro."},
+{v:11,t:"As asas dos querubins tinham vinte côvados de comprimento: uma asa do primeiro, de cinco côvados, tocava a parede da casa; e a outra asa, de cinco côvados, tocava a asa do outro querubim."},
+{v:12,t:"Do mesmo modo, uma asa do segundo querubim, de cinco côvados, tocava a parede da casa; e a outra asa, de cinco côvados, tocava a asa do primeiro querubim."},
+{v:13,t:"As asas destes querubins estendiam-se por vinte côvados. Eles estavam de pé, com o rosto voltado para a sala."},
+{v:14,t:"Fez também o véu de púrpura violeta, de púrpura, de carmesim e de linho fino, e bordou nele querubins.",n:"O véu que fechava o Santo dos Santos; 1 Reis fala de portas. No templo reconstruído, será o véu que se rasgará na morte de Jesus (Marcos 15,38)."},
+{v:15,t:"Diante da casa fez duas colunas de trinta e cinco côvados de altura, e o capitel que estava no alto de cada uma tinha cinco côvados.",np:1,n:"Em 1 Reis 7,15, dezoito côvados cada uma: talvez aqui se some a altura das duas."},
+{v:16,t:"Fez também correntes em forma de colar e pô-las no alto das colunas; e fez cem romãs, que pôs nas correntes."},
+{v:17,t:"Ergueu as colunas diante do templo, uma à direita e outra à esquerda; à da direita deu o nome de Jaquin, e à da esquerda, o de Booz."}
+];
+
+window.TEXTOS_SEED["2cronicas"][4] = [
+{s:"Os objetos do templo"},
+{v:1,t:"Fez também um altar de bronze de vinte côvados de comprimento, vinte côvados de largura e dez côvados de altura.",n:"O altar dos holocaustos, no átrio: 1 Reis não o descreve."},
+{v:2,t:"Fez também o mar de metal fundido: tinha dez côvados de uma borda à outra, e era redondo; tinha cinco côvados de altura, e um cordão de trinta côvados media a sua circunferência.",np:1},
+{v:3,t:"Por baixo dele, ao redor, havia figuras de bois, dez por côvado, que o cercavam em toda a volta; os bois estavam em duas fileiras, fundidos numa só peça com o mar.",n:"Em 1 Reis 7,24, coloquíntidas; as duas palavras hebraicas se parecem."},
+{v:4,t:"Assentava sobre doze bois: três voltados para o norte, três para o oeste, três para o sul e três para o leste; o mar estava por cima deles, e as suas ancas ficavam todas para dentro."},
+{v:5,t:"A sua espessura era de um palmo, e a borda era como a borda de um cálice, como a flor do lírio aberta. Levava três mil batos.",n:"Em 1 Reis 7,26: dois mil batos."},
+{v:6,t:"Fez também dez bacias e pôs cinco à direita e cinco à esquerda, para nelas se lavar o que se oferecia em holocausto; o mar, porém, servia para as abluções dos sacerdotes."},
+{v:7,t:"Fez os dez candelabros de ouro, segundo o modelo prescrito, e colocou-os no templo, cinco à direita e cinco à esquerda.",np:1},
+{v:8,t:"Fez também dez mesas e colocou-as no templo, cinco à direita e cinco à esquerda; e fez cem bacias de aspersão de ouro."},
+{v:9,t:"Fez o átrio dos sacerdotes e o grande átrio, com as suas portas, que revestiu de bronze."},
+{v:10,t:"Colocou o mar do lado direito, a sudeste."},
+{v:11,t:"Hiram fez também as panelas, as pás e as bacias de aspersão. Assim Hiram terminou a obra que fazia para o rei Salomão na casa de Deus:",np:1},
+{v:12,t:"as duas colunas, os dois capitéis arredondados no alto das colunas, as duas redes para cobrir os dois capitéis arredondados no alto das colunas;"},
+{v:13,t:"as quatrocentas romãs para as duas redes, duas fileiras de romãs em cada rede, para cobrir os dois capitéis arredondados no alto das colunas;"},
+{v:14,t:"fez também as bases, e as bacias sobre as bases;"},
+{v:15,t:"o mar, único, e os doze bois debaixo dele;"},
+{v:16,t:"as panelas, as pás e os garfos. Todos esses objetos, o mestre Hiram os fez de bronze polido para o rei Salomão, para a casa do Senhor."},
+{v:17,t:"O rei os fundiu na planície do Jordão, em moldes de argila, entre Sucot e Sareda."},
+{v:18,t:"Salomão fez todos esses objetos em tão grande quantidade que não se pôde calcular o peso do bronze."},
+{v:19,t:"Salomão fez também todos os objetos da casa de Deus: o altar de ouro e as mesas sobre as quais se colocavam os pães da proposição;",np:1},
+{v:20,t:"os candelabros e as suas lâmpadas de ouro puro, para arderem, segundo o rito, diante do Debir;"},
+{v:21,t:"as flores, as lâmpadas e as tenazes de ouro, do ouro mais puro;"},
+{v:22,t:"as facas, as bacias de aspersão, as colheres e os incensórios de ouro puro. E, na entrada da casa, as portas interiores do Santo dos Santos e as portas da sala do templo eram de ouro."}
+];

@@ -191,3 +191,121 @@ window.TEXTOS_SEED["tobias"][8] = [
 {v:20,t:"Chamou Tobias e lhe disse, com juramento: Durante catorze dias não sairás daqui, mas ficarás aqui, comendo e bebendo comigo, e alegrarás a alma de minha filha, tão atormentada."},
 {v:21,t:"Toma a metade de tudo o que possuo e volta com saúde para a casa de teu pai; a outra metade será vossa quando eu e minha mulher morrermos. Coragem, meu filho! Eu sou teu pai, e Edna é tua mãe; somos teus e de tua irmã, de agora em diante e para sempre. Coragem, meu filho!"}
 ];
+
+window.TEXTOS_SEED["tobias"][9] = [
+{s:"Rafael vai buscar o dinheiro"},
+{v:1,t:"Então Tobias chamou Rafael e lhe disse:"},
+{v:2,t:"Irmão Azarias, toma contigo quatro servos e dois camelos, vai a Rages, à casa de Gabael, entrega-lhe o documento, recebe o dinheiro e traze-o contigo para a festa de casamento."},
+{v:3,t:"Tu sabes que meu pai está contando os dias; se eu me atrasar um só dia, vou deixá-lo muito triste."},
+{v:4,t:"Mas vês o juramento que Raguel fez, e não posso desprezar o seu juramento."},
+{v:5,t:"Rafael partiu com os quatro servos e os dois camelos para Rages, na Média, e hospedaram-se em casa de Gabael. Rafael entregou-lhe o seu documento e lhe contou que Tobias, filho de Tobit, tinha tomado por mulher a filha de Raguel, e que o convidava para a festa de casamento. Gabael levantou-se, trouxe os sacos, com os selos intactos, contou o dinheiro e carregou-o nos camelos.",np:1},
+{v:6,t:"Levantaram-se cedo, juntos, e foram à festa de casamento. Entraram em casa de Raguel e encontraram Tobias reclinado à mesa. Ele se levantou de um salto e o saudou; Gabael chorou, abençoou-o e lhe disse: Bendito seja o Senhor, que te deu a paz, porque és filho de um homem bom, excelente e justo, que dava esmolas! Que o Senhor do céu te abençoe, a ti e à tua mulher, a teu pai e a tua mãe, e ao pai e à mãe da tua mulher! Bendito seja Deus, porque vejo Tobias, meu primo, tão parecido com o pai!"}
+];
+
+window.TEXTOS_SEED["tobias"][10] = [
+{s:"A angústia dos pais"},
+{v:1,t:"Enquanto isso, Tobit contava cada dia os dias que o filho levaria para ir e para voltar. Quando se completaram os dias, e o filho não chegava,"},
+{v:2,t:"ele disse: Será que ficou retido lá? Ou será que Gabael morreu, e ninguém lhe entrega o dinheiro?"},
+{v:3,t:"E começou a entristecer-se."},
+{v:4,t:"Ana, sua mulher, dizia: O meu filho morreu; já não está entre os vivos. Por que tarda tanto? E começou a chorar e a lamentar o filho, dizendo:"},
+{v:5,t:"Ai de mim, meu filho, que te deixei partir, a ti, luz dos meus olhos!"},
+{v:6,t:"Tobit lhe dizia: Cala-te, não te preocupes, minha irmã; o nosso filho está bem. Certamente tiveram algum contratempo lá; e o homem que foi com ele é de confiança, é um dos nossos irmãos. Não te aflijas por ele, minha irmã; ele já vai chegar."},
+{v:7,t:"Ela respondia: Cala-te, deixa-me, não me enganes! O meu filho morreu. E saía correndo, olhando todos os dias o caminho por onde o filho tinha partido, e não comia nada; e, depois do pôr do sol, entrava e passava a noite inteira chorando, sem dormir. Quando se completaram os catorze dias da festa de casamento, que Raguel tinha jurado fazer para a sua filha, Tobias foi ter com ele e disse: Deixa-me partir, porque sei que meu pai e minha mãe já não acreditam que me tornarão a ver. Peço-te, pois, pai, que me deixes partir, e que eu volte para meu pai; já te contei como o deixei.",n:"A cena salta de Nínive para Ecbátana no meio do versículo: as duas casas vivem ao mesmo tempo a espera e a despedida."},
+{s:"Tobias e Sara partem de Ecbátana"},
+{v:8,t:"Raguel disse a Tobias: Fica, meu filho, fica comigo; eu mandarei mensageiros a Tobit, teu pai, e eles lhe darão notícias tuas.",np:1},
+{v:9,t:"Tobias respondeu: De modo nenhum; peço-te que me deixes partir daqui para a casa de meu pai."},
+{v:10,t:"Então Raguel levantou-se e entregou a Tobias Sara, sua mulher, e metade dos seus bens: servos e servas, ovelhas e bois, jumentos e camelos, roupas, dinheiro e objetos."},
+{v:11,t:"E despediu-os, dizendo a Tobias: Adeus, meu filho, e boa viagem! Que o Senhor do céu dirija os vossos caminhos, e que eu veja os vossos filhos antes de morrer!"},
+{v:12,t:"Beijou Sara, sua filha, e lhe disse: Minha filha, honra o teu sogro e a tua sogra, porque de agora em diante eles são os teus pais, como os que te deram a vida. Vai em paz, minha filha! Que eu ouça boas notícias de ti enquanto viver. E beijou-a e os despediu. E Edna disse a Tobias: Filho e irmão querido, que o Senhor do céu te leve de volta, e que eu veja os teus filhos e os de Sara, minha filha, antes de morrer, para me alegrar diante do Senhor. Eu te confio minha filha como um depósito; não a faças sofrer em nenhum dia da tua vida. Vai em paz, meu filho. De agora em diante eu sou tua mãe, e Sara é tua irmã. Que todos nós vivamos felizes todos os dias da nossa vida! E beijou os dois e os despediu com saúde.",n:"A despedida dos pais de Sara é uma das páginas mais delicadas da Bíblia sobre a família."},
+{v:13,t:"Tobias partiu da casa de Raguel alegre, bendizendo o Senhor do céu e da terra, o Rei de todas as coisas, porque tinha feito prosperar a sua viagem. E abençoou Raguel e Edna, sua mulher, e lhes disse: Que eu possa honrar-vos como meus pais todos os dias da vossa vida!"}
+];
+
+window.TEXTOS_SEED["tobias"][11] = [
+{s:"A cura de Tobit"},
+{v:1,t:"Seguiram o seu caminho e chegaram a Carrã, que fica diante de Nínive.",n:"Carrã: assim a Nova Vulgata; o grego diz Caserin, localidade desconhecida."},
+{v:2,t:"Então Rafael disse a Tobias: Tu sabes como deixamos teu pai."},
+{v:3,t:"Vamos à frente da tua mulher e preparemos a casa, enquanto os outros vêm chegando."},
+{v:4,t:"E os dois foram juntos à frente. Rafael lhe disse: Leva contigo o fel. E o cão, que os seguia, foi com eles."},
+{v:5,t:"Ana estava sentada, olhando o caminho por onde o filho devia voltar.",np:1},
+{v:6,t:"Ela o viu chegar e disse ao pai dele: Eis que vem o teu filho, e o homem que foi com ele!"},
+{v:7,t:"Antes que Tobias se aproximasse do pai, Rafael lhe disse: Sei que os olhos dele se abrirão."},
+{v:8,t:"Passa-lhe nos olhos o fel do peixe; o remédio fará as manchas brancas contraírem-se e desprenderem-se dos seus olhos, e teu pai recuperará a vista e verá a luz."},
+{v:9,t:"Ana correu ao encontro do filho, lançou-se ao seu pescoço e lhe disse: Vejo-te, meu filho; agora já posso morrer! E chorou."},
+{v:10,t:"Tobit levantou-se e, tropeçando, saiu até a porta do pátio. Tobias correu ao seu encontro,",np:1},
+{v:11,t:"com o fel do peixe na mão; soprou-lhe nos olhos, segurou-o e disse: Coragem, pai! E aplicou-lhe o remédio e o deixou agir."},
+{v:12,t:"Depois, com as duas mãos, tirou-lhe as manchas brancas dos cantos dos olhos."},
+{v:13,t:"Então Tobit viu o seu filho e lançou-se ao seu pescoço,"},
+{v:14,t:"e chorou e disse: Vejo-te, meu filho, luz dos meus olhos! E disse: Bendito seja Deus, bendito o seu grande nome e benditos todos os seus santos anjos por todos os séculos,"},
+{v:15,t:"porque ele me castigou, e eis que vejo meu filho Tobias! Tobit e Ana, sua mulher, entraram em casa alegres, bendizendo a Deus em alta voz por tudo o que lhes tinha acontecido. Tobias contou a seu pai que a viagem tinha sido feliz, graças ao Senhor Deus, que tinha trazido o dinheiro e como tinha tomado por mulher Sara, filha de Raguel, e que ela estava chegando, já perto da porta de Nínive. Tobit e Ana alegraram-se",n:"Ele me castigou, e eis que vejo: a provação era um caminho de Deus, como para Jó (Jó 42,5)."},
+{v:16,t:"e saíram ao encontro da nora, à porta de Nínive. Os que estavam em Nínive, vendo Tobit que vinha andando com todo o vigor, sem que ninguém o conduzisse pela mão, ficavam admirados;"},
+{v:17,t:"e Tobit proclamava diante deles e bendizia a Deus em alta voz, porque Deus tivera compaixão dele e lhe abrira os olhos. Tobit aproximou-se de Sara, mulher de seu filho Tobias, abençoou-a e lhe disse: Sê bem-vinda, minha filha! Bendito seja o teu Deus, que te trouxe até nós, minha filha! Bendito seja teu pai, bendito meu filho Tobias, e bendita sejas tu, minha filha! Entra na tua casa com saúde, com bênção e alegria; entra, minha filha! Naquele dia houve alegria para todos os judeus que estavam em Nínive."},
+{v:18,t:"Vieram também Aicar e Nadab, seus sobrinhos, alegres, visitar Tobias. E celebrou-se com alegria a festa de casamento durante sete dias, e deram-lhe muitos presentes."}
+];
+
+window.TEXTOS_SEED["tobias"][12] = [
+{s:"Rafael revela quem é"},
+{v:1,t:"Terminada a festa de casamento, Tobit chamou seu filho Tobias e lhe disse: Meu filho, devemos honrar o homem que foi contigo e acrescentar alguma coisa ao seu salário."},
+{v:2,t:"Tobias respondeu: Pai, quanto lhe darei de salário? Não me custará dar-lhe a metade dos bens que trouxe comigo."},
+{v:3,t:"Ele me levou e me trouxe são e salvo, curou minha mulher, trouxe o dinheiro comigo e curou a ti! Quanto lhe darei ainda de salário?"},
+{v:4,t:"Tobit lhe disse: É justo, meu filho, que ele receba a metade de tudo o que trouxe."},
+{v:5,t:"Tobias o chamou e lhe disse: Recebe como salário a metade de tudo o que trouxeste, e vai com saúde."},
+{v:6,t:"Então Rafael chamou os dois à parte e lhes disse: Bendizei a Deus e dai-lhe graças diante de todos os viventes pelos benefícios que vos fez, para bendizer e cantar o seu nome. Proclamai com honra as obras de Deus e não hesiteis em dar-lhe graças.",np:1},
+{v:7,t:"É bom guardar o segredo do rei, mas é honroso revelar e proclamar as obras de Deus. Fazei o bem, e o mal não vos atingirá."},
+{v:8,t:"Boa coisa é a oração com o jejum, e a esmola com a justiça. Mais vale pouco com justiça do que muito com iniquidade. É melhor dar esmola do que acumular tesouros de ouro.",n:"Oração, jejum e esmola: as três obras de piedade que Jesus retomará no Sermão da Montanha (Mateus 6,1-18)."},
+{v:9,t:"A esmola livra da morte e purifica de todo pecado. Os que dão esmola terão vida em plenitude;",n:"A esmola não compra o perdão: é expressão da conversão e do amor, que cobre uma multidão de pecados (1 Pedro 4,8)."},
+{v:10,t:"mas os que cometem o pecado e a iniquidade são inimigos da sua própria vida."},
+{v:11,t:"Vou revelar-vos toda a verdade, sem nada vos esconder. Já vos disse: É bom guardar o segredo do rei, mas é honroso revelar as obras de Deus.",np:1},
+{v:12,t:"Pois bem: quando tu e Sara oráveis, era eu que apresentava a lembrança da vossa oração diante da glória do Senhor; e também quando sepultavas os mortos.",n:"Os anjos apresentam a Deus as orações dos homens, como no Apocalipse (Apocalipse 8,3-4)."},
+{v:13,t:"E, porque não hesitaste em levantar-te e deixar o teu almoço, para ir sepultar aquele morto, fui enviado a ti para te provar."},
+{v:14,t:"E de novo Deus me enviou para curar-te, a ti e a Sara, tua nora."},
+{v:15,t:"Eu sou Rafael, um dos sete anjos santos que estão diante da glória do Senhor e têm acesso a ela.",n:"Os sete anjos que estão diante de Deus aparecem também no Apocalipse (Apocalipse 8,2). Rafael é, com Miguel e Gabriel, um dos três anjos cujo nome a Bíblia dá."},
+{v:16,t:"Os dois ficaram perturbados, prostraram-se com o rosto em terra e tiveram medo.",np:1},
+{v:17,t:"Mas ele lhes disse: Não tenhais medo; a paz esteja convosco. Bendizei a Deus para sempre."},
+{v:18,t:"Quando eu estava convosco, não estava por minha vontade, mas pela vontade de Deus. É a ele que deveis bendizer todos os dias, é a ele que deveis cantar."},
+{v:19,t:"Vós me víeis, mas eu não comia nada: o que víeis era uma aparência.",n:"O anjo não come: a sua presença visível era um sinal. Jesus ressuscitado, ao contrário, comerá diante dos discípulos, para mostrar que não é um espírito (Lucas 24,39-43)."},
+{v:20,t:"Agora, bendizei o Senhor sobre a terra e dai graças a Deus. Eis que subo para aquele que me enviou. Escrevei tudo o que vos aconteceu. E subiu."},
+{v:21,t:"Eles se levantaram, e já não podiam vê-lo."},
+{v:22,t:"E bendiziam e cantavam a Deus, e lhe davam graças por todas estas grandes obras, porque lhes tinha aparecido o anjo de Deus."}
+];
+
+window.TEXTOS_SEED["tobias"][13] = [
+{s:"O cântico de Tobit"},
+{v:1,t:"Então Tobit escreveu uma oração de alegria, e disse:"},
+{v:2,l:["Bendito seja Deus, que vive para sempre, e bendito o seu reino!","Porque ele castiga e tem compaixão,","faz descer até o fundo da morada dos mortos","e faz subir da perdição com o seu poder,","e não há quem escape da sua mão."],np:1,n:"O cântico passa da experiência de Tobit à história do povo: como ele, Israel foi castigado e será curado."},
+{v:3,l:["Dai-lhe graças, filhos de Israel, diante das nações,","porque ele vos dispersou entre elas"]},
+{v:4,l:["e ali vos mostrou a sua grandeza.","Exaltai-o diante de todos os viventes,","porque ele é o nosso Senhor, ele é o nosso Pai,","ele é o nosso Deus por todos os séculos."],n:"Deus é chamado Pai: título raro no Antigo Testamento (Deuteronômio 32,6; Isaías 63,16), que Jesus fará o centro da sua oração."},
+{v:5,l:["Ele vos castigará pelas vossas iniquidades,","e terá compaixão de todos vós;","e vos reunirá de todas as nações","por onde fostes dispersos."]},
+{v:6,l:["Se vos voltardes para ele","de todo o coração e de toda a alma,","para praticar a verdade diante dele,","então ele se voltará para vós","e não vos esconderá mais o seu rosto.","Vede agora o que ele fez convosco","e dai-lhe graças em alta voz. Bendizei o Senhor da justiça","e exaltai o Rei dos séculos.","Eu, na terra do meu cativeiro, lhe dou graças","e mostro o seu poder e a sua grandeza a uma nação de pecadores.","Convertei-vos, pecadores, e praticai a justiça diante dele.","Quem sabe se ele não vos acolherá e terá misericórdia de vós?"]},
+{v:7,l:["Eu e a minha alma cantamos a nossa alegria ao Rei do céu,","e a minha alma se alegrará todos os dias da sua vida."]},
+{v:8,l:["Bendizei o Senhor, todos os seus eleitos;","e todos vós, louvai a sua grandeza.","Celebrai dias de alegria e dai-lhe graças."]},
+{v:9,l:["Jerusalém, cidade santa,","ele te castigará pelas obras das tuas mãos."],np:1,n:"O hino volta-se agora para Jerusalém, destruída e reconstruída. O Apocalipse descreverá a Jerusalém celeste com as mesmas imagens (Apocalipse 21,10-21)."},
+{v:10,l:["Dá graças ao Senhor com boas obras e bendize o Rei dos séculos,","para que de novo se levante em ti a sua tenda com alegria,","e ele alegre em ti todos os cativos e ame em ti todos os infelizes, por todos os séculos dos séculos."]},
+{v:11,l:["Uma luz resplandecente brilhará até os confins da terra;","nações numerosas virão a ti de longe,","e dos extremos da terra, ao teu santo nome,","trazendo nas mãos os seus presentes para o Rei do céu.","As gerações das gerações manifestarão em ti a sua alegria,","e o nome da cidade escolhida permanecerá pelos séculos dos séculos."],n:"Ver Isaías 60,1-6."},
+{v:12,l:["Malditos todos os que te insultarem!","Malditos serão todos os que te derrubarem","e destruírem as tuas muralhas,","todos os que derrubarem as tuas torres e incendiarem as tuas casas. E benditos para sempre todos os que te veneram!"]},
+{v:13,l:["Então alegra-te e exulta por causa dos filhos dos justos,","porque todos serão reunidos","e bendirão o Senhor eterno."]},
+{v:14,l:["Felizes os que te amam,","e felizes os que se alegrarem com a tua paz!","Felizes todos os homens","que se afligirem por todos os teus castigos,","porque em ti se alegrarão","e verão toda a tua alegria para sempre."]},
+{v:15,l:["Minha alma, bendize o Senhor, o grande Rei,"],np:1},
+{v:16,l:["porque na cidade de Jerusalém será reconstruída","a sua casa para todos os séculos.","Feliz serei, se restar alguém da minha descendência","para ver a tua glória","e dar graças ao Rei do céu.","As portas de Jerusalém serão construídas de safira e de esmeralda,","e todas as tuas muralhas de pedras preciosas;","as torres de Jerusalém serão construídas de ouro,","e as suas defesas de ouro puro."]},
+{v:17,l:["As praças de Jerusalém serão pavimentadas de rubis","e de pedras de Ofir;"]},
+{v:18,l:["as portas de Jerusalém entoarão cânticos de alegria,","e todas as suas casas dirão: Aleluia!","Bendito seja o Deus de Israel,","e benditos os que bendizem o seu santo nome","para sempre e eternamente!"]}
+];
+
+window.TEXTOS_SEED["tobias"][14] = [
+{s:"A morte de Tobit"},
+{v:1,t:"Assim terminaram as palavras de ação de graças de Tobit. Ele morreu em paz, com cento e doze anos, e foi sepultado com honra em Nínive."},
+{v:2,t:"Tinha sessenta e dois anos quando ficou cego; e, depois de recuperar a vista, viveu na prosperidade, deu esmolas e continuou a bendizer a Deus e a proclamar a sua grandeza."},
+{v:3,t:"Quando estava para morrer, chamou seu filho Tobias e lhe deu estas instruções: Meu filho, toma os teus filhos",np:1},
+{v:4,t:"e foge para a Média, porque creio na palavra de Deus que Naum pronunciou contra Nínive: tudo o que disseram os profetas de Israel, enviados por Deus, acontecerá e cairá sobre a Assíria e sobre Nínive; tudo se cumprirá, e nada será diminuído de todas as suas palavras, mas tudo acontecerá no seu tempo. Na Média haverá mais segurança do que na Assíria e na Babilônia; porque eu sei e creio que tudo o que Deus disse acontecerá. Tudo se cumprirá, e nenhuma das suas palavras falhará. Os nossos irmãos que habitam na terra de Israel serão todos dispersos e levados cativos para longe desta terra tão boa. Toda a terra de Israel ficará deserta, Samaria e Jerusalém ficarão desertas, e a casa de Deus estará de luto, será incendiada e ficará deserta por algum tempo.",n:"Naum: assim a Nova Vulgata, com o grego do códice Sinaítico; outros manuscritos dizem Jonas. O profeta Naum anunciou a queda de Nínive, que aconteceu em 612 antes de Cristo."},
+{v:5,t:"Mas Deus terá de novo compaixão deles e os fará voltar para a terra de Israel; e reconstruirão a casa de Deus, mas não como a primeira, até que se complete o tempo das maldições. Depois disso, todos voltarão do cativeiro e reconstruirão Jerusalém com esplendor, e a casa de Deus será reconstruída nela, como anunciaram todos os profetas de Israel.",n:"O autor conhece o segundo templo, mais modesto que o de Salomão (Esdras 3,12; Ageu 2,3), e espera para o fim dos tempos um templo glorioso."},
+{v:6,t:"E todas as nações da terra se converterão e temerão a Deus de verdade; abandonarão todos os seus ídolos, que as enganam com a sua mentira,"},
+{v:7,t:"e bendirão o Deus eterno com justiça. Todos os filhos de Israel que forem salvos naqueles dias, lembrando-se de Deus com sinceridade, serão reunidos e virão a Jerusalém, e habitarão para sempre em segurança na terra de Abraão, que lhes será dada. Os que amam a Deus de verdade se alegrarão; mas os que praticam a iniquidade e o pecado desaparecerão de toda a terra."},
+{v:8,t:"E agora, meus filhos, eu vos recomendo: servi a Deus de verdade e fazei o que lhe agrada. E ensinai os vossos filhos a praticar a justiça e a esmola, a lembrar-se de Deus e a bendizer o seu nome em todo tempo, com verdade e com todas as suas forças.",np:1},
+{v:9,t:"Agora, meu filho, sai de Nínive e não fiques aqui;"},
+{v:10,t:"no dia em que tiveres sepultado tua mãe junto de mim, nesse mesmo dia não fiques mais no seu território. Porque vejo que há nela muita iniquidade, e nela se comete muita fraude, e ninguém se envergonha. Vê, meu filho, o que Nadab fez a Aicar, que o tinha criado: não o fez descer vivo para debaixo da terra? Mas Deus fez recair a desonra sobre ele: Aicar saiu para a luz, e Nadab entrou nas trevas eternas, porque tinha procurado matar Aicar. Por ter dado esmolas, Aicar escapou do laço mortal que Nadab lhe tinha armado, e Nadab caiu no laço da morte, que o destruiu.",n:"Alusão à história de Aicar (1,21): traído pelo sobrinho, que o fez encerrar num túmulo, o sábio foi salvo, e o traidor pereceu."},
+{v:11,t:"E agora, meus filhos, vede o que faz a esmola, e o que faz a iniquidade: ela mata. Mas eis que a minha alma desfalece! Deitaram-no no leito, e ele morreu; e foi sepultado com honra."},
+{s:"O fim de Tobias"},
+{v:12,t:"Quando sua mãe morreu, Tobias sepultou-a junto de seu pai; depois partiu com a sua mulher para a Média e habitou em Ecbátana, com Raguel, seu sogro.",np:1},
+{v:13,t:"Cuidou com respeito da velhice deles e sepultou-os em Ecbátana, na Média; e herdou os bens da casa de Raguel e de Tobit, seu pai."},
+{v:14,t:"Morreu com honra, aos cento e dezessete anos."},
+{v:15,t:"Antes de morrer, viu e ouviu falar da ruína de Nínive, e viu os seus cativos levados para a Média por Assuero, rei da Média; e bendisse a Deus por tudo o que tinha feito aos habitantes de Nínive e da Assíria. Antes de morrer, alegrou-se por causa de Nínive e bendisse o Senhor Deus pelos séculos dos séculos.",n:"Assuero é aqui provavelmente Ciaxares, rei dos medos, que destruiu Nínive com os babilônios em 612 antes de Cristo. A palavra dos profetas se cumpriu, como Tobit tinha anunciado."}
+];

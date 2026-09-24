@@ -84,3 +84,65 @@ window.TEXTOS_SEED["eclesiastes"][3] = [
 {v:21,t:"Quem sabe se o sopro dos filhos dos homens sobe para o alto, e se o sopro dos animais desce para baixo, para a terra?",np:1},
 {v:22,t:"Vi, pois, que não há nada melhor para o homem do que alegrar-se com as suas obras, pois essa é a sua parte. Quem o fará ver o que acontecerá depois dele?"}
 ];
+
+window.TEXTOS_SEED["eclesiastes"][4] = [
+{s:"A opressão e a solidão"},
+{v:1,t:"Voltei a considerar todas as opressões que se cometem debaixo do sol: eis as lágrimas dos oprimidos, e não há quem os console; a força está do lado dos opressores, e não há quem os console."},
+{v:2,t:"E julguei mais felizes os mortos, que já morreram, do que os vivos, que ainda estão vivos;"},
+{v:3,t:"e mais feliz que uns e outros aquele que ainda não existe, que não viu as más obras que se fazem debaixo do sol."},
+{v:4,t:"Vi também que todo trabalho e todo êxito numa obra nascem da inveja de um contra o outro. Também isto é vaidade e correr atrás do vento.",np:1},
+{v:5,l:["O insensato cruza os braços","e devora a própria carne."],np:1},
+{v:6,l:["Mais vale uma mão cheia com tranquilidade","do que as duas mãos cheias com fadiga e correr atrás do vento."],np:1},
+{v:7,t:"Considerei ainda outra vaidade debaixo do sol:",np:1},
+{v:8,t:"um homem sozinho, sem companheiro, sem filho nem irmão; não há fim para todo o seu trabalho, e os seus olhos não se fartam de riquezas. Para quem trabalho eu e me privo de todo bem? Também isto é vaidade e uma tarefa penosa."},
+{v:9,t:"Mais valem dois do que um só, pois têm melhor recompensa pelo seu trabalho."},
+{v:10,t:"Se um cair, o outro levanta o companheiro. Mas ai de quem está sozinho e cai, sem ter quem o levante!"},
+{v:11,t:"Também, se dois dormem juntos, se aquecem; mas como pode um só se aquecer?"},
+{v:12,t:"E, se alguém atacar um deles, os dois lhe resistirão; e o cordão de três fios não se rompe facilmente.",np:1},
+{s:"O jovem sábio e o rei insensato"},
+{v:13,l:["Mais vale um jovem pobre e sábio","do que um rei velho e insensato,","que já não sabe aceitar conselhos."]},
+{v:14,t:"Pois um saiu da prisão para reinar, embora tivesse nascido pobre no reino do outro.",np:1},
+{v:15,t:"Vi todos os viventes que andam debaixo do sol seguirem o jovem, o segundo, que ocuparia o lugar do rei."},
+{v:16,t:"Era sem fim a multidão de todos aqueles à frente dos quais ele estava; mas os que vierem depois não se alegrarão com ele. Também isto é vaidade e correr atrás do vento."},
+{v:17,t:"Vigia os teus passos quando fores à casa de Deus: aproximar-se para escutar vale mais do que o sacrifício oferecido pelos insensatos, que nem sabem que fazem o mal.",np:1}
+];
+
+window.TEXTOS_SEED["eclesiastes"][5] = [
+{s:"Palavras e votos diante de Deus"},
+{v:1,t:"Não te precipites com a boca, nem o teu coração se apresse a proferir palavras diante de Deus, porque Deus está no céu e tu estás na terra: por isso, sejam poucas as tuas palavras."},
+{v:2,l:["Pois dos muitos cuidados vêm os sonhos,","e das muitas palavras, a fala do insensato."],np:1},
+{v:3,t:"Quando fizeres um voto a Deus, não tardes a cumpri-lo, porque ele não se agrada dos insensatos; cumpre o que prometeste.",np:1},
+{v:4,t:"Mais vale não fazer votos do que fazê-los e não os cumprir."},
+{v:5,t:"Não deixes que a tua boca te faça pecar, e não digas diante do mensageiro: Foi um engano. Por que haveria Deus de se irritar com as tuas palavras e destruir a obra das tuas mãos?",n:"O mensageiro: provavelmente o sacerdote, mensageiro do Senhor (Malaquias 2,7); a Nova Vulgata diz: o anjo."},
+{v:6,t:"Pois nos muitos sonhos há muitas vaidades e muitas palavras; tu, porém, teme a Deus."},
+{s:"A ilusão das riquezas"},
+{v:7,t:"Se vires na província o pobre oprimido e o direito e a justiça violados, não te espantes com isso: acima de um alto funcionário vigia outro mais alto, e acima deles há outros ainda."},
+{v:8,t:"Mas uma vantagem para a terra, em tudo, é um rei que cuida do campo cultivado.",n:"Hebraico obscuro."},
+{v:9,t:"Quem ama o dinheiro nunca se farta de dinheiro, e quem ama a riqueza nunca tem lucro bastante. Também isto é vaidade."},
+{v:10,t:"Quando aumentam os bens, aumentam também os que os devoram; e que proveito tem o dono, a não ser vê-los com os olhos?"},
+{v:11,l:["Doce é o sono do trabalhador,","quer coma pouco, quer coma muito;","mas a fartura do rico","não o deixa dormir."]},
+{v:12,t:"Há um mal doloroso que vi debaixo do sol: riquezas guardadas pelo dono para a sua própria desgraça.",np:1},
+{v:13,t:"Essas riquezas se perdem num mau negócio, e, se ele gerou um filho, este fica sem nada nas mãos."},
+{v:14,t:"Como saiu do ventre da sua mãe, assim voltará, nu como veio; e do seu trabalho nada levará que possa carregar na mão."},
+{v:15,t:"Também isto é um mal doloroso: ele se vai exatamente como veio. Que proveito tem de ter trabalhado para o vento?"},
+{v:16,t:"E todos os seus dias come nas trevas, no meio de muita aflição, de doença e de irritação."},
+{v:17,t:"Eis o que vi de bom e de belo: comer, beber e gozar o fruto de todo o trabalho com que o homem se afadiga debaixo do sol, durante os dias de vida que Deus lhe concede; pois essa é a sua parte.",np:1},
+{v:18,t:"E todo homem a quem Deus deu riquezas e bens, e a quem permitiu comer deles, tomar a sua parte e alegrar-se com o seu trabalho, isso é um dom de Deus."},
+{v:19,t:"Pois ele não pensará muito nos dias da sua vida, porque Deus o mantém ocupado com a alegria do seu coração."}
+];
+
+window.TEXTOS_SEED["eclesiastes"][6] = [
+{s:"Bens de que não se goza"},
+{v:1,t:"Há um mal que vi debaixo do sol, e que pesa muito sobre os homens:"},
+{v:2,t:"um homem a quem Deus deu riquezas, bens e honra, e a quem nada falta de tudo o que deseja; mas Deus não lhe permite desfrutar deles, e um estranho os desfruta. Isto é vaidade e um mal doloroso."},
+{v:3,t:"Se um homem gerar cem filhos e viver muitos anos, por mais numerosos que sejam os dias dos seus anos, se a sua alma não se saciar de felicidade e ele nem sequer tiver sepultura, eu digo que um aborto é mais feliz do que ele."},
+{v:4,t:"Pois esse vem em vão e se vai nas trevas, e o seu nome fica coberto de trevas;"},
+{v:5,t:"nem sequer viu o sol, nem o conheceu; e, no entanto, tem mais descanso que o outro.",np:1},
+{v:6,t:"Ainda que vivesse duas vezes mil anos, sem gozar a felicidade, não vão todos para o mesmo lugar?"},
+{v:7,l:["Todo o trabalho do homem é para a sua boca,","e, no entanto, o seu apetite nunca se sacia."],np:1},
+{v:8,t:"Que vantagem tem o sábio sobre o insensato? E que vantagem tem o pobre que sabe conduzir-se diante dos vivos?",np:1},
+{v:9,t:"Mais vale o que os olhos veem do que o vaguear do desejo. Também isto é vaidade e correr atrás do vento."},
+{v:10,t:"O que existe já recebeu o seu nome, e sabe-se o que é o homem: ele não pode disputar com quem é mais forte do que ele."},
+{v:11,t:"Quanto mais palavras, mais vaidade; e que proveito tem o homem?"},
+{v:12,t:"Pois quem sabe o que é bom para o homem na vida, durante os poucos dias da sua vida vã, que passam como uma sombra? E quem poderá dizer ao homem o que acontecerá depois dele debaixo do sol?"}
+];

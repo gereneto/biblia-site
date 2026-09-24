@@ -28,6 +28,7 @@ window.LIVROS_SEED = {
   "jo":         { nome: "Jó",          grupo: "Livros Sapienciais",  capitulos: 42 },
   "salmos":     { nome: "Salmos",      grupo: "Saltério",            capitulos: 150 },
   "proverbios": { nome: "Provérbios",  grupo: "Livros Sapienciais",  capitulos: 31 },
+  "eclesiastes": { nome: "Eclesiastes", grupo: "Livros Sapienciais",  capitulos: 12 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -56,7 +57,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

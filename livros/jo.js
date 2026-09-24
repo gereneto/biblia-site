@@ -645,3 +645,81 @@ window.TEXTOS_SEED["jo"][22] = [
 {v:29,l:["Pois Deus humilha o arrogante","e salva quem tem os olhos baixos."],np:1},
 {v:30,l:["Ele livra até quem não é inocente;","será livrado pela pureza das tuas mãos."],np:1,n:"Ironia involuntária: no fim, será Jó quem intercederá pelos amigos (42,8). A Nova Vulgata entende: ele livrará o inocente."}
 ];
+
+window.TEXTOS_SEED["jo"][23] = [
+{s:"Jó: quem me dera encontrar a Deus"},
+{v:1,t:"Jó tomou a palavra e disse:"},
+{v:2,l:["Ainda hoje a minha queixa é amarga;","a mão dele pesa sobre os meus gemidos."],np:1,n:"A mão dele: assim o grego e a Nova Vulgata; o hebraico diz: a minha mão."},
+{v:3,l:["Quem me dera saber onde encontrá-lo,","e chegar até a sua morada!"],np:1},
+{v:4,l:["Exporia diante dele a minha causa","e encheria a boca de argumentos;"],np:1},
+{v:5,l:["saberia as palavras com que me responderia","e compreenderia o que me diria."],np:1},
+{v:6,l:["Discutiria comigo com toda a sua força?","Não! Ele me daria atenção."],np:1},
+{v:7,l:["Ali um homem reto poderia argumentar com ele,","e eu me livraria para sempre do meu juiz."],np:1},
+{v:8,l:["Mas, se vou para o oriente, ele não está lá;","se vou para o ocidente, não o percebo;"],np:1},
+{v:9,l:["se vou para o norte, não o alcanço;","se me volto para o sul, não o vejo."],np:1},
+{v:10,l:["Mas ele conhece o meu caminho;","se me puser à prova, sairei como o ouro."],np:1},
+{v:11,l:["O meu pé seguiu os seus passos;","guardei o seu caminho sem me desviar."],np:1},
+{v:12,l:["Não me afastei dos mandamentos dos seus lábios;","guardei no peito as palavras da sua boca."],np:1,n:"No peito: assim o grego e a Nova Vulgata; o hebraico diz: mais do que a minha porção."},
+{v:13,l:["Mas ele é único, e quem o fará voltar atrás?","O que ele deseja, isso faz."],np:1},
+{v:14,l:["Ele cumprirá o que decidiu a meu respeito,","e tem muitos outros planos como esse."],np:1},
+{v:15,l:["Por isso me apavoro diante dele;","quando penso nisso, tenho medo dele."],np:1},
+{v:16,l:["Deus fez desfalecer o meu coração,","o Todo-poderoso me encheu de pavor."],np:1},
+{v:17,l:["Pois não foram as trevas que me aniquilaram,","nem a escuridão que me cobre o rosto."],np:1}
+];
+
+window.TEXTOS_SEED["jo"][24] = [
+{s:"Jó: a sorte dos oprimidos"},
+{v:1,l:["Por que o Todo-poderoso não reserva tempos para o julgamento,","e os que o conhecem não veem os seus dias?"]},
+{v:2,l:["Há quem mude os marcos das divisas,","quem roube rebanhos e os leve a pastar."],np:1},
+{v:3,l:["Levam o jumento dos órfãos","e tomam como penhor o boi da viúva."],np:1},
+{v:4,l:["Empurram os pobres para fora do caminho,","e os humildes da terra têm de esconder-se todos."],np:1},
+{v:5,l:["Como jumentos selvagens no deserto,","saem para o seu trabalho,","à procura de comida;","a estepe lhes dá o pão para os filhos."],np:1},
+{v:6,l:["Ceifam no campo que não é deles","e rebuscam na vinha do ímpio."],np:1},
+{v:7,l:["Passam a noite nus, sem roupa,","sem cobertor contra o frio."],np:1},
+{v:8,l:["A chuva das montanhas os encharca,","e, sem abrigo, abraçam-se às rochas."],np:1},
+{v:9,l:["Arrancam o órfão do seio materno","e tomam o pobre como penhor."],np:1},
+{v:10,l:["Andam nus, sem roupa,","e carregam os feixes passando fome."],np:1},
+{v:11,l:["Entre os muros espremem o azeite,","pisam as uvas nos lagares e passam sede."],np:1},
+{v:12,l:["Da cidade sobem os gemidos dos moribundos,","e a alma dos feridos clama por socorro;","mas Deus não dá ouvidos à súplica."],np:1,n:"Assim a Nova Vulgata. O hebraico, tal como foi vocalizado, diz: gemem os homens; e, no último verso: Deus não leva em conta a infâmia."},
+{v:13,l:["Há os que se rebelam contra a luz;","não conhecem os seus caminhos","nem permanecem nas suas veredas."],np:1},
+{v:14,l:["De madrugada se levanta o assassino,","mata o pobre e o necessitado;","de noite age como ladrão."],np:1},
+{v:15,l:["O olho do adúltero espera o crepúsculo,","dizendo: Nenhum olho me verá;","e disfarça o rosto."],np:1},
+{v:16,l:["No escuro arrombam as casas;","de dia se trancam e não conhecem a luz."],np:1},
+{v:17,l:["Para todos eles, a manhã é sombra da morte,","pois estão acostumados aos terrores das trevas."],np:1},
+{v:18,l:["Ele é leve sobre a face das águas;","maldita é a sua parte na terra,","e ninguém toma o caminho das suas vinhas."],np:1,n:"Os versículos 18–24 parecem contradizer o que Jó vinha dizendo. A Nova Vulgata os entende como palavras dos amigos, citadas por Jó, e os põe entre aspas; outros veem neles restos de um terceiro discurso de Sofar, que não aparece no livro."},
+{v:19,l:["Como a seca e o calor consomem a água da neve,","assim a morada dos mortos consome os que pecaram."],np:1},
+{v:20,l:["O seio materno o esquece,","os vermes se deliciam com ele;","ninguém mais se lembra dele,","e a iniquidade é quebrada como uma árvore."],np:1},
+{v:21,l:["Ele maltratava a estéril que não dá à luz","e não fazia bem à viúva."],np:1},
+{v:22,l:["Mas Deus, com a sua força, arrasta os poderosos;","quando ele se levanta, o ímpio já não conta com a vida."],np:1},
+{v:23,l:["Deus lhe dá segurança, e ele se apoia nela;","mas os olhos de Deus vigiam os seus caminhos."],np:1},
+{v:24,l:["Elevam-se por um momento, e já não existem;","são abatidos, recolhidos como todos,","e cortados como a ponta das espigas."],np:1},
+{v:25,l:["Se não é assim, quem me provará que minto","e reduzirá a nada as minhas palavras?"],np:1}
+];
+
+window.TEXTOS_SEED["jo"][25] = [
+{s:"Terceiro discurso de Baldad"},
+{v:1,t:"Então Baldad, o suíta, tomou a palavra e disse:"},
+{v:2,l:["A ele pertencem o domínio e o temor;","ele estabelece a paz nas suas alturas."],np:1},
+{v:3,l:["Quem pode contar as suas tropas?","Sobre quem não se levanta a sua luz?"],np:1},
+{v:4,l:["Como pode o homem ser justo diante de Deus?","Como pode ser puro o nascido de mulher?"],np:1},
+{v:5,l:["Se até a lua não tem brilho","e as estrelas não são puras aos seus olhos,"],np:1},
+{v:6,l:["quanto menos o homem, essa larva,","o filho do homem, esse verme!"],np:1}
+];
+
+window.TEXTOS_SEED["jo"][26] = [
+{s:"Jó: a grandeza de Deus"},
+{v:1,t:"Jó tomou a palavra e disse:"},
+{v:2,l:["Como ajudaste o fraco!","Como socorreste o braço sem força!"],np:1},
+{v:3,l:["Que bons conselhos deste a quem não tem sabedoria!","Que abundância de saber mostraste!"],np:1},
+{v:4,l:["A quem dirigiste as tuas palavras?","De quem é o espírito que sai de ti?"],np:1},
+{v:5,l:["As sombras dos mortos tremem","debaixo das águas e dos seus habitantes."],np:1,n:"As sombras dos mortos: em hebraico refaim, os habitantes da morada dos mortos."},
+{v:6,l:["A morada dos mortos está nua diante dele,","e a Perdição não tem véu que a cubra."],np:1,n:"Perdição: em hebraico Abadon, outro nome da morada dos mortos."},
+{v:7,l:["Ele estende o norte sobre o vazio","e suspende a terra sobre o nada."],np:1},
+{v:8,l:["Encerra as águas nas suas nuvens,","e as nuvens não se rompem com o peso."],np:1},
+{v:9,l:["Encobre a face do seu trono,","estendendo sobre ele a sua nuvem."],np:1},
+{v:10,l:["Traçou um círculo sobre a face das águas,","no limite entre a luz e as trevas."],np:1},
+{v:11,l:["As colunas do céu estremecem","e se espantam com a sua ameaça."],np:1},
+{v:12,l:["Com o seu poder dominou o mar,","com a sua inteligência abateu Raab."],np:1},
+{v:13,l:["Com o seu sopro clareou os céus,","a sua mão trespassou a serpente fugidia."],np:1},
+{v:14,l:["Isto é apenas a orla das suas obras;","e que leve sussurro ouvimos dele!","Mas o trovão do seu poder, quem poderá compreendê-lo?"],np:1}
+];

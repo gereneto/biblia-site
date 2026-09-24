@@ -88,3 +88,84 @@ window.TEXTOS_SEED["cantico"][4] = [
 {v:15,l:["És a fonte dos jardins,","o poço de águas vivas","que descem do Líbano."],np:1},
 {v:16,l:["Levanta-te, vento norte,","vem, vento sul!","Soprai sobre o meu jardim,","para que se espalhem os seus perfumes."],np:1,n:"Aqui é ela quem responde."}
 ];
+
+window.TEXTOS_SEED["cantico"][5] = [
+{s:"O banquete do amor"},
+{v:1,l:["Que o meu amado venha ao seu jardim","e coma dos seus frutos mais finos.","Vim ao meu jardim, minha irmã, minha esposa;","colhi a minha mirra com o meu bálsamo,","comi o meu favo com o meu mel,","bebi o meu vinho com o meu leite.","Comei, amigos, bebei,","embriagai-vos, queridos!"],n:"Os dois primeiros versos, que no hebraico fecham o capítulo 4, são dela; ele responde nos quatro seguintes; os dois últimos são do coro, ou do próprio amado, que convida os amigos."},
+{s:"Ela: a segunda busca noturna"},
+{v:2,l:["Eu dormia, mas o meu coração velava.","A voz do meu amado que bate!","Abre-me, minha irmã, minha amada,","minha pomba, minha perfeita,","pois a minha cabeça está coberta de orvalho, e os meus cachos, das gotas da noite."]},
+{v:3,l:["Já tirei a túnica:","como vou vesti-la de novo?","Já lavei os pés:","como vou sujá-los?"],np:1},
+{v:4,l:["O meu amado passou a mão pela abertura da porta,","e as minhas entranhas estremeceram por ele."],np:1},
+{v:5,l:["Levantei-me para abrir ao meu amado;","as minhas mãos gotejavam mirra,","e os meus dedos, mirra líquida,","sobre a maçaneta da fechadura."],np:1},
+{v:6,l:["Abri ao meu amado,","mas o meu amado já se tinha ido, tinha desaparecido.","A minha alma desfaleceu quando ele falou.","Procurei-o e não o encontrei;","chamei-o, e ele não me respondeu."],np:1,n:"Quando ele falou: a Nova Vulgata entende: porque ele se tinha ido."},
+{v:7,l:["Encontraram-me os guardas","que fazem a ronda na cidade;","bateram-me, feriram-me,","tiraram-me o manto","os guardas das muralhas."],np:1},
+{v:8,l:["Eu vos conjuro, filhas de Jerusalém:","se encontrardes o meu amado,","que lhe direis?","Que estou doente de amor."],np:1},
+{s:"O retrato do amado"},
+{v:9,l:["Que tem o teu amado mais que os outros,","ó mais bela das mulheres?","Que tem o teu amado mais que os outros,","para nos conjurares assim?"],n:"O coro das filhas de Jerusalém pergunta (versículo 9), e ela responde (10–16)."},
+{v:10,l:["O meu amado é claro e rosado,","distingue-se entre dez mil."],np:1},
+{v:11,l:["A sua cabeça é ouro puro,","os seus cachos são como cachos de tâmaras,","negros como o corvo."],np:1},
+{v:12,l:["Os seus olhos são como pombas","junto aos regatos de água,","banhadas em leite,","pousadas à beira das águas."],np:1},
+{v:13,l:["As suas faces são como canteiros de bálsamo,","torres de perfumes;","os seus lábios são lírios","que gotejam mirra líquida."],np:1},
+{v:14,l:["Os seus braços são cilindros de ouro","engastados de pedras de Társis;","o seu ventre é uma peça de marfim","coberta de safiras."],np:1},
+{v:15,l:["As suas pernas são colunas de mármore","assentadas sobre bases de ouro puro;","o seu aspecto é como o Líbano,","imponente como os cedros."],np:1},
+{v:16,l:["A sua boca é a própria doçura,","e todo ele é encanto.","Assim é o meu amado, assim é o meu amigo,","ó filhas de Jerusalém."],np:1}
+];
+
+window.TEXTOS_SEED["cantico"][6] = [
+{s:"Onde está o teu amado?"},
+{v:1,l:["Para onde foi o teu amado,","ó mais bela das mulheres?","Para onde se voltou o teu amado,","para que o procuremos contigo?"],n:"O coro pergunta; ela responde nos versículos 2–3."},
+{v:2,l:["O meu amado desceu ao seu jardim,","aos canteiros de bálsamo,","para apascentar nos jardins","e colher lírios."],np:1},
+{v:3,l:["Eu sou do meu amado, e o meu amado é meu;","ele apascenta entre os lírios."],np:1},
+{s:"Ele: bela como a aurora"},
+{v:4,l:["Tu és bela, minha amada, como Tersa,","encantadora como Jerusalém,","terrível como um exército em ordem de batalha."],n:"Tersa: antiga capital do reino do norte (1 Reis 16,23), cujo nome evoca o que agrada."},
+{v:5,l:["Desvia de mim os teus olhos,","porque eles me perturbam.","Os teus cabelos são como um rebanho de cabras","que descem de Galaad."],np:1},
+{v:6,l:["Os teus dentes são como um rebanho de ovelhas","que sobem do banho:","todas têm gêmeos,","e nenhuma delas é estéril."],np:1},
+{v:7,l:["As tuas faces são como metades de romã","por trás do teu véu."],np:1},
+{v:8,l:["Sessenta são as rainhas,","oitenta as concubinas,","e as jovens, sem número;"],np:1},
+{v:9,l:["mas única é a minha pomba, a minha perfeita,","a única da sua mãe,","a preferida daquela que a deu à luz.","As jovens a viram e a proclamaram feliz,","as rainhas e as concubinas a louvaram:"],np:1},
+{v:10,l:["Quem é esta que surge como a aurora,","bela como a lua,","brilhante como o sol,","terrível como um exército em ordem de batalha?"],np:1},
+{s:"No jardim das nogueiras"},
+{v:11,l:["Desci ao jardim das nogueiras,","para ver os brotos do vale,","para ver se a vinha já florescia,","se as romãzeiras estavam em flor."]},
+{v:12,l:["Sem que eu o percebesse, o meu desejo me pôs","sobre os carros do meu nobre povo."],np:1,n:"Hebraico obscuro; a Nova Vulgata entende: a minha alma não o percebeu, quando me pôs sobre os carros do príncipe do meu povo."}
+];
+
+window.TEXTOS_SEED["cantico"][7] = [
+{s:"A Sulamita"},
+{v:1,l:["Volta, volta, ó Sulamita,","volta, volta, para que te contemplemos!","Por que contemplais a Sulamita","quando dança entre dois coros?"],n:"Sulamita: talvez a mulher de Sulam, ou a pacífica, feminino de Salomão. O coro fala na primeira metade do versículo; ela, na segunda. Nos versículos 2–6 fala ele."},
+{v:2,l:["Como são belos os teus pés nas sandálias,","ó filha de príncipe!","As curvas dos teus quadris são como joias,","obra de mãos de artista."],np:1},
+{v:3,l:["O teu umbigo é uma taça redonda,","onde nunca falta o vinho perfumado;","o teu ventre é um monte de trigo","cercado de lírios."],np:1},
+{v:4,l:["Os teus dois seios são como dois filhotes,","gêmeos de uma gazela;"],np:1},
+{v:5,l:["o teu pescoço é como uma torre de marfim.","Os teus olhos são como os açudes de Hesebon,","junto à porta de Bat-Rabim;","o teu nariz é como a torre do Líbano,","que olha para Damasco."],np:1},
+{v:6,l:["A tua cabeça se ergue como o Carmelo,","e os cabelos da tua cabeça são como púrpura:","um rei está preso nas tuas tranças."],np:1},
+{s:"O desejo mútuo"},
+{v:7,l:["Como és bela, como és encantadora,","ó amor, com as tuas delícias!"],n:"Ele fala nos versículos 7–10; ela, a partir do versículo 11 até 8,4."},
+{v:8,l:["O teu porte é como o da palmeira,","e os teus seios, como os cachos."],np:1},
+{v:9,l:["Eu disse: Vou subir à palmeira","e colher os seus frutos.","Sejam os teus seios como os cachos da videira,","e o perfume do teu hálito, como o das maçãs;"],np:1},
+{v:10,l:["a tua boca, como o melhor vinho,","que corre direto para o meu amado","e desliza pelos lábios dos que dormem."],np:1,n:"Os lábios dos que dormem: o grego e a Nova Vulgata entendem: pelos seus lábios e pelos seus dentes."},
+{v:11,l:["Eu sou do meu amado,","e o seu desejo se volta para mim."],np:1,n:"Compare Gênesis 3,16: aqui é o homem que deseja a mulher, e o domínio dá lugar à reciprocidade."},
+{v:12,l:["Vem, meu amado, saiamos ao campo,","passemos a noite nas aldeias;"],np:1},
+{v:13,l:["de manhã iremos às vinhas;","veremos se a vinha floresceu,","se os botões se abriram,","se as romãzeiras estão em flor:","ali te darei as minhas carícias."],np:1},
+{v:14,l:["As mandrágoras exalam o seu perfume,","e às nossas portas há toda espécie de frutos finos,","novos e velhos,","que guardei para ti, meu amado."],np:1}
+];
+
+window.TEXTOS_SEED["cantico"][8] = [
+{s:"Ela: o anseio pelo amado"},
+{v:1,l:["Quem dera que fosses meu irmão,","amamentado aos seios da minha mãe!","Se te encontrasse lá fora, eu te beijaria,","e ninguém me desprezaria."]},
+{v:2,l:["Eu te levaria e te faria entrar na casa da minha mãe;","tu me ensinarias,","e eu te daria a beber vinho perfumado","e o suco das minhas romãs."],np:1},
+{v:3,l:["A sua mão esquerda está sob a minha cabeça,","e a sua direita me abraça."],np:1},
+{v:4,l:["Eu vos conjuro, filhas de Jerusalém:","não desperteis nem acordeis o amor,","até que ele o queira."],np:1},
+{s:"O amor é forte como a morte"},
+{v:5,l:["Quem é esta que sobe do deserto,","apoiada no seu amado?","Debaixo da macieira eu te despertei;","ali a tua mãe te concebeu,","ali te concebeu aquela que te deu à luz."],n:"O coro fala na primeira metade do versículo; ela, a partir de: Debaixo da macieira."},
+{v:6,l:["Põe-me como um selo sobre o teu coração,","como um selo sobre o teu braço,","pois o amor é forte como a morte,","a paixão é implacável como a morada dos mortos;","as suas chamas são chamas de fogo,","uma labareda do Senhor."],np:1,n:"Uma labareda do Senhor: em hebraico shalhevetyah, palavra que termina com o nome divino abreviado; seria a única menção de Deus no livro. Outros entendem: uma labareda imensa."},
+{v:7,l:["As águas torrenciais não podem apagar o amor,","nem os rios afogá-lo.","Se alguém desse todos os bens da sua casa em troca do amor,","seria tratado com desprezo."],np:1},
+{s:"Os irmãos e a irmã pequena"},
+{v:8,l:["Temos uma irmã pequena,","que ainda não tem seios.","Que faremos à nossa irmã","no dia em que a pedirem em casamento?"],n:"Falam os irmãos (versículos 8–9); ela responde (versículo 10)."},
+{v:9,l:["Se ela for uma muralha,","construiremos sobre ela ameias de prata;","se for uma porta,","nós a reforçaremos com tábuas de cedro."],np:1},
+{v:10,l:["Eu sou uma muralha,","e os meus seios são como torres;","por isso sou aos olhos dele","como quem encontrou a paz."],np:1},
+{s:"A vinha de Salomão"},
+{v:11,l:["Salomão tinha uma vinha","em Baal-Hamon.","Confiou a vinha aos guardas;","cada um devia pagar pelo seu fruto","mil moedas de prata."]},
+{v:12,l:["A minha vinha, a que é minha, está diante de mim:","as mil moedas são para ti, Salomão,","e duzentas para os que guardam o seu fruto."],np:1},
+{s:"Últimas palavras"},
+{v:13,l:["Tu que habitas nos jardins,","os companheiros escutam a tua voz:","faze-me ouvi-la!"],n:"Ele fala no versículo 13; ela responde no 14."},
+{v:14,l:["Foge, meu amado,","sê como a gazela","ou como o filhote do cervo","sobre os montes dos bálsamos."],np:1}
+];

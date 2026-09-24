@@ -30,6 +30,7 @@ window.LIVROS_SEED = {
   "proverbios": { nome: "Provérbios",  grupo: "Livros Sapienciais",  capitulos: 31 },
   "eclesiastes": { nome: "Eclesiastes", grupo: "Livros Sapienciais",  capitulos: 12 },
   "cantico":    { nome: "Cântico dos Cânticos", grupo: "Livros Sapienciais", capitulos: 8 },
+  "sabedoria":  { nome: "Sabedoria",   grupo: "Livros Sapienciais",  capitulos: 19 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -58,7 +59,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

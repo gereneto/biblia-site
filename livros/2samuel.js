@@ -767,7 +767,7 @@ window.TEXTOS_SEED["2samuel"][23] = [
 {v:6,l:["Mas os perversos","são todos como espinhos que se lançam fora,","que não se tomam com a mão;"]},
 {v:7,l:["quem quiser tocá-los","arma-se de ferro e de haste de lança,","e são queimados no fogo."]},
 {s:"Os valentes de Davi"},
-{v:8,t:"Estes são os nomes dos valentes de Davi: Jesbaal, o hacamonita, chefe dos Três; foi ele que brandiu a lança contra oitocentos homens e os matou de uma só vez.",np:1,n:"Jesbaal: assim a Nova Vulgata, restituindo o nome antigo; o hebraico traz aqui um texto corrompido, e 1 Crônicas 11,11 chama-o Jesboam. Os Três eram a elite da elite; os Trinta, o corpo dos heróis de Davi."},
+{v:8,t:"Estes são os nomes dos valentes de Davi: Jesbaal, o hacamonita, chefe dos Três; foi ele que brandiu a lança contra oitocentos homens e os matou de uma só vez.",np:1,n:"Jesbaal: assim a Nova Vulgata, restituindo o nome antigo; o hebraico traz aqui um texto corrompido, e 1 Crônicas 11,11 chama-o Jesbaam. Os Três eram a elite da elite; os Trinta, o corpo dos heróis de Davi."},
 {v:9,t:"Depois dele vinha Eleazar, filho de Dodo, o aoíta, um dos três valentes. Estava com Davi em Efes-Domim, quando os filisteus se reuniram ali para a batalha."},
 {v:10,t:"Os homens de Israel retiraram-se, mas ele ficou firme e bateu os filisteus até que a sua mão se cansou e ficou colada à espada. O Senhor deu naquele dia uma grande vitória, e o povo voltou atrás dele só para despojar os mortos."},
 {v:11,t:"Depois dele vinha Samá, filho de Agé, o ararita. Os filisteus tinham-se reunido em Lequi, onde havia um campo cheio de lentilhas; e, quando o povo fugiu diante dos filisteus,"},

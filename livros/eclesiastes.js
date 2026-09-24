@@ -225,3 +225,61 @@ window.TEXTOS_SEED["eclesiastes"][9] = [
 {v:17,l:["As palavras dos sábios, ditas com calma, são mais ouvidas","do que os gritos de quem governa entre insensatos."],np:1},
 {v:18,l:["Mais vale a sabedoria que as armas de guerra,","mas um só pecador destrói muito bem."],np:1}
 ];
+
+window.TEXTOS_SEED["eclesiastes"][10] = [
+{s:"O sábio e o insensato"},
+{v:1,l:["Moscas mortas fazem cheirar mal e fermentar o óleo do perfumista;","um pouco de insensatez pesa mais que a sabedoria e a glória."]},
+{v:2,l:["O coração do sábio o leva para a direita,","e o coração do insensato, para a esquerda."],np:1},
+{v:3,t:"E, quando o insensato anda pelo caminho, falta-lhe o juízo, e ele acha que todos são insensatos.",np:1},
+{v:4,t:"Se a ira do governante se levantar contra ti, não deixes o teu lugar, pois a calma evita grandes faltas.",np:1},
+{v:5,t:"Há um mal que vi debaixo do sol, como um erro que procede de quem governa:",np:1},
+{v:6,t:"o insensato é posto em lugares muito elevados, e os ricos ficam sentados em lugares baixos."},
+{v:7,t:"Vi escravos a cavalo e príncipes andando a pé como escravos."},
+{v:8,l:["Quem cava uma cova nela pode cair,","e quem derruba um muro pode ser picado por uma serpente."]},
+{v:9,l:["Quem extrai pedras pode ferir-se com elas,","e quem racha lenha corre perigo."],np:1},
+{v:10,t:"Se o ferro está cego e não se afia o gume, é preciso redobrar a força; mas a vantagem de ter êxito está na sabedoria.",np:1},
+{v:11,t:"Se a serpente morde antes de ser encantada, de nada serve o encantador.",np:1},
+{v:12,l:["As palavras da boca do sábio são cheias de graça,","mas os lábios do insensato o devoram."],np:1},
+{v:13,l:["O começo das suas palavras é insensatez,","e o fim da sua fala, loucura perversa."],np:1},
+{v:14,l:["O insensato multiplica as palavras;","mas o homem não sabe o que acontecerá,","e quem lhe dirá o que virá depois dele?"],np:1},
+{v:15,l:["O trabalho do insensato o cansa,","pois nem sabe o caminho da cidade."],np:1},
+{v:16,l:["Ai de ti, terra, cujo rei é um menino,","e cujos príncipes banqueteiam desde a manhã!"],np:1},
+{v:17,l:["Feliz de ti, terra, cujo rei é de estirpe nobre,","e cujos príncipes comem na hora certa,","para se fortalecer, e não para se embriagar!"],np:1},
+{v:18,l:["Pela preguiça o madeiramento cede,","e pela negligência das mãos a casa goteja."],np:1},
+{v:19,l:["Para rir se fazem banquetes,","o vinho alegra a vida,","e o dinheiro responde a tudo."],np:1},
+{v:20,l:["Nem em pensamento amaldiçoes o rei,","nem no teu quarto de dormir amaldiçoes o rico,","pois uma ave do céu levaria a tua voz,","e um ser alado contaria o que disseste."],np:1}
+];
+
+window.TEXTOS_SEED["eclesiastes"][11] = [
+{s:"Lança o teu pão sobre as águas"},
+{v:1,t:"Lança o teu pão sobre as águas, pois depois de muitos dias o encontrarás."},
+{v:2,t:"Reparte com sete e até com oito, pois não sabes que desgraça pode vir sobre a terra.",np:1},
+{v:3,l:["Quando as nuvens estão cheias,","derramam a chuva sobre a terra;","se uma árvore cai para o sul ou para o norte,","no lugar onde cair, ali ficará."],np:1},
+{v:4,t:"Quem fica observando o vento não semeia, e quem fica olhando as nuvens não colhe."},
+{v:5,t:"Assim como não sabes qual é o caminho do sopro de vida, nem como se formam os ossos no ventre da mulher grávida, assim também não conheces a obra de Deus, que faz todas as coisas.",np:1},
+{v:6,l:["De manhã semeia a tua semente,","e à tarde não deixes descansar a tua mão,","pois não sabes o que dará certo,","isto ou aquilo,","ou se ambos serão igualmente bons."],np:1},
+{s:"A juventude e a velhice"},
+{v:7,l:["Doce é a luz,","e é agradável aos olhos ver o sol."]},
+{v:8,l:["Se o homem viver muitos anos,","que se alegre em todos eles,","mas lembre-se dos dias de trevas, que serão muitos:","tudo o que vem é vaidade."],np:1},
+{v:9,l:["Alegra-te, jovem, na tua juventude,","e que o teu coração seja feliz nos dias da tua mocidade;","segue os caminhos do teu coração","e o que os teus olhos desejam;","mas sabe que por tudo isso","Deus te chamará a juízo."],np:1},
+{v:10,l:["Afasta do teu coração a tristeza","e livra o teu corpo do sofrimento,","pois a juventude e a aurora da vida são passageiras."],np:1}
+];
+
+window.TEXTOS_SEED["eclesiastes"][12] = [
+{s:"Lembra-te do teu Criador"},
+{v:1,l:["Lembra-te do teu Criador","nos dias da tua juventude,","antes que venham os dias maus","e cheguem os anos dos quais dirás:","Não sinto neles prazer algum;"]},
+{v:2,l:["antes que se escureçam","o sol, a luz, a lua e as estrelas,","e voltem as nuvens depois da chuva;"],np:1},
+{v:3,l:["no dia em que tremerem os guardas da casa","e se curvarem os homens fortes,","em que pararem as que moem, por serem poucas,","e se escurecerem as que olham pelas janelas;"],np:1,n:"O poema descreve a velhice e a morte com imagens: os guardas da casa seriam os braços; os homens fortes, as pernas; as que moem, os dentes; as que olham pelas janelas, os olhos."},
+{v:4,l:["quando se fecharem as portas da rua","e diminuir o ruído do moinho,","quando se levantar ao canto do pássaro","e se calarem todas as canções;"],np:1},
+{v:5,l:["quando se tiver medo das alturas","e dos sustos pelo caminho;","quando a amendoeira florescer,","o gafanhoto se arrastar","e a alcaparra perder o sabor;","pois o homem vai para a sua morada eterna,","e os que choram rondam pela rua;"],np:1},
+{v:6,l:["antes que se rompa o fio de prata","e se quebre a taça de ouro,","antes que se despedace o cântaro junto à fonte","e se quebre a roldana sobre o poço,"],np:1},
+{v:7,l:["e o pó volte à terra de onde veio,","e o espírito volte a Deus, que o deu."],np:1},
+{v:8,l:["Vaidade das vaidades,","diz Coélet,","tudo é vaidade."],np:1},
+{s:"Epílogo"},
+{v:9,t:"Além de ser sábio, Coélet ensinou também o conhecimento ao povo; ponderou, investigou e compôs muitos provérbios."},
+{v:10,t:"Coélet procurou encontrar palavras agradáveis e escreveu com retidão palavras de verdade."},
+{v:11,t:"As palavras dos sábios são como aguilhões, e as sentenças reunidas são como pregos bem fixados: foram dadas por um só pastor."},
+{v:12,t:"Além disso, meu filho, fica prevenido: fazer muitos livros é coisa sem fim, e muito estudo cansa o corpo."},
+{v:13,t:"Fim do discurso; tudo foi ouvido: teme a Deus e guarda os seus mandamentos, porque isto é o homem todo."},
+{v:14,t:"Pois Deus levará a juízo toda obra, e até tudo o que está oculto, seja bom, seja mau."}
+];

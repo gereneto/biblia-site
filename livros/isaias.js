@@ -99,3 +99,67 @@ window.TEXTOS_SEED["isaias"][3] = [
 {v:25,l:["Os teus homens cairão pela espada,","e os teus valentes, na guerra."],np:1},
 {v:26,l:["As portas da cidade gemerão e ficarão de luto;","devastada, ela se sentará no chão."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][4] = [
+{s:"Sete mulheres por um homem"},
+{v:1,l:["Naquele dia, sete mulheres","agarrarão um só homem, dizendo:","Comeremos o nosso próprio pão","e vestiremos as nossas próprias roupas;","basta que sejamos chamadas pelo teu nome:","tira de nós a nossa vergonha."],n:"Com a morte dos homens na guerra (3,25), as mulheres buscarão um marido para escapar à vergonha de ficar sem filhos."},
+{s:"O rebento do Senhor"},
+{v:2,l:["Naquele dia, o rebento do Senhor","será esplendor e glória,","e o fruto da terra será orgulho e ornamento","para os sobreviventes de Israel."],n:"O rebento do Senhor: a vegetação que o Senhor fará brotar na terra renovada; a tradição cristã leu aqui também um anúncio do Messias (compare Jeremias 23,5; Zacarias 3,8)."},
+{v:3,l:["Então, o que restar em Sião","e o que sobrar em Jerusalém será chamado santo:","todos os que estão inscritos para a vida em Jerusalém,"],np:1},
+{v:4,l:["quando o Senhor tiver lavado a imundície das filhas de Sião","e limpado de Jerusalém o sangue derramado","com o espírito de julgamento e o espírito de fogo."],np:1},
+{v:5,l:["Então o Senhor criará, sobre todo o espaço do monte Sião","e sobre as suas assembleias,","uma nuvem de dia","e, de noite, fumaça e o brilho de um fogo flamejante.","Pois sobre toda a glória haverá uma cobertura,"],np:1,n:"Como a nuvem e o fogo que guiavam Israel no deserto (Êxodo 13,21–22)."},
+{v:6,l:["e uma tenda servirá de sombra durante o dia contra o calor,","e de refúgio e abrigo contra a tempestade e a chuva."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][5] = [
+{s:"O cântico da vinha"},
+{v:1,l:["Vou cantar ao meu amigo","o cântico do meu amado sobre a sua vinha.","O meu amigo tinha uma vinha","numa colina fértil."],n:"Canção de amor que se transforma em parábola: a vinha é Israel (v. 7). Compare Mateus 21,33–41."},
+{v:2,l:["Ele a cavou e tirou as pedras","e plantou nela videiras escolhidas;","construiu no meio dela uma torre","e cavou nela também um lagar.","Esperava que desse uvas boas,","mas ela deu uvas azedas."],np:1},
+{v:3,l:["E agora, habitantes de Jerusalém","e homens de Judá,","julgai entre mim e a minha vinha."],np:1},
+{v:4,l:["Que mais poderia eu ter feito pela minha vinha","que não tenha feito?","Por que, quando eu esperava que desse uvas boas,","ela deu uvas azedas?"],np:1},
+{v:5,l:["Pois agora vou dizer-vos","o que farei com a minha vinha:","arrancarei a sua sebe,","e ela será devastada;","derrubarei o seu muro,","e ela será pisada."],np:1},
+{v:6,l:["Farei dela um terreno abandonado:","não será podada nem cavada,","e nela crescerão espinhos e sarças;","e darei ordem às nuvens","para não mandarem chuva sobre ela."],np:1},
+{v:7,l:["Pois a vinha do Senhor dos exércitos é a casa de Israel,","e os homens de Judá são a plantação que ele amava.","Esperava o direito, e eis o derramamento de sangue;","esperava a justiça, e eis o grito de socorro."],np:1,n:"No hebraico há um jogo de palavras: mishpat (direito) e mispah (derramamento de sangue), tsedaqah (justiça) e tseaqah (grito)."},
+{s:"Ai dos injustos"},
+{v:8,l:["Ai dos que juntam casa com casa","e emendam campo com campo,","até não sobrar espaço,","e habitam sozinhos no meio da terra!"]},
+{v:9,l:["Aos meus ouvidos o Senhor dos exércitos jurou:","Muitas casas ficarão desertas,","casas grandes e belas, sem moradores."],np:1},
+{v:10,l:["Pois dez jeiras de vinha produzirão só um bat,","e um hômer de semente produzirá só um efá."],np:1,n:"O bat é uma medida de líquidos, de uns vinte litros; o efá é a décima parte do hômer. A colheita renderá uma décima parte da semente."},
+{v:11,l:["Ai dos que se levantam de madrugada","para correr atrás da bebida","e ficam até tarde da noite","inflamados pelo vinho!"],np:1},
+{v:12,l:["Cítara e harpa,","tamborim e flauta","e vinho animam os seus banquetes,","mas não olham para a obra do Senhor","nem veem o que as suas mãos fazem."],np:1},
+{v:13,l:["Por isso o meu povo vai para o exílio,","por falta de conhecimento;","os seus nobres morrem de fome,","e a sua multidão fica seca de sede."],np:1},
+{v:14,l:["Por isso a morada dos mortos alargou a garganta","e abriu a boca sem medida;","para lá descem a nobreza e a multidão de Jerusalém,","o seu tumulto e a sua alegria."],np:1},
+{v:15,l:["O homem será curvado, o mortal será humilhado,","e os olhos dos altivos serão abaixados;"],np:1},
+{v:16,l:["mas o Senhor dos exércitos será exaltado no julgamento,","e o Deus santo mostrará a sua santidade na justiça."],np:1},
+{v:17,l:["Os cordeiros pastarão ali como nas suas pastagens,","e estrangeiros comerão nas ruínas dos ricos."],np:1},
+{v:18,l:["Ai dos que arrastam a iniquidade com cordas de mentira","e o pecado como com tirantes de carroça!"],np:1},
+{v:19,l:["Eles dizem: Que ele se apresse,","que acelere a sua obra, para que a vejamos!","Que se aproxime e se cumpra o plano do Santo de Israel,","para que o conheçamos!"],np:1},
+{v:20,l:["Ai dos que chamam ao mal bem e ao bem mal,","que fazem das trevas luz e da luz trevas,","que fazem do amargo doce e do doce amargo!"],np:1},
+{v:21,l:["Ai dos que são sábios aos próprios olhos","e inteligentes na própria opinião!"],np:1},
+{v:22,l:["Ai dos que são valentes para beber vinho","e fortes para misturar bebidas,"],np:1},
+{v:23,l:["que absolvem o culpado por suborno","e negam ao justo o seu direito!"],np:1},
+{v:24,l:["Por isso, como a língua de fogo devora a palha","e o feno se desfaz na chama,","assim a sua raiz apodrecerá","e a sua flor se desfará como pó;","pois rejeitaram a lei do Senhor dos exércitos","e desprezaram a palavra do Santo de Israel."],np:1},
+{s:"A ira do Senhor e a invasão"},
+{v:25,l:["Por isso a ira do Senhor se inflamou contra o seu povo;","ele estendeu a mão contra ele e o feriu;","os montes estremeceram,","e os seus cadáveres ficaram como lixo no meio das ruas.","Com tudo isso, a sua ira não se aplacou,","e a sua mão continua estendida."],n:"Refrão que volta em 9,11.16.20 e 10,4."},
+{v:26,l:["Ele erguerá um estandarte para as nações distantes","e assobiará chamando uma delas desde os confins da terra;","e eis que ela vem, rápida e veloz."],np:1},
+{v:27,l:["Ninguém nela está cansado ou tropeça,","ninguém cochila nem dorme;","não se solta o cinto dos seus rins,","nem se rompe a correia das suas sandálias."],np:1},
+{v:28,l:["As suas flechas são afiadas,","e todos os seus arcos estão retesados;","os cascos dos seus cavalos parecem de pedra,","e as rodas dos seus carros, um furacão."],np:1},
+{v:29,l:["O seu rugido é como o do leão;","ruge como os leõezinhos,","rosna e agarra a presa,","leva-a embora, e ninguém a pode livrar."],np:1},
+{v:30,l:["Naquele dia rugirá contra ele","como o rugido do mar.","Olhará para a terra: eis trevas e angústia,","e a luz se escurece nas nuvens."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][6] = [
+{s:"A vocação de Isaías"},
+{v:1,t:"No ano da morte do rei Ozias, vi o Senhor sentado num trono alto e elevado; a orla do seu manto enchia o templo.",n:"O rei Ozias morreu por volta de 740 antes de Cristo."},
+{v:2,t:"Serafins estavam de pé acima dele; cada um tinha seis asas: com duas cobria o rosto, com duas cobria os pés e com duas voava.",n:"Serafins: seres celestes; o nome evoca a ideia de fogo."},
+{v:3,l:["E clamavam um para o outro:","Santo, santo, santo é o Senhor dos exércitos;","toda a terra está cheia da sua glória."],n:"Aclamação que a liturgia retoma no Santo da missa."},
+{v:4,t:"Os batentes das portas estremeceram com a voz dos que clamavam, e o templo se encheu de fumaça.",np:1},
+{v:5,l:["Então eu disse:","Ai de mim, estou perdido!","Pois sou um homem de lábios impuros","e habito no meio de um povo de lábios impuros,","e os meus olhos viram o Rei, o Senhor dos exércitos."],np:1},
+{v:6,t:"Um dos serafins voou até mim, trazendo na mão uma brasa que tinha tirado do altar com uma tenaz;",np:1},
+{v:7,l:["tocou com ela a minha boca e disse:","Eis que isto tocou os teus lábios:","a tua culpa foi tirada,","e o teu pecado, perdoado."]},
+{v:8,t:"Então ouvi a voz do Senhor, que dizia: Quem enviarei? Quem irá por nós? Eu respondi: Eis-me aqui, envia-me.",np:1},
+{v:9,l:["Ele disse: Vai e dize a este povo:","Ouvi, ouvi, e não entendais;","vede, vede, e não compreendais."]},
+{v:10,l:["Torna insensível o coração deste povo,","endurece-lhe os ouvidos","e fecha-lhe os olhos,","para que não veja com os olhos","nem ouça com os ouvidos,","nem entenda com o coração,","e não se converta e seja curado."],np:1,n:"Nota do tradutor: o profeta exprime em forma de ordem o resultado da sua pregação: quanto mais ele fala, mais o povo se endurece. Jesus cita estas palavras a propósito das parábolas (Mateus 13,14–15), e Paulo no fim dos Atos (Atos 28,26–27)."},
+{v:11,l:["Eu perguntei: Até quando, Senhor?","Ele respondeu:","Até que as cidades fiquem arruinadas,","sem habitantes,","as casas sem ninguém,","e a terra, reduzida a um deserto."],np:1},
+{v:12,l:["O Senhor levará para longe os homens,","e será grande o abandono no meio da terra."],np:1},
+{v:13,l:["E, se ainda restar nela um décimo,","também ele será destruído,","como o terebinto e o carvalho,","dos quais, depois de cortados, fica o toco.","O toco é uma semente santa."],np:1,n:"A última frase falta na antiga tradução grega. Ela anuncia que do resto sobrevivente Deus fará brotar um povo santo."}
+];

@@ -485,3 +485,78 @@ window.TEXTOS_SEED["isaias"][20] = [
 {v:5,t:"Ficarão aterrados e envergonhados por causa da Etiópia, na qual esperavam, e do Egito, do qual se gloriavam."},
 {v:6,t:"E os habitantes deste litoral dirão naquele dia: Vede o que aconteceu àqueles em quem esperávamos, a quem recorremos em busca de socorro para nos livrarmos do rei da Assíria! E nós, como escaparemos?"}
 ];
+
+window.TEXTOS_SEED["isaias"][21] = [
+{s:"A queda da Babilônia"},
+{v:1,l:["Oráculo contra o deserto do mar.","Como os furacões que varrem o Negueb,","ele vem do deserto, de uma terra terrível."],n:"O deserto do mar: nome enigmático da Babilônia, situada numa planície de rios e pântanos (compare v. 9)."},
+{v:2,l:["Uma visão terrível me foi anunciada:","o traidor age com traição,","o devastador devasta.","Sobe, Elam! Cerca, Média!","Fiz cessar todos os gemidos."],np:1,n:"Elam e Média: aliados da Pérsia na tomada da Babilônia, em 539 antes de Cristo."},
+{v:3,l:["Por isso os meus rins se enchem de tremor,","as dores se apoderam de mim, como as dores da mulher que dá à luz;","estou transtornado demais para ouvir,","apavorado demais para ver."],np:1},
+{v:4,l:["O meu coração vacila,","o terror me invade;","o crepúsculo que eu desejava","se transformou em pavor para mim."],np:1},
+{v:5,l:["Põem a mesa,","estendem os tapetes, comem, bebem.","De pé, chefes!","Untai os escudos!"],np:1,n:"Untar os escudos de couro com óleo era um preparativo para o combate."},
+{v:6,l:["Pois assim me disse o Senhor:","Vai, coloca uma sentinela;","que ela anuncie o que vir."],np:1},
+{v:7,l:["Se vir carros, parelhas de cavaleiros,","gente montada em jumentos, gente montada em camelos,","que preste atenção, muita atenção."],np:1},
+{v:8,l:["Então a sentinela gritou:","Senhor, no posto de observação","estou de pé o dia inteiro,","e no meu posto de guarda","fico todas as noites."],np:1,n:"A sentinela: assim a Nova Vulgata, com o rolo de Isaías de Qumran; o texto hebraico tradicional diz: gritou como um leão."},
+{v:9,l:["E eis que vem uma tropa de homens,","parelhas de cavaleiros.","Então ela tomou a palavra e disse:","Caiu, caiu Babilônia,","e todas as imagens dos seus deuses","estão despedaçadas por terra."],np:1,n:"Compare Apocalipse 14,8; 18,2."},
+{v:10,l:["Ó meu povo, trilhado na eira,","o que ouvi do Senhor dos exércitos, o Deus de Israel,","eu vos anunciei."],np:1},
+{s:"Contra Edom"},
+{v:11,l:["Oráculo contra Duma.","Alguém me chama de Seir:","Sentinela, quanto falta da noite?","Sentinela, quanto falta da noite?"],n:"Duma, que quer dizer silêncio, designa aqui Edom, a terra de Seir."},
+{v:12,l:["A sentinela responde:","Vem a manhã, mas também a noite;","se quereis perguntar, perguntai;","voltai, vinde de novo."],np:1},
+{s:"Contra a Arábia"},
+{v:13,l:["Oráculo na estepe.","Na floresta, na estepe, passareis a noite,","caravanas de Dedan."],n:"Na estepe: ou, contra a Arábia. Dedan e Tema: oásis do norte da Arábia."},
+{v:14,l:["Ao encontro do sedento levai água,","habitantes da terra de Tema;","ide com pão ao encontro do fugitivo."],np:1},
+{v:15,l:["Pois fogem diante das espadas,","diante da espada desembainhada,","diante do arco retesado,","diante da violência da batalha."],np:1},
+{v:16,t:"Pois assim me disse o Senhor: Dentro de um ano, contado como o ano de um assalariado, desaparecerá toda a glória de Cedar;",np:1},
+{v:17,t:"e o que restar do número dos arqueiros, dos valentes filhos de Cedar, será pouca coisa, pois o Senhor, Deus de Israel, falou."}
+];
+
+window.TEXTOS_SEED["isaias"][22] = [
+{s:"Contra Jerusalém em festa"},
+{v:1,l:["Oráculo sobre o vale da Visão.","Que tens tu agora,","que sobes toda aos terraços,"],n:"O vale da Visão: Jerusalém. O oráculo parece referir-se à retirada do exército de Senaquerib, em 701 antes de Cristo, que a cidade festeja em vez de se converter."},
+{v:2,l:["cidade cheia de tumulto,","cidade barulhenta, cidade alegre?","Os teus mortos não foram mortos pela espada,","nem morreram na guerra;"],np:1},
+{v:3,l:["todos os teus chefes fugiram juntos,","foram presos sem disparar o arco;","todos os que foram encontrados foram presos juntos,","embora tivessem fugido para longe."],np:1},
+{v:4,l:["Por isso eu digo: Afastai-vos de mim,","quero chorar amargamente;","não insistais em consolar-me","pela ruína da filha do meu povo."],np:1},
+{v:5,l:["Pois é um dia de pânico,","de destruição e de confusão,","da parte do Senhor Deus dos exércitos, no vale da Visão:","derrubam-se as muralhas,","e o grito de socorro chega até o monte."],np:1},
+{v:6,l:["Elam tomou a aljava,","com carros de guerra e cavaleiros,","e Quir descobriu o escudo."],np:1},
+{v:7,l:["Os teus vales mais belos","se encheram de carros,","e os cavaleiros tomaram posição diante das portas."],np:1},
+{v:8,l:["Ele tirou a proteção de Judá,","e naquele dia olhastes","para as armas do palácio da Floresta;"],np:1,n:"O palácio da Floresta do Líbano, construído por Salomão, servia de arsenal (1 Reis 7,2; 10,17)."},
+{v:9,l:["vistes que eram muitas as brechas","na cidade de Davi","e ajuntastes as águas do tanque inferior;"],np:1},
+{v:10,l:["contastes as casas de Jerusalém","e demolistes casas","para fortificar a muralha;"],np:1},
+{v:11,l:["fizestes um reservatório entre os dois muros","para as águas do tanque velho;","mas não olhastes para aquele que fez tudo isso,","não vistes aquele que o preparou há muito tempo."],np:1},
+{v:12,l:["Naquele dia, o Senhor Deus dos exércitos","chamou ao choro e ao lamento,","a raspar a cabeça e a vestir o saco;"],np:1},
+{v:13,l:["mas eis alegria e festa,","matam-se bois e degolam-se ovelhas,","come-se carne e bebe-se vinho:","Comamos e bebamos,","pois amanhã morreremos!"],np:1,n:"Compare 1 Coríntios 15,32."},
+{v:14,l:["Mas o Senhor dos exércitos se revelou aos meus ouvidos:","Certamente esta iniquidade não vos será perdoada","até que morrais,","diz o Senhor Deus dos exércitos."],np:1},
+{s:"Contra Sobna, o mordomo do palácio"},
+{v:15,l:["Assim diz o Senhor Deus dos exércitos:","Vai ter com esse administrador,","com Sobna, o mordomo do palácio,"]},
+{v:16,l:["e dize-lhe: Que tens tu aqui, e quem tens aqui,","para cavares aqui um sepulcro para ti?","Ele cava no alto o seu sepulcro,","talha na rocha uma morada para si!"],np:1},
+{v:17,l:["Eis que o Senhor te arremessará com violência, homem,","e te agarrará com força;"],np:1},
+{v:18,l:["te enrolará bem enrolado","e te lançará como uma bola","para uma terra vasta;","lá morrerás,","e lá ficarão os teus carros magníficos,","ó vergonha da casa do teu senhor!"],np:1},
+{v:19,l:["Eu te expulsarei do teu posto,","e ele te derrubará da tua função."],np:1},
+{v:20,l:["Naquele dia,","chamarei o meu servo Eliacim, filho de Helcias;"],np:1},
+{v:21,l:["eu o vestirei com a tua túnica,","o cingirei com o teu cinto","e porei nas suas mãos o teu poder;","ele será um pai para os habitantes de Jerusalém","e para a casa de Judá."],np:1},
+{v:22,l:["Porei a chave da casa de Davi","sobre o seu ombro:","ele abrirá, e ninguém fechará;","fechará, e ninguém abrirá."],np:1,n:"Compare Apocalipse 3,7 e Mateus 16,19."},
+{v:23,l:["Eu o fixarei como uma estaca num lugar firme,","e ele será um trono de glória para a casa do seu pai."],np:1},
+{v:24,t:"Nele se pendurará toda a glória da casa do seu pai, os descendentes e os parentes, todos os utensílios pequenos, desde as taças até os jarros.",np:1},
+{v:25,t:"Naquele dia, oráculo do Senhor dos exércitos, a estaca fixada num lugar firme cederá; será arrancada e cairá, e a carga que nela estava pendurada se perderá, pois o Senhor falou.",n:"Também Eliacim cairá, arrastado pelo peso dos parentes que favoreceu."}
+];
+
+window.TEXTOS_SEED["isaias"][23] = [
+{s:"Oráculo contra Tiro e Sidônia"},
+{v:1,l:["Oráculo contra Tiro.","Gemei, navios de Társis,","pois o vosso porto foi destruído;","ao voltarem da terra de Quitim, receberam a notícia."],n:"Quitim: Chipre."},
+{v:2,l:["Calai-vos, habitantes do litoral,","comerciantes de Sidônia,","cujos mensageiros atravessavam o mar"],np:1},
+{v:3,l:["por muitas águas;","o grão do Nilo, a colheita do rio, era a sua renda,","e ela era o mercado das nações."]},
+{v:4,l:["Envergonha-te, Sidônia, pois o mar falou,","a fortaleza do mar disse:","Não senti as dores do parto nem dei à luz,","não criei rapazes","nem eduquei moças."],np:1},
+{v:5,l:["Quando a notícia chegar ao Egito,","se angustiarão com a notícia de Tiro."],np:1},
+{v:6,l:["Passai a Társis,","gemei, habitantes do litoral!"],np:1},
+{v:7,l:["É esta a vossa cidade alegre,","cuja origem vem dos tempos antigos,","cujos pés a levavam para longe,","para se estabelecer em terras distantes?"],np:1},
+{v:8,l:["Quem decidiu isto","contra Tiro, a que distribuía coroas,","cujos comerciantes eram príncipes,","e os seus negociantes, os grandes da terra?"],np:1},
+{v:9,l:["Foi o Senhor dos exércitos que o decidiu,","para humilhar o orgulho de toda glória","e rebaixar todos os grandes da terra."],np:1},
+{v:10,l:["Cultiva a tua terra, como se faz ao longo do Nilo,","filha de Társis: já não há porto."],np:1,n:"Assim a Nova Vulgata; o hebraico diz: atravessa a tua terra como o Nilo."},
+{v:11,l:["Ele estendeu a mão sobre o mar,","fez tremer os reinos;","o Senhor deu ordem contra Canaã,","para destruir as suas fortalezas."],np:1},
+{v:12,l:["E disse: Não continuarás a te alegrar,","virgem violentada, filha de Sidônia!","Levanta-te, passa a Quitim:","nem lá encontrarás descanso."],np:1},
+{v:13,l:["Eis a terra dos caldeus:","esse povo já não existe;","a Assíria a destinou às feras do deserto.","Levantaram as suas torres de assalto,","demoliram os seus palácios,","reduziram-na a ruínas."],np:1,n:"Versículo obscuro; parece lembrar a destruição da Babilônia pelos assírios, em 689 antes de Cristo, como advertência a Tiro."},
+{v:14,l:["Gemei, navios de Társis,","pois a vossa fortaleza foi destruída."],np:1},
+{v:15,t:"Naquele dia, Tiro será esquecida durante setenta anos, a duração da vida de um rei. Depois de setenta anos, acontecerá a Tiro como na canção da prostituta:",np:1},
+{v:16,l:["Toma a cítara, percorre a cidade,","prostituta esquecida!","Toca bem, repete as canções,","para que se lembrem de ti."],np:1},
+{v:17,t:"Depois de setenta anos, o Senhor visitará Tiro, e ela voltará a receber o seu salário e se prostituirá com todos os reinos do mundo, sobre a face da terra.",np:1,n:"A prostituição é aqui imagem do comércio com todas as nações, praticado sem escrúpulos."},
+{v:18,t:"Mas o seu lucro e o seu salário serão consagrados ao Senhor; não serão entesourados nem guardados, pois o seu lucro será para os que habitam diante do Senhor, para que comam até se saciar e se vistam com esplendor."}
+];

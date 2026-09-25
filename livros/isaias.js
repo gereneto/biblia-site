@@ -286,3 +286,61 @@ window.TEXTOS_SEED["isaias"][10] = [
 {v:33,l:["Eis que o Senhor, o Senhor dos exércitos,","corta os ramos com violência;","as árvores mais altas são abatidas,","e as mais elevadas caem."],np:1},
 {v:34,l:["Ele derruba com o ferro os matagais da floresta,","e o Líbano cai com o seu esplendor."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][11] = [
+{s:"O rei messiânico"},
+{v:1,l:["Um ramo sairá do tronco de Jessé,","e um rebento brotará das suas raízes."],n:"Jessé, pai de Davi: a dinastia davídica, reduzida a um tronco cortado, voltará a brotar."},
+{v:2,l:["Sobre ele repousará o espírito do Senhor:","espírito de sabedoria e de inteligência,","espírito de conselho e de fortaleza,","espírito de conhecimento e de temor do Senhor."],np:1,n:"O hebraico e a Nova Vulgata enumeram seis qualidades; a antiga tradução grega e a Vulgata, que traduzem o primeiro temor por piedade, contam sete. Daí vem a lista tradicional dos sete dons do Espírito Santo."},
+{v:3,l:["O temor do Senhor será o seu prazer.","Ele não julgará pelas aparências","nem decidirá pelo que ouve dizer;"],np:1},
+{v:4,l:["mas julgará os fracos com justiça","e decidirá com retidão em favor dos humildes da terra;","ferirá a terra com a vara da sua boca","e com o sopro dos seus lábios matará o ímpio."],np:1,n:"Compare 2 Tessalonicenses 2,8."},
+{v:5,l:["A justiça será o cinto da sua cintura,","e a fidelidade, o cinturão dos seus rins."],np:1},
+{s:"A paz no monte santo"},
+{v:6,l:["O lobo morará com o cordeiro,","e o leopardo se deitará com o cabrito;","o bezerro e o leão pastarão juntos,","e um menino pequeno os conduzirá."]},
+{v:7,l:["A vaca e a ursa pastarão juntas,","as suas crias se deitarão juntas,","e o leão comerá palha como o boi."],np:1},
+{v:8,l:["A criança de peito brincará","sobre a toca da serpente,","e o menino desmamado porá a mão","no esconderijo da víbora."],np:1},
+{v:9,l:["Não se fará mal nem destruição","em todo o meu monte santo,","pois a terra estará cheia do conhecimento do Senhor,","como as águas cobrem o mar."],np:1},
+{s:"A volta dos exilados"},
+{v:10,l:["Naquele dia, a raiz de Jessé","se erguerá como estandarte para os povos;","as nações a buscarão,","e a sua morada será gloriosa."],n:"Paulo cita este versículo, segundo a tradução grega, em Romanos 15,12."},
+{v:11,l:["Naquele dia, o Senhor estenderá de novo a mão","para resgatar o resto do seu povo,","o que tiver sobrado na Assíria e no Egito,","em Patros e na Etiópia,","em Elam e em Senaar,","em Emat e nas ilhas do mar."],np:1,n:"Patros: o Alto Egito. Senaar: a Babilônia."},
+{v:12,l:["Ele erguerá um estandarte para as nações,","reunirá os dispersos de Israel","e juntará os espalhados de Judá","dos quatro cantos da terra."],np:1},
+{v:13,l:["Então cessará a inveja de Efraim,","e os adversários de Judá serão eliminados;","Efraim não invejará Judá,","e Judá não hostilizará Efraim."],np:1},
+{v:14,l:["Eles se lançarão sobre as encostas dos filisteus, a ocidente,","e juntos saquearão os filhos do Oriente;","estenderão a mão sobre Edom e Moab,","e os amonitas lhes obedecerão."],np:1},
+{v:15,l:["O Senhor secará o golfo do mar do Egito","e agitará a mão contra o Rio com a força do seu sopro;","ele o dividirá em sete riachos,","para que se possa atravessá-lo de sandálias."],np:1},
+{v:16,l:["Haverá uma estrada para o resto do seu povo,","o que tiver sobrado na Assíria,","como houve para Israel","no dia em que subiu da terra do Egito."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][12] = [
+{s:"Cântico de ação de graças"},
+{v:1,l:["Naquele dia dirás:","Eu te dou graças, Senhor,","pois estavas irado contra mim,","mas a tua ira se afastou, e tu me consolaste."]},
+{v:2,l:["Eis o Deus da minha salvação:","confiarei e não terei medo,","pois a minha força e o meu canto é o Senhor;","ele foi a minha salvação."],np:1,n:"Compare o cântico de Moisés, em Êxodo 15,2."},
+{v:3,l:["Com alegria tirareis água","das fontes da salvação."],np:1,n:"Compare João 7,37–38."},
+{v:4,l:["E naquele dia direis:","Dai graças ao Senhor, invocai o seu nome,","anunciai entre os povos as suas obras,","proclamai que o seu nome é sublime."],np:1},
+{v:5,l:["Cantai ao Senhor, pois fez maravilhas;","que isto seja conhecido em toda a terra."],np:1},
+{v:6,l:["Grita de alegria e exulta, habitante de Sião,","pois é grande no meio de ti o Santo de Israel."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][13] = [
+{s:"Oráculo contra a Babilônia"},
+{v:1,t:"Oráculo contra a Babilônia, que Isaías, filho de Amós, recebeu em visão.",n:"Começa aqui a coleção dos oráculos contra as nações (capítulos 13–23). Oráculo traduz o hebraico massa, que quer dizer também carga, fardo."},
+{v:2,l:["Sobre um monte descalvado erguei um estandarte,","levantai a voz para eles, acenai com a mão,","para que entrem pelas portas dos nobres."],np:1},
+{v:3,l:["Eu dei ordens aos meus consagrados,","chamei os meus valentes para executar a minha ira,","os que exultam com a minha grandeza."],np:1},
+{v:4,l:["Ouvi o tumulto nos montes,","como o de um povo numeroso;","o estrondo dos reinos,","das nações reunidas:","o Senhor dos exércitos passa em revista o exército para a batalha."],np:1},
+{v:5,l:["Eles vêm de uma terra distante,","dos confins do céu,","o Senhor e os instrumentos da sua ira,","para devastar toda a terra."],np:1},
+{v:6,l:["Gemei, pois o dia do Senhor está próximo;","ele vem como uma devastação do Todo-poderoso."],np:1,n:"Jogo de palavras no hebraico: shod (devastação) e Shaddai (Todo-poderoso)."},
+{v:7,l:["Por isso todas as mãos desfalecem,","e todo coração humano se desfaz."],np:1},
+{v:8,l:["Ficam apavorados;","convulsões e dores se apoderam deles,","contorcem-se como a mulher em trabalho de parto;","cada um olha espantado para o outro,","com o rosto em chamas."],np:1},
+{v:9,l:["Eis que vem o dia do Senhor,","implacável, com furor e ira ardente,","para fazer da terra um deserto","e exterminar dela os pecadores."],np:1},
+{v:10,l:["Pois as estrelas do céu e as suas constelações","não farão brilhar a sua luz;","o sol se escurecerá ao nascer,","e a lua não fará resplandecer a sua claridade."],np:1,n:"Compare Mateus 24,29."},
+{v:11,l:["Castigarei o mundo pela sua maldade","e os ímpios pela sua iniquidade;","porei fim ao orgulho dos insolentes","e abaterei a arrogância dos tiranos."],np:1},
+{v:12,l:["Tornarei o homem mais raro que o ouro fino,","e o mortal, mais que o ouro de Ofir."]},
+{v:13,l:["Por isso farei tremer os céus,","e a terra será sacudida do seu lugar,","diante do furor do Senhor dos exércitos,","no dia da sua ira ardente."],np:1},
+{v:14,l:["Então, como a gazela perseguida","e como o rebanho que ninguém reúne,","cada um voltará para o seu povo,","cada um fugirá para a sua terra."],np:1},
+{v:15,l:["Todo aquele que for encontrado será traspassado,","e todo aquele que for apanhado cairá pela espada;"],np:1},
+{v:16,l:["as suas crianças serão esmagadas diante dos seus olhos,","as suas casas serão saqueadas,","e as suas mulheres, violentadas."],np:1,n:"Nota do tradutor: o profeta descreve sem atenuação as atrocidades das guerras antigas. Não as aprova: apresenta-as como o castigo que cairá sobre a Babilônia pela violência que ela mesma praticou (compare Salmo 137,8–9)."},
+{v:17,l:["Eis que suscitarei contra eles os medos,","que não fazem caso da prata","nem se interessam pelo ouro;"],np:1},
+{v:18,l:["os seus arcos abaterão os jovens;","não terão piedade do fruto do ventre,","e os seus olhos não pouparão as crianças."],np:1},
+{v:19,l:["E a Babilônia, a joia dos reinos,","o orgulho e o esplendor dos caldeus,","será como Sodoma e Gomorra","quando Deus as destruiu."],np:1},
+{v:20,l:["Nunca mais será habitada,","nem povoada de geração em geração;","o árabe não armará ali a sua tenda,","nem os pastores farão ali descansar os seus rebanhos."],np:1},
+{v:21,l:["Mas ali descansarão as feras do deserto,","as suas casas se encherão de corujas,","ali morarão os avestruzes,","e os bodes selvagens ali dançarão."],np:1,n:"Os bodes selvagens: talvez os demônios em forma de bode da crença popular, que habitavam as ruínas (compare 34,14)."},
+{v:22,l:["As hienas uivarão nas suas fortalezas,","e os chacais, nos palácios de prazer.","A sua hora está para chegar,","e os seus dias não se prolongarão."],np:1}
+];

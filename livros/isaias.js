@@ -825,3 +825,38 @@ window.TEXTOS_SEED["isaias"][33] = [
 {v:23,l:["As tuas cordas se afrouxaram,","não seguram firme o mastro","nem mantêm a vela estendida.","Então os cegos repartirão um grande despojo,","e os coxos saquearão a presa."],np:1,n:"Os cegos: assim a Nova Vulgata; o hebraico diz: então se repartirá a presa de um grande despojo."},
 {v:24,l:["Nenhum habitante dirá: Estou doente;","o povo que ali mora","terá a sua culpa perdoada."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][34] = [
+{s:"O julgamento das nações e de Edom"},
+{v:1,l:["Aproximai-vos, nações, para ouvir;","povos, prestai atenção!","Que a terra ouça, e tudo o que ela contém,","o mundo e tudo o que nele brota."]},
+{v:2,l:["Pois o Senhor está irado contra todas as nações,","enfurecido contra todo o seu exército:","ele as votou ao extermínio, entregou-as à matança."],np:1,n:"Nota do tradutor: votar ao extermínio traduz o hebraico herem, prática da guerra antiga pela qual os vencidos eram destruídos como consagrados à divindade. A linguagem, que o texto não atenua, serve aqui para descrever o julgamento de Deus sobre as nações hostis."},
+{v:3,l:["Os seus mortos serão lançados fora,","dos seus cadáveres subirá o mau cheiro,","e os montes se desfarão com o seu sangue."],np:1},
+{v:4,l:["Todo o exército do céu se desfará,","os céus se enrolarão como um livro,","e todo o seu exército cairá,","como caem as folhas da videira","e os frutos secos da figueira."],np:1,n:"Compare Apocalipse 6,13–14."},
+{v:5,l:["Pois a minha espada se embriagou no céu:","eis que ela desce sobre Edom,","sobre o povo que eu condenei ao extermínio, para julgá-lo."],np:1},
+{v:6,l:["A espada do Senhor está cheia de sangue,","está coberta de gordura,","do sangue de cordeiros e de bodes,","da gordura dos rins de carneiros;","pois o Senhor faz um sacrifício em Bosra,","uma grande matança na terra de Edom."],np:1,n:"Bosra: capital de Edom."},
+{v:7,l:["Com eles cairão os búfalos,","os novilhos com os touros;","a sua terra se embriagará de sangue,","e o seu pó ficará coberto de gordura."],np:1},
+{v:8,l:["Pois é o dia da vingança do Senhor,","o ano da retribuição, para defender a causa de Sião."],np:1},
+{v:9,l:["As torrentes de Edom se transformarão em piche,","o seu pó, em enxofre,","e a sua terra se tornará piche ardente."],np:1},
+{v:10,l:["Não se apagará nem de noite nem de dia,","a sua fumaça subirá para sempre;","de geração em geração ficará deserta,","pelos séculos dos séculos ninguém passará por ela."],np:1},
+{v:11,l:["O pelicano e o ouriço a possuirão,","a coruja e o corvo habitarão nela;","o Senhor estenderá sobre ela o cordel do caos","e o prumo do vazio."],np:1,n:"Caos e vazio: em hebraico tohu e bohu, as palavras de Gênesis 1,2. Edom voltará ao estado anterior à criação."},
+{v:12,l:["Os seus nobres já não existirão,","e não se proclamará nenhum rei;","todos os seus chefes se reduzirão a nada."],np:1},
+{v:13,l:["Nos seus palácios crescerão espinhos,","urtigas e cardos nas suas fortalezas;","será a toca dos chacais","e o pasto dos avestruzes."],np:1},
+{v:14,l:["Os gatos selvagens se encontrarão com as hienas,","e o bode selvagem chamará o seu companheiro;","ali também Lilit repousará","e encontrará para si um lugar de descanso."],np:1,n:"Lilit: na crença popular, um demônio feminino da noite; a Nova Vulgata traduz: a lâmia."},
+{v:15,l:["Ali a serpente fará o ninho e porá os ovos,","os chocará e reunirá os filhotes à sua sombra;","ali também se reunirão os abutres,","cada um com o seu par."],np:1},
+{v:16,l:["Procurai no livro do Senhor e lede:","nenhum deles falta,","nenhum sente falta do seu par;","pois foi a boca do Senhor que o ordenou,","e o seu espírito os reuniu."],np:1},
+{v:17,l:["Ele mesmo lançou a sorte para eles,","e a sua mão lhes repartiu a terra com o cordel;","eles a possuirão para sempre","e nela habitarão de geração em geração."]}
+];
+
+window.TEXTOS_SEED["isaias"][35] = [
+{s:"O deserto florescerá"},
+{v:1,l:["Alegrem-se o deserto e a terra seca,","exulte a estepe e floresça como o lírio."]},
+{v:2,l:["Que se cubra de flores e exulte","com alegria e cantos de júbilo.","Foi-lhe dada a glória do Líbano,","o esplendor do Carmelo e do Saron;","eles verão a glória do Senhor,","a majestade do nosso Deus."],np:1},
+{v:3,l:["Fortalecei as mãos cansadas","e firmai os joelhos vacilantes."],np:1,n:"Compare Hebreus 12,12."},
+{v:4,l:["Dizei aos que têm o coração perturbado:","Coragem, não tenhais medo!","Eis o vosso Deus:","vem a vingança, a retribuição de Deus;","ele mesmo vem salvar-vos."],np:1},
+{v:5,l:["Então se abrirão os olhos dos cegos,","e os ouvidos dos surdos se desimpedirão."],np:1,n:"Compare a resposta de Jesus aos discípulos de João Batista, em Mateus 11,5."},
+{v:6,l:["Então o coxo saltará como o cervo,","e a língua do mudo gritará de alegria;","pois brotarão águas no deserto,","e torrentes na estepe."],np:1},
+{v:7,l:["A terra ressequida se tornará um lago,","e o solo sedento, fontes de água;","na toca onde repousavam os chacais","crescerão a cana e o junco."],np:1},
+{v:8,l:["Haverá ali uma estrada, um caminho,","que será chamado Caminho Santo;","nenhum impuro passará por ele;","será para eles um caminho reto,","e nem os insensatos se perderão nele."],np:1},
+{v:9,l:["Ali não haverá leão,","nenhuma fera subirá por ele","nem se encontrará ali;","por ele caminharão os resgatados,"],np:1},
+{v:10,l:["e os libertados pelo Senhor voltarão.","Entrarão em Sião com gritos de alegria,","uma alegria eterna coroará a sua cabeça;","alcançarão o júbilo e a alegria,","e fugirão a tristeza e o gemido."],np:1}
+];

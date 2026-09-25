@@ -1242,3 +1242,51 @@ window.TEXTOS_SEED["isaias"][48] = [
 {v:21,l:["Não passaram sede quando ele os conduzia pelos desertos;","fez brotar para eles água da rocha,","fendeu a rocha, e as águas jorraram."],np:1},
 {v:22,l:["Não há paz para os ímpios,","diz o Senhor."],np:1,n:"Refrão que fecha também o capítulo 57 (57,21)."}
 ];
+
+window.TEXTOS_SEED["isaias"][49] = [
+{s:"O segundo cântico do Servo"},
+{v:1,l:["Escutai-me, ilhas,","prestai atenção, povos distantes:","o Senhor me chamou desde o seio materno,","desde o ventre de minha mãe pronunciou o meu nome."],n:"Segundo cântico do Servo (vv. 1–6)."},
+{v:2,l:["Fez da minha boca uma espada afiada,","escondeu-me à sombra da sua mão;","fez de mim uma flecha aguçada","e me guardou na sua aljava."],np:1},
+{v:3,l:["E me disse: Tu és o meu servo,","Israel, em quem manifestarei a minha glória."],np:1},
+{v:4,l:["Mas eu disse: Em vão me cansei,","gastei as minhas forças inutilmente, por nada;","contudo, o meu direito está com o Senhor,","e a minha recompensa, com o meu Deus."],np:1},
+{v:5,l:["E agora fala o Senhor,","que me formou desde o seio materno para ser o seu servo,","para lhe reconduzir Jacó","e reunir-lhe Israel","— fui honrado aos olhos do Senhor,","e o meu Deus é a minha força —;"],np:1},
+{v:6,l:["ele diz: É pouco que sejas o meu servo","para restaurar as tribos de Jacó","e reconduzir os sobreviventes de Israel:","eu te farei luz das nações,","para que a minha salvação chegue até os confins da terra."],np:1,n:"Compare Lucas 2,32 e Atos 13,47."},
+{s:"A volta dos exilados"},
+{v:7,l:["Assim diz o Senhor,","o redentor e o Santo de Israel,","àquele que é desprezado por todos,","àquele que as nações abominam,","ao escravo dos tiranos:","Reis verão e se levantarão,","príncipes se prostrarão,","por causa do Senhor, que é fiel,","do Santo de Israel, que te escolheu."]},
+{v:8,l:["Assim diz o Senhor:","No tempo favorável eu te atendi,","no dia da salvação eu te ajudei;","eu te guardei e te constituí aliança do povo,","para restaurar a terra","e repartir as heranças devastadas;"],np:1,n:"Compare 2 Coríntios 6,2."},
+{v:9,l:["para dizer aos prisioneiros: Saí!","E aos que estão nas trevas: Aparecei!","Eles pastarão ao longo dos caminhos,","e em todas as colinas desnudas terão pastagem;"],np:1},
+{v:10,l:["não terão fome nem sede,","o calor e o sol não os atingirão,","pois aquele que tem compaixão deles os guiará","e os conduzirá às fontes de água."],np:1,n:"Compare Apocalipse 7,16–17."},
+{v:11,l:["Transformarei todos os meus montes em caminhos,","e as minhas estradas serão aterradas."],np:1},
+{v:12,l:["Eis que estes vêm de longe;","eis que aqueles vêm do norte e do ocidente,","e aqueles outros, da terra de Sinim."],np:1,n:"Sinim: talvez Siene, a atual Assuã, no sul do Egito."},
+{v:13,l:["Gritai de alegria, céus; exulta, terra;","montes, irrompei em gritos de alegria,","pois o Senhor consola o seu povo","e tem compaixão dos seus pobres."],np:1},
+{s:"Eu não te esquecerei"},
+{v:14,l:["Sião dizia: O Senhor me abandonou,","o Senhor se esqueceu de mim."]},
+{v:15,l:["Acaso uma mulher pode esquecer o seu bebê,","deixar de ter compaixão do filho do seu ventre?","Ainda que ela se esquecesse,","eu não te esquecerei."],np:1},
+{v:16,l:["Eis que te gravei na palma das minhas mãos;","as tuas muralhas estão sempre diante de mim."],np:1},
+{v:17,l:["Os teus construtores se apressam;","os que te destruíram e devastaram se afastam de ti."],np:1,n:"Assim a Nova Vulgata; o hebraico tradicional diz: os teus filhos."},
+{v:18,l:["Ergue os olhos ao redor e vê:","todos eles se reúnem e vêm a ti.","Por minha vida, oráculo do Senhor,","tu te vestirás de todos eles como de um enfeite","e te cingirás deles como uma noiva."],np:1},
+{v:19,l:["Pois as tuas ruínas e os teus lugares desertos","e a tua terra devastada","serão agora estreitos demais para os teus habitantes,","e estarão longe os que te devoravam."],np:1},
+{v:20,l:["Os filhos de que foste privada","ainda dirão aos teus ouvidos:","Este lugar é estreito demais para mim;","dá-me espaço para eu morar."],np:1},
+{v:21,l:["E dirás no teu coração:","Quem me gerou estes filhos?","Eu estava privada de filhos e estéril,","exilada e prisioneira;","e estes, quem os criou?","Eis que eu tinha ficado sozinha;","e estes, onde estavam?"],np:1},
+{v:22,l:["Assim diz o Senhor Deus:","Eis que levantarei a minha mão para as nações","e erguerei o meu estandarte para os povos;","eles trarão os teus filhos nos braços,","e as tuas filhas serão carregadas nos ombros."],np:1},
+{v:23,l:["Reis serão os teus tutores,","e as suas princesas, as tuas amas;","com o rosto em terra se prostrarão diante de ti","e lamberão o pó dos teus pés.","Então saberás que eu sou o Senhor:","não ficarão envergonhados os que esperam em mim."],np:1},
+{v:24,l:["Pode-se tirar a presa do guerreiro,","ou livrar o cativo do tirano?"],np:1},
+{v:25,l:["Pois assim diz o Senhor:","Até o cativo será tirado do guerreiro,","e a presa do tirano será libertada;","eu mesmo lutarei contra os que lutam contigo","e salvarei os teus filhos."],np:1},
+{v:26,l:["Farei os teus opressores comerem a própria carne,","e se embriagarão com o próprio sangue como com vinho novo;","então toda carne saberá que eu, o Senhor, sou o teu salvador,","e o teu redentor é o Poderoso de Jacó."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][50] = [
+{s:"A culpa de Israel"},
+{v:1,l:["Assim diz o Senhor:","Onde está a carta de divórcio da vossa mãe,","com a qual eu a teria despedido?","Ou a qual dos meus credores","eu vos vendi?","Eis que foi por causa das vossas iniquidades que fostes vendidos,","e por causa das vossas transgressões a vossa mãe foi despedida."],n:"A mãe é Jerusalém; o exílio não foi um divórcio definitivo, mas o castigo do pecado."},
+{v:2,l:["Por que, quando vim, não havia ninguém?","Por que, quando chamei, ninguém respondeu?","Acaso a minha mão ficou curta demais para resgatar,","ou não tenho força para libertar?","Eis que com a minha ameaça seco o mar","e transformo os rios em deserto;","os seus peixes apodrecem por falta de água","e morrem de sede."],np:1},
+{v:3,l:["Visto os céus de escuridão","e os cubro com um pano de saco."],np:1},
+{s:"O terceiro cântico do Servo"},
+{v:4,l:["O Senhor Deus me deu uma língua de discípulo,","para que eu saiba sustentar com uma palavra o cansado;","todas as manhãs ele desperta,","desperta o meu ouvido,","para que eu escute como um discípulo."],n:"Terceiro cântico do Servo (vv. 4–9)."},
+{v:5,l:["O Senhor Deus abriu o meu ouvido,","e eu não resisti,","não recuei."],np:1},
+{v:6,l:["Ofereci as costas aos que me batiam","e as faces aos que me arrancavam a barba;","não escondi o rosto","dos insultos e das cusparadas."],np:1,n:"Compare Mateus 26,67; 27,30."},
+{v:7,l:["O Senhor Deus me ajuda,","por isso não me sinto humilhado;","por isso tornei o meu rosto duro como pedra,","e sei que não ficarei envergonhado."],np:1},
+{v:8,l:["Está perto aquele que me faz justiça;","quem vai discutir comigo? Compareçamos juntos!","Quem é o meu adversário? Que se aproxime de mim!"],np:1,n:"Compare Romanos 8,33–34."},
+{v:9,l:["Eis que o Senhor Deus me ajuda:","quem me condenará?","Eis que todos eles se desgastarão como uma roupa,","a traça os comerá."],np:1},
+{v:10,l:["Quem de vós teme o Senhor","e escuta a voz do seu servo?","Quem anda nas trevas","e não tem luz,","confie no nome do Senhor","e se apoie no seu Deus."],np:1},
+{v:11,l:["Mas vós todos, que acendeis o fogo","e vos armais de flechas incendiárias,","andai no clarão do vosso fogo","e entre as flechas que acendestes!","É da minha mão que isto vos vem:","jazereis em tormentos."],np:1}
+];

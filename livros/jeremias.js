@@ -1,0 +1,71 @@
+// =====================================================================
+// Jeremias — tradução do hebraico (versificação: Nova Vulgata)
+// Formato: {s:"subtítulo"} abre trecho; {v,t,n} prosa; {v,l:[...]} verso;
+// np:1 marca início de parágrafo (nos poemas, de estrofe).
+// =====================================================================
+
+window.TEXTOS_SEED["jeremias"][1] = [
+{s:"Título do livro"},
+{v:1,t:"Palavras de Jeremias, filho de Helcias, um dos sacerdotes que viviam em Anatot, na terra de Benjamim.",n:"Jeremias exerceu o seu ministério em Jerusalém desde 627 até depois da destruição da cidade pelos babilônios, em 587 antes de Cristo. A antiga tradução grega tem um texto bem mais curto e em outra ordem; a Nova Vulgata segue o texto hebraico."},
+{v:2,t:"A ele foi dirigida a palavra do Senhor nos dias de Josias, filho de Amon, rei de Judá, no décimo terceiro ano do seu reinado,",np:1,n:"Em 627 antes de Cristo."},
+{v:3,t:"e depois nos dias de Joaquim, filho de Josias, rei de Judá, até o fim do décimo primeiro ano de Sedecias, filho de Josias, rei de Judá, até a deportação de Jerusalém, no quinto mês.",np:1,n:"Em 587 antes de Cristo."},
+{s:"A vocação de Jeremias"},
+{v:4,t:"A palavra do Senhor me foi dirigida nestes termos:"},
+{v:5,l:["Antes de te formar no ventre materno, eu te conheci;","antes que saísses do seio, eu te consagrei","e te constituí profeta das nações."],np:1},
+{v:6,t:"Eu disse: Ah, Senhor Deus! Eis que não sei falar, porque sou jovem.",np:1},
+{v:7,l:["Mas o Senhor me respondeu: Não digas: Sou jovem,","pois irás a todos aqueles a quem eu te enviar","e dirás tudo o que eu te ordenar."],np:1},
+{v:8,l:["Não tenhas medo deles,","pois estou contigo para te livrar,","oráculo do Senhor."],np:1},
+{v:9,l:["Então o Senhor estendeu a mão e tocou a minha boca, e o Senhor me disse:","Eis que ponho as minhas palavras na tua boca;"],np:1},
+{v:10,l:["vê: hoje te constituo sobre as nações e sobre os reinos,","para arrancar e para derrubar,","para destruir e para demolir,","para construir e para plantar."],np:1},
+{s:"Duas visões"},
+{v:11,t:"A palavra do Senhor me foi dirigida nestes termos: Que vês, Jeremias? Eu respondi: Vejo um ramo de amendoeira.",n:"Jogo de palavras no hebraico: shaqed (amendoeira, a árvore que desperta primeiro depois do inverno) e shoqed (vigilante)."},
+{v:12,t:"E o Senhor me disse: Viste bem, pois eu vigio sobre a minha palavra, para realizá-la."},
+{v:13,t:"A palavra do Senhor me foi dirigida uma segunda vez: Que vês? Eu respondi: Vejo uma panela fervendo, com a boca voltada do lado norte.",np:1},
+{v:14,l:["E o Senhor me disse:","Do norte se derramará a desgraça","sobre todos os habitantes da terra."]},
+{v:15,l:["Pois eis que vou chamar","todas as famílias dos reinos do norte,","oráculo do Senhor;","eles virão, e cada um porá o seu trono","à entrada das portas de Jerusalém,","contra todas as suas muralhas ao redor","e contra todas as cidades de Judá."],np:1},
+{v:16,l:["Pronunciarei contra eles as minhas sentenças","por toda a sua maldade,","porque me abandonaram,","queimaram incenso a outros deuses","e adoraram a obra das suas mãos."],np:1},
+{v:17,l:["Mas tu, cinge os teus rins,","levanta-te e dize-lhes","tudo o que eu te ordenar;","não tenhas medo deles,","senão eu te farei ter medo diante deles."],np:1},
+{v:18,l:["Eis que hoje faço de ti","uma cidade fortificada,","uma coluna de ferro","e uma muralha de bronze","contra toda a terra,","contra os reis de Judá, contra os seus chefes,","contra os seus sacerdotes e contra o povo da terra."],np:1},
+{v:19,l:["Eles lutarão contra ti, mas não te vencerão,","pois estou contigo,","oráculo do Senhor,","para te livrar."],np:1}
+];
+
+window.TEXTOS_SEED["jeremias"][2] = [
+{s:"A infidelidade de Israel"},
+{v:1,t:"A palavra do Senhor me foi dirigida nestes termos:"},
+{v:2,l:["Vai e grita aos ouvidos de Jerusalém:","Assim diz o Senhor:","Lembro-me do amor da tua juventude,","do amor do teu noivado,","quando me seguias no deserto,","numa terra não semeada."],np:1},
+{v:3,l:["Israel era consagrado ao Senhor,","as primícias da sua colheita;","todos os que o devoravam se tornavam culpados,","e a desgraça caía sobre eles,","oráculo do Senhor."],np:1},
+{v:4,l:["Ouvi a palavra do Senhor, casa de Jacó,","e todas as famílias da casa de Israel."],np:1},
+{v:5,l:["Assim diz o Senhor:","Que injustiça encontraram em mim os vossos pais,","para se afastarem de mim,","correrem atrás do nada","e se tornarem eles mesmos nada?"],np:1},
+{v:6,l:["Eles não disseram: Onde está o Senhor,","que nos fez subir da terra do Egito,","que nos conduziu pelo deserto,","por uma terra de estepes e barrancos,","por uma terra de seca e de trevas,","por uma terra por onde ninguém passa","e onde nenhum homem habita?"],np:1},
+{v:7,l:["Eu vos trouxe para uma terra de pomares,","para comerdes os seus frutos e os seus bens;","mas vós entrastes e contaminastes a minha terra","e fizestes da minha herança uma abominação."],np:1},
+{v:8,l:["Os sacerdotes não disseram:","Onde está o Senhor?","Os que manejavam a lei não me conheceram,","os pastores se rebelaram contra mim,","os profetas profetizaram em nome de Baal","e seguiram os que não servem para nada."],np:1},
+{v:9,l:["Por isso ainda entrarei em julgamento convosco,","oráculo do Senhor,","e pleitearei com os filhos dos vossos filhos."],np:1},
+{v:10,l:["Passai às ilhas de Quitim e vede,","mandai alguém a Cedar e observai bem,","e vede se aconteceu coisa semelhante:"],np:1,n:"Quitim, no ocidente, e Cedar, no oriente: de um extremo ao outro do mundo conhecido."},
+{v:11,l:["acaso uma nação trocou os seus deuses,","que nem sequer são deuses?","Mas o meu povo trocou a sua Glória","por aquilo que não serve para nada."],np:1},
+{v:12,l:["Pasmai, ó céus, diante disto,","estremecei de horror, ficai assombrados,","oráculo do Senhor."],np:1},
+{v:13,l:["Pois o meu povo cometeu dois males:","abandonaram a mim, fonte de água viva,","para cavar para si cisternas,","cisternas rachadas,","que não retêm a água."],np:1},
+{v:14,l:["Acaso Israel é um escravo,","um servo nascido em casa?","Por que então se tornou uma presa?","Contra ele rugiram os leões"],np:1},
+{v:15,l:["e soltaram o seu rugido;","reduziram a sua terra a um deserto;","as suas cidades foram incendiadas","e ficaram sem habitantes."],np:1},
+{v:16,l:["Até os filhos de Mênfis e de Táfnis","te raparam o alto da cabeça."],np:1},
+{v:17,l:["Não foi isto que atraíste sobre ti,","por teres abandonado o Senhor, teu Deus,","quando ele te guiava pelo caminho?"],np:1},
+{v:18,l:["E agora, que vais fazer no caminho do Egito,","para beber a água do Nilo?","Que vais fazer no caminho da Assíria,","para beber a água do Rio?"],np:1},
+{v:19,l:["A tua maldade te castigará,","e as tuas infidelidades te condenarão;","reconhece e vê como é mau e amargo","teres abandonado o Senhor, teu Deus,","e não teres mais temor de mim,","oráculo do Senhor Deus dos exércitos."],np:1},
+{v:20,l:["Há muito tempo quebraste o teu jugo,","rompeste as tuas correntes","e disseste: Não servirei!","Em toda colina elevada","e debaixo de toda árvore frondosa","tu te deitavas como prostituta."],np:1,n:"A prostituição é imagem da idolatria praticada nos santuários dos cultos cananeus."},
+{v:21,l:["Eu te plantei como uma vinha escolhida,","toda de semente legítima;","como te transformaste para mim","em ramos de uma vinha estranha?"],np:1},
+{v:22,l:["Ainda que te laves com salitre","e uses muito sabão,","a tua culpa continua como uma mancha diante de mim,","oráculo do Senhor Deus."],np:1},
+{v:23,l:["Como podes dizer: Não estou contaminada,","não corri atrás dos baals?","Olha o teu caminho no vale,","reconhece o que fizeste,","camela nova e ligeira, que corre para lá e para cá,"],np:1},
+{v:24,l:["jumenta selvagem acostumada ao deserto,","que no ardor do cio aspira o vento:","quem a conterá no seu desejo?","Todos os que a procuram não precisam cansar-se:","encontram-na no seu mês."],np:1,n:"Nota do tradutor: imagens tiradas do cio dos animais para descrever a ânsia de Israel pelos cultos estrangeiros; o texto não as atenua."},
+{v:25,l:["Poupa o teu pé de andar descalço","e a tua garganta da sede!","Mas disseste: É inútil! Não!","Pois amo os estrangeiros","e quero correr atrás deles."],np:1},
+{v:26,l:["Como o ladrão fica envergonhado quando é apanhado,","assim ficará envergonhada a casa de Israel,","eles, os seus reis, os seus chefes,","os seus sacerdotes e os seus profetas,"],np:1},
+{v:27,l:["que dizem a um pedaço de pau: Tu és o meu pai,","e a uma pedra: Tu me geraste.","Pois voltaram para mim as costas, e não o rosto;","mas no tempo da desgraça dizem:","Levanta-te e salva-nos!"],np:1},
+{v:28,l:["Onde estão os teus deuses, que fizeste para ti?","Que se levantem, se podem salvar-te","no tempo da tua desgraça!","Pois tens tantos deuses, ó Judá,","quantas são as tuas cidades."],np:1},
+{v:29,l:["Por que discutis comigo?","Todos vós vos rebelastes contra mim,","oráculo do Senhor."],np:1},
+{v:30,l:["Em vão feri os vossos filhos:","não aceitaram a correção.","A vossa espada devorou os vossos profetas,","como um leão devastador."],np:1},
+{v:31,l:["Ó geração, prestai atenção à palavra do Senhor:","acaso fui para Israel um deserto,","uma terra de trevas espessas?","Por que o meu povo diz: Somos livres,","não voltaremos mais a ti?"],np:1},
+{v:32,l:["Acaso uma jovem esquece os seus enfeites,","ou uma noiva o seu cinto?","Mas o meu povo se esqueceu de mim","há dias sem conta."],np:1},
+{v:33,l:["Como sabes bem escolher o teu caminho","para buscar o amor!","Por isso ensinaste os teus caminhos","até às mulheres más."],np:1},
+{v:34,l:["Até nas barras da tua roupa se encontra","o sangue de pobres inocentes,","que não surpreendeste arrombando a casa.","E, apesar de tudo isso,"],np:1,n:"A Lei só desculpava a morte de quem era surpreendido arrombando uma casa (Êxodo 22,1)."},
+{v:35,l:["dizes: Sou inocente,","certamente a sua ira se afastou de mim.","Eis que vou entrar em julgamento contigo,","porque dizes: Não pequei."],np:1},
+{v:36,l:["Com que leviandade mudas de caminho!","Também do Egito sairás envergonhada,","como saíste envergonhada da Assíria."],np:1},
+{v:37,l:["Também de lá sairás com as mãos na cabeça,","pois o Senhor rejeitou aqueles em quem confiavas,","e não terás êxito com eles."],np:1}
+];

@@ -1544,3 +1544,43 @@ window.TEXTOS_SEED["isaias"][62] = [
 {v:11,l:["Eis que o Senhor fez ouvir até os confins da terra:","Dizei à filha de Sião:","Eis que vem a tua salvação;","eis que traz consigo o seu prêmio,","e a sua recompensa vai à sua frente."],np:1,n:"Compare Mateus 21,5."},
 {v:12,l:["Eles serão chamados Povo santo,","Resgatados do Senhor;","e tu serás chamada Procurada,","Cidade não abandonada."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][63] = [
+{s:"O vencedor que vem de Edom"},
+{v:1,l:["Quem é este que vem de Edom,","de Bosra, com as roupas tingidas de vermelho?","Este, magnífico nas suas vestes,","que avança na plenitude da sua força?","Sou eu, que falo com justiça,","poderoso para salvar."],n:"Jogo de palavras no hebraico: Edom e adom, vermelho; Bosra e batsir, vindima."},
+{v:2,l:["Por que está vermelha a tua roupa,","e as tuas vestes, como as de quem pisa no lagar?"],np:1},
+{v:3,l:["Pisei sozinho no lagar,","e dos povos ninguém estava comigo;","pisei-os na minha ira,","esmaguei-os no meu furor;","o seu sangue salpicou as minhas vestes,","e manchei toda a minha roupa."],np:1,n:"Nota do tradutor: a imagem do Senhor como vindimador que pisa os inimigos no lagar é mantida sem atenuação; o Apocalipse a retoma para falar do julgamento final (Apocalipse 14,19–20; 19,13–15)."},
+{v:4,l:["Pois estava no meu coração o dia da vingança,","e chegou o ano da minha redenção."],np:1},
+{v:5,l:["Olhei, e não havia quem me ajudasse;","espantei-me de que ninguém me apoiasse;","então o meu braço me trouxe a salvação,","e a minha ira me sustentou."],np:1},
+{v:6,l:["Pisei os povos na minha ira,","esmaguei-os no meu furor","e derramei por terra o seu sangue."],np:1,n:"Esmaguei-os: assim a Nova Vulgata, com alguns manuscritos; o texto hebraico tradicional diz: embriaguei-os."},
+{s:"Recordação das bondades do Senhor"},
+{v:7,l:["Recordarei as bondades do Senhor,","os louvores do Senhor,","por tudo o que o Senhor fez por nós,","pela grande bondade para com a casa de Israel,","que ele lhe mostrou segundo a sua compaixão","e segundo a grandeza do seu amor."]},
+{v:8,l:["Ele disse: Na verdade, são o meu povo,","filhos que não me trairão;","e foi para eles um salvador."],np:1},
+{v:9,l:["Em todas as suas angústias,","não foi um mensageiro nem um anjo,","mas ele mesmo que os salvou;","no seu amor e na sua compaixão","ele mesmo os resgatou,","os levantou e os carregou","todos os dias do passado."],np:1,n:"Assim a Nova Vulgata, com a tradução grega; o hebraico tradicional diz: em todas as suas angústias ele se angustiou, e o anjo da sua face os salvou."},
+{v:10,l:["Mas eles se rebelaram","e entristeceram o seu santo espírito;","por isso ele se tornou seu inimigo","e ele mesmo combateu contra eles."],np:1,n:"Compare Efésios 4,30."},
+{v:11,l:["Então se lembrou dos dias antigos,","de Moisés e do seu povo:","Onde está aquele que os fez subir do mar","com o pastor do seu rebanho?","Onde está aquele que pôs no meio deles","o seu santo espírito,"],np:1},
+{v:12,l:["que fez andar à direita de Moisés","o seu braço glorioso,","que dividiu as águas diante deles,","para conquistar um nome eterno,"],np:1},
+{v:13,l:["que os conduziu pelos abismos,","como um cavalo no deserto, sem que tropeçassem?"],np:1},
+{v:14,l:["Como o gado que desce ao vale,","o espírito do Senhor os conduziu ao descanso.","Assim guiaste o teu povo,","para conquistar um nome glorioso."],np:1},
+{s:"Oração do povo"},
+{v:15,l:["Olha do céu e vê,","da tua morada santa e gloriosa:","onde estão o teu zelo e a tua força?","A comoção das tuas entranhas e a tua compaixão","se retraíram para comigo."]},
+{v:16,l:["Pois tu és o nosso Pai.","Abraão não nos conhece,","e Israel não nos reconhece;","tu, Senhor, és o nosso Pai,","Nosso Redentor é o teu nome desde sempre."],np:1},
+{v:17,l:["Por que, Senhor, nos deixas errar longe dos teus caminhos","e endureces o nosso coração, para que não te temamos?","Volta, por amor dos teus servos,","das tribos da tua herança."],np:1,n:"Nota do tradutor: a oração atribui a Deus o extravio do povo, segundo o modo bíblico de ver todas as coisas na dependência dele; é o grito de quem se sente abandonado, e não uma negação da liberdade humana."},
+{v:18,l:["Por pouco tempo o teu povo santo possuiu a herança;","os nossos inimigos pisaram o teu santuário."],np:1},
+{v:19,l:["Somos há muito tempo como aqueles sobre os quais não reinas,","sobre os quais o teu nome não é invocado.","Ah, se rasgasses os céus e descesses!","Diante de ti os montes estremeceriam."],np:1,n:"Em outras Bíblias, a segunda metade deste versículo é 64,1."}
+];
+
+window.TEXTOS_SEED["isaias"][64] = [
+{s:"Ah, se rasgasses os céus!"},
+{v:1,l:["Como o fogo acende os gravetos","e faz ferver a água,","para dares a conhecer o teu nome aos teus inimigos,","as nações tremeriam diante de ti,"],n:"Em outras Bíblias, 64,2."},
+{v:2,l:["quando fizeste prodígios","que não esperávamos:","desceste, e diante de ti os montes estremeceram."],np:1},
+{v:3,l:["Desde sempre ninguém ouviu,","nenhum ouvido percebeu,","nenhum olho viu um Deus além de ti,","que agisse assim em favor dos que esperam nele."],np:1,n:"Compare 1 Coríntios 2,9."},
+{v:4,l:["Vais ao encontro de quem pratica com alegria a justiça,","dos que se lembram de ti nos teus caminhos.","Eis que te irritaste, e nós pecamos;","nos teus caminhos, desde sempre, seremos salvos."],np:1,n:"Hebraico obscuro; a Nova Vulgata entende, como aqui: nos teus caminhos seremos salvos."},
+{v:5,l:["Todos nós nos tornamos como um impuro,","e todas as nossas obras justas são como um pano manchado;","todos nós murchamos como folhas,","e as nossas iniquidades nos levam como o vento."],np:1},
+{v:6,l:["Não há quem invoque o teu nome,","quem desperte para se agarrar a ti,","pois escondeste de nós o teu rosto","e nos entregaste ao poder das nossas iniquidades."],np:1},
+{v:7,l:["E, no entanto, Senhor, tu és o nosso Pai;","nós somos o barro, e tu, o nosso oleiro;","todos nós somos obra das tuas mãos."],np:1},
+{v:8,l:["Não te irrites demais, Senhor,","nem te lembres para sempre da iniquidade;","olha, pois todos nós somos o teu povo."],np:1},
+{v:9,l:["As tuas cidades santas tornaram-se um deserto;","Sião tornou-se um deserto,","Jerusalém, uma desolação."],np:1},
+{v:10,l:["A nossa casa santa e gloriosa,","onde os nossos pais te louvavam,","foi consumida pelo fogo,","e tudo o que nos era querido está em ruínas."],np:1},
+{v:11,l:["Diante disso, Senhor, ficarás insensível,","ficarás calado e nos afligirás sem medida?"],np:1}
+];

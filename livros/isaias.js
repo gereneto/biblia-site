@@ -1177,3 +1177,68 @@ window.TEXTOS_SEED["isaias"][45] = [
 {v:24,l:["Dirão: Só no Senhor","estão a justiça e a força.","A ele virão, envergonhados,","todos os que se irritavam contra ele."],np:1},
 {v:25,l:["No Senhor será justificada e se gloriará","toda a descendência de Israel."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][46] = [
+{s:"Os deuses da Babilônia e o Deus de Israel"},
+{v:1,l:["Bel se curva, Nebo se inclina;","os seus ídolos são postos sobre animais e bestas de carga;","as imagens que carregáveis são um fardo","para os animais cansados."],n:"Bel, isto é, Marduc, e Nebo: os principais deuses da Babilônia, que eram levados em procissão; aqui fogem carregados como bagagem."},
+{v:2,l:["Eles se inclinam e se curvam juntos;","não conseguem salvar a carga,","e eles mesmos vão para o cativeiro."],np:1},
+{v:3,l:["Escutai-me, casa de Jacó,","e todo o resto da casa de Israel,","vós que fostes carregados por mim desde o seio materno,","levados desde o ventre."],np:1},
+{v:4,l:["Até a vossa velhice eu sou o mesmo,","até os cabelos brancos eu vos carregarei;","eu vos fiz e eu vos levarei,","eu vos carregarei e vos salvarei."],np:1},
+{v:5,l:["A quem me comparareis, a quem me igualareis?","Com quem me confrontareis, como se fôssemos semelhantes?"],np:1},
+{v:6,l:["Tiram o ouro da bolsa","e pesam a prata na balança;","contratam um ourives para fazer dele um deus,","e depois se prostram e o adoram."],np:1},
+{v:7,l:["Carregam-no nos ombros,","levam-no e o põem no seu lugar;","ali fica, sem se mover do lugar;","se alguém clama a ele, não responde,","não o salva da sua angústia."],np:1},
+{v:8,l:["Lembrai-vos disto e envergonhai-vos;","voltai ao vosso coração, rebeldes."],np:1,n:"Hebraico obscuro; a Nova Vulgata entende, como aqui: envergonhai-vos."},
+{v:9,l:["Lembrai-vos das coisas passadas, dos tempos antigos:","eu sou Deus, e não há outro,","eu sou Deus, e não há ninguém como eu."],np:1},
+{v:10,l:["Desde o princípio anuncio o fim,","e desde os tempos antigos o que ainda não aconteceu;","eu digo: O meu plano se cumprirá,","e realizarei toda a minha vontade."],np:1},
+{v:11,l:["Chamo do Oriente uma ave de rapina,","de uma terra distante o homem do meu plano.","Eu o disse, e o farei acontecer;","eu o decidi, e o realizarei."],np:1,n:"A ave de rapina: Ciro."},
+{v:12,l:["Escutai-me, vós que tendes o coração obstinado,","que estais longe da justiça."],np:1},
+{v:13,l:["Faço aproximar a minha justiça, ela não está longe,","e a minha salvação não tardará;","porei em Sião a salvação","e em Israel a minha glória."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][47] = [
+{s:"A queda da Babilônia"},
+{v:1,l:["Desce e senta-te no pó,","virgem, filha de Babilônia;","senta-te no chão, sem trono,","filha dos caldeus,","pois não te chamarão mais","delicada e mimosa."]},
+{v:2,l:["Pega a mó e mói a farinha;","tira o teu véu,","levanta a saia, descobre as pernas,","atravessa os rios."],np:1},
+{v:3,l:["A tua nudez será descoberta,","e a tua vergonha será vista.","Tomarei vingança,","não pouparei ninguém,"],np:1,n:"Nota do tradutor: a cidade é personificada como uma mulher reduzida à escravidão e exposta à vergonha, imagem tirada da sorte das prisioneiras de guerra; o texto não a atenua."},
+{v:4,l:["diz o nosso Redentor, cujo nome é Senhor dos exércitos,","o Santo de Israel."],np:1},
+{v:5,l:["Senta-te em silêncio e entra nas trevas,","filha dos caldeus,","pois não te chamarão mais","Senhora dos reinos."],np:1},
+{v:6,l:["Irritei-me contra o meu povo,","profanei a minha herança","e os entreguei nas tuas mãos;","mas tu não tiveste compaixão deles,","e sobre o velho fizeste pesar demais o teu jugo."],np:1},
+{v:7,l:["E disseste: Serei senhora para sempre!","Não refletiste sobre estas coisas,","não pensaste no seu fim."],np:1},
+{v:8,l:["Agora, pois, escuta isto, voluptuosa,","que te sentas em segurança","e dizes no teu coração:","Eu, e mais ninguém!","Não ficarei viúva,","não conhecerei a perda dos filhos."],np:1,n:"Compare Apocalipse 18,7."},
+{v:9,l:["Estas duas coisas virão sobre ti","de repente, num só dia:","a perda dos filhos e a viuvez;","cairão sobre ti com toda a força,","apesar da multidão das tuas feitiçarias","e do poder dos teus encantamentos."],np:1},
+{v:10,l:["Confiavas na tua maldade","e dizias: Ninguém me vê.","A tua sabedoria e o teu saber","te extraviaram,","e dizias no teu coração:","Eu, e mais ninguém!"],np:1},
+{v:11,l:["Mas cairá sobre ti uma desgraça","que não saberás esconjurar;","virá sobre ti uma calamidade","que não poderás afastar;","cairá sobre ti de repente","uma ruína que não esperas."],np:1},
+{v:12,l:["Continua com os teus encantamentos","e com a multidão das tuas feitiçarias,","com que te cansaste desde a juventude:","talvez possas tirar proveito,","talvez possas causar medo."],np:1},
+{v:13,l:["Cansaste-te com a multidão dos teus conselheiros;","que se levantem e te salvem","os que decifram o céu,","os que observam as estrelas","e anunciam a cada lua nova","o que vai acontecer contigo."],np:1},
+{v:14,l:["Eis que eles serão como palha:","o fogo os queimará.","Não salvarão a própria vida","do poder das chamas;","não serão brasas para alguém se aquecer,","nem fogo para alguém se sentar diante dele."],np:1},
+{v:15,l:["Assim serão para ti os teus comerciantes,","com quem te cansaste desde a juventude;","cada um vai errante pelo seu caminho,","e ninguém te salvará."],np:1,n:"A Nova Vulgata entende: os teus feiticeiros."}
+];
+
+window.TEXTOS_SEED["isaias"][48] = [
+{s:"Israel, povo obstinado"},
+{v:1,l:["Ouvi isto, casa de Jacó,","vós que sois chamados pelo nome de Israel","e saístes das águas de Judá,","que jurais pelo nome do Senhor","e invocais o Deus de Israel,","mas não com verdade nem com justiça."]},
+{v:2,l:["Pois tomam o nome da cidade santa","e se apoiam no Deus de Israel,","cujo nome é Senhor dos exércitos."],np:1},
+{v:3,l:["Anunciei há muito tempo as coisas passadas;","elas saíram da minha boca,","e eu as fiz ouvir;","de repente agi, e elas aconteceram."],np:1},
+{v:4,l:["Pois eu sabia que és obstinado,","que a tua nuca é um nervo de ferro","e a tua testa é de bronze."],np:1},
+{v:5,l:["Por isso te anunciei há muito tempo,","antes que acontecessem eu te fiz ouvir,","para que não dissesses: O meu ídolo fez isto,","a minha imagem esculpida e a minha estátua de metal o ordenaram."],np:1},
+{v:6,l:["Ouviste; olha tudo isto:","não o anunciareis vós?","Agora te faço ouvir coisas novas,","coisas escondidas que não conhecias."],np:1},
+{v:7,l:["Foram criadas agora, e não há muito tempo;","antes de hoje não as tinhas ouvido,","para que não dissesses: Eu já sabia."],np:1},
+{v:8,l:["Não as ouviste nem as conheceste,","nem há muito tempo os teus ouvidos se abriram;","pois eu sabia que és completamente traidor","e que desde o ventre te chamam rebelde."],np:1},
+{v:9,l:["Por causa do meu nome contenho a minha ira,","por causa da minha honra me refreio para contigo,","para não te exterminar."],np:1},
+{v:10,l:["Eis que te purifiquei, mas não como a prata;","eu te provei no crisol da aflição."],np:1},
+{v:11,l:["Por causa de mim, por causa de mim o faço,","pois como deixaria que o meu nome fosse profanado?","Não darei a outro a minha glória."],np:1},
+{s:"O Senhor chamou Ciro"},
+{v:12,l:["Escuta-me, Jacó,","Israel, a quem chamei:","sou eu, eu sou o primeiro,","e eu sou também o último."]},
+{v:13,l:["A minha mão fundou a terra,","e a minha direita estendeu os céus;","quando eu os chamo, apresentam-se todos juntos."],np:1},
+{v:14,l:["Reuni-vos todos e escutai:","quem dentre eles anunciou estas coisas?","Aquele a quem o Senhor ama","cumprirá a sua vontade contra a Babilônia,","e o seu braço, contra os caldeus."],np:1},
+{v:15,l:["Eu, eu falei e o chamei;","eu o fiz vir, e o seu caminho será bem-sucedido."],np:1},
+{v:16,l:["Aproximai-vos de mim e escutai isto:","desde o princípio não falei às escondidas;","desde o momento em que isto acontecia, eu estava lá.","E agora o Senhor Deus me enviou, com o seu espírito."],np:1,n:"A última frase parece ser palavra do profeta, ou do Servo (compare 61,1)."},
+{s:"Se tivesses sido atento"},
+{v:17,l:["Assim diz o Senhor,","o teu redentor, o Santo de Israel:","Eu sou o Senhor, teu Deus,","que te ensino o que é proveitoso,","que te guio pelo caminho em que deves andar."]},
+{v:18,l:["Se tivesses sido atento aos meus mandamentos,","a tua paz seria como um rio,","e a tua justiça, como as ondas do mar;"],np:1},
+{v:19,l:["a tua descendência seria como a areia,","e os frutos do teu ventre, como os seus grãos;","o seu nome nunca seria eliminado","nem apagado da minha presença."],np:1},
+{s:"Saí da Babilônia"},
+{v:20,l:["Saí da Babilônia, fugi dos caldeus!","Com gritos de alegria anunciai,","fazei ouvir isto, levai-o até os confins da terra;","dizei: O Senhor resgatou o seu servo Jacó!"]},
+{v:21,l:["Não passaram sede quando ele os conduzia pelos desertos;","fez brotar para eles água da rocha,","fendeu a rocha, e as águas jorraram."],np:1},
+{v:22,l:["Não há paz para os ímpios,","diz o Senhor."],np:1,n:"Refrão que fecha também o capítulo 57 (57,21)."}
+];

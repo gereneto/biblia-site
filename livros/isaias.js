@@ -1413,3 +1413,76 @@ window.TEXTOS_SEED["isaias"][56] = [
 {v:11,l:["são cães vorazes, que nunca se saciam;","são pastores que não entendem nada;","cada um segue o seu próprio caminho,","cada um busca o seu lucro,","do primeiro ao último."],np:1},
 {v:12,l:["Vinde, vou buscar vinho,","embriaguemo-nos de bebida;","amanhã será como hoje,","e ainda muito melhor!"],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][57] = [
+{s:"A morte do justo"},
+{v:1,l:["O justo perece, e ninguém se importa;","os homens piedosos são levados,","e ninguém compreende","que o justo é levado para longe do mal."]},
+{v:2,l:["Ele entra na paz;","repousam nos seus leitos","os que andam na retidão."],np:1},
+{s:"Contra a idolatria"},
+{v:3,l:["Mas vós, aproximai-vos daqui, filhos da feiticeira,","descendência do adúltero e da prostituta!"]},
+{v:4,l:["De quem zombais?","Contra quem abris a boca e mostrais a língua?","Não sois vós filhos da rebeldia,","descendência da mentira,"],np:1},
+{v:5,l:["vós que vos inflamais junto aos terebintos,","debaixo de toda árvore frondosa,","que imolais as crianças nos vales,","debaixo das fendas dos rochedos?"],np:1,n:"Alusão aos sacrifícios de crianças do culto cananeu (compare 2 Reis 16,3; 23,10)."},
+{v:6,l:["Entre as pedras lisas do vale está a tua parte;","elas, elas são a tua sorte;","a elas derramaste libações,","ofereceste oblações.","Acaso ficarei tranquilo diante disso?"],np:1},
+{v:7,l:["Sobre um monte alto e elevado puseste o teu leito,","e subiste até lá para oferecer sacrifícios."],np:1},
+{v:8,l:["Atrás da porta e do batente","puseste o teu símbolo;","pois, longe de mim, te descobriste e subiste,","alargaste o teu leito","e fizeste pacto com eles;","amaste a cama deles","e contemplaste o seu membro."],np:1,n:"Nota do tradutor: o hebraico diz mão, eufemismo para o órgão sexual. A infidelidade religiosa é descrita com as imagens da prostituição sagrada, e o texto não as atenua."},
+{v:9,l:["Foste ao rei com óleo","e multiplicaste os teus perfumes;","enviaste os teus mensageiros para longe","e te rebaixaste até a morada dos mortos."],np:1,n:"Ao rei: talvez ao deus Moloc, cujo nome soa como a palavra rei."},
+{v:10,l:["Com a tua longa caminhada te cansaste,","mas não disseste: É inútil!","Encontraste vigor para a tua mão,","por isso não te sentiste enfraquecida."],np:1},
+{v:11,l:["De quem tiveste medo e receio,","para mentires","e não te lembrares de mim,","nem pensares em mim no teu coração?","Não é porque me calei, e há muito tempo,","que não me temes?"],np:1},
+{v:12,l:["Eu vou denunciar a tua justiça","e as tuas obras, que não te servirão para nada."],np:1},
+{v:13,l:["Quando gritares, que a tua coleção de ídolos te salve!","O vento levará todos eles,","um sopro os arrebatará.","Mas quem se refugia em mim herdará a terra","e possuirá o meu monte santo."],np:1},
+{s:"Consolo para os humildes"},
+{v:14,l:["E se dirá: Aterrai, aterrai, preparai o caminho,","tirai os obstáculos do caminho do meu povo!"]},
+{v:15,l:["Pois assim diz o Alto e Sublime,","que habita a eternidade e cujo nome é Santo:","Eu habito no lugar alto e santo,","mas também com o contrito e o humilde de espírito,","para reanimar o espírito dos humildes","e reanimar o coração dos contritos."],np:1},
+{v:16,l:["Pois não acusarei para sempre","nem estarei sempre irado;","senão, desfaleceriam diante de mim o espírito","e o sopro de vida que eu criei."],np:1},
+{v:17,l:["Por causa da iniquidade da sua cobiça me irritei e o feri;","escondi o meu rosto, irritado;","e ele, rebelde, seguiu o caminho do seu coração."],np:1},
+{v:18,l:["Vi os seus caminhos, mas o curarei,","o guiarei e lhe darei de novo consolação,","a ele e aos que choram com ele,"],np:1},
+{v:19,l:["fazendo nascer nos lábios o louvor.","Paz, paz ao que está longe e ao que está perto,","diz o Senhor, e eu o curarei."],np:1,n:"Compare Efésios 2,17."},
+{v:20,l:["Mas os ímpios são como o mar agitado,","que não pode acalmar-se,","e cujas águas revolvem lodo e lama."],np:1},
+{v:21,l:["Não há paz para os ímpios,","diz o meu Deus."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][58] = [
+{s:"O jejum que agrada a Deus"},
+{v:1,l:["Grita a plenos pulmões, não te contenhas;","levanta a voz como uma trombeta","e anuncia ao meu povo as suas transgressões,","e à casa de Jacó os seus pecados."]},
+{v:2,l:["Eles me procuram dia após dia","e desejam conhecer os meus caminhos,","como uma nação que praticasse a justiça","e não abandonasse o direito do seu Deus;","pedem-me julgamentos justos,","desejam a proximidade de Deus:"],np:1},
+{v:3,l:["Por que jejuamos, e tu não vês?","Por que nos humilhamos, e tu não tomas conhecimento?","Eis que no dia do vosso jejum tratais dos vossos negócios","e oprimis todos os vossos trabalhadores."],np:1},
+{v:4,l:["Eis que jejuais entre disputas e brigas,","ferindo com socos maldosos.","Não jejueis como hoje,","se quereis que a vossa voz seja ouvida no alto."],np:1},
+{v:5,l:["Será este o jejum que eu escolhi,","o dia em que o homem se mortifica?","Curvar a cabeça como um junco,","deitar-se sobre pano de saco e cinza?","É isso que chamas de jejum,","dia agradável ao Senhor?"],np:1},
+{v:6,l:["Não é este o jejum que eu escolhi:","soltar as correntes injustas,","desatar as cordas do jugo,","pôr em liberdade os oprimidos","e quebrar todo jugo?"],np:1},
+{v:7,l:["Não é repartir o teu pão com o faminto,","acolher em casa os pobres sem abrigo,","vestir aquele que vês nu","e não te esconderes do teu semelhante?"],np:1},
+{v:8,l:["Então a tua luz romperá como a aurora,","e a tua cura brotará depressa;","a tua justiça irá à tua frente,","e a glória do Senhor fechará a tua retaguarda."],np:1},
+{v:9,l:["Então invocarás, e o Senhor responderá;","clamarás, e ele dirá: Eis-me aqui!","Se tirares do meio de ti o jugo,","o dedo que ameaça e a palavra maldosa;"],np:1},
+{v:10,l:["se abrires o teu coração ao faminto","e saciares a alma aflita,","a tua luz nascerá nas trevas,","e a tua escuridão será como o meio-dia."],np:1},
+{v:11,l:["O Senhor te guiará sempre,","saciará a tua alma nos lugares áridos","e dará vigor aos teus ossos;","serás como um jardim bem regado,","como uma fonte","cujas águas nunca faltam."],np:1},
+{v:12,l:["Os teus reconstruirão as ruínas antigas,","levantarás os alicerces de gerações passadas;","serás chamado reparador de brechas,","restaurador de caminhos, para que se possa habitar."],np:1},
+{s:"O sábado"},
+{v:13,l:["Se deixares de pisar o sábado,","de tratar dos teus negócios no meu dia santo;","se chamares o sábado de delícia,","e digno de honra o dia santo do Senhor;","se o honrares, deixando os teus caminhos,","sem tratar dos teus negócios nem falar à toa,"]},
+{v:14,l:["então encontrarás a tua alegria no Senhor;","eu te farei cavalgar sobre as alturas da terra","e te alimentarei com a herança de Jacó, teu pai;","pois a boca do Senhor falou."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][59] = [
+{s:"Os pecados que separam de Deus"},
+{v:1,l:["Eis que a mão do Senhor não é curta demais para salvar,","nem o seu ouvido é duro demais para ouvir;"]},
+{v:2,l:["mas as vossas iniquidades puseram uma separação","entre vós e o vosso Deus,","e os vossos pecados esconderam de vós o seu rosto,","para que não vos ouça."],np:1},
+{v:3,l:["Pois as vossas mãos estão manchadas de sangue,","e os vossos dedos, de iniquidade;","os vossos lábios dizem mentiras,","e a vossa língua murmura a maldade."],np:1},
+{v:4,l:["Ninguém apela à justiça,","ninguém pleiteia com lealdade;","confiam no vazio e dizem falsidades,","concebem a maldade e dão à luz a iniquidade."],np:1},
+{v:5,l:["Chocam ovos de víbora","e tecem teias de aranha;","quem come dos seus ovos morre,","e do ovo quebrado sai uma serpente."],np:1},
+{v:6,l:["As suas teias não servem para roupa,","e ninguém se cobre com as suas obras;","as suas obras são obras de iniquidade,","e atos de violência estão nas suas mãos."],np:1},
+{v:7,l:["Os seus pés correm para o mal","e se apressam a derramar sangue inocente;","os seus pensamentos são pensamentos de iniquidade,","devastação e ruína há nos seus caminhos."],np:1,n:"Paulo cita os versículos 7–8 em Romanos 3,15–17."},
+{v:8,l:["Não conhecem o caminho da paz,","não há direito nos seus passos;","tornaram tortuosas as suas veredas:","quem anda por elas não conhece a paz."],np:1},
+{s:"Confissão do povo"},
+{v:9,l:["Por isso o direito está longe de nós,","e a justiça não nos alcança;","esperávamos a luz, e eis as trevas;","o clarão, e andamos na escuridão."]},
+{v:10,l:["Tateamos a parede como cegos,","tateamos como quem não tem olhos;","tropeçamos ao meio-dia como no crepúsculo;","entre os vigorosos somos como mortos."],np:1},
+{v:11,l:["Todos nós rugimos como ursos,","gememos como pombas;","esperávamos o direito, e nada;","a salvação, e ela está longe de nós."],np:1},
+{v:12,l:["Pois as nossas transgressões se multiplicaram diante de ti,","e os nossos pecados testemunham contra nós;","sim, as nossas transgressões estão conosco,","e conhecemos as nossas iniquidades:"],np:1},
+{v:13,l:["rebelar-se e renegar o Senhor,","afastar-se do nosso Deus,","falar de opressão e de revolta,","conceber e murmurar no coração palavras mentirosas."],np:1},
+{v:14,l:["Assim o direito recuou,","e a justiça ficou de longe;","pois a verdade tropeça na praça,","e a retidão não consegue entrar."],np:1},
+{v:15,l:["A verdade desapareceu,","e quem se afasta do mal é despojado.","O Senhor viu isso, e lhe desagradou","que não houvesse direito."],np:1},
+{s:"O Senhor vem como guerreiro e redentor"},
+{v:16,l:["Viu que não havia ninguém,","espantou-se de que ninguém interviesse;","então o seu braço lhe trouxe a salvação,","e a sua justiça o sustentou."]},
+{v:17,l:["Vestiu a justiça como couraça","e pôs na cabeça o capacete da salvação;","vestiu-se com as roupas da vingança","e se envolveu no zelo como num manto."],np:1,n:"Compare Efésios 6,14–17."},
+{v:18,l:["Segundo as obras, assim retribuirá:","ira aos seus adversários,","castigo aos seus inimigos;","às ilhas dará o que merecem."],np:1},
+{v:19,l:["Os do ocidente temerão o nome do Senhor,","e os do oriente, a sua glória,","pois ele virá como uma torrente impetuosa,","impelida pelo sopro do Senhor."],np:1},
+{v:20,l:["Um redentor virá para Sião","e para os de Jacó que se converterem do pecado,","oráculo do Senhor."],np:1,n:"Paulo cita este versículo, segundo a tradução grega, em Romanos 11,26."},
+{v:21,l:["Quanto a mim, esta é a minha aliança com eles,","diz o Senhor:","O meu espírito, que está sobre ti,","e as minhas palavras, que pus na tua boca,","não se afastarão da tua boca,","nem da boca dos teus descendentes,","nem da boca dos descendentes dos teus descendentes,","diz o Senhor, desde agora e para sempre."],np:1}
+];

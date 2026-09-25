@@ -770,3 +770,58 @@ window.TEXTOS_SEED["isaias"][31] = [
 {v:8,l:["A Assíria cairá pela espada, mas não de homem;","uma espada, não de mortal, a devorará;","ela fugirá diante da espada,","e os seus jovens serão submetidos a trabalhos forçados."],np:1},
 {v:9,l:["A sua rocha fugirá de terror,","e os seus chefes abandonarão em pânico o estandarte,","oráculo do Senhor, que tem o seu fogo em Sião","e a sua fornalha em Jerusalém."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][32] = [
+{s:"O rei justo"},
+{v:1,l:["Eis que um rei reinará com justiça,","e os príncipes governarão com retidão."]},
+{v:2,l:["Cada um será como um abrigo contra o vento,","um refúgio contra a tempestade,","como canais de água em terra seca,","como a sombra de um grande rochedo numa terra árida."],np:1},
+{v:3,l:["Os olhos dos que veem não estarão mais fechados,","e os ouvidos dos que ouvem estarão atentos;"],np:1},
+{v:4,l:["o coração dos precipitados compreenderá o saber,","e a língua dos gagos falará depressa e com clareza."],np:1},
+{v:5,l:["O insensato não será mais chamado nobre,","nem o velhaco será tido por generoso;"],np:1},
+{v:6,l:["pois o insensato diz insensatezes,","e o seu coração trama a iniquidade,","para praticar a impiedade","e dizer contra o Senhor coisas falsas,","para deixar vazio o estômago do faminto","e privar de bebida o sedento."],np:1},
+{v:7,l:["As armas do velhaco são perversas;","ele trama planos criminosos","para arruinar os humildes com palavras mentirosas,","mesmo quando o pobre defende o seu direito."],np:1},
+{v:8,l:["Mas o nobre concebe coisas nobres","e se mantém firme no que é nobre."],np:1},
+{s:"Contra as mulheres despreocupadas"},
+{v:9,l:["Mulheres despreocupadas, levantai-vos, ouvi a minha voz;","filhas confiantes, escutai as minhas palavras."]},
+{v:10,l:["Dentro de um ano e alguns dias","tremereis, vós que estais tão confiantes;","pois a vindima acabará,","e não haverá colheita."],np:1},
+{v:11,l:["Tremei, despreocupadas;","estremecei, confiantes;","despi-vos, ficai nuas","e cingi os rins com pano de saco."],np:1},
+{v:12,l:["Batei no peito","pelos campos agradáveis,","pela vinha fértil,"],np:1},
+{v:13,l:["pela terra do meu povo,","onde crescem espinhos e sarças,","por todas as casas alegres,","pela cidade em festa."],np:1},
+{v:14,l:["Pois o palácio está abandonado,","a cidade barulhenta ficou deserta;","o Ofel e a torre de vigia","se tornaram cavernas para sempre,","alegria dos jumentos selvagens,","pastagem dos rebanhos,"],np:1,n:"Ofel: o bairro fortificado de Jerusalém entre a cidade de Davi e o templo."},
+{v:15,l:["até que seja derramado sobre nós","o espírito do alto.","Então o deserto se tornará pomar,","e o pomar será tido por floresta;"],np:1},
+{v:16,l:["o direito habitará no deserto,","e a justiça morará no pomar;"],np:1},
+{v:17,l:["a obra da justiça será a paz,","e o fruto da justiça, a tranquilidade","e a segurança para sempre."],np:1},
+{v:18,l:["O meu povo habitará numa morada de paz,","em moradas seguras,","em lugares tranquilos de repouso."],np:1},
+{v:19,l:["Mas a floresta cairá sob o granizo,","e a cidade será abatida por completo."],np:1},
+{v:20,l:["Felizes vós, que semeais junto a todas as águas","e deixais soltos o boi e o jumento."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][33] = [
+{s:"Súplica e promessa de salvação"},
+{v:1,l:["Ai de ti, devastador, que não foste devastado;","traidor, a quem ninguém traiu!","Quando acabares de devastar, serás devastado;","quando terminares de trair, te trairão."]},
+{v:2,l:["Senhor, tem piedade de nós,","pois esperamos em ti;","sê o nosso braço todas as manhãs","e a nossa salvação no tempo da angústia."],np:1},
+{v:3,l:["Ao estrondo da tua voz, os povos fogem;","quando te levantas, as nações se dispersam."],np:1},
+{v:4,l:["Recolhem-se os despojos como os gafanhotos recolhem;","como se lançam os gafanhotos, eles se lançam sobre eles."],np:1},
+{v:5,l:["O Senhor é sublime, pois habita nas alturas;","ele enche Sião de direito e de justiça."],np:1},
+{v:6,l:["Ele será a segurança dos teus dias;","riqueza de salvação são a sabedoria e o conhecimento;","o temor do Senhor é o seu tesouro."],np:1},
+{s:"O Senhor se levanta"},
+{v:7,l:["Eis que os arautos gritam nas ruas,","os mensageiros da paz choram amargamente."],n:"Hebraico obscuro; a Nova Vulgata entende: os arautos."},
+{v:8,l:["As estradas estão desertas,","ninguém passa pelos caminhos;","ele rompeu a aliança,","rejeitou as testemunhas,","não fez caso de ninguém."],np:1,n:"As testemunhas: assim a Nova Vulgata, com o rolo de Isaías de Qumran; o texto hebraico tradicional diz: desprezou as cidades."},
+{v:9,l:["A terra está de luto e definha,","o Líbano está envergonhado e murcha,","o Saron se tornou como um deserto,","Basã e o Carmelo perdem as folhas."],np:1},
+{v:10,l:["Agora me levantarei, diz o Senhor,","agora me exaltarei, agora me erguerei."],np:1},
+{v:11,l:["Concebeis palha e dais à luz restolho;","o meu sopro, como fogo, vos devorará."],np:1,n:"Assim a Nova Vulgata; o hebraico diz: o vosso sopro."},
+{v:12,l:["Os povos serão como fornos de cal,","como espinhos cortados que se queimam no fogo."],np:1},
+{v:13,l:["Ouvi, vós que estais longe, o que eu fiz;","e vós que estais perto, reconhecei o meu poder."],np:1},
+{v:14,l:["Os pecadores tremem em Sião,","o terror se apodera dos ímpios:","Quem de nós poderá morar com o fogo devorador?","Quem de nós poderá morar com as chamas eternas?"],np:1},
+{v:15,l:["Aquele que anda na justiça e fala com retidão,","que rejeita o lucro da extorsão,","que sacode as mãos para não aceitar suborno,","que tapa os ouvidos para não ouvir falar de sangue","e fecha os olhos para não ver o mal:"],np:1},
+{v:16,l:["esse habitará nas alturas,","as fortalezas de rocha serão o seu refúgio;","o seu pão lhe será dado, e a sua água não faltará."],np:1},
+{s:"Jerusalém, morada tranquila"},
+{v:17,l:["Os teus olhos verão o rei na sua beleza,","contemplarão uma terra que se estende ao longe."]},
+{v:18,l:["O teu coração se lembrará do terror:","Onde está o escrivão? Onde está o que pesava o tributo?","Onde está o que contava as torres?"],np:1},
+{v:19,l:["Não verás mais o povo insolente,","o povo de fala obscura, incompreensível,","de língua bárbara, que ninguém entende."],np:1},
+{v:20,l:["Contempla Sião, a cidade das nossas festas!","Os teus olhos verão Jerusalém,","morada tranquila,","tenda que não será removida,","cujas estacas nunca serão arrancadas","e cujas cordas nunca se romperão."],np:1},
+{v:21,l:["Pois ali o Senhor é poderoso para nós,","em lugar de rios e de largos canais,","onde não passarão barcos a remo,","nem os navios poderosos os atravessarão."],np:1},
+{v:22,l:["Pois o Senhor é o nosso juiz,","o Senhor é o nosso legislador,","o Senhor é o nosso rei: ele nos salvará."],np:1},
+{v:23,l:["As tuas cordas se afrouxaram,","não seguram firme o mastro","nem mantêm a vela estendida.","Então os cegos repartirão um grande despojo,","e os coxos saquearão a presa."],np:1,n:"Os cegos: assim a Nova Vulgata; o hebraico diz: então se repartirá a presa de um grande despojo."},
+{v:24,l:["Nenhum habitante dirá: Estou doente;","o povo que ali mora","terá a sua culpa perdoada."],np:1}
+];

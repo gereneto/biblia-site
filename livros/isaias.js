@@ -931,3 +931,42 @@ window.TEXTOS_SEED["isaias"][37] = [
 {v:37,t:"Senaquerib, rei da Assíria, levantou acampamento, partiu e voltou; e ficou em Nínive.",np:1},
 {v:38,t:"Um dia, quando adorava no templo de Nesroc, seu deus, Adramelec e Sarasar, seus filhos, o mataram à espada e fugiram para a terra de Ararat. E seu filho Asaradon reinou em seu lugar."}
 ];
+
+window.TEXTOS_SEED["isaias"][38] = [
+{s:"A doença e a cura de Ezequias"},
+{v:1,t:"Naqueles dias, Ezequias caiu gravemente doente, à beira da morte. O profeta Isaías, filho de Amós, veio ter com ele e disse-lhe: Assim diz o Senhor: Põe em ordem a tua casa, porque vais morrer; não viverás."},
+{v:2,t:"Ezequias voltou o rosto para a parede e orou ao Senhor,"},
+{v:3,t:"dizendo: Ah, Senhor, lembra-te de que andei diante de ti com fidelidade e de coração íntegro, e fiz o que é bom aos teus olhos! E Ezequias chorou muito."},
+{v:4,t:"Então a palavra do Senhor foi dirigida a Isaías nestes termos:",np:1},
+{v:5,t:"Vai e dize a Ezequias: Assim diz o Senhor, Deus de Davi, teu pai: Ouvi a tua oração, vi as tuas lágrimas; eis que acrescentarei quinze anos à tua vida;"},
+{v:6,t:"e te livrarei, a ti e a esta cidade, da mão do rei da Assíria, e protegerei esta cidade."},
+{v:7,t:"Este será para ti o sinal, da parte do Senhor, de que o Senhor cumprirá a palavra que disse:"},
+{v:8,t:"Eis que farei recuar dez degraus a sombra que já desceu, com o sol, nos degraus de Acaz. E o sol recuou dez degraus nos degraus que tinha descido.",n:"Os degraus de Acaz: talvez uma escadaria que servia de relógio de sol."},
+{s:"O cântico de Ezequias"},
+{v:9,t:"Cântico escrito por Ezequias, rei de Judá, quando esteve doente e se curou da sua doença:"},
+{v:10,l:["Eu dizia: Na metade dos meus dias","devo partir para as portas da morada dos mortos;","fui privado do resto dos meus anos."],np:1},
+{v:11,l:["Eu dizia: Não verei mais o Senhor","na terra dos vivos,","não verei mais nenhum homem","entre os habitantes do mundo."],np:1},
+{v:12,l:["A minha morada é arrancada e levada para longe de mim,","como uma tenda de pastores;","como um tecelão, enrolei a minha vida,","e ele me corta do tear.","Do dia para a noite acabas comigo."],np:1},
+{v:13,l:["Fiquei prostrado até de manhã;","como um leão, ele quebra todos os meus ossos;","do dia para a noite acabas comigo."],np:1},
+{v:14,l:["Como a andorinha, eu pio,","gemo como a pomba;","os meus olhos se cansam de olhar para o alto.","Senhor, estou oprimido:","sê o meu fiador!"],np:1},
+{v:15,l:["Que direi? Ele me falou,","e ele mesmo o fez!","Caminharei lentamente todos os meus anos,","na amargura da minha alma."],np:1},
+{v:16,l:["Senhor, em ti espera o meu coração;","que o meu espírito viva:","cura-me e faze-me viver."],np:1,n:"Hebraico obscuro; a Nova Vulgata entende, como aqui: em ti espera o meu coração."},
+{v:17,l:["Eis que a minha amargura se transformou em paz.","Tu livraste a minha vida","da cova da destruição,","pois lançaste para trás das tuas costas","todos os meus pecados."],np:1},
+{v:18,l:["Pois a morada dos mortos não te louva,","a morte não te celebra;","os que descem à cova não esperam","na tua fidelidade."],np:1},
+{v:19,l:["O vivo, só o vivo te louva,","como eu faço hoje;","o pai dá a conhecer aos filhos a tua fidelidade."],np:1},
+{v:20,l:["Senhor, salva-me,","e ao som das cítaras cantaremos","todos os dias da nossa vida","na casa do Senhor."],np:1},
+{v:21,t:"Isaías tinha dito: Tragam uma pasta de figos e a apliquem sobre a úlcera, e ele se curará.",np:1,n:"Os versículos 21–22 correspondem a 2 Reis 20,7–8, onde estão no lugar próprio da narrativa."},
+{v:22,t:"E Ezequias tinha perguntado: Qual é o sinal de que subirei à casa do Senhor?"}
+];
+
+window.TEXTOS_SEED["isaias"][39] = [
+{s:"A embaixada da Babilônia"},
+{v:1,t:"Naquele tempo, Merodac-Baladã, filho de Baladã, rei da Babilônia, enviou cartas e um presente a Ezequias, porque soubera que ele estivera doente e se restabelecera."},
+{v:2,t:"Ezequias alegrou-se com a chegada deles e mostrou-lhes a sua casa do tesouro: a prata, o ouro, os perfumes e o azeite fino, todo o seu arsenal e tudo o que havia nos seus tesouros. Não houve nada em sua casa e em todo o seu domínio que Ezequias não lhes mostrasse."},
+{v:3,t:"Então o profeta Isaías veio ter com o rei Ezequias e lhe perguntou: Que disseram esses homens, e de onde vieram a ti? Ezequias respondeu: Vieram de uma terra distante, da Babilônia.",np:1},
+{v:4,t:"Isaías perguntou: Que viram em tua casa? Ezequias respondeu: Viram tudo o que há em minha casa; não há nada nos meus tesouros que eu não lhes tenha mostrado."},
+{v:5,t:"Então Isaías disse a Ezequias: Ouve a palavra do Senhor dos exércitos:",np:1},
+{v:6,t:"Eis que virão dias em que tudo o que há em tua casa, e o que os teus pais acumularam até hoje, será levado para a Babilônia; não ficará nada, diz o Senhor."},
+{v:7,t:"E dos filhos que sairão de ti, que tu gerarás, tomarão alguns para serem eunucos no palácio do rei da Babilônia."},
+{v:8,t:"Ezequias disse a Isaías: É boa a palavra do Senhor que disseste. Pois pensava: Haverá paz e segurança enquanto eu viver."}
+];

@@ -1486,3 +1486,61 @@ window.TEXTOS_SEED["isaias"][59] = [
 {v:20,l:["Um redentor virá para Sião","e para os de Jacó que se converterem do pecado,","oráculo do Senhor."],np:1,n:"Paulo cita este versículo, segundo a tradução grega, em Romanos 11,26."},
 {v:21,l:["Quanto a mim, esta é a minha aliança com eles,","diz o Senhor:","O meu espírito, que está sobre ti,","e as minhas palavras, que pus na tua boca,","não se afastarão da tua boca,","nem da boca dos teus descendentes,","nem da boca dos descendentes dos teus descendentes,","diz o Senhor, desde agora e para sempre."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][60] = [
+{s:"A glória da nova Jerusalém"},
+{v:1,l:["Levanta-te, resplandece, porque chegou a tua luz,","e a glória do Senhor se levanta sobre ti."],n:"Este capítulo é lido na festa da Epifania (compare Mateus 2,1–11)."},
+{v:2,l:["Pois eis que as trevas cobrem a terra,","e a escuridão, os povos;","mas sobre ti se levanta o Senhor,","e a sua glória aparece sobre ti."],np:1},
+{v:3,l:["As nações caminharão na tua luz,","e os reis, no esplendor do teu nascer."],np:1},
+{v:4,l:["Ergue os olhos ao redor e vê:","todos eles se reúnem e vêm a ti;","os teus filhos vêm de longe,","e as tuas filhas são carregadas nos braços."],np:1},
+{v:5,l:["Então verás e ficarás radiante,","o teu coração palpitará e se dilatará,","pois as riquezas do mar se voltarão para ti,","e os tesouros das nações virão a ti."],np:1},
+{v:6,l:["Uma multidão de camelos te cobrirá,","os dromedários de Madiã e de Efa;","todos virão de Sabá,","trazendo ouro e incenso","e proclamando os louvores do Senhor."],np:1},
+{v:7,l:["Todos os rebanhos de Cedar se reunirão junto de ti,","os carneiros de Nabaiot estarão ao teu serviço;","subirão como oferta agradável ao meu altar,","e eu glorificarei a casa da minha glória."],np:1},
+{v:8,l:["Quem são estes que voam como nuvens,","como pombas para os seus pombais?"],np:1},
+{v:9,l:["Sim, as ilhas esperam por mim,","e os navios de Társis vêm à frente,","para trazer de longe os teus filhos,","e com eles a sua prata e o seu ouro,","para o nome do Senhor, teu Deus,","para o Santo de Israel, que te glorificou."],np:1},
+{v:10,l:["Os estrangeiros reconstruirão as tuas muralhas,","e os seus reis estarão ao teu serviço;","pois na minha ira eu te feri,","mas na minha benevolência tive compaixão de ti."],np:1},
+{v:11,l:["As tuas portas estarão sempre abertas,","não se fecharão nem de dia nem de noite,","para que te tragam as riquezas das nações","e os seus reis sejam conduzidos."],np:1,n:"Compare Apocalipse 21,25–26."},
+{v:12,l:["Pois a nação e o reino que não te servirem perecerão,","e essas nações serão totalmente devastadas."],np:1},
+{v:13,l:["A glória do Líbano virá a ti,","o cipreste, o olmo e o pinheiro juntos,","para adornar o lugar do meu santuário;","e glorificarei o lugar onde pousam os meus pés."],np:1},
+{v:14,l:["Virão a ti, curvados, os filhos dos que te oprimiam,","e se prostrarão aos teus pés todos os que te desprezavam;","e te chamarão Cidade do Senhor,","Sião do Santo de Israel."],np:1},
+{v:15,l:["Em vez de seres abandonada e odiada,","sem que ninguém passasse por ti,","farei de ti o orgulho dos séculos,","a alegria de geração em geração."],np:1},
+{v:16,l:["Mamarás o leite das nações,","serás amamentada ao peito dos reis,","e saberás que eu, o Senhor, sou o teu salvador,","e o teu redentor é o Poderoso de Jacó."],np:1},
+{v:17,l:["Em vez do bronze trarei ouro,","em vez do ferro trarei prata,","em vez da madeira, bronze,","e em vez das pedras, ferro;","farei da paz o teu governo","e da justiça os teus chefes."],np:1},
+{v:18,l:["Não se ouvirá mais falar de violência na tua terra,","nem de devastação e de ruína nas tuas fronteiras;","chamarás às tuas muralhas Salvação,","e às tuas portas, Louvor."],np:1},
+{v:19,l:["Já não será o sol a tua luz durante o dia,","nem o brilho da lua te iluminará;","mas o Senhor será a tua luz eterna,","e o teu Deus será a tua glória."],np:1,n:"Compare Apocalipse 21,23; 22,5."},
+{v:20,l:["O teu sol não se porá mais,","e a tua lua não minguará,","pois o Senhor será a tua luz eterna,","e os dias do teu luto terão fim."],np:1},
+{v:21,l:["O teu povo será todo de justos,","e possuirão a terra para sempre,","rebento que eu plantei,","obra das minhas mãos para a minha glória."],np:1},
+{v:22,l:["O menor se tornará um milhar,","e o mais fraco, uma nação poderosa.","Eu, o Senhor, apressarei isto no seu tempo."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][61] = [
+{s:"O espírito do Senhor está sobre mim"},
+{v:1,l:["O espírito do Senhor Deus está sobre mim,","porque o Senhor me ungiu;","enviou-me a levar a boa-nova aos pobres,","a curar os de coração ferido,","a proclamar a libertação aos cativos","e aos prisioneiros a abertura do cárcere;"],n:"Jesus lê este texto na sinagoga de Nazaré e o aplica a si mesmo (Lucas 4,17–21). A tradução grega, citada por Lucas, diz no último verso: e aos cegos a recuperação da vista."},
+{v:2,l:["a proclamar um ano de graça do Senhor","e um dia de vingança do nosso Deus;","a consolar todos os que choram,"],np:1},
+{v:3,l:["a dar aos que choram em Sião","uma coroa em vez de cinza,","o óleo da alegria em vez do luto,","um manto de louvor em vez de um espírito abatido.","Serão chamados Carvalhos da justiça,","plantação do Senhor para a sua glória."],np:1},
+{v:4,l:["Reconstruirão as ruínas antigas,","levantarão os lugares desolados de outrora,","restaurarão as cidades arruinadas,","desoladas de geração em geração."],np:1},
+{v:5,l:["Os estrangeiros estarão ali para apascentar os vossos rebanhos,","e os filhos dos estrangeiros serão os vossos lavradores e vinhateiros;"],np:1},
+{v:6,l:["mas vós sereis chamados Sacerdotes do Senhor,","sereis chamados Ministros do nosso Deus;","comereis as riquezas das nações","e vos gloriareis com os seus tesouros."],np:1,n:"Compare Êxodo 19,6 e 1 Pedro 2,9."},
+{v:7,l:["Em vez da vossa vergonha, recebereis porção dobrada;","em vez da desonra, se alegrarão com a sua parte;","por isso possuirão na sua terra porção dobrada,","e terão alegria eterna."],np:1},
+{v:8,l:["Pois eu, o Senhor, amo o direito","e odeio o roubo e a iniquidade;","eu lhes darei fielmente a sua recompensa","e farei com eles uma aliança eterna."],np:1},
+{v:9,l:["A sua descendência será conhecida entre as nações,","e os seus rebentos, no meio dos povos;","todos os que os virem reconhecerão","que são a descendência que o Senhor abençoou."],np:1},
+{s:"Cântico de alegria"},
+{v:10,l:["Eu me alegro plenamente no Senhor,","a minha alma exulta no meu Deus,","pois ele me vestiu com as roupas da salvação","e me envolveu com o manto da justiça,","como o noivo que se enfeita com a coroa","e como a noiva que se adorna com as suas joias."],n:"Compare o cântico de Maria, em Lucas 1,46–47."},
+{v:11,l:["Pois, como a terra faz brotar as plantas","e o jardim faz germinar as sementes,","assim o Senhor Deus fará germinar a justiça","e o louvor diante de todas as nações."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][62] = [
+{s:"O novo nome de Jerusalém"},
+{v:1,l:["Por amor de Sião não me calarei,","por amor de Jerusalém não descansarei,","até que a sua justiça brilhe como o clarão","e a sua salvação arda como uma tocha."]},
+{v:2,l:["As nações verão a tua justiça,","e todos os reis, a tua glória;","e receberás um nome novo,","que a boca do Senhor pronunciará."],np:1},
+{v:3,l:["Serás uma coroa magnífica na mão do Senhor,","um diadema real na mão do teu Deus."],np:1},
+{v:4,l:["Não te chamarão mais Abandonada,","e a tua terra não se chamará mais Desolada;","mas serás chamada Minha Delícia,","e a tua terra, Desposada,","pois o Senhor terá prazer em ti,","e a tua terra terá um esposo."],np:1,n:"No hebraico: Azuvá (Abandonada), Shemamá (Desolada), Hefsi-bá (Minha delícia está nela) e Beulá (Desposada)."},
+{v:5,l:["Como o jovem desposa uma virgem,","assim te desposarão os teus filhos;","como o noivo se alegra com a noiva,","assim o teu Deus se alegrará contigo."],np:1},
+{v:6,l:["Sobre as tuas muralhas, Jerusalém, pus sentinelas;","nem de dia nem de noite se calarão.","Vós que fazeis o Senhor lembrar-se, não vos caleis"],np:1},
+{v:7,l:["e não lhe deis descanso,","até que ele restabeleça Jerusalém","e faça dela o louvor da terra."],np:1},
+{v:8,l:["O Senhor jurou pela sua mão direita","e pelo seu braço poderoso:","Não darei mais o teu trigo","como alimento aos teus inimigos,","e os estrangeiros não beberão","o vinho pelo qual trabalhaste."],np:1},
+{v:9,l:["Mas os que o colherem o comerão","e louvarão o Senhor;","e os que fizerem a vindima","o beberão nos átrios do meu santuário."],np:1},
+{v:10,l:["Passai, passai pelas portas,","preparai o caminho do povo!","Aterrai, aterrai a estrada, tirai as pedras,","erguei um estandarte para os povos!"],np:1},
+{v:11,l:["Eis que o Senhor fez ouvir até os confins da terra:","Dizei à filha de Sião:","Eis que vem a tua salvação;","eis que traz consigo o seu prêmio,","e a sua recompensa vai à sua frente."],np:1,n:"Compare Mateus 21,5."},
+{v:12,l:["Eles serão chamados Povo santo,","Resgatados do Senhor;","e tu serás chamada Procurada,","Cidade não abandonada."],np:1}
+];

@@ -560,3 +560,92 @@ window.TEXTOS_SEED["isaias"][23] = [
 {v:17,t:"Depois de setenta anos, o Senhor visitará Tiro, e ela voltará a receber o seu salário e se prostituirá com todos os reinos do mundo, sobre a face da terra.",np:1,n:"A prostituição é aqui imagem do comércio com todas as nações, praticado sem escrúpulos."},
 {v:18,t:"Mas o seu lucro e o seu salário serão consagrados ao Senhor; não serão entesourados nem guardados, pois o seu lucro será para os que habitam diante do Senhor, para que comam até se saciar e se vistam com esplendor."}
 ];
+
+window.TEXTOS_SEED["isaias"][24] = [
+{s:"O julgamento da terra"},
+{v:1,l:["Eis que o Senhor devasta a terra e a arrasa,","transtorna a sua face","e dispersa os seus habitantes."],n:"Os capítulos 24–27, chamados apocalipse de Isaías, anunciam o julgamento do mundo e a vitória final de Deus."},
+{v:2,l:["Será o mesmo para o povo e para o sacerdote,","para o escravo e para o seu senhor,","para a escrava e para a sua senhora,","para o comprador e para o vendedor,","para quem empresta e para quem toma emprestado,","para o credor e para o devedor."],np:1},
+{v:3,l:["A terra será totalmente devastada,","completamente saqueada,","pois o Senhor pronunciou esta palavra."],np:1},
+{v:4,l:["A terra está de luto, murcha;","o mundo definha, murcha;","definham as alturas junto com a terra."],np:1},
+{v:5,l:["A terra foi profanada pelos seus habitantes,","pois transgrediram as leis,","violaram os decretos,","romperam a aliança eterna."],n:"A aliança eterna: talvez a aliança com Noé, que abrange toda a humanidade (Gênesis 9,16)."},
+{v:6,l:["Por isso a maldição devora a terra,","e os seus habitantes pagam a pena;","por isso os habitantes da terra são consumidos,","e restam poucos homens."],np:1},
+{v:7,l:["O vinho novo está de luto, a videira murcha,","gemem todos os que tinham o coração alegre."],np:1},
+{v:8,l:["Cessou a alegria dos tamborins,","acabou o barulho dos que festejam,","cessou a alegria da cítara;"],np:1},
+{v:9,l:["já não bebem vinho entre canções,","a bebida é amarga para os que a bebem."],np:1},
+{v:10,l:["A cidade do caos está destruída,","todas as casas estão fechadas, e ninguém entra;"],np:1},
+{v:11,l:["nas ruas gritam por causa do vinho,","toda a alegria se escureceu,","o júbilo foi banido da terra."],np:1},
+{v:12,l:["Na cidade só resta a desolação,","e a porta foi despedaçada em ruínas."],np:1},
+{v:13,l:["Pois assim acontecerá no meio da terra,","no meio dos povos:","como quando se sacode a oliveira,","como os rebuscos quando acaba a vindima."],np:1},
+{v:14,l:["Eles levantam a voz e gritam de alegria,","do lado do mar aclamam a majestade do Senhor."],np:1},
+{v:15,l:["Por isso, nas regiões da luz, glorificai o Senhor;","nas ilhas do mar, o nome do Senhor, Deus de Israel."],np:1},
+{v:16,l:["Dos confins da terra ouvimos cânticos:","Glória ao justo!","Mas eu disse: Estou definhando, estou definhando!","Ai de mim!","Os traidores traem,","os traidores traem com traição."],np:1,n:"A Nova Vulgata entende: O meu segredo é para mim."},
+{v:17,l:["Terror, cova e laço","sobre ti, habitante da terra!"],np:1,n:"No hebraico, as três palavras soam parecidas: pahad, pahat, pah."},
+{v:18,l:["Quem fugir do grito de terror","cairá na cova;","quem subir da cova","será apanhado no laço.","Pois as comportas do alto se abrirão,","e os fundamentos da terra tremerão."],np:1},
+{v:19,l:["A terra se quebra em pedaços,","a terra se desfaz em fendas,","a terra treme com violência;"]},
+{v:20,l:["a terra cambaleia como um bêbado","e balança como uma choupana;","o seu pecado pesa sobre ela;","ela cairá e não se levantará mais."],np:1},
+{v:21,l:["Naquele dia,","o Senhor castigará no alto o exército do céu,","e na terra os reis da terra;"],np:1},
+{v:22,l:["serão reunidos, presos numa cova,","encerrados numa prisão,","e depois de muitos dias serão julgados."],np:1},
+{v:23,l:["A lua ficará envergonhada, e o sol, confuso,","pois o Senhor dos exércitos reinará no monte Sião e em Jerusalém,","e a sua glória brilhará diante dos seus anciãos."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][25] = [
+{s:"Hino de ação de graças"},
+{v:1,l:["Senhor, tu és o meu Deus;","eu te exaltarei, louvarei o teu nome,","pois realizaste maravilhas,","projetos antigos, firmes e fiéis."]},
+{v:2,l:["Pois fizeste da cidade um monte de pedras,","da cidade fortificada, uma ruína;","a fortaleza dos soberbos já não é uma cidade","e nunca mais será reconstruída."],np:1,n:"Dos soberbos: assim a Nova Vulgata; o hebraico diz: dos estrangeiros (também no v. 5)."},
+{v:3,l:["Por isso um povo forte te glorifica,","a cidade das nações poderosas te teme;"],np:1},
+{v:4,l:["pois foste um refúgio para o pobre,","um refúgio para o necessitado na sua angústia,","abrigo contra a tempestade,","sombra contra o calor.","Pois o sopro dos tiranos","é como a chuva de inverno."],np:1,n:"Assim a Nova Vulgata; o hebraico diz: como a tempestade contra um muro."},
+{v:5,l:["Como o calor na terra seca,","abates o tumulto dos soberbos;","como o calor sob a sombra de uma nuvem,","fazes calar o canto dos tiranos."],np:1},
+{s:"O banquete no monte"},
+{v:6,l:["O Senhor dos exércitos oferecerá","a todos os povos, neste monte,","um banquete de carnes gordas,","um banquete de vinhos velhos,","de carnes gordas e saborosas,","de vinhos velhos e refinados."]},
+{v:7,l:["Neste monte ele rasgará","o véu que cobre todos os povos,","a mortalha estendida sobre todas as nações."],np:1},
+{v:8,l:["Ele destruirá a morte para sempre;","o Senhor Deus enxugará as lágrimas de todos os rostos","e tirará de toda a terra a vergonha do seu povo,","pois o Senhor falou."],np:1,n:"Paulo cita este versículo em 1 Coríntios 15,54; compare Apocalipse 21,4."},
+{v:9,l:["Naquele dia se dirá:","Eis o nosso Deus,","em quem esperamos para que nos salvasse;","este é o Senhor, em quem esperamos:","exultemos e alegremo-nos com a sua salvação."],np:1},
+{v:10,l:["Pois a mão do Senhor repousará sobre este monte.","Mas Moab será pisado no seu lugar,","como se pisa a palha na água do estrume;"],np:1},
+{v:11,l:["ele estenderá as mãos no meio dela,","como o nadador as estende para nadar;","mas o Senhor humilhará o seu orgulho,","apesar da habilidade das suas mãos."],np:1},
+{v:12,l:["As tuas altas muralhas fortificadas,","ele as abateu, derrubou, lançou por terra, até o pó."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][26] = [
+{s:"Cântico de confiança"},
+{v:1,l:["Naquele dia, se cantará este cântico na terra de Judá:","Temos uma cidade forte;","ele pôs a salvação como muralha e antemuro."]},
+{v:2,l:["Abri as portas, para que entre uma nação justa,","que guarda a fidelidade."],np:1},
+{v:3,l:["Ao ânimo firme tu guardas em paz,","em paz, porque confia em ti."],np:1},
+{v:4,l:["Confiai no Senhor para sempre,","pois o Senhor é uma rocha eterna."],np:1},
+{v:5,l:["Ele abateu os que habitavam nas alturas,","humilhou a cidade altiva;","humilhou-a até o chão,","lançou-a até o pó."],np:1},
+{v:6,l:["Pés a pisam,","os pés dos pobres, os passos dos necessitados."],np:1},
+{v:7,l:["O caminho do justo é reto;","tu aplanas a vereda do justo."],np:1},
+{v:8,l:["Sim, no caminho dos teus julgamentos, Senhor, esperamos em ti;","o desejo da nossa alma é o teu nome e a tua lembrança."],np:1},
+{v:9,l:["A minha alma te deseja de noite,","e o meu espírito dentro de mim te busca de madrugada;","pois, quando os teus julgamentos se cumprem na terra,","os habitantes do mundo aprendem a justiça."],np:1},
+{v:10,l:["Se se tem piedade do ímpio,","ele não aprende a justiça;","na terra da retidão, pratica o mal","e não vê a majestade do Senhor."]},
+{v:11,l:["Senhor, a tua mão está levantada, mas eles não a veem;","que vejam, envergonhados, o teu zelo pelo povo,","e que o fogo destinado aos teus inimigos os devore."],np:1},
+{v:12,l:["Senhor, tu nos darás a paz,","pois todas as nossas obras, és tu que as realizas por nós."],np:1},
+{v:13,l:["Senhor, nosso Deus, outros senhores além de ti nos dominaram,","mas só por ti recordamos o teu nome."],np:1},
+{v:14,l:["Os mortos não voltarão a viver,","as sombras não se levantarão;","pois tu os castigaste e os destruíste,","e apagaste toda a sua memória."],np:1,n:"Fala dos opressores do v. 13."},
+{v:15,l:["Aumentaste a nação, Senhor,","aumentaste a nação e mostraste a tua glória;","alargaste todas as fronteiras da terra."],np:1},
+{v:16,l:["Senhor, na angústia te procuraram;","derramaram uma súplica em voz baixa,","quando o teu castigo caiu sobre eles."],np:1},
+{v:17,l:["Como a mulher grávida, prestes a dar à luz,","se contorce e grita nas suas dores,","assim estivemos nós diante de ti, Senhor."],np:1},
+{v:18,l:["Concebemos, sofremos as dores do parto,","mas foi como se tivéssemos dado à luz o vento;","não trouxemos a salvação à terra,","e não nasceram habitantes para o mundo."],np:1},
+{v:19,l:["Os teus mortos voltarão a viver, os meus cadáveres se levantarão.","Despertai e cantai, vós que habitais no pó,","pois o teu orvalho é um orvalho de luz,","e a terra dará à luz as sombras."],np:1,n:"Um dos primeiros textos do Antigo Testamento sobre a ressurreição dos mortos (compare Daniel 12,2)."},
+{v:20,l:["Vai, povo meu, entra nos teus quartos","e fecha as portas atrás de ti;","esconde-te por um breve instante,","até que passe a ira."],np:1},
+{v:21,l:["Pois eis que o Senhor sai da sua morada","para castigar a iniquidade dos habitantes da terra;","a terra descobrirá o sangue que bebeu","e não esconderá mais os seus mortos."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][27] = [
+{s:"A vitória sobre o dragão"},
+{v:1,l:["Naquele dia, o Senhor castigará","com a sua espada dura, grande e forte,","o Leviatã, serpente fugidia,","o Leviatã, serpente tortuosa,","e matará o dragão que está no mar."],n:"Leviatã: monstro marinho da mitologia antiga, símbolo das forças do caos e dos impérios inimigos de Deus (compare Jó 40,25; Salmo 74,14)."},
+{s:"O novo cântico da vinha"},
+{v:2,l:["Naquele dia, cantai","à vinha deliciosa."],n:"Compare o primeiro cântico da vinha, em 5,1–7."},
+{v:3,l:["Eu, o Senhor, sou o seu guarda;","a todo momento eu a rego;","para que ninguém a danifique,","eu a guardo noite e dia."],np:1},
+{v:4,l:["Já não tenho ira.","Se eu encontrar espinhos e sarças,","sairei em guerra contra eles","e os queimarei todos juntos,"],np:1},
+{v:5,l:["a menos que se agarrem à minha proteção","e façam as pazes comigo,","façam as pazes comigo."],np:1},
+{v:6,l:["Nos dias que virão, Jacó lançará raízes,","Israel florescerá e brotará,","e encherão de frutos a face do mundo."],np:1},
+{s:"O castigo e o perdão de Jacó"},
+{v:7,l:["Acaso Deus o feriu como feriu os que o feriam?","Ou foi morto como foram mortos os que o matavam?"]},
+{v:8,l:["Com medida, expulsando-o e desterrando-o, tu o castigaste;","ele o arrastou com o seu sopro violento, no dia do vento leste."],np:1},
+{v:9,l:["Por isso a iniquidade de Jacó será perdoada,","e este será todo o fruto da remoção do seu pecado:","quando ele reduzir todas as pedras do altar","a pedaços, como pedras de cal,","e não ficarem de pé nem os postes sagrados nem os altares de incenso."],np:1},
+{v:10,l:["Pois a cidade fortificada ficou deserta,","morada abandonada e esquecida como o deserto;","ali pasta o bezerro, ali se deita","e come os seus ramos."],np:1},
+{v:11,l:["Quando os seus galhos secam, são quebrados;","as mulheres vêm e os queimam.","Pois este não é um povo inteligente;","por isso o seu Criador não terá compaixão dele,","e aquele que o formou não lhe mostrará favor."],np:1},
+{s:"A reunião dos dispersos"},
+{v:12,l:["Naquele dia,","o Senhor baterá as espigas,","desde o Rio até a torrente do Egito,","e vós sereis recolhidos um por um,","filhos de Israel."]},
+{v:13,l:["Naquele dia,","soará a grande trombeta,","e virão os que estavam perdidos na terra da Assíria","e os que tinham sido expulsos para a terra do Egito,","e adorarão o Senhor","no monte santo, em Jerusalém."],np:1}
+];

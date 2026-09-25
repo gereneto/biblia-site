@@ -1290,3 +1290,69 @@ window.TEXTOS_SEED["isaias"][50] = [
 {v:10,l:["Quem de vós teme o Senhor","e escuta a voz do seu servo?","Quem anda nas trevas","e não tem luz,","confie no nome do Senhor","e se apoie no seu Deus."],np:1},
 {v:11,l:["Mas vós todos, que acendeis o fogo","e vos armais de flechas incendiárias,","andai no clarão do vosso fogo","e entre as flechas que acendestes!","É da minha mão que isto vos vem:","jazereis em tormentos."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][51] = [
+{s:"Olhai para a rocha de onde fostes talhados"},
+{v:1,l:["Escutai-me, vós que buscais a justiça,","vós que procurais o Senhor:","olhai para a rocha de onde fostes talhados,","para a cavidade da pedreira de onde fostes extraídos."]},
+{v:2,l:["Olhai para Abraão, vosso pai,","e para Sara, que vos deu à luz;","pois ele estava sozinho quando o chamei,","e eu o abençoei e o multipliquei."],np:1},
+{v:3,l:["Pois o Senhor consola Sião,","consola todas as suas ruínas;","fará do seu deserto um Éden","e da sua estepe um jardim do Senhor.","Nela se encontrarão a alegria e o júbilo,","a ação de graças e o som dos cânticos."],np:1},
+{v:4,l:["Prestai atenção a mim, povo meu;","nações, escutai-me:","pois de mim sairá a instrução,","e farei do meu direito a luz dos povos."],np:1},
+{v:5,l:["A minha justiça está perto,","a minha salvação já vem,","e os meus braços julgarão os povos;","as ilhas esperam em mim","e confiam no meu braço."],np:1},
+{v:6,l:["Erguei os olhos para o céu","e olhai para a terra lá embaixo:","os céus se dissiparão como a fumaça,","a terra se gastará como uma roupa,","e os seus habitantes morrerão do mesmo modo;","mas a minha salvação permanecerá para sempre,","e a minha justiça não terá fim."],np:1},
+{v:7,l:["Escutai-me, vós que conheceis a justiça,","povo que tens a minha instrução no coração:","não temais o insulto dos homens,","não vos assusteis com os seus ultrajes."],np:1},
+{v:8,l:["Pois a traça os comerá como uma roupa,","o verme os devorará como a lã;","mas a minha justiça permanecerá para sempre,","e a minha salvação, de geração em geração."],np:1},
+{s:"Desperta, braço do Senhor"},
+{v:9,l:["Desperta, desperta, reveste-te de força,","braço do Senhor!","Desperta, como nos dias antigos,","nas gerações de outrora.","Não foste tu que despedaçaste Raab,","que traspassaste o dragão?"]},
+{v:10,l:["Não foste tu que secaste o mar,","as águas do grande abismo,","que fizeste das profundezas do mar um caminho,","para que passassem os resgatados?"],np:1},
+{v:11,l:["Os libertados pelo Senhor voltarão","e entrarão em Sião com gritos de alegria;","uma alegria eterna coroará a sua cabeça;","alcançarão o júbilo e a alegria,","e fugirão a tristeza e o gemido."],np:1},
+{v:12,l:["Eu, eu mesmo sou aquele que vos consola.","Quem és tu, para teres medo de um homem mortal,","de um filho de homem, que será tratado como a erva?"],np:1},
+{v:13,l:["Esqueceste o Senhor, que te fez,","que estendeu os céus e fundou a terra,","e tremes continuamente, o dia inteiro,","diante do furor do opressor,","quando ele se prepara para destruir?","Onde está agora o furor do opressor?"],np:1},
+{v:14,l:["O prisioneiro curvado logo será libertado;","não morrerá na cova,","e não lhe faltará o pão."],np:1},
+{v:15,l:["Pois eu sou o Senhor, teu Deus,","que agito o mar e faço rugir as suas ondas;","Senhor dos exércitos é o seu nome."],np:1},
+{v:16,l:["Pus as minhas palavras na tua boca","e te protegi à sombra da minha mão,","quando estendia os céus e fundava a terra","e dizia a Sião: Tu és o meu povo."],np:1},
+{s:"Desperta, Jerusalém"},
+{v:17,l:["Desperta, desperta, levanta-te, Jerusalém,","tu que bebeste da mão do Senhor","o cálice da sua ira;","bebeste até o fundo","a taça que faz cambalear."]},
+{v:18,l:["Não há ninguém que a guie","entre todos os filhos que ela deu à luz;","não há ninguém que a tome pela mão","entre todos os filhos que ela criou."],np:1},
+{v:19,l:["Estas duas coisas te aconteceram","— quem terá pena de ti? —:","a devastação e a ruína, a fome e a espada.","Quem te consolará?"],np:1},
+{v:20,l:["Os teus filhos desfaleceram,","jazem na esquina de todas as ruas,","como o antílope preso na rede,","cheios da ira do Senhor,","da ameaça do teu Deus."],np:1},
+{v:21,l:["Por isso escuta isto, ó infeliz,","embriagada, mas não de vinho."],np:1},
+{v:22,l:["Assim diz o teu Senhor,","o Senhor, teu Deus, que defende o seu povo:","Eis que tiro da tua mão","o cálice que faz cambalear,","a taça da minha ira;","não voltarás a bebê-la."],np:1},
+{v:23,l:["Eu a porei na mão dos teus opressores,","que te diziam: Curva-te, para que passemos por cima!","E tu fazias das tuas costas um chão,","um caminho para os que passavam."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][52] = [
+{s:"Desperta, Sião"},
+{v:1,l:["Desperta, desperta,","reveste-te da tua força, Sião;","veste as tuas roupas de festa,","Jerusalém, cidade santa,","pois não entrarão mais em ti","o incircunciso e o impuro."]},
+{v:2,l:["Sacode o pó, levanta-te,","Jerusalém cativa;","solta as correntes do teu pescoço,","filha de Sião cativa."],np:1},
+{v:3,t:"Pois assim diz o Senhor: Fostes vendidos por nada e sereis resgatados sem dinheiro.",np:1},
+{v:4,t:"Pois assim diz o Senhor Deus: No princípio, o meu povo desceu ao Egito para morar ali como estrangeiro; depois a Assíria o oprimiu sem motivo."},
+{v:5,t:"E agora, que faço eu aqui?, oráculo do Senhor. O meu povo foi levado por nada; os seus dominadores uivam, oráculo do Senhor, e o meu nome é continuamente desprezado, o dia inteiro.",n:"Paulo cita a última frase em Romanos 2,24."},
+{v:6,t:"Por isso o meu povo conhecerá o meu nome; por isso, naquele dia, saberá que sou eu que digo: Eis-me aqui!"},
+{s:"O mensageiro da paz"},
+{v:7,l:["Como são belos sobre os montes","os pés do mensageiro que anuncia a paz,","que traz boas notícias, que anuncia a salvação,","que diz a Sião: O teu Deus reina!"],n:"Compare Romanos 10,15."},
+{v:8,l:["Ouve! As tuas sentinelas levantam a voz,","gritam de alegria todas juntas,","pois veem com os próprios olhos","o Senhor voltar a Sião."],np:1},
+{v:9,l:["Irrompei juntas em gritos de alegria,","ruínas de Jerusalém,","pois o Senhor consolou o seu povo,","resgatou Jerusalém."],np:1},
+{v:10,l:["O Senhor desnudou o seu santo braço","aos olhos de todas as nações,","e todos os confins da terra verão","a salvação do nosso Deus."],np:1},
+{v:11,l:["Afastai-vos, afastai-vos, saí de lá,","não toqueis em nada impuro;","saí do meio dela, purificai-vos,","vós que levais os utensílios do Senhor."],np:1},
+{v:12,l:["Pois não saireis às pressas","nem partireis em fuga;","o Senhor irá à vossa frente,","e o Deus de Israel fechará a vossa retaguarda."],np:1},
+{s:"O quarto cântico do Servo"},
+{v:13,l:["Eis que o meu servo terá êxito;","será exaltado, elevado e engrandecido ao extremo."],n:"Quarto cântico do Servo (52,13–53,12), o cântico do Servo sofredor. A Igreja o lê na Sexta-feira Santa, e o Novo Testamento o aplica à paixão de Cristo (Atos 8,32–35; 1 Pedro 2,22–25)."},
+{v:14,l:["Assim como muitos ficaram horrorizados ao vê-lo,","tão desfigurado estava o seu aspecto, que não parecia um homem,","e a sua aparência não era a de um ser humano,"],np:1},
+{v:15,l:["assim ele aspergirá muitas nações;","diante dele os reis fecharão a boca,","pois verão o que nunca lhes foi contado","e compreenderão o que nunca ouviram."],np:1,n:"Aspergirá: sentido discutido; talvez o gesto que purifica, ou: fará estremecer. A tradução grega entende: muitas nações se admirarão dele. Paulo cita o fim do versículo em Romanos 15,21."}
+];
+
+window.TEXTOS_SEED["isaias"][53] = [
+{s:"O Servo sofredor"},
+{v:1,l:["Quem acreditou no que ouvimos?","A quem foi revelado o braço do Senhor?"],n:"Compare João 12,38 e Romanos 10,16."},
+{v:2,l:["Ele cresceu diante dele como um rebento,","como uma raiz em terra seca;","não tinha beleza nem esplendor que atraísse os nossos olhares,","nem aparência que nos agradasse."],np:1},
+{v:3,l:["Era desprezado e rejeitado pelos homens,","homem das dores, familiarizado com o sofrimento,","como alguém diante de quem se esconde o rosto;","desprezado, não fazíamos caso dele."],np:1},
+{v:4,l:["No entanto, eram as nossas doenças que ele carregava,","eram as nossas dores que ele levava;","e nós o considerávamos um castigado,","ferido por Deus e humilhado."],np:1,n:"Mateus 8,17 cita este versículo."},
+{v:5,l:["Mas ele foi traspassado por causa das nossas transgressões,","esmagado por causa das nossas iniquidades;","o castigo que nos traz a paz caiu sobre ele,","e pelas suas feridas fomos curados."],np:1},
+{v:6,l:["Todos nós, como ovelhas, andávamos errantes,","cada um seguia o seu próprio caminho;","e o Senhor fez cair sobre ele","a iniquidade de todos nós."],np:1},
+{v:7,l:["Foi maltratado, mas se humilhou","e não abriu a boca;","como um cordeiro levado ao matadouro,","como a ovelha muda diante dos tosquiadores,","ele não abriu a boca."],np:1,n:"Compare Atos 8,32–33 e João 1,29."},
+{v:8,l:["Pela opressão e pelo julgamento foi levado;","e quem se preocupou com a sua sorte?","Pois foi arrancado da terra dos vivos;","foi ferido de morte pela transgressão do meu povo."],np:1},
+{v:9,l:["Deram-lhe a sepultura com os ímpios,","e o túmulo com os ricos,","embora ele não tivesse cometido violência","nem houvesse engano na sua boca."],np:1,n:"Compare 1 Pedro 2,22 e Mateus 27,57–60."},
+{v:10,l:["Mas o Senhor quis esmagá-lo com o sofrimento.","Se ele oferecer a sua vida em sacrifício de expiação,","verá uma descendência, prolongará os seus dias,","e a vontade do Senhor terá êxito por meio dele."],np:1,n:"Nota do tradutor: o texto atribui à vontade de Deus o sofrimento do Servo, sem atenuá-lo. O Novo Testamento lê aqui o desígnio de amor pelo qual o Filho se oferece pelos pecadores (compare Atos 2,23; Romanos 8,32)."},
+{v:11,l:["Depois das angústias da sua alma,","verá a luz e se saciará com o seu conhecimento.","O justo, meu servo, justificará a muitos","e carregará as iniquidades deles."],np:1,n:"Verá a luz: assim a Nova Vulgata, com o rolo de Isaías de Qumran e a tradução grega; o hebraico tradicional não traz a palavra luz."},
+{v:12,l:["Por isso lhe darei a multidão como herança,","e com os poderosos repartirá os despojos,","porque entregou a sua vida à morte","e foi contado entre os malfeitores;","ele carregou o pecado de muitos","e intercedeu pelos transgressores."],np:1,n:"Compare Lucas 22,37."}
+];

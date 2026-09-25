@@ -344,3 +344,73 @@ window.TEXTOS_SEED["isaias"][13] = [
 {v:21,l:["Mas ali descansarão as feras do deserto,","as suas casas se encherão de corujas,","ali morarão os avestruzes,","e os bodes selvagens ali dançarão."],np:1,n:"Os bodes selvagens: talvez os demônios em forma de bode da crença popular, que habitavam as ruínas (compare 34,14)."},
 {v:22,l:["As hienas uivarão nas suas fortalezas,","e os chacais, nos palácios de prazer.","A sua hora está para chegar,","e os seus dias não se prolongarão."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][14] = [
+{s:"A volta de Israel"},
+{v:1,l:["Pois o Senhor terá compaixão de Jacó,","escolherá de novo Israel","e os estabelecerá na sua terra;","os estrangeiros se juntarão a eles","e se unirão à casa de Jacó."]},
+{v:2,l:["Os povos os tomarão","e os levarão para o seu lugar,","e a casa de Israel os possuirá","na terra do Senhor como escravos e escravas;","farão prisioneiros os que os tinham feito prisioneiros","e dominarão os seus opressores."],np:1,n:"Nota do tradutor: a inversão da sorte é descrita com as categorias da época. Outros textos do livro anunciam a participação das nações na salvação (2,2–4; 19,23–25; 56,6–7)."},
+{s:"A queda do rei da Babilônia"},
+{v:3,l:["No dia em que o Senhor te der descanso","do teu sofrimento, da tua inquietação","e da dura escravidão a que foste submetido,"]},
+{v:4,l:["entoarás esta sátira contra o rei da Babilônia e dirás:","Como acabou o opressor,","como cessou a arrogância!"],np:1,n:"Sátira: em hebraico mashal, aqui um poema de zombaria em ritmo de lamentação fúnebre."},
+{v:5,l:["O Senhor quebrou o bastão dos ímpios,","a vara dos tiranos,"],np:1},
+{v:6,l:["que golpeava os povos com furor,","com golpes sem descanso,","que dominava as nações com ira,","com perseguição sem trégua."],np:1},
+{v:7,l:["Toda a terra descansa, tranquila,","e irrompe em gritos de alegria."],np:1},
+{v:8,l:["Até os ciprestes se alegram por tua causa,","e os cedros do Líbano:","Desde que caíste,","ninguém sobe mais para nos cortar."],np:1},
+{v:9,l:["A morada dos mortos lá embaixo se agita","para ir ao teu encontro na tua chegada;","desperta para ti as sombras, todos os chefes da terra;","faz levantar-se dos seus tronos","todos os reis das nações."],np:1},
+{v:10,l:["Todos eles tomam a palavra e te dizem:","Também tu foste abatido como nós,","tornaste-te semelhante a nós."],np:1},
+{v:11,l:["O teu orgulho foi precipitado na morada dos mortos,","com o som das tuas harpas;","debaixo de ti a cama é de vermes,","e larvas são o teu cobertor."],np:1},
+{v:12,l:["Como caíste do céu,","astro brilhante, filho da aurora!","Como foste abatido por terra,","tu que prostravas as nações!"],np:1,n:"Astro brilhante: em hebraico helel, a estrela da manhã; a Vulgata traduziu Lúcifer, portador da luz. A tradição cristã aplicou a imagem à queda de Satanás (compare Lucas 10,18)."},
+{v:13,l:["Tu dizias no teu coração:","Subirei ao céu,","acima das estrelas de Deus erguerei o meu trono,","vou me sentar no monte da assembleia,","no extremo norte."],np:1,n:"O monte da assembleia: na mitologia cananeia, a montanha onde os deuses se reuniam, no extremo norte."},
+{v:14,l:["Subirei acima das alturas das nuvens,","serei semelhante ao Altíssimo."],np:1},
+{v:15,l:["E, no entanto, foste precipitado na morada dos mortos,","nas profundezas do abismo."],np:1},
+{v:16,l:["Os que te veem fixam os olhos em ti","e te observam:","É este o homem que fazia tremer a terra,","que abalava os reinos,"],np:1},
+{v:17,l:["que transformava o mundo num deserto,","que arrasava as cidades","e não deixava os seus prisioneiros voltarem para casa?"],np:1},
+{v:18,l:["Todos os reis das nações","repousam com honra, cada um no seu túmulo;"],np:1},
+{v:19,l:["mas tu foste lançado fora da tua sepultura,","como um ramo desprezado,","coberto de mortos traspassados pela espada,","que descem às pedras da cova,","como um cadáver pisado."],np:1},
+{v:20,l:["Não te juntarás a eles na sepultura,","porque arruinaste a tua terra","e mataste o teu povo.","Nunca mais se falará da descendência dos malfeitores."],np:1},
+{v:21,l:["Preparai o massacre dos seus filhos","por causa da iniquidade dos seus pais,","para que não se levantem para conquistar a terra","e encher de cidades a face do mundo."],np:1,n:"Nota do tradutor: o poema termina com a ordem de exterminar a descendência do tirano, segundo a mentalidade antiga da responsabilidade coletiva, e o texto não é atenuado. Ezequiel 18 afirmará que cada um responde pelo próprio pecado."},
+{v:22,l:["Eu me levantarei contra eles,","oráculo do Senhor dos exércitos,","e apagarei da Babilônia o nome e o resto,","a descendência e a posteridade,","oráculo do Senhor."],np:1},
+{v:23,l:["Farei dela uma possessão de ouriços","e um pântano de águas,","e a varrerei com a vassoura da destruição,","oráculo do Senhor dos exércitos."],np:1},
+{s:"Contra a Assíria"},
+{v:24,l:["O Senhor dos exércitos jurou:","Como planejei, assim acontecerá;","como decidi, assim se realizará:"]},
+{v:25,l:["esmagarei a Assíria na minha terra","e a pisarei sobre os meus montes;","o seu jugo será tirado de cima deles,","e o seu fardo será tirado dos seus ombros."],np:1},
+{v:26,l:["Este é o plano decidido","para toda a terra,","e esta é a mão estendida","sobre todas as nações."],np:1},
+{v:27,l:["Pois o Senhor dos exércitos decidiu:","quem o impedirá?","A sua mão está estendida:","quem a fará recuar?"],np:1},
+{s:"Contra os filisteus"},
+{v:28,t:"No ano da morte do rei Acaz, foi pronunciado este oráculo:",n:"Por volta de 715 antes de Cristo."},
+{v:29,l:["Não te alegres, Filisteia inteira,","porque se quebrou a vara que te feria;","pois da raiz da serpente sairá uma víbora,","e o seu fruto será um dragão voador."]},
+{v:30,l:["Os primogênitos dos pobres terão pasto,","e os necessitados repousarão em segurança;","mas farei morrer de fome a tua raiz","e exterminarei o teu resto."],np:1},
+{v:31,l:["Geme, ó porta! Grita, ó cidade!","Treme, Filisteia inteira!","Pois do norte vem uma fumaça,","e ninguém se afasta das suas fileiras."],np:1},
+{v:32,l:["Que se responderá aos mensageiros das nações?","Que o Senhor fundou Sião,","e nela os pobres do seu povo encontram refúgio."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][15] = [
+{s:"Oráculo contra Moab"},
+{v:1,l:["Oráculo contra Moab.","Numa noite foi devastada Ar-Moab, está arruinada;","numa noite foi devastada Quir-Moab, está arruinada."],n:"Ar e Quir: cidades principais de Moab, a leste do mar Morto."},
+{v:2,l:["A filha de Dibon sobe aos lugares altos para chorar;","sobre o Nebo e sobre Medaba, Moab geme;","todas as cabeças estão raspadas, toda barba cortada."],np:1},
+{v:3,l:["Nas suas ruas vestem-se de saco;","sobre os seus terraços e nas suas praças","todos gemem e se desfazem em lágrimas."],np:1},
+{v:4,l:["Hesbon e Eleale gritam,","a sua voz se ouve até Jasa;","por isso os guerreiros de Moab tremem,","a sua alma estremece."],np:1},
+{v:5,l:["O meu coração grita por Moab;","os seus fugitivos chegam até Segor, até Eglat-Selisia;","pela subida de Luit sobem chorando,","e no caminho de Horonaim","soltam gritos de desespero."],np:1},
+{v:6,l:["As águas de Nemrim se tornaram um deserto;","a erva secou, a relva acabou,","não há mais nada verde."],np:1},
+{v:7,l:["Por isso levam as riquezas que ajuntaram","e as suas provisões para além da torrente dos Salgueiros."],np:1},
+{v:8,l:["Os gritos rodeiam as fronteiras de Moab;","os seus lamentos chegam até Eglaim,","os seus lamentos chegam até Beer-Elim."],np:1},
+{v:9,l:["As águas de Dimon estão cheias de sangue,","e ainda mandarei mais males sobre Dimon:","um leão contra os fugitivos de Moab","e contra o resto da terra."],np:1,n:"Dimon: provavelmente Dibon, com um jogo de palavras com dam, sangue."}
+];
+
+window.TEXTOS_SEED["isaias"][16] = [
+{s:"Moab pede refúgio em Sião"},
+{v:1,l:["Enviai o cordeiro ao soberano da terra,","de Sela, pelo deserto,","ao monte da filha de Sião."],n:"O tributo que Moab devia pagar ao rei de Judá (compare 2 Reis 3,4). Sela: fortaleza de Edom."},
+{v:2,l:["Como aves que fogem,","como filhotes espantados do ninho,","assim são as filhas de Moab","nos vaus do Arnon."],np:1},
+{v:3,l:["Dá conselho, faze justiça;","estende a tua sombra como a noite, em pleno meio-dia;","esconde os fugitivos, não denuncies os errantes."],np:1},
+{v:4,l:["Que os fugitivos de Moab morem contigo;","sê para eles um refúgio diante do devastador.","Quando o opressor tiver acabado,","quando a devastação tiver cessado,","quando o que pisa a terra tiver desaparecido,"],np:1},
+{v:5,l:["um trono será firmado na bondade,","e sobre ele se sentará com fidelidade,","na tenda de Davi, um juiz que busca o direito","e é pronto para a justiça."],np:1},
+{v:6,l:["Ouvimos falar do orgulho de Moab","— é muito orgulhoso —,","da sua altivez, da sua arrogância, da sua insolência","e da vaidade das suas palavras."],np:1},
+{v:7,l:["Por isso Moab geme por Moab,","todos gemem;","pelos bolos de passas de Quir-Haréset","suspiram, completamente abatidos."],np:1},
+{v:8,l:["Pois os campos de Hesbon murcharam,","e a vinha de Sabama;","os senhores das nações quebraram os seus ramos,","que chegavam até Jazer","e se perdiam no deserto;","os seus brotos se estendiam","e atravessavam o mar."],np:1},
+{v:9,l:["Por isso choro, como chora Jazer,","pela vinha de Sabama;","eu te rego com as minhas lágrimas, Hesbon e Eleale,","pois sobre as tuas frutas e a tua colheita","caiu o grito de guerra."],np:1},
+{v:10,l:["A alegria e o júbilo foram tirados dos pomares,","e nas vinhas não se canta nem se grita de alegria;","o pisador não pisa mais o vinho nos lagares;","fiz cessar o grito de alegria."],np:1},
+{v:11,l:["Por isso as minhas entranhas vibram como uma harpa por Moab,","e o meu íntimo, por Quir-Haréset."],np:1},
+{v:12,l:["E, quando Moab se apresentar","e se cansar sobre o lugar alto,","quando entrar no seu santuário para rezar,","nada conseguirá."],np:1},
+{v:13,t:"Esta é a palavra que o Senhor pronunciou outrora sobre Moab.",np:1},
+{v:14,t:"Mas agora o Senhor diz: Dentro de três anos, contados como os anos de um assalariado, a glória de Moab será desprezada com toda a sua grande multidão, e o que restar será pouco, pequeno e sem força."}
+];

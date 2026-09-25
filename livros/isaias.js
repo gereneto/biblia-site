@@ -1356,3 +1356,60 @@ window.TEXTOS_SEED["isaias"][53] = [
 {v:11,l:["Depois das angústias da sua alma,","verá a luz e se saciará com o seu conhecimento.","O justo, meu servo, justificará a muitos","e carregará as iniquidades deles."],np:1,n:"Verá a luz: assim a Nova Vulgata, com o rolo de Isaías de Qumran e a tradução grega; o hebraico tradicional não traz a palavra luz."},
 {v:12,l:["Por isso lhe darei a multidão como herança,","e com os poderosos repartirá os despojos,","porque entregou a sua vida à morte","e foi contado entre os malfeitores;","ele carregou o pecado de muitos","e intercedeu pelos transgressores."],np:1,n:"Compare Lucas 22,37."}
 ];
+
+window.TEXTOS_SEED["isaias"][54] = [
+{s:"A nova Jerusalém, esposa do Senhor"},
+{v:1,l:["Grita de alegria, estéril, que não deste à luz;","irrompe em gritos de júbilo, tu que não sentiste as dores do parto,","pois os filhos da abandonada são mais numerosos","que os filhos da casada, diz o Senhor."],n:"Paulo cita este versículo em Gálatas 4,27."},
+{v:2,l:["Alarga o espaço da tua tenda,","estende sem medo as lonas das tuas moradas;","alonga as tuas cordas","e firma as tuas estacas."],np:1},
+{v:3,l:["Pois te espalharás para a direita e para a esquerda;","a tua descendência herdará as nações","e povoará as cidades desertas."],np:1},
+{v:4,l:["Não tenhas medo, pois não ficarás envergonhada;","não te perturbes, pois não serás humilhada;","esquecerás a vergonha da tua juventude","e não te lembrarás mais da desonra da tua viuvez."],np:1},
+{v:5,l:["Pois o teu esposo é o teu Criador,","Senhor dos exércitos é o seu nome;","o teu redentor é o Santo de Israel,","que se chama Deus de toda a terra."],np:1},
+{v:6,l:["Sim, o Senhor te chamou de novo,","como a uma mulher abandonada e de coração aflito,","como à esposa da juventude, que foi repudiada,","diz o teu Deus."],np:1},
+{v:7,l:["Por um breve instante eu te abandonei,","mas com grande compaixão te reunirei."],np:1},
+{v:8,l:["Num acesso de ira","escondi de ti o meu rosto por um momento,","mas com amor eterno tive compaixão de ti,","diz o Senhor, o teu redentor."],np:1},
+{v:9,l:["Para mim é como nos dias de Noé,","quando jurei que as águas de Noé","não voltariam a cobrir a terra;","assim juro que não me irritarei mais contra ti","nem te ameaçarei."],np:1},
+{v:10,l:["Ainda que os montes se desloquem","e as colinas se abalem,","o meu amor não se afastará de ti,","e a minha aliança de paz não será abalada,","diz o Senhor, que tem compaixão de ti."],np:1},
+{s:"Jerusalém reconstruída"},
+{v:11,l:["Infeliz, sacudida pela tempestade, sem consolo,","eis que assentarei as tuas pedras sobre carbúnculos","e te fundarei sobre safiras;"]},
+{v:12,l:["farei de jaspe as tuas ameias,","de pedras cintilantes as tuas portas,","e de pedras preciosas toda a tua muralha."],np:1,n:"Compare Apocalipse 21,18–21."},
+{v:13,l:["Todos os teus filhos serão discípulos do Senhor,","e grande será a paz dos teus filhos."],np:1,n:"Jesus cita este versículo em João 6,45."},
+{v:14,l:["Serás firmada na justiça.","Estarás longe da opressão, pois nada terás a temer,","e longe do terror, pois ele não se aproximará de ti."],np:1},
+{v:15,l:["Se alguém te atacar, não será da minha parte;","quem te atacar cairá diante de ti."],np:1},
+{v:16,l:["Eis que fui eu que criei o ferreiro,","que sopra as brasas no fogo","e fabrica a arma para o seu trabalho;","e fui eu que criei também o destruidor para arruinar."],np:1},
+{v:17,l:["Nenhuma arma forjada contra ti terá êxito,","e toda língua que se levantar contra ti em julgamento, tu a condenarás.","Esta é a herança dos servos do Senhor","e a justiça que lhes vem de mim, oráculo do Senhor."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][55] = [
+{s:"Vinde às águas"},
+{v:1,l:["Ah! Todos vós que tendes sede, vinde às águas;","e vós que não tendes dinheiro, vinde,","comprai e comei; vinde, comprai sem dinheiro","e sem pagar, vinho e leite."],n:"Compare João 7,37 e Apocalipse 22,17."},
+{v:2,l:["Por que gastais dinheiro com o que não é pão,","e o fruto do vosso trabalho com o que não sacia?","Escutai-me com atenção, e comereis o que é bom,","e a vossa alma se deleitará com alimentos saborosos."],np:1},
+{v:3,l:["Inclinai os ouvidos e vinde a mim;","escutai, e a vossa alma viverá;","farei convosco uma aliança eterna,","as graças prometidas a Davi, que são fiéis."],np:1,n:"Compare Atos 13,34."},
+{v:4,l:["Eis que o fiz testemunha para os povos,","chefe e mestre das nações."],np:1},
+{v:5,l:["Eis que chamarás uma nação que não conhecias,","e nações que não te conheciam correrão para ti,","por causa do Senhor, teu Deus,","e do Santo de Israel, que te glorificou."],np:1},
+{s:"Os meus pensamentos não são os vossos"},
+{v:6,l:["Buscai o Senhor enquanto ele se deixa encontrar;","invocai-o enquanto ele está perto."]},
+{v:7,l:["Que o ímpio abandone o seu caminho,","e o homem mau, os seus pensamentos;","que volte para o Senhor, que terá compaixão dele,","para o nosso Deus, que é generoso no perdão."],np:1},
+{v:8,l:["Pois os meus pensamentos não são os vossos pensamentos,","e os vossos caminhos não são os meus caminhos,","oráculo do Senhor."],np:1},
+{v:9,l:["Quanto os céus estão acima da terra,","tanto os meus caminhos estão acima dos vossos caminhos,","e os meus pensamentos, acima dos vossos pensamentos."],np:1},
+{v:10,l:["Assim como a chuva e a neve descem do céu","e para lá não voltam","sem ter regado a terra,","sem a ter fecundado e feito germinar,","para dar a semente ao semeador","e o pão a quem come,"],np:1},
+{v:11,l:["assim será a palavra que sai da minha boca:","não voltará para mim vazia,","sem ter realizado o que eu quero","e cumprido a missão para a qual a enviei."],np:1},
+{v:12,l:["Sim, saireis com alegria","e sereis conduzidos em paz;","os montes e as colinas irromperão diante de vós em gritos de alegria,","e todas as árvores do campo baterão palmas."],np:1},
+{v:13,l:["Em lugar do espinheiro crescerá o cipreste,","em lugar da urtiga crescerá a murta;","isso será para a glória do Senhor,","um sinal eterno, que não será apagado."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][56] = [
+{s:"Os estrangeiros e os eunucos no povo de Deus"},
+{v:1,l:["Assim diz o Senhor:","Observai o direito e praticai a justiça,","pois a minha salvação está para chegar,","e a minha justiça, para se revelar."],n:"Começa aqui a terceira parte do livro (capítulos 56–66), dirigida à comunidade que voltou do exílio."},
+{v:2,l:["Feliz o homem que assim procede,","o filho do homem que nisso persevera,","que guarda o sábado sem o profanar","e guarda a sua mão de fazer qualquer mal."],np:1},
+{v:3,l:["Que o estrangeiro que se uniu ao Senhor não diga:","O Senhor certamente me separará do seu povo.","E que o eunuco não diga:","Eis que sou uma árvore seca."],np:1,n:"A Lei excluía os eunucos da assembleia (Deuteronômio 23,2); o profeta anuncia que também eles terão lugar no povo de Deus (compare Atos 8,26–39)."},
+{v:4,l:["Pois assim diz o Senhor aos eunucos","que guardam os meus sábados,","que escolhem o que me agrada","e se mantêm firmes na minha aliança:"],np:1},
+{v:5,l:["Eu lhes darei, na minha casa e dentro das minhas muralhas,","um monumento e um nome","melhor do que filhos e filhas;","eu lhes darei um nome eterno,","que não será apagado."],np:1,n:"Monumento e nome: em hebraico yad vashem."},
+{v:6,l:["E os estrangeiros que se unem ao Senhor","para o servir,","para amar o nome do Senhor","e ser os seus servos,","todos os que guardam o sábado sem o profanar","e se mantêm firmes na minha aliança,"],np:1},
+{v:7,l:["eu os conduzirei ao meu monte santo","e os alegrarei na minha casa de oração;","os seus holocaustos e os seus sacrifícios","serão aceitos sobre o meu altar,","pois a minha casa será chamada","casa de oração para todos os povos."],np:1,n:"Jesus cita este versículo ao expulsar os vendedores do templo (Marcos 11,17)."},
+{v:8,l:["Oráculo do Senhor Deus, que reúne os dispersos de Israel:","Ainda reunirei outros a ele,","além dos que já foram reunidos."],np:1},
+{s:"Contra os maus chefes"},
+{v:9,l:["Vós todos, animais do campo, vinde devorar,","vós todos, animais da floresta!"]},
+{v:10,l:["As suas sentinelas são cegas, nada sabem;","são todos cães mudos, que não sabem latir;","sonham, deitados, gostam de dormir;"],np:1},
+{v:11,l:["são cães vorazes, que nunca se saciam;","são pastores que não entendem nada;","cada um segue o seu próprio caminho,","cada um busca o seu lucro,","do primeiro ao último."],np:1},
+{v:12,l:["Vinde, vou buscar vinho,","embriaguemo-nos de bebida;","amanhã será como hoje,","e ainda muito melhor!"],np:1}
+];

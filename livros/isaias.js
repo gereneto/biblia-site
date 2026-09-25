@@ -716,3 +716,57 @@ window.TEXTOS_SEED["isaias"][29] = [
 {v:23,l:["pois, quando ele vir os seus filhos,","obra das minhas mãos, no meio dele,","santificarão o meu nome,","santificarão o Santo de Jacó","e temerão o Deus de Israel."],np:1},
 {v:24,l:["Os que andavam desencaminhados de espírito aprenderão a sabedoria,","e os que murmuravam aceitarão o ensinamento."],np:1}
 ];
+
+window.TEXTOS_SEED["isaias"][30] = [
+{s:"Contra a aliança com o Egito"},
+{v:1,l:["Ai dos filhos rebeldes,","oráculo do Senhor,","que fazem planos, mas não da minha parte,","e fazem alianças, mas sem o meu espírito,","acrescentando pecado a pecado!"],n:"Por volta de 703 antes de Cristo, Judá buscou a aliança do Egito contra a Assíria."},
+{v:2,l:["Descem ao Egito","sem consultar a minha boca,","para se refugiar sob a proteção do faraó","e se abrigar à sombra do Egito."],np:1},
+{v:3,l:["Mas a proteção do faraó será a vossa vergonha,","e o abrigo à sombra do Egito, a vossa humilhação."],np:1},
+{v:4,l:["Embora os seus chefes estejam em Tânis","e os seus mensageiros cheguem a Hanes,"],np:1,n:"Tânis e Hanes: cidades do Egito, no delta e no médio Nilo."},
+{v:5,l:["todos ficarão envergonhados","por causa de um povo que não lhes serve para nada,","que não traz ajuda nem proveito,","mas só vergonha e desonra."],np:1},
+{s:"Oráculo sobre os animais do Negueb"},
+{v:6,l:["Oráculo sobre os animais do Negueb.","Por uma terra de aflição e de angústia,","de leoa e de leão rugidor,","de víbora e de serpente voadora,","eles levam as suas riquezas no lombo dos jumentos","e os seus tesouros na corcova dos camelos,","a um povo que não lhes servirá para nada."]},
+{v:7,l:["O Egito! A sua ajuda é vã e inútil;","por isso eu o chamo: Raab, a que fica parada."],np:1,n:"Raab: monstro do caos, nome poético do Egito (compare Salmo 87,4). O monstro que metia medo fica parado e não ajuda ninguém."},
+{s:"Um povo rebelde"},
+{v:8,l:["Agora vai, escreve isto numa tábua diante deles,","grava-o num livro,","para que fique para os dias futuros","como testemunho para sempre."]},
+{v:9,l:["Pois é um povo rebelde,","filhos mentirosos,","filhos que não querem ouvir a instrução do Senhor;"],np:1},
+{v:10,l:["que dizem aos videntes: Não vejais,","e aos profetas: Não profetizeis para nós coisas verdadeiras;","dizei-nos coisas agradáveis, profetizai ilusões;"],np:1},
+{v:11,l:["afastai-vos do caminho, desviai-vos da vereda,","tirai da nossa frente o Santo de Israel."],np:1},
+{v:12,l:["Por isso assim diz o Santo de Israel:","Porque rejeitastes esta palavra,","confiastes na violência e na perfídia","e vos apoiastes nelas,"],np:1},
+{v:13,l:["por isso esta iniquidade será para vós","como uma brecha que ameaça ruína, uma saliência numa muralha alta,","que desaba de repente,","num instante;"],np:1},
+{v:14,l:["ela se quebra como se quebra um vaso de oleiro,","despedaçado sem piedade,","sem que entre os seus cacos se encontre um pedaço","para tirar brasas da lareira","ou apanhar água da cisterna."],np:1},
+{v:15,l:["Pois assim diz o Senhor Deus, o Santo de Israel:","Na conversão e no repouso sereis salvos;","na calma e na confiança estará a vossa força.","Mas não quisestes"],np:1},
+{v:16,l:["e dissestes:","Não, fugiremos a cavalo!","Por isso tereis de fugir.","E: Montaremos cavalos velozes!","Por isso os vossos perseguidores serão velozes."]},
+{v:17,l:["Mil fugirão diante da ameaça de um só,","diante da ameaça de cinco fugireis todos,","até que fiqueis","como um mastro no alto de um monte,","como um estandarte sobre uma colina."],np:1},
+{s:"O Senhor terá compaixão de Sião"},
+{v:18,l:["Por isso o Senhor espera para vos mostrar a sua graça,","por isso se levanta para ter compaixão de vós;","pois o Senhor é um Deus de justiça:","felizes todos os que esperam nele."]},
+{v:19,l:["Sim, povo de Sião, que habitas em Jerusalém,","não chorarás mais:","ele terá compaixão de ti ao ouvir o teu clamor;","logo que o ouvir, te responderá."],np:1},
+{v:20,l:["O Senhor vos dará","o pão da angústia e a água da aflição,","mas o teu mestre não se esconderá mais,","e os teus olhos verão o teu mestre;"]},
+{v:21,l:["e os teus ouvidos ouvirão uma palavra atrás de ti:","Este é o caminho, andai por ele,","quando vos desviardes para a direita ou para a esquerda."],np:1},
+{v:22,l:["Tratarás como impuros os teus ídolos revestidos de prata","e as tuas imagens cobertas de ouro;","tu os jogarás fora como coisa imunda","e lhes dirás: Fora daqui!"],np:1},
+{v:23,l:["Ele dará a chuva para a semente","que semeares na terra,","e o pão que a terra produzir será abundante e nutritivo;","naquele dia o teu gado pastará em vastas pastagens;"],np:1},
+{v:24,l:["os bois e os jumentos que trabalham a terra","comerão forragem temperada,","joeirada com a pá e o forcado."],np:1},
+{v:25,l:["Sobre todo monte alto","e sobre toda colina elevada","haverá riachos de água corrente,","no dia do grande massacre,","quando as torres caírem."],np:1},
+{v:26,l:["A luz da lua será como a luz do sol,","e a luz do sol será sete vezes mais forte,","como a luz de sete dias,","no dia em que o Senhor enfaixar a ferida do seu povo","e curar a chaga dos golpes que recebeu."],np:1},
+{s:"O julgamento da Assíria"},
+{v:27,l:["Eis que o nome do Senhor vem de longe,","ardente é a sua ira, pesada a sua fumaça;","os seus lábios estão cheios de indignação,","e a sua língua é como um fogo devorador."]},
+{v:28,l:["O seu sopro é como uma torrente transbordante","que chega até o pescoço,","para peneirar as nações na peneira da destruição","e pôr nas queixadas dos povos um freio que os desencaminha."],np:1},
+{v:29,l:["Cantareis como na noite","em que se celebra a festa,","e tereis a alegria no coração","como quem caminha ao som da flauta","para o monte do Senhor,","para a Rocha de Israel."],np:1},
+{v:30,l:["O Senhor fará ouvir","a majestade da sua voz","e mostrará o seu braço que desce,","no furor da sua ira,","na chama de um fogo devorador,","na tempestade, no aguaceiro e no granizo."],np:1},
+{v:31,l:["Pois à voz do Senhor a Assíria ficará aterrorizada,","ferida pela sua vara."],np:1},
+{v:32,l:["E cada golpe do bastão do castigo","que o Senhor descarregar sobre ela","será acompanhado de tamborins e cítaras;","ele combaterá contra ela com golpes brandidos."],np:1},
+{v:33,l:["Pois há muito tempo está preparado o Tofet,","preparado também para o rei;","fundo e largo é o seu braseiro,","com fogo e lenha em abundância;","o sopro do Senhor, como uma torrente de enxofre,","o acenderá."],np:1,n:"Tofet: lugar do vale de Hinom onde se queimavam crianças em honra de Moloc (2 Reis 23,10); aqui, a fogueira preparada para o rei da Assíria. A Nova Vulgata não traz as palavras: também para o rei."}
+];
+
+window.TEXTOS_SEED["isaias"][31] = [
+{s:"Não confieis no Egito"},
+{v:1,l:["Ai dos que descem ao Egito em busca de socorro,","e contam com os cavalos,","e põem a sua confiança nos carros, porque são muitos,","e nos cavaleiros, porque são muito fortes,","mas não olham para o Santo de Israel","nem buscam o Senhor!"]},
+{v:2,l:["Mas também ele é sábio e faz vir a desgraça,","e não volta atrás nas suas palavras;","ele se levanta contra a casa dos malfeitores","e contra o socorro dos que praticam a iniquidade."],np:1},
+{v:3,l:["Os egípcios são homens, e não Deus;","os seus cavalos são carne, e não espírito.","Quando o Senhor estender a mão,","tropeçará quem ajuda","e cairá quem é ajudado,","e todos juntos perecerão."],np:1},
+{v:4,l:["Pois assim me disse o Senhor:","Como o leão, o leãozinho que ruge sobre a presa,","e, quando se reúne contra ele o bando dos pastores,","não se assusta com os seus gritos","nem se intimida com o seu barulho,","assim o Senhor dos exércitos descerá para combater","sobre o monte Sião e sobre a sua colina."],np:1},
+{v:5,l:["Como as aves que voam sobre o ninho,","assim o Senhor dos exércitos protegerá Jerusalém:","ele a protegerá e a livrará,","a poupará e a salvará."],np:1,n:"Poupar: o verbo hebraico é o mesmo da Páscoa (Êxodo 12,13)."},
+{v:6,l:["Voltai para aquele de quem tanto vos afastastes,","filhos de Israel!"],np:1},
+{v:7,l:["Pois naquele dia cada um rejeitará","os seus ídolos de prata e os seus ídolos de ouro,","que as vossas mãos pecadoras fizeram."],np:1},
+{v:8,l:["A Assíria cairá pela espada, mas não de homem;","uma espada, não de mortal, a devorará;","ela fugirá diante da espada,","e os seus jovens serão submetidos a trabalhos forçados."],np:1},
+{v:9,l:["A sua rocha fugirá de terror,","e os seus chefes abandonarão em pânico o estandarte,","oráculo do Senhor, que tem o seu fogo em Sião","e a sua fornalha em Jerusalém."],np:1}
+];

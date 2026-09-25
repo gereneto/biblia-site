@@ -414,3 +414,74 @@ window.TEXTOS_SEED["isaias"][16] = [
 {v:13,t:"Esta é a palavra que o Senhor pronunciou outrora sobre Moab.",np:1},
 {v:14,t:"Mas agora o Senhor diz: Dentro de três anos, contados como os anos de um assalariado, a glória de Moab será desprezada com toda a sua grande multidão, e o que restar será pouco, pequeno e sem força."}
 ];
+
+window.TEXTOS_SEED["isaias"][17] = [
+{s:"Oráculo contra Damasco e Israel"},
+{v:1,l:["Oráculo contra Damasco.","Eis que Damasco deixará de ser uma cidade","e será um monte de ruínas."]},
+{v:2,l:["As cidades de Aroer ficarão abandonadas,","entregues aos rebanhos;","eles repousarão ali, e ninguém os espantará."],np:1},
+{v:3,l:["Efraim perderá a sua fortaleza,","e Damasco, o seu reino;","o resto da Síria será como a glória dos filhos de Israel,","oráculo do Senhor dos exércitos."],np:1},
+{v:4,l:["Naquele dia, a glória de Jacó diminuirá,","e a gordura do seu corpo emagrecerá;"],np:1},
+{v:5,l:["será como quando o ceifeiro junta o trigo","e o seu braço colhe as espigas,","como quando se respigam as espigas","no vale de Refaim."],np:1},
+{v:6,l:["Ficarão nele apenas alguns restos,","como quando se sacode a oliveira:","duas ou três azeitonas no alto da copa,","quatro ou cinco nos ramos da árvore frutífera,","oráculo do Senhor, Deus de Israel."],np:1},
+{s:"Contra os cultos estrangeiros"},
+{v:7,l:["Naquele dia, o homem olhará para o seu Criador,","e os seus olhos se voltarão para o Santo de Israel;"]},
+{v:8,l:["não olhará mais para os altares,","obra das suas mãos,","nem para o que os seus dedos fizeram,","os postes sagrados e os altares de incenso."],np:1,n:"Postes sagrados: símbolos da deusa cananeia Aserá."},
+{v:9,l:["Naquele dia, as suas cidades fortificadas ficarão abandonadas,","como as cidades dos heveus e dos amorreus,","que eles abandonaram diante dos filhos de Israel;","e será uma desolação."],np:1,n:"Assim a Nova Vulgata, com a antiga tradução grega; o hebraico diz: como os lugares abandonados dos bosques e dos cumes."},
+{v:10,l:["Pois esqueceste o Deus da tua salvação","e não te lembraste da rocha do teu refúgio;","por isso plantas jardins agradáveis","e semeias mudas estrangeiras."],np:1,n:"Jardins agradáveis: talvez os jardins de Adônis, de crescimento rápido, ligados ao culto de uma divindade estrangeira."},
+{v:11,l:["No dia em que os plantas, os cercas,","e de manhã fazes florescer a tua semente;","mas a colheita desaparece no dia da doença","e da dor incurável."],np:1},
+{s:"O tumulto dos povos"},
+{v:12,l:["Ai! Tumulto de povos numerosos,","que rugem como o rugido do mar;","estrondo de nações,","que estrondeiam como o estrondo de águas poderosas!"]},
+{v:13,l:["As nações estrondeiam como o estrondo de muitas águas,","mas ele as ameaça, e fogem para longe,","levadas como a palha dos montes pelo vento","e como o turbilhão de pó diante da tempestade."],np:1},
+{v:14,l:["Ao entardecer, eis o terror;","antes do amanhecer, já não existem.","Esta é a sorte dos que nos saqueiam,","a parte dos que nos pilham."],np:1}
+];
+
+window.TEXTOS_SEED["isaias"][18] = [
+{s:"Oráculo contra a Etiópia"},
+{v:1,l:["Ai da terra do zumbido de asas,","que está além dos rios da Etiópia,"],n:"O reino de Cuche, no alto Nilo, que no fim do século VIII antes de Cristo dominava também o Egito."},
+{v:2,l:["que envia mensageiros pelo mar,","em barcos de papiro sobre as águas!","Ide, mensageiros velozes,","a uma nação de gente alta e de pele lisa,","a um povo temido por perto e por longe,","nação poderosa e dominadora,","cuja terra os rios dividem."],np:1},
+{v:3,l:["Vós todos, habitantes do mundo,","moradores da terra,","quando se erguer um estandarte nos montes, olhai;","quando soar a trombeta, escutai!"],np:1},
+{v:4,l:["Pois assim me disse o Senhor:","Ficarei tranquilo e observarei do meu lugar,","como o calor ardente à luz do dia,","como a nuvem de orvalho no calor da colheita."],np:1},
+{v:5,l:["Pois, antes da vindima, quando a floração tiver acabado","e a flor se tornar uva que amadurece,","ele cortará os ramos com a podadeira","e arrancará e lançará fora os sarmentos;"],np:1},
+{v:6,l:["serão deixados juntos às aves de rapina dos montes","e aos animais da terra;","as aves de rapina passarão ali o verão,","e todos os animais da terra, o inverno."],np:1},
+{v:7,t:"Naquele tempo serão trazidas ofertas ao Senhor dos exércitos, da parte de um povo de gente alta e de pele lisa, de um povo temido por perto e por longe, de uma nação poderosa e dominadora, cuja terra os rios dividem, ao lugar do nome do Senhor dos exércitos, o monte Sião.",np:1}
+];
+
+window.TEXTOS_SEED["isaias"][19] = [
+{s:"Oráculo contra o Egito"},
+{v:1,l:["Oráculo contra o Egito.","Eis que o Senhor, montado numa nuvem ligeira,","entra no Egito;","os ídolos do Egito tremem diante dele,","e o coração do Egito se derrete dentro dele."]},
+{v:2,l:["Lançarei egípcios contra egípcios;","lutarão irmão contra irmão,","amigo contra amigo,","cidade contra cidade,","reino contra reino."],np:1},
+{v:3,l:["O espírito do Egito ficará perturbado dentro dele,","e confundirei os seus planos;","consultarão os ídolos e os feiticeiros,","os necromantes e os adivinhos."],np:1},
+{v:4,l:["Entregarei o Egito nas mãos de um senhor cruel,","e um rei violento o dominará,","oráculo do Senhor, o Senhor dos exércitos."],np:1},
+{v:5,l:["As águas do mar secarão,","o rio ficará seco e árido;"],np:1,n:"O mar: o Nilo, cujas cheias davam vida ao Egito."},
+{v:6,l:["os canais exalarão mau cheiro,","os braços do Nilo do Egito baixarão e secarão,","a cana e o junco murcharão;"],np:1},
+{v:7,l:["os prados à beira do Nilo ficarão desnudos,","e todas as plantações do Nilo secarão,","serão levadas pelo vento e desaparecerão."],np:1},
+{v:8,l:["Os pescadores se lamentarão,","gemerão todos os que lançam o anzol no Nilo,","e os que estendem a rede sobre as águas desfalecerão."],np:1},
+{v:9,l:["Ficarão envergonhados os que trabalham o linho penteado","e os tecelões de pano branco."],np:1},
+{v:10,l:["Os seus tecelões ficarão abatidos,","todos os assalariados terão a alma abatida."],np:1},
+{v:11,l:["Como são tolos os príncipes de Tânis!","Os sábios conselheiros do faraó dão conselhos insensatos.","Como podeis dizer ao faraó:","Sou filho de sábios, filho de reis antigos?"],np:1},
+{v:12,l:["Onde estão agora os teus sábios?","Que te anunciem e te façam saber","o que o Senhor dos exércitos decidiu contra o Egito!"],np:1},
+{v:13,l:["Os príncipes de Tânis enlouqueceram,","os príncipes de Mênfis se enganaram;","os chefes das suas tribos fizeram o Egito se extraviar."],np:1},
+{v:14,l:["O Senhor derramou no meio dele um espírito de vertigem,","e eles fizeram o Egito cambalear em tudo o que faz,","como o bêbado que cambaleia no próprio vômito."],np:1},
+{v:15,l:["E o Egito não terá obra que possa fazer,","nem a cabeça nem a cauda,","nem a palmeira nem o junco."],np:1},
+{s:"A conversão do Egito"},
+{v:16,t:"Naquele dia, os egípcios serão como mulheres: tremerão e terão medo diante da mão que o Senhor dos exércitos agitará contra eles."},
+{v:17,t:"A terra de Judá será o terror do Egito: todo aquele a quem for lembrada terá medo, por causa do plano que o Senhor dos exércitos decidiu contra ele."},
+{v:18,t:"Naquele dia, haverá no Egito cinco cidades que falarão a língua de Canaã e jurarão pelo Senhor dos exércitos; uma delas se chamará Cidade do Sol.",np:1,n:"Cidade do Sol: Heliópolis. Assim a Nova Vulgata, com alguns manuscritos; o texto hebraico tradicional diz: Cidade da Destruição."},
+{v:19,t:"Naquele dia, haverá um altar ao Senhor no meio da terra do Egito, e uma estela ao Senhor junto à sua fronteira.",np:1},
+{v:20,t:"Isso será um sinal e um testemunho do Senhor dos exércitos na terra do Egito: quando clamarem ao Senhor por causa dos opressores, ele lhes enviará um salvador e defensor, que os libertará."},
+{v:21,t:"O Senhor se dará a conhecer ao Egito, e os egípcios conhecerão o Senhor naquele dia; eles o servirão com sacrifícios e ofertas, farão votos ao Senhor e os cumprirão."},
+{v:22,t:"O Senhor ferirá o Egito: ferirá e curará. Eles voltarão para o Senhor, e ele se deixará comover por eles e os curará."},
+{v:23,t:"Naquele dia, haverá uma estrada do Egito para a Assíria; o assírio irá ao Egito, e o egípcio, à Assíria, e os egípcios prestarão culto junto com os assírios.",np:1},
+{v:24,t:"Naquele dia, Israel será o terceiro, junto com o Egito e a Assíria, uma bênção no meio da terra,",np:1},
+{v:25,t:"que o Senhor dos exércitos abençoará, dizendo: Bendito seja o Egito, meu povo, e a Assíria, obra das minhas mãos, e Israel, minha herança.",n:"Um dos textos mais universalistas do Antigo Testamento: os inimigos de ontem são chamados povo de Deus."}
+];
+
+window.TEXTOS_SEED["isaias"][20] = [
+{s:"O profeta, sinal contra o Egito e a Etiópia"},
+{v:1,t:"No ano em que o comandante em chefe, enviado por Sargão, rei da Assíria, chegou a Azoto, atacou-a e a tomou,",n:"Por volta de 711 antes de Cristo."},
+{v:2,t:"naquele tempo o Senhor falou por meio de Isaías, filho de Amós, dizendo: Vai, tira o pano de saco da tua cintura e as sandálias dos teus pés. Ele assim fez, andando nu e descalço.",n:"Nu: sem a roupa de cima, como os prisioneiros de guerra."},
+{v:3,t:"E o Senhor disse: Assim como o meu servo Isaías andou nu e descalço durante três anos, como sinal e presságio contra o Egito e contra a Etiópia,"},
+{v:4,t:"assim o rei da Assíria levará os prisioneiros do Egito e os deportados da Etiópia, jovens e velhos, nus e descalços, com as nádegas descobertas, para vergonha do Egito."},
+{v:5,t:"Ficarão aterrados e envergonhados por causa da Etiópia, na qual esperavam, e do Egito, do qual se gloriavam."},
+{v:6,t:"E os habitantes deste litoral dirão naquele dia: Vede o que aconteceu àqueles em quem esperávamos, a quem recorremos em busca de socorro para nos livrarmos do rei da Assíria! E nós, como escaparemos?"}
+];

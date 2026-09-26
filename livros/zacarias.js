@@ -163,3 +163,65 @@ window.TEXTOS_SEED["zacarias"][8] = [
 {v:22,t:"Virão povos numerosos e nações poderosas buscar o Senhor dos exércitos em Jerusalém e implorar o favor do Senhor."},
 {v:23,t:"Assim diz o Senhor dos exércitos: Naqueles dias, dez homens de todas as línguas das nações agarrarão um judeu pela barra do manto, dizendo: Queremos ir convosco, pois ouvimos dizer que Deus está convosco.",np:1}
 ];
+
+window.TEXTOS_SEED["zacarias"][9] = [
+{s:"O julgamento dos povos vizinhos"},
+{v:1,l:["Oráculo.","A palavra do Senhor está na terra de Hadrac","e repousa sobre Damasco,","pois ao Senhor pertencem os olhos de Aram,","como todas as tribos de Israel."],n:"Os capítulos 9–14 formam a segunda parte do livro, de outra época e talvez de outro autor. Hadrac: região da Síria. Os olhos de Aram: texto obscuro; com uma pequena correção, pode-se ler: as cidades de Aram."},
+{v:2,l:["Também Emat, que faz fronteira com ela,","e Tiro e Sidônia, tão sábias."],np:1},
+{v:3,l:["Tiro construiu para si uma fortaleza","e amontoou prata como pó","e ouro como a lama das ruas."],np:1},
+{v:4,l:["Eis que o Senhor se apoderará dela","e lançará ao mar o seu poder,","e ela será devorada pelo fogo."],np:1},
+{v:5,l:["Ascalon verá e terá medo,","Gaza se contorcerá de dor,","e Acaron também, porque a sua esperança foi frustrada;","o rei desaparecerá de Gaza,","e Ascalon não será mais habitada."],np:1},
+{v:6,l:["Uma população mestiça habitará em Azoto,","e abaterei o orgulho dos filisteus."],np:1},
+{v:7,l:["Tirarei o sangue da sua boca","e as suas abominações de entre os seus dentes;","também ele ficará como um resto para o nosso Deus","e será como um chefe de clã em Judá,","e Acaron, como o jebuseu."],np:1,n:"O sangue e as abominações: as carnes impuras dos sacrifícios pagãos. Como o jebuseu: incorporado a Israel, como os antigos habitantes de Jerusalém."},
+{v:8,l:["Acamparei junto da minha casa como uma guarda","contra os que vão e vêm;","o opressor não passará mais sobre eles,","pois agora eu vejo com os meus olhos."],np:1},
+{s:"O rei humilde montado num jumento"},
+{v:9,l:["Exulta muito, filha de Sião;","grita de alegria, filha de Jerusalém.","Eis que o teu rei vem a ti,","justo e salvador,","humilde, montado num jumento,","num jumentinho, filho de uma jumenta."],n:"Os evangelhos veem este oráculo cumprido na entrada de Jesus em Jerusalém (Mateus 21,5; João 12,15)."},
+{v:10,l:["Eliminarei os carros de Efraim","e os cavalos de Jerusalém;","o arco de guerra será quebrado,","e ele anunciará a paz às nações.","O seu domínio irá de mar a mar","e do Rio até os confins da terra."],np:1},
+{s:"A restauração de Israel"},
+{v:11,l:["Quanto a ti, pelo sangue da tua aliança,","tirarei os teus prisioneiros da cisterna","onde não há água."]},
+{v:12,l:["Voltai à fortaleza,","prisioneiros da esperança;","hoje mesmo o anuncio:","eu te restituirei o dobro."],np:1},
+{v:13,l:["Pois retesei Judá como o meu arco","e nele pus Efraim como flecha;","despertarei os teus filhos, Sião,","contra os teus filhos, Grécia,","e farei de ti como a espada de um valente."],np:1,n:"Grécia: em hebraico, Javã, os gregos; talvez alusão ao tempo dos sucessores de Alexandre Magno."},
+{v:14,l:["O Senhor aparecerá acima deles,","e a sua flecha partirá como o relâmpago;","o Senhor Deus tocará a trombeta","e avançará nos furacões do sul."],np:1},
+{v:15,l:["O Senhor dos exércitos os protegerá;","eles devorarão e pisarão as pedras da funda,","beberão e se agitarão como pelo vinho,","ficarão cheios como as taças e como os chifres do altar."],np:1,n:"Hebraico obscuro."},
+{v:16,l:["Naquele dia, o Senhor, seu Deus, os salvará","como o rebanho do seu povo;","pois serão como pedras de uma coroa","que brilham sobre a sua terra."],np:1},
+{v:17,l:["Como é grande a sua bondade,","e como é grande a sua beleza!","O trigo fará crescer os rapazes,","e o vinho novo, as moças."],np:1}
+];
+
+window.TEXTOS_SEED["zacarias"][10] = [
+{s:"O Senhor cuida do seu rebanho"},
+{v:1,l:["Pedi ao Senhor a chuva","no tempo da chuva da primavera.","O Senhor faz os relâmpagos","e lhes dará chuvas abundantes,","a cada um, a erva no campo."]},
+{v:2,l:["Pois os terafins dizem coisas vãs,","os adivinhos veem mentiras","e contam sonhos enganosos,","dão consolos vazios;","por isso o povo vagueia como um rebanho,","sofre, porque não tem pastor."],np:1,n:"Terafins: ídolos domésticos, usados para consultar a sorte."},
+{v:3,l:["Contra os pastores se inflamou a minha ira,","e castigarei os bodes;","pois o Senhor dos exércitos visita","o seu rebanho, a casa de Judá,","e fará dele o seu cavalo de honra","na batalha."]},
+{v:4,l:["Dele sairá a pedra angular,","dele a estaca da tenda,","dele o arco de guerra,","dele sairão todos os chefes juntos."],np:1,n:"Dele: de Judá. A pedra angular e a estaca são imagens dos chefes que sustentam o povo."},
+{v:5,l:["Serão como valentes","que pisam a lama das ruas na batalha;","combaterão, porque o Senhor está com eles; e os cavaleiros ficarão envergonhados."],np:1},
+{v:6,l:["Fortalecerei a casa de Judá","e salvarei a casa de José;","eu os farei voltar, porque tenho compaixão deles,","e serão como se eu não os tivesse rejeitado,","pois eu sou o Senhor, seu Deus, e os ouvirei."],np:1},
+{v:7,l:["Os de Efraim serão como valentes,","e o seu coração se alegrará como pelo vinho;","os seus filhos verão e se alegrarão,","e o seu coração exultará no Senhor."],np:1},
+{v:8,l:["Assobiarei para eles e os reunirei,","porque os resgatei;","e serão numerosos como antes."],np:1},
+{v:9,l:["Eu os espalhei entre os povos,","mas de longe se lembrarão de mim;","criarão os seus filhos e voltarão."],np:1},
+{v:10,l:["Eu os farei voltar da terra do Egito","e os reunirei da Assíria;","eu os levarei à terra de Galaad e do Líbano,","e não haverá lugar bastante para eles."],np:1},
+{v:11,l:["Atravessarão o mar da angústia,","ele ferirá as ondas do mar,","e todas as profundezas do Rio secarão;","o orgulho da Assíria será abatido,","e o cetro do Egito se afastará."],np:1,n:"O Rio: aqui, o Nilo. Imagem de um novo êxodo."},
+{v:12,l:["Eu os fortalecerei no Senhor,","e eles andarão no seu nome,","oráculo do Senhor."],np:1}
+];
+
+window.TEXTOS_SEED["zacarias"][11] = [
+{s:"Lamento sobre os cedros abatidos"},
+{v:1,l:["Abre, Líbano, as tuas portas,","e que o fogo devore os teus cedros."]},
+{v:2,l:["Geme, cipreste, porque o cedro caiu,","porque os magníficos foram devastados;","gemei, carvalhos de Basã,","porque a floresta impenetrável foi abatida."],np:1,n:"As árvores simbolizam os poderosos das nações."},
+{v:3,l:["Ouve-se o lamento dos pastores,","porque a sua glória foi devastada;","ouve-se o rugido dos leões,","porque foi devastado o orgulho do Jordão."],np:1,n:"O orgulho do Jordão: a mata densa das suas margens, onde viviam leões."},
+{s:"Os dois cajados do pastor"},
+{v:4,t:"Assim diz o Senhor, meu Deus: Apascenta as ovelhas destinadas ao matadouro,",n:"Texto difícil. O profeta representa o papel de pastor do povo, rejeitado pelas ovelhas e pelos que as exploram."},
+{v:5,t:"que os seus compradores matam sem remorso, enquanto os que as vendem dizem: Bendito seja o Senhor, fiquei rico! E os seus pastores não têm pena delas."},
+{v:6,t:"Pois eu não terei mais pena dos habitantes da terra, oráculo do Senhor; eis que entregarei os homens cada um nas mãos do seu próximo e nas mãos do seu rei; eles devastarão a terra, e eu não os livrarei das suas mãos.",np:1},
+{v:7,t:"Apascentei, pois, as ovelhas destinadas ao matadouro, para os mercadores do rebanho. Tomei dois cajados: a um chamei Graça e ao outro chamei União; e apascentei o rebanho.",np:1},
+{v:8,t:"Num só mês eliminei três pastores; perdi a paciência com eles, e eles também se cansaram de mim."},
+{v:9,t:"E eu disse: Não vos apascentarei mais. A que tem de morrer, que morra; a que tem de ser eliminada, que seja eliminada; e as que restarem, que se devorem umas às outras."},
+{v:10,t:"Tomei o meu cajado chamado Graça e o quebrei, para romper a aliança que eu tinha feito com todos os povos."},
+{v:11,t:"Naquele dia ela foi rompida; e os mercadores do rebanho, que me observavam, reconheceram que era palavra do Senhor."},
+{v:12,t:"Então lhes disse: Se vos parece bem, pagai-me o meu salário; se não, deixai-o. E pesaram o meu salário: trinta moedas de prata.",n:"Trinta moedas de prata: o preço de um escravo (Êxodo 21,32). São Mateus vê aqui o preço pago pela traição de Jesus (Mateus 26,15; 27,9–10)."},
+{v:13,t:"E o Senhor me disse: Lança-o no tesouro, esse belo preço em que fui avaliado por eles. Tomei as trinta moedas de prata e as lancei no tesouro da casa do Senhor.",n:"No tesouro: assim a Nova Vulgata, com a tradução siríaca; o hebraico diz: ao oleiro, e é essa a leitura que São Mateus conhece (Mateus 27,10)."},
+{v:14,t:"Depois quebrei o meu segundo cajado, chamado União, para romper a fraternidade entre Judá e Israel."},
+{s:"O pastor insensato"},
+{v:15,l:["E o Senhor me disse:","Toma ainda o equipamento de um pastor insensato;"]},
+{v:16,l:["pois eis que vou suscitar na terra um pastor","que não cuidará da ovelha que se perde,","não buscará a extraviada,","não curará a ferida","nem sustentará a que está de pé,","mas comerá a carne das gordas","e lhes arrancará os cascos."],np:1},
+{v:17,l:["Ai do pastor insensato,","que abandona o rebanho!","A espada sobre o seu braço","e sobre o seu olho direito!","Que o seu braço fique completamente seco,","e o seu olho direito, totalmente cego!"],np:1}
+];

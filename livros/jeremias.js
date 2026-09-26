@@ -578,3 +578,65 @@ window.TEXTOS_SEED["jeremias"][18] = [
 {v:22,l:["Que se ouçam gritos nas suas casas,","quando de repente fizeres cair sobre eles os saqueadores;","pois cavaram uma cova para me apanhar","e esconderam laços para os meus pés."],np:1},
 {v:23,l:["Mas tu, Senhor, conheces todos os planos deles","contra mim, para me matar;","não perdoes a sua iniquidade,","não apagues da tua presença o seu pecado.","Que eles tropecem diante de ti;","age contra eles no tempo da tua ira."],np:1}
 ];
+
+window.TEXTOS_SEED["jeremias"][19] = [
+{s:"O jarro quebrado"},
+{v:1,t:"Assim diz o Senhor: Vai comprar um jarro de barro de um oleiro e leva contigo alguns anciãos do povo e alguns anciãos dos sacerdotes;"},
+{v:2,t:"sai para o vale de Ben-Enom, que fica à entrada da porta dos Cacos, e proclama ali as palavras que eu te disser."},
+{v:3,t:"Tu dirás: Ouvi a palavra do Senhor, reis de Judá e habitantes de Jerusalém: Assim diz o Senhor dos exércitos, o Deus de Israel: Eis que vou fazer vir sobre este lugar uma desgraça tal, que zunirão os ouvidos de todo aquele que dela ouvir falar,"},
+{v:4,t:"porque me abandonaram, profanaram este lugar e nele queimaram incenso a outros deuses, que nem eles, nem os seus pais, nem os reis de Judá conheciam, e encheram este lugar com o sangue de inocentes;"},
+{v:5,t:"construíram os lugares altos de Baal, para queimar no fogo os seus filhos em holocausto a Baal: coisa que eu não ordenei, nem disse, nem me passou pela mente."},
+{v:6,t:"Por isso eis que virão dias, oráculo do Senhor, em que este lugar não se chamará mais Tofet nem vale de Ben-Enom, mas vale da Matança."},
+{v:7,t:"Neste lugar frustrarei os planos de Judá e de Jerusalém; eu os farei cair pela espada diante dos seus inimigos e pela mão dos que procuram a sua vida, e darei os seus cadáveres como alimento às aves do céu e aos animais da terra."},
+{v:8,t:"Farei desta cidade um motivo de espanto e de assobios; todo aquele que passar por ela ficará espantado e assobiará diante de todas as suas feridas."},
+{v:9,t:"Eu os farei comer a carne dos seus filhos e a carne das suas filhas, e cada um comerá a carne do seu próximo, durante o cerco e na angústia a que os reduzirão os seus inimigos e os que procuram a sua vida.",n:"Nota do tradutor: a antropofagia durante os cercos é descrita sem atenuação, como em Deuteronômio 28,53–57 e Lamentações 4,10."},
+{v:10,t:"Depois quebrarás o jarro diante dos homens que forem contigo,",np:1},
+{v:11,t:"e lhes dirás: Assim diz o Senhor dos exércitos: Assim vou quebrar este povo e esta cidade, como se quebra um vaso de oleiro, que não pode mais ser consertado; e serão sepultados em Tofet, por falta de outro lugar para sepultar."},
+{v:12,t:"É assim que farei a este lugar, oráculo do Senhor, e aos seus habitantes, tornando esta cidade semelhante a Tofet;"},
+{v:13,t:"as casas de Jerusalém e as casas dos reis de Judá ficarão impuras como o lugar de Tofet: todas as casas sobre cujos terraços queimaram incenso a todo o exército do céu e ofereceram libações a outros deuses."},
+{v:14,t:"Jeremias voltou de Tofet, para onde o Senhor o tinha enviado a profetizar, e se pôs no átrio da casa do Senhor e disse a todo o povo:",np:1},
+{v:15,t:"Assim diz o Senhor dos exércitos, o Deus de Israel: Eis que vou fazer vir sobre esta cidade e sobre todas as cidades vizinhas todas as desgraças que anunciei contra ela, porque endureceram a cerviz para não escutar as minhas palavras."}
+];
+
+window.TEXTOS_SEED["jeremias"][20] = [
+{s:"Jeremias e o sacerdote Fassur"},
+{v:1,t:"O sacerdote Fassur, filho de Emer, que era o chefe da guarda da casa do Senhor, ouviu Jeremias profetizar estas palavras."},
+{v:2,t:"Então Fassur mandou açoitar o profeta Jeremias e o pôs no tronco que ficava na porta superior de Benjamim, na casa do Senhor."},
+{v:3,t:"No dia seguinte, Fassur tirou Jeremias do tronco, e Jeremias lhe disse: O Senhor já não te chama Fassur, mas Terror-por-todos-os-lados.",n:"Em hebraico, Magor-Missabib."},
+{v:4,t:"Pois assim diz o Senhor: Eis que farei de ti um terror para ti mesmo e para todos os teus amigos; eles cairão pela espada dos seus inimigos, e os teus olhos o verão; entregarei todo Judá nas mãos do rei da Babilônia, que os deportará para a Babilônia e os ferirá à espada."},
+{v:5,t:"Entregarei todas as riquezas desta cidade, todo o fruto do seu trabalho, tudo o que ela tem de precioso e todos os tesouros dos reis de Judá nas mãos dos seus inimigos, que os saquearão, os tomarão e os levarão para a Babilônia."},
+{v:6,t:"E tu, Fassur, com todos os que moram na tua casa, irás para o cativeiro; irás para a Babilônia, e lá morrerás e lá serás sepultado, tu e todos os teus amigos, a quem profetizaste mentiras."},
+{s:"Seduziste-me, Senhor"},
+{v:7,l:["Seduziste-me, Senhor, e eu me deixei seduzir;","foste mais forte do que eu e venceste.","Tornei-me objeto de zombaria o dia inteiro,","todos caçoam de mim."],n:"Nota do tradutor: seduzir traduz o hebraico patah, que se usa também para o homem que seduz uma virgem (Êxodo 22,15); a força da imagem é mantida."},
+{v:8,l:["Pois, cada vez que falo, tenho de gritar,","de proclamar: Violência e destruição!","A palavra do Senhor se tornou para mim","motivo de insulto e de zombaria o dia inteiro."],np:1},
+{v:9,l:["Eu dizia: Não pensarei mais nele,","não falarei mais em seu nome.","Mas ela era no meu coração como um fogo ardente,","encerrado nos meus ossos:","esforcei-me para contê-lo, e não pude."],np:1},
+{v:10,l:["Ouvi as calúnias de muitos,","terror por todos os lados:","Denunciai-o! Vamos denunciá-lo!","Todos os meus amigos espreitavam a minha queda:","Talvez ele se deixe enganar, e o venceremos","e nos vingaremos dele."],np:1},
+{v:11,l:["Mas o Senhor está comigo como um guerreiro poderoso;","por isso os meus perseguidores","tropeçarão e não prevalecerão.","Ficarão muito envergonhados, porque fracassaram;","uma vergonha eterna, que nunca será esquecida."],np:1},
+{v:12,l:["Senhor dos exércitos,","que provas o justo e vês os rins e o coração,","que eu veja a tua vingança contra eles,","pois a ti confiei a minha causa."],np:1},
+{v:13,l:["Cantai ao Senhor, louvai o Senhor,","pois ele livrou a vida do pobre","da mão dos malfeitores."],np:1},
+{s:"Maldito o dia em que nasci"},
+{v:14,l:["Maldito o dia em que nasci!","O dia em que minha mãe me deu à luz","não seja bendito!"]},
+{v:15,l:["Maldito o homem que levou a notícia a meu pai,","dizendo: Nasceu-te um filho homem!,","e o encheu de alegria!"],np:1},
+{v:16,l:["Que esse homem seja como as cidades","que o Senhor destruiu sem piedade;","que ouça gritos de manhã","e o alarido de guerra ao meio-dia,"],np:1,n:"As cidades destruídas: Sodoma e Gomorra (Gênesis 19,24–25)."},
+{v:17,l:["porque não me fez morrer no seio materno,","para que minha mãe fosse o meu sepulcro,","e o seu seio ficasse grávido para sempre."]},
+{v:18,l:["Por que saí do seio materno","para ver sofrimento e aflição,","e para que os meus dias se consumam na vergonha?"],np:1,n:"Nota do tradutor: a maldição do próprio nascimento, como em Jó 3, é o desabafo extremo do profeta; o texto não a suaviza."}
+];
+
+window.TEXTOS_SEED["jeremias"][21] = [
+{s:"Resposta ao rei Sedecias"},
+{v:1,t:"Palavra que o Senhor dirigiu a Jeremias, quando o rei Sedecias lhe enviou Fassur, filho de Melquias, e o sacerdote Sofonias, filho de Maasias, para lhe dizer:",n:"Durante o cerco de Jerusalém pelos babilônios, entre 589 e 587 antes de Cristo."},
+{v:2,t:"Consulta o Senhor por nós, pois Nabucodonosor, rei da Babilônia, nos faz guerra; talvez o Senhor faça por nós algum dos seus prodígios, e ele se retire."},
+{v:3,t:"Jeremias lhes respondeu: Assim direis a Sedecias:"},
+{v:4,t:"Assim diz o Senhor, o Deus de Israel: Eis que vou fazer voltar para trás as armas de guerra que tendes nas mãos, com as quais combateis o rei da Babilônia e os caldeus que vos cercam fora das muralhas, e as reunirei no meio desta cidade."},
+{v:5,t:"Eu mesmo combaterei contra vós, com mão estendida e braço forte, com ira, com furor e com grande indignação."},
+{v:6,t:"Ferirei os habitantes desta cidade, homens e animais: morrerão de uma grande peste."},
+{v:7,t:"Depois disso, oráculo do Senhor, entregarei Sedecias, rei de Judá, os seus servos e o povo, os que nesta cidade tiverem escapado da peste, da espada e da fome, nas mãos de Nabucodonosor, rei da Babilônia, nas mãos dos seus inimigos e nas mãos dos que procuram a sua vida; ele os passará ao fio da espada, sem piedade, sem poupar ninguém, sem compaixão."},
+{v:8,t:"E a este povo dirás: Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte:",np:1},
+{v:9,t:"quem ficar nesta cidade morrerá pela espada, pela fome e pela peste; mas quem sair e se entregar aos caldeus que vos cercam viverá, e salvará a vida como um despojo."},
+{v:10,t:"Pois voltei o meu rosto contra esta cidade, para o mal e não para o bem, oráculo do Senhor: ela será entregue nas mãos do rei da Babilônia, que a incendiará."},
+{s:"À casa real de Judá"},
+{v:11,l:["E à casa do rei de Judá:","Ouvi a palavra do Senhor,"]},
+{v:12,l:["casa de Davi! Assim diz o Senhor:","Fazei justiça cada manhã","e livrai o oprimido da mão do opressor,","para que a minha ira não irrompa como fogo","e arda sem que ninguém a possa apagar,","por causa da maldade das vossas ações."],np:1},
+{v:13,l:["Eis que estou contra ti, que habitas no vale,","rocha da planície,","oráculo do Senhor;","contra vós, que dizeis: Quem descerá contra nós?","Quem entrará nas nossas moradas?"],np:1},
+{v:14,l:["Eu vos castigarei segundo o fruto das vossas ações,","oráculo do Senhor;","porei fogo à sua floresta,","e ele devorará tudo ao seu redor."],np:1}
+];

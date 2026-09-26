@@ -330,3 +330,66 @@ window.TEXTOS_SEED["apocalipse"][14] = [
 {v:19,t:"O anjo lançou a sua foice à terra, vindimou a vinha da terra e lançou as uvas no grande lagar da ira de Deus."},
 {v:20,t:"O lagar foi pisado fora da cidade, e saiu sangue do lagar até a altura dos freios dos cavalos, numa distância de mil e seiscentos estádios.",n:"Compare Isaías 63,1–6. Mil e seiscentos estádios são cerca de trezentos quilômetros: número simbólico, quatro vezes quatro vezes cem, que abrange a terra inteira."}
 ];
+
+window.TEXTOS_SEED["apocalipse"][15] = [
+{s:"O cântico de Moisés e do Cordeiro"},
+{v:1,t:"Vi no céu outro sinal, grande e admirável: sete anjos que tinham as sete últimas pragas, porque com elas se consuma a ira de Deus."},
+{v:2,t:"Vi também como que um mar de vidro misturado com fogo, e os que venceram a fera, a sua imagem e o número do seu nome, de pé sobre o mar de vidro, com as cítaras de Deus nas mãos.",np:1,n:"Como Israel depois da travessia do mar Vermelho (Êxodo 15), os vencedores cantam junto ao mar."},
+{v:3,l:["E cantam o cântico de Moisés, servo de Deus,","e o cântico do Cordeiro, dizendo:","Grandes e admiráveis são as tuas obras,","Senhor Deus, Todo-Poderoso;","justos e verdadeiros são os teus caminhos,","ó Rei das nações!"],n:"Rei das nações: assim a Nova Vulgata, com muitos manuscritos gregos; outros dizem: Rei dos séculos."},
+{v:4,l:["Quem não te temerá, Senhor,","e não glorificará o teu nome?","Pois só tu és santo,","e todas as nações virão","e se prostrarão diante de ti,","porque os teus julgamentos se tornaram manifestos."],n:"Compare Jeremias 10,7 e Salmo 86,9."},
+{s:"Os sete anjos recebem as taças"},
+{v:5,t:"Depois disso, olhei, e abriu-se no céu o santuário da tenda do Testemunho,",n:"A tenda do Testemunho é o tabernáculo do deserto, onde se guardavam as tábuas da Lei (Êxodo 38,21; 40,34–35)."},
+{v:6,t:"e dele saíram os sete anjos que tinham as sete pragas, vestidos de linho puro e resplandecente e cingidos ao peito com cintos de ouro."},
+{v:7,t:"Um dos quatro seres vivos deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive pelos séculos dos séculos."},
+{v:8,t:"O templo encheu-se de fumaça, por causa da glória de Deus e do seu poder, e ninguém podia entrar no templo até que se consumassem as sete pragas dos sete anjos.",n:"Compare Êxodo 40,34–35, 1 Reis 8,10–11 e Isaías 6,4."}
+];
+
+window.TEXTOS_SEED["apocalipse"][16] = [
+{s:"As sete taças da ira de Deus"},
+{v:1,t:"Ouvi uma voz forte, que vinha do templo e dizia aos sete anjos: Ide e derramai sobre a terra as sete taças da ira de Deus."},
+{v:2,t:"Foi o primeiro e derramou a sua taça sobre a terra; e sobreveio uma úlcera maligna e dolorosa aos homens que tinham a marca da fera e que adoravam a sua imagem.",np:1,n:"Como a sexta praga do Egito (Êxodo 9,9–11). As taças repetem as pragas das trombetas, mas agora sem limite: já não se fala da terça parte."},
+{v:3,t:"O segundo derramou a sua taça sobre o mar, e o mar se tornou sangue, como o de um morto, e morreram todos os seres vivos que havia no mar.",np:1},
+{v:4,t:"O terceiro derramou a sua taça sobre os rios e sobre as fontes das águas, e eles se tornaram sangue.",np:1},
+{v:5,t:"E ouvi o anjo das águas, que dizia: Tu és justo, tu que és e que eras, o Santo, porque assim julgaste;"},
+{v:6,t:"porque derramaram o sangue dos santos e dos profetas, e tu lhes deste sangue a beber: bem o merecem!",n:"Nota do tradutor: a frase é dura, e não foi suavizada. É a lei do talião aplicada aos perseguidores, que recebem o que fizeram (compare Sabedoria 11,16)."},
+{v:7,t:"E ouvi o altar, que dizia: Sim, Senhor Deus, Todo-Poderoso, verdadeiros e justos são os teus julgamentos!"},
+{v:8,t:"O quarto derramou a sua taça sobre o sol, e foi-lhe permitido queimar os homens com o seu fogo.",np:1},
+{v:9,t:"Os homens foram queimados por um calor intenso e blasfemaram o nome de Deus, que tem poder sobre estas pragas, e não se converteram para lhe dar glória."},
+{v:10,t:"O quinto derramou a sua taça sobre o trono da fera, e o seu reino ficou em trevas; os homens mordiam a língua de dor",np:1,n:"Como a nona praga do Egito (Êxodo 10,21–23)."},
+{v:11,t:"e blasfemaram contra o Deus do céu por causa das suas dores e das suas úlceras, e não se converteram das suas obras."},
+{s:"A sexta taça: a reunião em Harmagedon"},
+{v:12,t:"O sexto derramou a sua taça sobre o grande rio Eufrates, e a sua água secou, para abrir caminho aos reis que vêm do nascente."},
+{v:13,t:"E vi sair da boca do dragão, da boca da fera e da boca do falso profeta três espíritos impuros, semelhantes a rãs;",n:"As rãs lembram a segunda praga do Egito (Êxodo 7,26–8,11). O falso profeta é a segunda fera (13,11–17)."},
+{v:14,t:"são espíritos de demônios, que realizam sinais e vão ao encontro dos reis do mundo inteiro, para reuni-los para a guerra do grande dia de Deus, o Todo-Poderoso."},
+{v:15,t:"Eis que venho como um ladrão. Bem-aventurado aquele que vigia e guarda as suas vestes, para não andar nu e não se ver a sua vergonha.",np:1,n:"Palavra de Cristo que interrompe a visão (compare 3,3.18; Mateus 24,43). É a terceira bem-aventurança do livro."},
+{v:16,t:"E eles os reuniram no lugar que em hebraico se chama Harmagedon.",np:1,n:"Harmagedon: em hebraico, monte de Meguido. Junto a Meguido foram vencidos os reis de Canaã (Juízes 5,19) e morreu o rei Josias (2 Reis 23,29); o nome tornou-se símbolo da derrota final dos inimigos de Deus."},
+{s:"A sétima taça"},
+{v:17,t:"O sétimo derramou a sua taça no ar, e saiu do templo, do trono, uma voz forte, que dizia: Está feito!"},
+{v:18,t:"Houve relâmpagos, vozes e trovões, e um grande terremoto, como nunca houve desde que o homem existe sobre a terra: tão grande foi esse terremoto."},
+{v:19,t:"A grande cidade se dividiu em três partes, e as cidades das nações caíram. E Deus se lembrou de Babilônia, a grande, para lhe dar o cálice do vinho do furor da sua ira."},
+{v:20,t:"Todas as ilhas fugiram, e os montes desapareceram."},
+{v:21,t:"E caiu do céu sobre os homens uma grande chuva de granizo, com pedras do peso de um talento; e os homens blasfemaram contra Deus por causa da praga do granizo, porque era uma praga muito grande.",n:"Um talento: uns trinta quilos. Compare a sétima praga do Egito (Êxodo 9,23–25)."}
+];
+
+window.TEXTOS_SEED["apocalipse"][17] = [
+{s:"A grande prostituta"},
+{v:1,t:"Veio um dos sete anjos que tinham as sete taças e falou comigo, dizendo: Vem, vou mostrar-te a condenação da grande prostituta, que está sentada sobre muitas águas,",n:"Compare Jeremias 51,13, dito da antiga Babilônia, cidade do Eufrates e dos seus canais."},
+{v:2,t:"com quem se prostituíram os reis da terra, e com o vinho da sua prostituição se embriagaram os habitantes da terra.",n:"A prostituição é aqui a idolatria e a sedução do poder e do luxo, como nos profetas a respeito de Tiro e de Nínive (Isaías 23,15–17; Naum 3,4)."},
+{v:3,t:"E levou-me em espírito ao deserto. E vi uma mulher sentada sobre uma fera cor de escarlate, coberta de nomes de blasfêmia, que tinha sete cabeças e dez chifres."},
+{v:4,t:"A mulher estava vestida de púrpura e de escarlate, adornada de ouro, de pedras preciosas e de pérolas; tinha na mão um cálice de ouro cheio de abominações e das impurezas da sua prostituição;",np:1},
+{v:5,t:"e na sua fronte estava escrito um nome, um mistério: Babilônia, a grande, a mãe das prostituições e das abominações da terra.",n:"Um mistério: um nome de sentido escondido, que vai ser decifrado (17,7–18)."},
+{v:6,t:"E vi a mulher embriagada com o sangue dos santos e com o sangue das testemunhas de Jesus. E, ao vê-la, fiquei muito admirado.",np:1},
+{s:"O mistério da mulher e da fera"},
+{v:7,t:"O anjo me disse: Por que te admiras? Eu te direi o mistério da mulher e da fera que a leva, a que tem as sete cabeças e os dez chifres:"},
+{v:8,t:"a fera que viste existia e já não existe; vai subir do abismo e caminha para a perdição. E os habitantes da terra, cujo nome não está escrito no livro da vida desde a fundação do mundo, ficarão admirados ao ver a fera, porque ela existia, já não existe e voltará.",n:"Paródia do nome de Deus, aquele que é, que era e que vem (1,4.8): a fera existia, já não existe e voltará, mas para a perdição."},
+{v:9,t:"Aqui está o sentido, para quem tem sabedoria. As sete cabeças são sete montes, sobre os quais a mulher está sentada. São também sete reis:",n:"Os sete montes são as sete colinas de Roma, como os leitores antigos entendiam."},
+{v:10,t:"cinco já caíram, um existe, e o outro ainda não veio; e, quando vier, deve permanecer pouco tempo.",n:"Os sete reis, isto é, imperadores, têm sido contados de muitas maneiras; o número sete indica sobretudo a totalidade de um poder que chega ao fim."},
+{v:11,t:"E a fera, que existia e já não existe, é ela mesma o oitavo rei, e é um dos sete, e caminha para a perdição."},
+{v:12,t:"Os dez chifres que viste são dez reis que ainda não receberam o reino, mas recebem poder como reis, por uma hora, junto com a fera."},
+{v:13,t:"Estes têm um só propósito e entregam à fera o seu poder e a sua autoridade."},
+{v:14,t:"Farão guerra contra o Cordeiro, e o Cordeiro os vencerá, porque ele é Senhor dos senhores e Rei dos reis; e os que estão com ele são os chamados, os escolhidos e os fiéis."},
+{v:15,t:"E disse-me ainda: As águas que viste, onde a prostituta está sentada, são povos, multidões, nações e línguas.",np:1},
+{v:16,t:"Os dez chifres que viste e a fera odiarão a prostituta: vão deixá-la desolada e nua, comerão as suas carnes e a queimarão no fogo;",n:"Nota do tradutor: a imagem é brutal, e não foi suavizada. Vem de Ezequiel 16,37–41 e 23,25–29, onde a cidade infiel é entregue aos seus amantes. O poder do mal acaba por destruir a si mesmo."},
+{v:17,t:"pois Deus lhes pôs no coração executar o seu desígnio, agir de comum acordo e entregar à fera o seu reino, até que se cumpram as palavras de Deus."},
+{v:18,t:"A mulher que viste é a grande cidade, que reina sobre os reis da terra."}
+];

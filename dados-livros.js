@@ -41,6 +41,7 @@ window.LIVROS_SEED = {
   "oseias":     { nome: "Oseias",      grupo: "Livros Proféticos",  capitulos: 14 },
   "joel":       { nome: "Joel",        grupo: "Livros Proféticos",  capitulos: 4 },
   "amos":       { nome: "Amós",        grupo: "Livros Proféticos",  capitulos: 9 },
+  "abdias":     { nome: "Abdias",      grupo: "Livros Proféticos",  capitulos: 1 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -69,7 +70,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {}, "eclesiastico": {}, "isaias": {}, "jeremias": {}, "lamentacoes": {}, "baruc": {}, "ezequiel": {}, "daniel": {}, "oseias": {}, "joel": {}, "amos": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {}, "eclesiastico": {}, "isaias": {}, "jeremias": {}, "lamentacoes": {}, "baruc": {}, "ezequiel": {}, "daniel": {}, "oseias": {}, "joel": {}, "amos": {}, "abdias": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

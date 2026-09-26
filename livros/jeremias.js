@@ -1056,3 +1056,54 @@ window.TEXTOS_SEED["jeremias"][33] = [
 {v:25,t:"Assim diz o Senhor: Se eu não tivesse estabelecido a minha aliança com o dia e com a noite, nem as leis do céu e da terra,"},
 {v:26,t:"então também rejeitaria a descendência de Jacó e de Davi, meu servo, e não tomaria da sua descendência os chefes para a descendência de Abraão, de Isaac e de Jacó; mas mudarei a sorte deles e terei compaixão deles."}
 ];
+
+window.TEXTOS_SEED["jeremias"][34] = [
+{s:"Aviso a Sedecias"},
+{v:1,t:"Palavra que o Senhor dirigiu a Jeremias, quando Nabucodonosor, rei da Babilônia, com todo o seu exército, todos os reinos da terra que estavam sob o seu domínio e todos os povos, combatiam contra Jerusalém e contra todas as suas cidades:",n:"Durante o cerco de Jerusalém, entre 588 e 587 antes de Cristo."},
+{v:2,t:"Assim diz o Senhor, o Deus de Israel: Vai falar a Sedecias, rei de Judá, e dize-lhe: Assim diz o Senhor: Eis que vou entregar esta cidade nas mãos do rei da Babilônia, que lhe porá fogo;"},
+{v:3,t:"e tu não escaparás da sua mão, mas certamente serás capturado e entregue nas suas mãos; os teus olhos verão os olhos do rei da Babilônia, ele falará contigo face a face, e irás para a Babilônia."},
+{v:4,t:"Contudo, ouve a palavra do Senhor, Sedecias, rei de Judá. Assim diz o Senhor a teu respeito: Não morrerás pela espada;"},
+{v:5,t:"morrerás em paz; e, como se queimaram perfumes pelos teus pais, os reis antigos que existiram antes de ti, assim os queimarão por ti e te lamentarão, dizendo: Ai, senhor! Pois fui eu que disse esta palavra, oráculo do Senhor.",n:"Queimavam-se perfumes nos funerais dos reis (2 Crônicas 16,14; 21,19). A promessa supõe que Sedecias se entregue ao rei da Babilônia (compare 38,17–18); sobre o seu fim, veja 52,8–11."},
+{v:6,t:"O profeta Jeremias disse todas estas palavras a Sedecias, rei de Judá, em Jerusalém,"},
+{v:7,t:"enquanto o exército do rei da Babilônia combatia contra Jerusalém e contra todas as cidades de Judá que ainda restavam, contra Laquis e contra Azeca; pois, das cidades de Judá, só estas cidades fortificadas tinham restado.",n:"Laquis e Azeca: fortalezas da Sefelá. Numa das cartas encontradas em Laquis, mais ou menos desta época, um oficial escreve que observa os sinais de fogo de Laquis, pois já não vê os de Azeca."},
+{s:"A libertação dos escravos revogada"},
+{v:8,t:"Palavra que o Senhor dirigiu a Jeremias, depois que o rei Sedecias fez uma aliança com todo o povo de Jerusalém, para proclamar a libertação:",n:"A Lei mandava libertar o escravo hebreu depois de seis anos de serviço (Êxodo 21,2; Deuteronômio 15,12)."},
+{v:9,t:"que cada um deixasse ir livres o seu escravo e a sua escrava, hebreu ou hebreia, de modo que ninguém mais mantivesse na escravidão um judeu, seu irmão."},
+{v:10,t:"Todos os chefes e todo o povo que tinham entrado na aliança obedeceram, deixando ir livres cada um o seu escravo e a sua escrava, para não mais mantê-los na escravidão; obedeceram e os deixaram ir.",np:1},
+{v:11,t:"Mas depois mudaram de ideia, fizeram voltar os escravos e as escravas que tinham deixado ir livres e os sujeitaram de novo como escravos e escravas."},
+{v:12,t:"Então a palavra do Senhor foi dirigida a Jeremias da parte do Senhor:"},
+{v:13,t:"Assim diz o Senhor, o Deus de Israel: Eu fiz uma aliança com os vossos pais, no dia em que os tirei da terra do Egito, da casa da escravidão, dizendo:"},
+{v:14,t:"Ao fim de sete anos, cada um de vós libertará o seu irmão hebreu que se tiver vendido a ti; ele te servirá seis anos, e depois o deixarás ir livre. Mas os vossos pais não me escutaram nem deram ouvidos.",n:"Ao fim de sete anos: isto é, no sétimo ano (Deuteronômio 15,1.12)."},
+{v:15,t:"Vós, hoje, vos tínheis convertido e feito o que é reto aos meus olhos, proclamando cada um a libertação do seu próximo; e fizestes uma aliança diante de mim, na casa sobre a qual é invocado o meu nome."},
+{v:16,t:"Mas voltastes atrás e profanastes o meu nome: cada um fez voltar o seu escravo e a sua escrava, que tínheis deixado ir livres, para onde quisessem, e os sujeitastes para que voltassem a ser vossos escravos e escravas."},
+{v:17,t:"Por isso assim diz o Senhor: Vós não me escutastes, proclamando cada um a libertação do seu irmão e do seu próximo; pois bem, eu proclamo para vós a libertação, oráculo do Senhor: para a espada, para a peste e para a fome; e farei de vós um motivo de horror para todos os reinos da terra.",np:1},
+{v:18,t:"Os homens que transgrediram a minha aliança e não cumpriram as palavras da aliança que fizeram diante de mim, eu os tornarei como o bezerro que cortaram em dois e entre cujas metades passaram:",n:"Rito antigo de aliança: os que se comprometiam passavam entre as metades de um animal, invocando sobre si a mesma sorte se quebrassem o compromisso (compare Gênesis 15,9–17)."},
+{v:19,t:"os chefes de Judá e os chefes de Jerusalém, os eunucos, os sacerdotes e todo o povo da terra, que passaram entre as metades do bezerro;"},
+{v:20,t:"eu os entregarei nas mãos dos seus inimigos e nas mãos dos que procuram tirar-lhes a vida, e os seus cadáveres servirão de alimento às aves do céu e aos animais da terra."},
+{v:21,t:"E Sedecias, rei de Judá, e os seus chefes, eu os entregarei nas mãos dos seus inimigos, nas mãos dos que procuram tirar-lhes a vida e nas mãos do exército do rei da Babilônia, que se retirou de vós.",n:"O exército babilônico tinha levantado o cerco por algum tempo, diante da aproximação dos egípcios (37,5–11)."},
+{v:22,t:"Eis que vou dar ordens, oráculo do Senhor, e os farei voltar a esta cidade; eles a atacarão, a tomarão e lhe porão fogo; e farei das cidades de Judá uma desolação, sem habitantes."}
+];
+
+window.TEXTOS_SEED["jeremias"][35] = [
+{s:"O exemplo dos recabitas"},
+{v:1,t:"Palavra que o Senhor dirigiu a Jeremias no tempo de Joaquim, filho de Josias, rei de Judá:",n:"Por volta de 599 antes de Cristo, quando bandos de caldeus e de arameus invadiam Judá (v. 11; 2 Reis 24,2)."},
+{v:2,t:"Vai à casa dos recabitas e fala com eles; leva-os à casa do Senhor, a uma das salas, e dá-lhes vinho para beber.",n:"Os recabitas descendiam de Jonadab, filho de Recab (2 Reis 10,15–23); viviam em tendas e não bebiam vinho, fiéis ao antigo modo de vida do deserto."},
+{v:3,t:"Tomei, pois, Jezonias, filho de Jeremias, filho de Habsanias, os seus irmãos, todos os seus filhos e toda a casa dos recabitas,",np:1},
+{v:4,t:"e os levei à casa do Senhor, à sala dos filhos de Hanã, filho de Jegdalias, homem de Deus, que ficava junto da sala dos chefes, acima da sala de Maasias, filho de Selum, guarda da entrada."},
+{v:5,t:"Pus diante dos membros da casa dos recabitas jarras cheias de vinho e taças, e lhes disse: Bebei vinho.",np:1},
+{v:6,t:"Mas eles responderam: Não bebemos vinho, pois Jonadab, filho de Recab, nosso pai, nos deu esta ordem: Não bebereis vinho, nem vós nem os vossos filhos, para sempre;",np:1},
+{v:7,t:"não construireis casas, não semeareis sementes, não plantareis vinhas nem as possuireis; mas habitareis em tendas todos os dias da vossa vida, para que vivais muitos dias sobre a face da terra onde morais como estrangeiros."},
+{v:8,t:"Obedecemos, pois, à voz de Jonadab, filho de Recab, nosso pai, em tudo o que nos ordenou: não bebemos vinho em toda a nossa vida, nem nós, nem as nossas mulheres, nem os nossos filhos e filhas;"},
+{v:9,t:"não edificamos casas para morar, e não temos vinha, nem campo, nem semente;"},
+{v:10,t:"habitamos em tendas; obedecemos e fizemos tudo o que nos ordenou Jonadab, nosso pai."},
+{v:11,t:"Mas, quando Nabucodonosor, rei da Babilônia, invadiu esta terra, dissemos: Vinde, entremos em Jerusalém, para fugir do exército dos caldeus e do exército dos arameus. E ficamos em Jerusalém."},
+{s:"A lição para Judá"},
+{v:12,t:"Então a palavra do Senhor foi dirigida a Jeremias:"},
+{v:13,t:"Assim diz o Senhor dos exércitos, o Deus de Israel: Vai dizer aos homens de Judá e aos habitantes de Jerusalém: Não aceitareis a correção, obedecendo às minhas palavras? — oráculo do Senhor."},
+{v:14,t:"As palavras de Jonadab, filho de Recab, que ordenou aos seus filhos que não bebessem vinho, foram cumpridas: eles não o beberam até hoje, pois obedeceram à ordem do seu pai. Mas eu vos falei sem cessar, e vós não me obedecestes."},
+{v:15,t:"Enviei-vos sem cessar todos os meus servos, os profetas, para vos dizer: Convertei-vos, cada um do seu mau caminho, corrigi as vossas ações, não sigais outros deuses para servi-los, e habitareis na terra que dei a vós e aos vossos pais. Mas não destes ouvidos nem me escutastes."},
+{v:16,t:"Os filhos de Jonadab, filho de Recab, cumpriram a ordem que o seu pai lhes deu, mas este povo não me obedeceu."},
+{v:17,t:"Por isso assim diz o Senhor dos exércitos, o Deus de Israel: Eis que vou fazer cair sobre Judá e sobre todos os habitantes de Jerusalém toda a desgraça que anunciei contra eles, porque lhes falei e não escutaram, chamei-os e não responderam."},
+{v:18,t:"E Jeremias disse à casa dos recabitas: Assim diz o Senhor dos exércitos, o Deus de Israel: Porque obedecestes à ordem de Jonadab, vosso pai, guardastes todos os seus mandamentos e fizestes tudo o que ele vos ordenou,",np:1},
+{v:19,t:"por isso assim diz o Senhor dos exércitos, o Deus de Israel: Nunca faltará a Jonadab, filho de Recab, um descendente que esteja na minha presença todos os dias."}
+];

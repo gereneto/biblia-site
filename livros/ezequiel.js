@@ -83,3 +83,46 @@ window.TEXTOS_SEED["ezequiel"][3] = [
 {v:26,t:"Farei que a tua língua se cole ao teu palato, e ficarás mudo e não serás para eles alguém que os repreende, pois são uma casa rebelde."},
 {v:27,t:"Mas, quando eu te falar, abrirei a tua boca, e tu lhes dirás: Assim diz o Senhor Deus. Quem quiser escutar, que escute; quem não quiser, que não escute, pois são uma casa rebelde."}
 ];
+
+window.TEXTOS_SEED["ezequiel"][4] = [
+{s:"O cerco de Jerusalém encenado"},
+{v:1,t:"E tu, filho do homem, toma um tijolo, põe-no diante de ti e desenha nele uma cidade, Jerusalém.",n:"O profeta encena o cerco de Jerusalém (588–587 antes de Cristo) alguns anos antes de acontecer."},
+{v:2,t:"Monta contra ela um cerco: constrói trincheiras, levanta uma rampa, põe acampamentos contra ela e coloca aríetes ao redor."},
+{v:3,t:"Toma também uma assadeira de ferro e põe-na como um muro de ferro entre ti e a cidade; fixa o teu olhar nela, e ela ficará sitiada, e tu a cercarás: é um sinal para a casa de Israel."},
+{v:4,t:"Depois deita-te sobre o lado esquerdo e põe sobre ele a iniquidade da casa de Israel; carregarás a iniquidade deles pelo número de dias em que ficares deitado sobre esse lado.",np:1},
+{v:5,t:"Eu te fixo os anos da iniquidade deles num número de dias: trezentos e noventa dias; e carregarás a iniquidade da casa de Israel.",n:"Trezentos e noventa: assim o hebraico; a tradução grega diz cento e noventa. O sentido dos números é discutido."},
+{v:6,t:"Quando os tiveres completado, tu te deitarás de novo, agora sobre o lado direito, e carregarás a iniquidade da casa de Judá durante quarenta dias; um dia por ano, eu te fixo um dia por ano."},
+{v:7,t:"Voltarás o rosto para o cerco de Jerusalém, com o braço descoberto, e profetizarás contra ela."},
+{v:8,t:"Eis que te amarrei com cordas, e não te virarás de um lado para o outro, até completares os dias do teu cerco."},
+{s:"O pão do cerco"},
+{v:9,t:"Toma também trigo, cevada, favas, lentilhas, milhete e espelta, põe tudo numa só vasilha e faze com isso o teu pão; tu o comerás durante os trezentos e noventa dias em que ficares deitado sobre o teu lado."},
+{v:10,t:"A comida que comerás será pesada: vinte siclos por dia; tu a comerás de tempos em tempos.",n:"Cerca de duzentos e trinta gramas."},
+{v:11,t:"Beberás também a água medida: a sexta parte de um hin; tu a beberás de tempos em tempos.",n:"Pouco mais de meio litro."},
+{v:12,t:"Tu o comerás como pão de cevada cozido sob as cinzas; e o cozerás à vista deles sobre excrementos humanos."},
+{v:13,t:"E o Senhor disse: Assim os filhos de Israel comerão o seu pão impuro entre as nações para onde eu os expulsarei."},
+{v:14,t:"Eu disse: Ah, Senhor Deus! Eis que eu nunca me contaminei; desde a minha juventude até agora nunca comi animal morto ou despedaçado por feras, e nunca entrou na minha boca carne impura."},
+{v:15,t:"Ele me respondeu: Pois bem, eu te permito usar esterco de boi em vez de excrementos humanos; sobre ele cozerás o teu pão."},
+{v:16,t:"E me disse: Filho do homem, eis que vou quebrar o sustento do pão em Jerusalém; eles comerão o pão pesado e com ansiedade, e beberão a água medida e com angústia,"},
+{v:17,t:"para que, faltando o pão e a água, fiquem consternados uns com os outros e definhem na sua iniquidade."}
+];
+
+window.TEXTOS_SEED["ezequiel"][5] = [
+{s:"Os cabelos cortados: o destino de Jerusalém"},
+{v:1,t:"E tu, filho do homem, toma uma espada afiada, usa-a como navalha de barbeiro e passa-a sobre a cabeça e a barba; depois toma uma balança e divide os pelos."},
+{v:2,t:"Queimarás um terço no fogo, no meio da cidade, quando se completarem os dias do cerco; tomarás outro terço e o cortarás com a espada ao redor da cidade; e o último terço espalharás ao vento, e eu desembainharei a espada atrás deles."},
+{v:3,t:"Tomarás deles um pequeno número e os amarrarás na barra do teu manto;"},
+{v:4,t:"e destes ainda tomarás alguns, os jogarás no fogo e os queimarás; dali sairá um fogo. E dirás a toda a casa de Israel:"},
+{v:5,t:"Assim diz o Senhor Deus: Esta é Jerusalém! Eu a pus no meio das nações, com os países ao seu redor."},
+{v:6,t:"Mas ela se rebelou contra os meus decretos, com mais impiedade que as nações, e contra os meus preceitos, mais que os países que a rodeiam; pois rejeitaram os meus decretos e não andaram nos meus preceitos."},
+{v:7,t:"Por isso assim diz o Senhor Deus: Porque fostes mais turbulentos que as nações que vos rodeiam, não andastes nos meus preceitos e não cumpristes os meus decretos, e nem sequer agistes segundo os costumes das nações que vos rodeiam,",np:1},
+{v:8,t:"por isso assim diz o Senhor Deus: Eis que também eu estou contra ti, e executarei no meio de ti os meus julgamentos, à vista das nações."},
+{v:9,t:"Farei em ti o que nunca fiz e o que nunca mais farei, por causa de todas as tuas abominações."},
+{v:10,t:"Por isso, no meio de ti, os pais comerão os filhos, e os filhos comerão os pais; executarei em ti os meus julgamentos e espalharei a todos os ventos tudo o que restar de ti.",n:"Nota do tradutor: compare Levítico 26,29; Deuteronômio 28,53; Lamentações 4,10; o texto não foi suavizado."},
+{v:11,t:"Por isso, pela minha vida, oráculo do Senhor Deus, porque profanaste o meu santuário com todas as tuas coisas detestáveis e com todas as tuas abominações, também eu te rasparei, sem que o meu olho tenha piedade, e não terei compaixão."},
+{v:12,t:"Um terço de ti morrerá de peste e será consumido pela fome no meio de ti; um terço cairá pela espada ao teu redor; e o outro terço espalharei a todos os ventos, e desembainharei a espada atrás deles."},
+{v:13,t:"Assim esgotarei a minha ira, saciarei neles o meu furor e ficarei satisfeito; e saberão que eu, o Senhor, falei no meu zelo, quando tiver esgotado neles o meu furor."},
+{v:14,t:"Farei de ti uma ruína e um objeto de insulto entre as nações que te rodeiam, à vista de todos os que passarem."},
+{v:15,t:"Serás objeto de insulto e de escárnio, uma lição e um espanto para as nações que te rodeiam, quando eu executar em ti os meus julgamentos com ira, furor e castigos violentos."},
+{v:16,t:"Eu, o Senhor, falei. Quando eu lançar contra vós as flechas terríveis da fome, que trazem a morte, e que lançarei para vos destruir, aumentarei a fome sobre vós e quebrarei o sustento do pão;"},
+{v:17,t:"mandarei contra vós a fome e as feras, que te deixarão sem filhos; a peste e o sangue passarão por ti, e farei vir a espada sobre ti. Eu, o Senhor, falei."}
+];

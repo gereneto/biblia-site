@@ -173,3 +173,87 @@ window.TEXTOS_SEED["apocalipse"][7] = [
 {v:16,t:"Nunca mais terão fome, nem sede; nem os atingirá o sol, nem calor algum,",n:"Compare Isaías 49,10."},
 {v:17,t:"porque o Cordeiro, que está no meio do trono, será o seu pastor e os conduzirá às fontes das águas da vida; e Deus enxugará toda lágrima dos seus olhos.",n:"Compare Isaías 25,8; a promessa volta em 21,4."}
 ];
+
+window.TEXTOS_SEED["apocalipse"][8] = [
+{s:"O sétimo selo e as orações dos santos"},
+{v:1,t:"Quando o Cordeiro abriu o sétimo selo, fez-se silêncio no céu, cerca de meia hora.",n:"O silêncio antes da ação de Deus (compare Sofonias 1,7; Zacarias 2,17)."},
+{v:2,t:"E vi os sete anjos que estão de pé diante de Deus, e foram-lhes dadas sete trombetas."},
+{v:3,t:"Veio outro anjo, que se pôs de pé junto ao altar, com um turíbulo de ouro; e foi-lhe dado muito incenso, para que o oferecesse, com as orações de todos os santos, sobre o altar de ouro que está diante do trono."},
+{v:4,t:"E da mão do anjo subiu diante de Deus a fumaça do incenso, com as orações dos santos."},
+{v:5,t:"Depois o anjo tomou o turíbulo, encheu-o com o fogo do altar e o lançou sobre a terra; e houve trovões, vozes, relâmpagos e um terremoto.",n:"As orações dos fiéis sobem a Deus e voltam à terra como fogo: é em resposta a elas que começam os juízos das trombetas."},
+{s:"As quatro primeiras trombetas"},
+{v:6,t:"Os sete anjos que tinham as sete trombetas prepararam-se para tocá-las."},
+{v:7,t:"O primeiro tocou a trombeta, e houve granizo e fogo misturados com sangue, que foram lançados sobre a terra; e a terça parte da terra foi queimada, a terça parte das árvores foi queimada, e toda a erva verde foi queimada.",np:1,n:"As pragas das trombetas lembram as do Egito (Êxodo 7–10): o granizo, a água transformada em sangue, as trevas, os gafanhotos. Atingem só a terça parte: são ainda avisos, que chamam à conversão (9,20–21)."},
+{v:8,t:"O segundo anjo tocou a trombeta, e uma espécie de grande montanha ardendo em fogo foi lançada ao mar; e a terça parte do mar se tornou sangue,",np:1},
+{v:9,t:"morreu a terça parte das criaturas que vivem no mar, e a terça parte dos navios foi destruída."},
+{v:10,t:"O terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha; e caiu sobre a terça parte dos rios e sobre as fontes das águas.",np:1},
+{v:11,t:"O nome da estrela é Absinto. A terça parte das águas se converteu em absinto, e muitos homens morreram por causa das águas, porque se tinham tornado amargas.",n:"O absinto é uma planta muito amarga, imagem do castigo nos profetas (Jeremias 9,14; 23,15)."},
+{v:12,t:"O quarto anjo tocou a trombeta, e foi ferida a terça parte do sol, a terça parte da lua e a terça parte das estrelas, de modo que a terça parte deles se obscureceu, e o dia perdeu a terça parte da sua luz, e a noite também.",np:1},
+{v:13,t:"Olhei e ouvi uma águia que voava no meio do céu e dizia em alta voz: Ai, ai, ai dos habitantes da terra, por causa dos outros toques de trombeta dos três anjos que ainda vão tocar!",np:1}
+];
+
+window.TEXTOS_SEED["apocalipse"][9] = [
+{s:"A quinta trombeta: os gafanhotos do abismo"},
+{v:1,t:"O quinto anjo tocou a trombeta, e vi uma estrela que tinha caído do céu sobre a terra; e foi-lhe dada a chave do poço do abismo.",n:"A estrela caída é um anjo (compare 1,20 e 20,1). O abismo é a prisão dos poderes do mal (Lucas 8,31; 2 Pedro 2,4)."},
+{v:2,t:"Ela abriu o poço do abismo, e subiu do poço uma fumaça, como a fumaça de uma grande fornalha; e o sol e o ar escureceram por causa da fumaça do poço."},
+{v:3,t:"Da fumaça saíram gafanhotos sobre a terra, e foi-lhes dado um poder semelhante ao que têm os escorpiões da terra.",n:"Compare a praga do Egito (Êxodo 10,12–15) e os gafanhotos de Joel 1–2, descritos como um exército."},
+{v:4,t:"Foi-lhes ordenado que não danificassem a erva da terra, nem verdura alguma, nem árvore alguma, mas apenas os homens que não têm o selo de Deus na fronte."},
+{v:5,t:"Foi-lhes permitido, não matá-los, mas atormentá-los durante cinco meses; e o tormento que causam é como o do escorpião quando pica um homem.",n:"Cinco meses: o tempo de vida de um gafanhoto. É um castigo com prazo marcado."},
+{v:6,t:"Naqueles dias, os homens procurarão a morte e não a acharão; desejarão morrer, e a morte fugirá deles."},
+{v:7,t:"Os gafanhotos pareciam cavalos preparados para a batalha; na cabeça tinham como que coroas semelhantes ao ouro, e o seu rosto era como rosto de homem;",np:1,n:"Compare Joel 2,4–5."},
+{v:8,t:"tinham cabelos como cabelos de mulher, e os seus dentes eram como os dos leões;"},
+{v:9,t:"tinham couraças como couraças de ferro, e o ruído das suas asas era como o ruído de carros de muitos cavalos que correm para a batalha."},
+{v:10,t:"Têm caudas semelhantes às dos escorpiões, com ferrões, e nas caudas está o seu poder de danificar os homens durante cinco meses."},
+{v:11,t:"Têm como rei o anjo do abismo, cujo nome em hebraico é Abadon, e em grego, Apolion.",n:"Abadon quer dizer em hebraico a Perdição, e designa no Antigo Testamento o lugar dos mortos (Jó 26,6); Apolion quer dizer em grego o Destruidor."},
+{v:12,t:"O primeiro ai passou. Eis que depois disso vêm ainda dois ais.",np:1},
+{s:"A sexta trombeta: os cavaleiros do Eufrates"},
+{v:13,t:"O sexto anjo tocou a trombeta, e ouvi uma voz que vinha dos chifres do altar de ouro que está diante de Deus,",n:"Dos chifres: assim a Nova Vulgata; muitos manuscritos gregos dizem: dos quatro chifres."},
+{v:14,t:"e que dizia ao sexto anjo, que tinha a trombeta: Solta os quatro anjos que estão acorrentados junto ao grande rio Eufrates.",n:"O Eufrates era a fronteira do Império Romano com os partos, os temíveis cavaleiros do Oriente."},
+{v:15,t:"Foram soltos os quatro anjos, que estavam preparados para a hora, o dia, o mês e o ano, a fim de matarem a terça parte dos homens.",np:1},
+{v:16,t:"O número dos soldados da cavalaria era de duzentos milhões; eu ouvi o seu número."},
+{v:17,t:"Foi assim que vi na visão os cavalos e os que os montavam: tinham couraças cor de fogo, de jacinto e de enxofre; as cabeças dos cavalos eram como cabeças de leões, e da sua boca saíam fogo, fumaça e enxofre."},
+{v:18,t:"Por estas três pragas foi morta a terça parte dos homens: pelo fogo, pela fumaça e pelo enxofre que saíam da sua boca."},
+{v:19,t:"Pois o poder dos cavalos está na sua boca e nas suas caudas; as suas caudas, semelhantes a serpentes, têm cabeças, e é com elas que causam dano."},
+{v:20,t:"Os outros homens, os que não foram mortos por estas pragas, não se converteram das obras das suas mãos: não deixaram de adorar os demônios e os ídolos de ouro, de prata, de bronze, de pedra e de madeira, que não podem ver, nem ouvir, nem andar;",np:1,n:"Compare Salmo 115,4–7 e Daniel 5,23."},
+{v:21,t:"nem se converteram dos seus homicídios, nem das suas feitiçarias, nem da sua prostituição, nem dos seus roubos."}
+];
+
+window.TEXTOS_SEED["apocalipse"][10] = [
+{s:"O anjo e o livrinho"},
+{v:1,t:"Vi outro anjo poderoso, que descia do céu envolto numa nuvem; tinha sobre a cabeça o arco-íris, o seu rosto era como o sol, e os seus pés, como colunas de fogo;"},
+{v:2,t:"tinha na mão um livrinho aberto. Pôs o pé direito sobre o mar e o esquerdo sobre a terra,"},
+{v:3,t:"e gritou em alta voz, como ruge o leão. Quando gritou, os sete trovões fizeram ouvir as suas vozes."},
+{v:4,t:"Quando os sete trovões falaram, eu ia escrever; mas ouvi uma voz do céu, que dizia: Guarda sob selo o que os sete trovões disseram e não o escrevas.",n:"Nem tudo é revelado: compare Daniel 12,4.9 e 2 Coríntios 12,4."},
+{v:5,t:"Então o anjo que eu tinha visto de pé sobre o mar e sobre a terra levantou a mão direita para o céu",np:1},
+{v:6,t:"e jurou por aquele que vive pelos séculos dos séculos, que criou o céu e o que nele existe, a terra e o que nela existe, o mar e o que nele existe: Não haverá mais demora;",n:"Compare Daniel 12,7. Não haverá mais demora: à letra, não haverá mais tempo."},
+{v:7,t:"mas nos dias em que se ouvir a voz do sétimo anjo, quando ele tocar a trombeta, se consumará o mistério de Deus, como ele anunciou aos seus servos, os profetas."},
+{s:"João come o livrinho"},
+{v:8,t:"A voz que eu tinha ouvido do céu falou-me de novo e disse: Vai, toma o livro aberto da mão do anjo que está de pé sobre o mar e sobre a terra."},
+{v:9,t:"Fui ao anjo e pedi-lhe que me desse o livrinho. Ele me disse: Toma-o e come-o; ele te amargará o estômago, mas na tua boca será doce como o mel.",n:"Compare Ezequiel 2,8–3,3. A palavra de Deus é doce quando é recebida e amarga pelo que anuncia."},
+{v:10,t:"Tomei o livrinho da mão do anjo e o comi; na minha boca era doce como o mel, mas, depois de o comer, o meu estômago ficou amargo."},
+{v:11,t:"E disseram-me: É preciso que profetizes de novo sobre muitos povos, nações, línguas e reis."}
+];
+
+window.TEXTOS_SEED["apocalipse"][11] = [
+{s:"As duas testemunhas"},
+{v:1,t:"Foi-me dada uma cana semelhante a uma vara, e foi-me dito: Levanta-te e mede o templo de Deus, o altar e os que nele adoram.",n:"Medir é pôr sob proteção (compare Ezequiel 40–42; Zacarias 2,5–9): o santuário, isto é, a comunidade dos fiéis, será preservado."},
+{v:2,t:"Mas o átrio que fica fora do templo, deixa-o de lado e não o meças, porque foi entregue às nações, e elas pisarão a cidade santa durante quarenta e dois meses.",n:"Quarenta e dois meses, ou mil duzentos e sessenta dias (11,3; 12,6), ou um tempo, dois tempos e metade de um tempo (12,14): são três anos e meio, a metade de sete, o tempo limitado da perseguição (Daniel 7,25; 12,7)."},
+{v:3,t:"E farei que as minhas duas testemunhas profetizem, vestidas de saco, durante mil duzentos e sessenta dias."},
+{v:4,t:"Elas são as duas oliveiras e os dois candelabros que estão de pé diante do Senhor da terra.",n:"Compare Zacarias 4,3.11–14. As duas testemunhas têm os traços de Moisés e de Elias (11,6); representam o testemunho profético da Igreja."},
+{v:5,t:"Se alguém quiser fazer-lhes mal, sai fogo da sua boca e devora os seus inimigos; e, se alguém quiser fazer-lhes mal, é assim que deve morrer.",np:1},
+{v:6,t:"Elas têm o poder de fechar o céu, para que não chova durante os dias da sua profecia; e têm poder sobre as águas, para convertê-las em sangue, e para ferir a terra com toda sorte de pragas, todas as vezes que quiserem.",n:"Como Elias, que fechou o céu (1 Reis 17,1), e Moisés, que converteu a água em sangue (Êxodo 7,17–20)."},
+{v:7,t:"Quando tiverem terminado o seu testemunho, a fera que sobe do abismo lhes fará guerra, as vencerá e as matará."},
+{v:8,t:"Os seus corpos ficarão na praça da grande cidade, que se chama, em sentido espiritual, Sodoma e Egito, onde também o Senhor delas foi crucificado.",n:"A grande cidade é aqui Jerusalém, onde o Senhor foi crucificado, chamada Sodoma e Egito pela sua infidelidade (compare Isaías 1,10). No resto do livro, a grande cidade é Babilônia."},
+{v:9,t:"Homens de povos, tribos, línguas e nações contemplam os seus corpos durante três dias e meio e não permitem que sejam sepultados."},
+{v:10,t:"Os habitantes da terra se alegram por causa delas e fazem festa, e mandarão presentes uns aos outros, porque esses dois profetas tinham atormentado os habitantes da terra."},
+{v:11,t:"Mas, depois dos três dias e meio, um sopro de vida, vindo de Deus, entrou nelas, e elas se puseram de pé; e um grande temor caiu sobre os que as viam.",np:1,n:"Compare Ezequiel 37,5.10."},
+{v:12,t:"E ouviram uma voz forte do céu, que lhes dizia: Subi até aqui. E subiram ao céu na nuvem, à vista dos seus inimigos."},
+{v:13,t:"Naquela hora houve um grande terremoto; a décima parte da cidade desabou, e morreram no terremoto sete mil pessoas; os demais ficaram cheios de temor e deram glória ao Deus do céu."},
+{v:14,t:"O segundo ai passou; eis que o terceiro ai vem em breve.",np:1},
+{s:"A sétima trombeta"},
+{v:15,t:"O sétimo anjo tocou a trombeta, e houve no céu vozes fortes, que diziam: O reino do mundo passou a ser do nosso Senhor e do seu Cristo, e ele reinará pelos séculos dos séculos."},
+{v:16,t:"E os vinte e quatro anciãos, que estão sentados nos seus tronos diante de Deus, prostraram-se com o rosto em terra e adoraram a Deus,",np:1},
+{v:17,l:["dizendo:","Nós te damos graças,","Senhor Deus, Todo-Poderoso,","que és e que eras,","porque assumiste o teu grande poder e começaste a reinar."],n:"Já não se diz: e que vem (compare 1,8 e 4,8); ele já veio para reinar."},
+{v:18,l:["As nações se enfureceram,","mas chegou a tua ira","e o tempo de julgar os mortos,","de dar a recompensa aos teus servos, os profetas, e aos santos,","e aos que temem o teu nome, pequenos e grandes,","e de destruir os que destroem a terra."],n:"Compare Salmo 2,1."},
+{v:19,t:"Então se abriu o templo de Deus que está no céu, e apareceu no seu templo a arca da sua aliança; e houve relâmpagos, vozes, um terremoto e uma grande chuva de granizo.",np:1,n:"A arca, desaparecida desde a destruição do templo de Salomão (compare 2 Macabeus 2,4–8), aparece no céu: Deus não esqueceu a sua aliança. Vozes, terremoto: a Nova Vulgata não traz aqui os trovões, que muitos manuscritos gregos acrescentam."}
+];

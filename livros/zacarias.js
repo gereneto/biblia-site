@@ -225,3 +225,62 @@ window.TEXTOS_SEED["zacarias"][11] = [
 {v:16,l:["pois eis que vou suscitar na terra um pastor","que não cuidará da ovelha que se perde,","não buscará a extraviada,","não curará a ferida","nem sustentará a que está de pé,","mas comerá a carne das gordas","e lhes arrancará os cascos."],np:1},
 {v:17,l:["Ai do pastor insensato,","que abandona o rebanho!","A espada sobre o seu braço","e sobre o seu olho direito!","Que o seu braço fique completamente seco,","e o seu olho direito, totalmente cego!"],np:1}
 ];
+
+window.TEXTOS_SEED["zacarias"][12] = [
+{s:"Jerusalém, pedra pesada para as nações"},
+{v:1,t:"Oráculo. Palavra do Senhor sobre Israel e sobre Judá. Oráculo do Senhor, que estendeu o céu, fundou a terra e formou o espírito do homem dentro dele:"},
+{v:2,t:"Eis que farei de Jerusalém uma taça de vertigem para todos os povos ao redor. Isto acontecerá no cerco contra Jerusalém."},
+{v:3,t:"Naquele dia acontecerá: farei de Jerusalém uma pedra pesada para todos os povos; todos os que a levantarem ficarão feridos, e todas as nações da terra se reunirão contra ela."},
+{v:4,t:"Naquele dia, oráculo do Senhor, ferirei de espanto todos os cavalos, e de loucura os seus cavaleiros; mas sobre a casa de Judá abrirei os meus olhos, e ferirei de cegueira todos os cavalos dos povos."},
+{v:5,t:"E os chefes de Judá dirão no seu coração: A força dos habitantes de Jerusalém está no Senhor dos exércitos, seu Deus."},
+{v:6,t:"Naquele dia farei dos chefes de Judá como um braseiro no meio da lenha e como uma tocha acesa no meio do feno; eles devorarão, à direita e à esquerda, todos os povos ao redor, e Jerusalém será de novo habitada no seu lugar."},
+{v:7,t:"O Senhor salvará primeiro as tendas de Judá, para que a glória da casa de Davi e a glória dos habitantes de Jerusalém não se levantem acima de Judá."},
+{v:8,t:"Naquele dia o Senhor protegerá os habitantes de Jerusalém; e o que tropeçar entre eles, naquele dia, será como Davi, e a casa de Davi será como Deus, como o anjo do Senhor diante deles."},
+{s:"O luto por aquele que traspassaram"},
+{v:9,t:"Naquele dia acontecerá: procurarei destruir todas as nações que vierem contra Jerusalém;"},
+{v:10,t:"e derramarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de graça e de súplica; eles olharão para mim. Aquele que traspassaram, eles o chorarão como se chora um filho único, e o lamentarão como se lamenta um primogênito.",n:"Texto difícil: o hebraico diz olharão para mim, a quem traspassaram, como se o próprio Senhor fosse traspassado na pessoa do seu enviado. São João vê aqui Jesus crucificado (João 19,37; compare Apocalipse 1,7)."},
+{v:11,t:"Naquele dia haverá grande lamentação em Jerusalém, como a lamentação de Adad-Remon na planície de Meguido;",n:"Talvez o luto pelo rei Josias, morto em Meguido (2 Crônicas 35,22–25); ou um rito pagão de luto por um deus da vegetação."},
+{v:12,l:["e a terra ficará de luto, cada família à parte:","a família da casa de Davi à parte,","e as suas mulheres à parte;","a família da casa de Natã à parte,","e as suas mulheres à parte;"]},
+{v:13,l:["a família da casa de Levi à parte,","e as suas mulheres à parte;","a família de Semei à parte,","e as suas mulheres à parte;"],np:1},
+{v:14,l:["todas as outras famílias, cada família à parte,","e as suas mulheres à parte."],np:1}
+];
+
+window.TEXTOS_SEED["zacarias"][13] = [
+{s:"Uma fonte para lavar o pecado"},
+{v:1,t:"Naquele dia haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para lavar o pecado e a impureza."},
+{v:2,t:"Naquele dia acontecerá, oráculo do Senhor dos exércitos, que exterminarei da terra os nomes dos ídolos, e não serão mais lembrados; e também tirarei da terra os falsos profetas e o espírito impuro."},
+{v:3,t:"E se alguém ainda profetizar, o seu pai e a sua mãe, que o geraram, lhe dirão: Não viverás, porque disseste mentiras em nome do Senhor. E o seu pai e a sua mãe, que o geraram, o traspassarão enquanto profetiza.",n:"Nota do tradutor: a sentença retoma a lei contra o falso profeta (Deuteronômio 13,6–11; 18,20); o texto não foi suavizado."},
+{v:4,t:"Naquele dia os profetas terão vergonha, cada um da sua visão, quando profetizarem; e não vestirão mais o manto de pelo para enganar,"},
+{v:5,t:"mas cada um dirá: Não sou profeta; sou lavrador, pois a terra é a minha propriedade desde a minha juventude.",n:"A terra é a minha propriedade: assim a Nova Vulgata, com uma pequena correção; o hebraico diz: um homem me comprou desde a minha juventude."},
+{v:6,t:"E se lhe perguntarem: Que feridas são essas no meio das tuas mãos? Ele responderá: Foram feitas na casa dos meus amigos.",n:"As feridas: incisões rituais, praticadas pelos profetas pagãos (1 Reis 18,28); o falso profeta tenta disfarçá-las."},
+{s:"O pastor ferido e o rebanho purificado"},
+{v:7,l:["Espada, desperta contra o meu pastor","e contra o homem que é meu companheiro,","oráculo do Senhor dos exércitos.","Fere o pastor, e as ovelhas se dispersarão,","e voltarei a minha mão contra os pequenos."],n:"Jesus aplica este versículo a si mesmo e aos discípulos, na noite da paixão (Mateus 26,31; Marcos 14,27)."},
+{v:8,l:["Em toda a terra acontecerá,","oráculo do Senhor,","que dois terços serão exterminados e perecerão,","e um terço ficará nela;"],np:1},
+{v:9,l:["farei passar esse terço pelo fogo,","eu os purificarei como se purifica a prata","e os provarei como se prova o ouro:","ele invocará o meu nome,","e eu o ouvirei.","Direi: Este é o meu povo;","e ele dirá: O Senhor é o meu Deus."],np:1}
+];
+
+window.TEXTOS_SEED["zacarias"][14] = [
+{s:"O dia do Senhor e a batalha final"},
+{v:1,t:"Eis que vem um dia do Senhor, em que os teus despojos serão repartidos no meio de ti."},
+{v:2,t:"Reunirei todas as nações contra Jerusalém para a batalha; a cidade será tomada, as casas saqueadas e as mulheres violentadas; metade da cidade irá para o exílio, mas o resto do povo não será expulso da cidade.",n:"Nota do tradutor: a violência contra as mulheres fazia parte das guerras antigas; o profeta a descreve sem rodeios, e o texto não foi suavizado."},
+{v:3,t:"Então o Senhor sairá e combaterá contra essas nações, como combate no dia da batalha."},
+{v:4,t:"Naquele dia os seus pés pousarão sobre o monte das Oliveiras, que fica diante de Jerusalém, a oriente; e o monte das Oliveiras se fenderá ao meio, de oriente a ocidente, formando um vale muito grande; metade do monte se afastará para o norte, e a outra metade para o sul."},
+{v:5,t:"E fugireis pelo vale dos seus montes, pois o vale dos montes chegará até Jasol; fugireis como fugistes do terremoto no tempo de Ozias, rei de Judá; e o Senhor, meu Deus, virá, e todos os santos com ele.",n:"O terremoto do tempo de Ozias é lembrado também em Amós 1,1. Jasol: lugar desconhecido; o hebraico diz Asal."},
+{v:6,t:"Naquele dia não haverá luz, mas frio e gelo;",np:1},
+{v:7,t:"será um dia único, conhecido do Senhor, nem dia nem noite; e ao entardecer haverá luz."},
+{v:8,t:"Naquele dia águas vivas sairão de Jerusalém, metade para o mar oriental e metade para o mar ocidental; correrão no verão e no inverno.",n:"Compare Ezequiel 47,1–12; Joel 4,18."},
+{v:9,t:"O Senhor será rei sobre toda a terra; naquele dia o Senhor será único, e único será o seu nome.",np:1},
+{v:10,t:"Toda a terra se transformará em planície, desde Gaba até Remon, ao sul de Jerusalém; e Jerusalém será elevada e habitada no seu lugar, desde a porta de Benjamim até o lugar da Primeira Porta e até a porta do Ângulo, e desde a torre de Hananeel até os lagares do rei.",np:1},
+{v:11,t:"Habitarão nela, e não haverá mais anátema; Jerusalém habitará em segurança."},
+{v:12,t:"Esta será a praga com que o Senhor ferirá todos os povos que combateram contra Jerusalém: a carne de cada um apodrecerá enquanto ainda estiver de pé, os seus olhos apodrecerão nas órbitas, e a sua língua apodrecerá na boca.",np:1,n:"Nota do tradutor: a imagem é crua; o texto não foi suavizado."},
+{v:13,t:"Naquele dia haverá entre eles um grande pânico, enviado pelo Senhor; cada um agarrará a mão do seu próximo e levantará a mão contra ele."},
+{v:14,t:"Também Judá combaterá em Jerusalém; e serão reunidas as riquezas de todas as nações ao redor: ouro, prata e roupas em grande quantidade."},
+{v:15,t:"Uma praga semelhante atingirá os cavalos, os mulos, os camelos, os jumentos e todos os animais que estiverem naqueles acampamentos."},
+{s:"Todas as nações subirão a Jerusalém"},
+{v:16,t:"Todos os que restarem de todas as nações que vieram contra Jerusalém subirão ano após ano para adorar o Rei, o Senhor dos exércitos, e para celebrar a festa das Tendas."},
+{v:17,t:"E acontecerá: as famílias da terra que não subirem a Jerusalém para adorar o Rei, o Senhor dos exércitos, não terão chuva."},
+{v:18,t:"E, se a família do Egito não subir nem vier, cairá sobre ela a praga com que o Senhor fere as nações que não sobem para celebrar a festa das Tendas.",n:"O Egito não dependia da chuva, mas das cheias do Nilo; por isso recebe outro castigo."},
+{v:19,t:"Este será o castigo do Egito e o castigo de todas as nações que não subirem para celebrar a festa das Tendas."},
+{v:20,t:"Naquele dia, até nas campainhas dos cavalos estará escrito: Consagrado ao Senhor; e as panelas da casa do Senhor serão como as taças diante do altar.",n:"Consagrado ao Senhor: a inscrição que o sumo sacerdote levava no turbante (Êxodo 28,36). Até as coisas mais comuns se tornarão santas."},
+{v:21,t:"Toda panela em Jerusalém e em Judá será consagrada ao Senhor dos exércitos; todos os que oferecerem sacrifícios virão, as tomarão e cozinharão nelas; e naquele dia não haverá mais mercador na casa do Senhor dos exércitos.",n:"Mercador: em hebraico, cananeu, palavra que também significava comerciante. Compare João 2,16."}
+];

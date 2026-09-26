@@ -144,3 +144,69 @@ window.TEXTOS_SEED["amos"][6] = [
 {v:13,l:["Eles se alegram por Lodabar","e dizem: Não foi com a nossa força","que tomamos Carnaim?"],np:1,n:"Lodabar e Carnaim: cidades de Galaad retomadas por Jeroboão II. Jogo de palavras: Lodabar significa coisa de nada; Carnaim, chifres, símbolo de força."},
 {v:14,l:["Pois eis que levantarei contra vós, casa de Israel,","oráculo do Senhor, Deus dos exércitos, uma nação,","e ela vos oprimirá desde a entrada de Emat","até a torrente da Arabá."],np:1,n:"De Emat, ao norte, até a torrente da Arabá, ao sul: todo o território que Jeroboão II tinha reconquistado (2 Reis 14,25)."}
 ];
+
+window.TEXTOS_SEED["amos"][7] = [
+{s:"Primeira visão: os gafanhotos"},
+{v:1,t:"Eis o que o Senhor Deus me mostrou: ele formava gafanhotos quando começava a brotar a erva tardia, a erva que brota depois da ceifa reservada ao rei.",n:"A ceifa reservada ao rei: o primeiro corte do capim, entregue como tributo para os animais do rei."},
+{v:2,t:"Quando eles acabaram de devorar a erva da terra, eu disse: Senhor Deus, perdoa, eu te suplico! Como poderá Jacó subsistir, sendo tão pequeno?"},
+{v:3,t:"O Senhor se compadeceu disso: Não acontecerá, disse o Senhor Deus."},
+{s:"Segunda visão: o fogo"},
+{v:4,t:"Eis o que o Senhor Deus me mostrou: o Senhor Deus convocava o fogo para o julgamento, e o fogo devorou o grande abismo e ia devorando também a terra.",n:"A terra: literalmente, a porção, a terra repartida entre as tribos."},
+{v:5,t:"Eu disse: Senhor Deus, para, eu te suplico! Como poderá Jacó subsistir, sendo tão pequeno?"},
+{v:6,t:"O Senhor se compadeceu disso: Também isto não acontecerá, disse o Senhor Deus."},
+{s:"Terceira visão: a colher de pedreiro"},
+{v:7,t:"Eis o que o Senhor Deus me mostrou: um homem de pé sobre um muro rebocado, com uma colher de pedreiro na mão.",n:"Um homem: assim a Nova Vulgata, com a tradução grega; o hebraico diz: o Senhor. A palavra hebraica anak, traduzida aqui por colher de pedreiro, é de sentido incerto; muitos a entendem como fio de prumo."},
+{v:8,t:"O Senhor me disse: Que vês, Amós? Respondi: Uma colher de pedreiro. E o Senhor disse: Eis que vou pôr uma colher de pedreiro no meio do meu povo Israel; não tornarei a perdoar-lhe."},
+{v:9,t:"Os lugares altos de Isaac serão destruídos, os santuários de Israel serão devastados, e eu me levantarei com a espada contra a casa de Jeroboão."},
+{s:"Amós e Amasias"},
+{v:10,t:"Então Amasias, sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: Amós está conspirando contra ti no meio da casa de Israel; a terra não pode mais suportar todas as suas palavras."},
+{v:11,t:"Pois assim diz Amós: Jeroboão morrerá pela espada, e Israel será deportado para longe da sua terra."},
+{v:12,t:"E Amasias disse a Amós: Vidente, vai-te embora! Foge para a terra de Judá; come lá o teu pão e profetiza lá;"},
+{v:13,t:"mas em Betel não profetizes mais, porque é o santuário do rei e um templo do reino."},
+{v:14,l:["Amós respondeu a Amasias:","Eu não sou profeta","nem filho de profeta;","sou vaqueiro e cultivo sicômoros."],n:"Filho de profeta: membro de uma confraria de profetas profissionais. Os frutos do sicômoro eram picados para amadurecerem."},
+{v:15,l:["Mas o Senhor me tomou","quando eu seguia o rebanho,","e o Senhor me disse:","Vai, profetiza ao meu povo Israel."],np:1},
+{v:16,t:"E agora ouve a palavra do Senhor. Tu dizes: Não profetizes contra Israel e não pregues contra a casa de Isaac.",np:1},
+{v:17,t:"Por isso assim diz o Senhor: A tua mulher se prostituirá na cidade, os teus filhos e as tuas filhas cairão pela espada, a tua terra será repartida a cordel, e tu morrerás numa terra impura, e Israel será deportado para longe da sua terra.",n:"Nota do tradutor: a sentença descreve o que sofriam as famílias numa cidade conquistada; o texto não foi suavizado. Terra impura: terra estrangeira, onde não se podia oferecer culto ao Senhor."}
+];
+
+window.TEXTOS_SEED["amos"][8] = [
+{s:"Quarta visão: o cesto de frutas maduras"},
+{v:1,l:["Eis o que o Senhor Deus me mostrou:","um cesto de frutas maduras."]},
+{v:2,l:["Ele disse: Que vês, Amós?","Respondi: Um cesto de frutas maduras.","E o Senhor me disse:","Chegou o fim para o meu povo Israel;","não tornarei a perdoar-lhe."],np:1,n:"No hebraico, jogo de palavras: qayits, fruta do fim do verão, e qets, fim."},
+{v:3,l:["Naquele dia, as cantoras do palácio se lamentarão,","oráculo do Senhor Deus;","serão muitos os cadáveres,","em toda parte serão jogados: silêncio!"],np:1},
+{s:"Contra os que exploram os pobres"},
+{v:4,l:["Ouvi isto, vós que esmagais o pobre","e quereis eliminar os humildes da terra,"]},
+{v:5,l:["vós que dizeis: Quando passará a lua nova,","para vendermos as nossas mercadorias?","E o sábado, para abrirmos os celeiros,","para diminuirmos a medida e aumentarmos o siclo","e usarmos balanças falsas,"],np:1,n:"Diminuíam a medida do trigo vendido e aumentavam o peso da prata recebida."},
+{v:6,l:["para comprarmos os fracos por dinheiro","e o pobre por um par de sandálias,","e para vendermos até o refugo do trigo?"],np:1},
+{v:7,l:["O Senhor jurou pelo orgulho de Jacó:","Jamais esquecerei nenhuma das suas obras."],np:1,n:"O orgulho de Jacó: talvez o próprio Senhor, a glória de Israel; ou, com ironia, a arrogância do povo (6,8)."},
+{v:8,l:["Não tremerá a terra por causa disso,","e não estarão de luto todos os seus habitantes?","Não subirá toda ela como o rio,","não se agitará e baixará como o rio do Egito?"],np:1,n:"O rio do Egito: o Nilo, com as suas cheias anuais."},
+{s:"Luto como por um filho único"},
+{v:9,l:["Naquele dia acontecerá,","oráculo do Senhor Deus:","farei o sol se pôr ao meio-dia","e escurecerei a terra em pleno dia;"],n:"Talvez lembrança de um eclipse do sol, como o de 763 antes de Cristo."},
+{v:10,l:["transformarei as vossas festas em luto","e todos os vossos cantos em lamentação;","farei que todos vistam pano de saco","e que todas as cabeças sejam raspadas;","farei dela um luto como por um filho único,","e o seu fim será como um dia amargo."],np:1},
+{s:"Fome da palavra do Senhor"},
+{v:11,l:["Eis que vêm dias,","oráculo do Senhor,","em que mandarei fome sobre a terra;","não fome de pão nem sede de água,","mas de ouvir a palavra do Senhor."]},
+{v:12,l:["Andarão errantes de mar a mar","e correrão do norte ao oriente,","buscando a palavra do Senhor,","e não a encontrarão."],np:1},
+{v:13,l:["Naquele dia desfalecerão de sede","as moças bonitas e os rapazes."],np:1},
+{v:14,l:["Os que juram pelo pecado de Samaria","e dizem: Pela vida do teu Deus, Dã!","e: Pela vida do caminho de Bersabeia!","cairão e não se levantarão mais."],np:1,n:"O pecado de Samaria: talvez o bezerro de ouro de Betel, ou uma divindade pagã. Dã e Bersabeia eram santuários do extremo norte e do extremo sul; jurava-se até pela peregrinação a Bersabeia."}
+];
+
+window.TEXTOS_SEED["amos"][9] = [
+{s:"Quinta visão: ninguém escapará"},
+{v:1,l:["Vi o Senhor","de pé junto ao altar,","e ele disse: Golpeia o capitel,","e que tremam os umbrais;","quebra-os sobre a cabeça de todos,","e o resto deles eu matarei à espada;","nenhum deles conseguirá fugir,","nenhum sobrevivente escapará."]},
+{v:2,l:["Ainda que desçam à morada dos mortos,","de lá a minha mão os tirará;","ainda que subam ao céu,","de lá os farei descer."],np:1},
+{v:3,l:["Ainda que se escondam no alto do Carmelo,","lá os procurarei e os agarrarei;","ainda que se ocultem dos meus olhos","no fundo do mar,","lá ordenarei à serpente que os morda;"],np:1},
+{v:4,l:["ainda que vão para o exílio","diante dos seus inimigos,","lá ordenarei à espada que os mate;","porei os meus olhos sobre eles","para o mal, e não para o bem."],np:1},
+{v:5,l:["O Senhor, Deus dos exércitos,","toca a terra, e ela se derrete;","todos os seus habitantes ficam de luto;","ela sobe toda como o rio","e baixa como o rio do Egito."],np:1},
+{v:6,l:["Ele constrói no céu os seus aposentos","e firma a sua abóbada sobre a terra;","chama as águas do mar","e as derrama sobre a face da terra:","Senhor é o seu nome."],np:1,n:"Último fragmento do hino ao Criador (compare 4,13; 5,8–9)."},
+{s:"Israel entre as nações"},
+{v:7,l:["Não sois para mim como os etíopes,","filhos de Israel?","— oráculo do Senhor.","Não fiz eu Israel subir","da terra do Egito,","os filisteus de Caftor","e os sírios de Quir?"],n:"Caftor: Creta. O Senhor conduz a história de todos os povos; a saída do Egito não dá a Israel nenhuma garantia, se ele não for fiel."},
+{v:8,l:["Eis que os olhos do Senhor Deus","estão sobre o reino pecador,","e eu o exterminarei","da face da terra;","mas não exterminarei por completo","a casa de Jacó,","oráculo do Senhor."],np:1},
+{v:9,l:["Pois eis que darei ordens","e sacudirei a casa de Israel entre todas as nações,","como se sacode o trigo na peneira,","sem que caia por terra uma só pedrinha."],np:1},
+{v:10,l:["Morrerão à espada todos os pecadores do meu povo,","que dizem: A desgraça não se aproximará","nem nos alcançará."],np:1},
+{s:"A tenda de Davi será reerguida"},
+{v:11,l:["Naquele dia levantarei","a tenda de Davi, que caiu,","e repararei as suas brechas;","reerguerei o que estava em ruínas","e a reconstruirei como nos dias antigos,"],n:"A tenda de Davi: a dinastia davídica em ruínas. Tiago cita 9,11–12 na versão grega no encontro dos apóstolos em Jerusalém (Atos 15,16–17)."},
+{v:12,l:["para que possuam","o resto de Edom","e todas as nações","sobre as quais foi invocado o meu nome,","oráculo do Senhor, que fará estas coisas."],np:1},
+{v:13,l:["Eis que vêm dias,","oráculo do Senhor,","em que o lavrador alcançará o ceifeiro,","e o que pisa as uvas, o que semeia; os montes destilarão vinho novo,","e todas as colinas se derreterão."],np:1,n:"Imagem de uma fertilidade tão grande que uma colheita emenda na outra."},
+{v:14,l:["Farei voltar os cativos do meu povo Israel;","reconstruirão as cidades devastadas e as habitarão,","plantarão vinhas e beberão o seu vinho,","cultivarão pomares e comerão os seus frutos."],np:1},
+{v:15,l:["Eu os plantarei na sua terra,","e não serão mais arrancados","da terra que lhes dei,","diz o Senhor, teu Deus."],np:1}
+];

@@ -334,3 +334,43 @@ window.TEXTOS_SEED["ezequiel"][13] = [
 {v:22,t:"Porque entristecestes com mentiras o coração do justo, que eu não quis entristecer, e fortalecestes as mãos do ímpio, para que não se convertesse do seu mau caminho e vivesse,",np:1},
 {v:23,t:"por isso não tereis mais visões vazias, nem praticareis mais adivinhações; livrarei o meu povo das vossas mãos, e sabereis que eu sou o Senhor."}
 ];
+
+window.TEXTOS_SEED["ezequiel"][14] = [
+{s:"Os idólatras que consultam o profeta"},
+{v:1,t:"Alguns dos anciãos de Israel vieram ter comigo e se sentaram diante de mim."},
+{v:2,t:"A palavra do Senhor me foi dirigida:"},
+{v:3,t:"Filho do homem, estes homens puseram os seus ídolos no coração e colocaram diante dos olhos aquilo que os faz cair na iniquidade; deverei eu responder-lhes quando me consultam?"},
+{v:4,t:"Por isso fala-lhes e dize-lhes: Assim diz o Senhor Deus: Todo homem da casa de Israel que puser os seus ídolos no coração, colocar diante dos olhos aquilo que o faz cair na iniquidade e vier ao profeta para me consultar por meio dele, eu, o Senhor, eu mesmo lhe responderei segundo a multidão dos seus ídolos,"},
+{v:5,t:"para apanhar a casa de Israel no seu próprio coração, pois se afastou de mim por causa de todos os seus ídolos."},
+{v:6,t:"Por isso dize à casa de Israel: Assim diz o Senhor Deus: Convertei-vos, afastai-vos dos vossos ídolos e desviai o rosto de todas as vossas abominações.",np:1},
+{v:7,t:"Pois a todo homem da casa de Israel, ou dos estrangeiros que moram em Israel, que se afastar de mim, puser os seus ídolos no coração, colocar diante dos olhos aquilo que o faz cair na iniquidade e vier ao profeta para me consultar por meio dele, eu, o Senhor, eu mesmo lhe responderei;"},
+{v:8,t:"voltarei o meu rosto contra esse homem, farei dele um exemplo e um provérbio e o exterminarei do meio do meu povo; e sabereis que eu sou o Senhor."},
+{v:9,t:"Se o profeta se deixar enganar e disser alguma palavra, fui eu, o Senhor, que enganei esse profeta; estenderei a minha mão contra ele e o eliminarei do meio do meu povo Israel.",np:1,n:"Nota do tradutor: o texto atribui a Deus o engano do falso profeta, à maneira do Antigo Testamento, que remete tudo à causa primeira (compare 1 Reis 22,19–23); não foi suavizado."},
+{v:10,t:"Ambos carregarão a sua iniquidade: a iniquidade do profeta será como a iniquidade de quem o consulta,"},
+{v:11,t:"para que a casa de Israel não se afaste mais de mim e não se contamine mais com todas as suas transgressões; mas seja o meu povo, e eu seja o seu Deus, oráculo do Senhor Deus."},
+{s:"Noé, Danel e Jó"},
+{v:12,t:"A palavra do Senhor me foi dirigida:"},
+{v:13,t:"Filho do homem, se uma terra pecar contra mim, cometendo infidelidade, e eu estender a mão contra ela, quebrar o sustento do seu pão, mandar sobre ela a fome e exterminar dela homens e animais,"},
+{v:14,t:"ainda que estivessem nela estes três homens, Noé, Danel e Jó, eles salvariam somente a própria vida por causa da sua justiça, oráculo do Senhor Deus.",n:"Danel: antigo sábio e justo, conhecido também de textos de Ugarit; provavelmente não é o Daniel do livro de Daniel. Compare 28,3."},
+{v:15,t:"Se eu fizer passar pela terra feras terríveis, que a deixem sem filhos, e ela se tornar um deserto, por onde ninguém passe por causa das feras,"},
+{v:16,t:"ainda que estivessem nela esses três homens, pela minha vida, oráculo do Senhor Deus, não salvariam nem filhos nem filhas; só eles seriam salvos, e a terra ficaria desolada."},
+{v:17,t:"Ou, se eu fizer vir a espada contra essa terra, disser à espada que passe pela terra e exterminar dela homens e animais,"},
+{v:18,t:"ainda que estivessem nela esses três homens, pela minha vida, oráculo do Senhor Deus, não salvariam nem filhos nem filhas; só eles seriam salvos."},
+{v:19,t:"Ou, se eu mandar a peste contra essa terra e derramar sobre ela o meu furor com sangue, para exterminar dela homens e animais,"},
+{v:20,t:"ainda que estivessem nela Noé, Danel e Jó, pela minha vida, oráculo do Senhor Deus, não salvariam nem filho nem filha; por causa da sua justiça, salvariam somente a própria vida."},
+{v:21,t:"Pois assim diz o Senhor Deus: Ainda que eu mande contra Jerusalém os meus quatro castigos terríveis, a espada, a fome, as feras e a peste, para exterminar dela homens e animais,",np:1},
+{v:22,t:"ainda assim ficarão nela alguns sobreviventes, filhos e filhas que serão levados para fora; eis que eles virão até vós, e vereis o seu procedimento e as suas obras, e vos consolareis da desgraça que fiz cair sobre Jerusalém, de tudo o que fiz cair sobre ela."},
+{v:23,t:"Eles vos consolarão, quando virdes o seu procedimento e as suas obras, e reconhecereis que não foi sem motivo que fiz tudo o que fiz nela, oráculo do Senhor Deus."}
+];
+
+window.TEXTOS_SEED["ezequiel"][15] = [
+{s:"A videira inútil"},
+{v:1,t:"A palavra do Senhor me foi dirigida:"},
+{v:2,l:["Filho do homem, em que é melhor a madeira da videira","do que qualquer ramo","entre as árvores do bosque?"],np:1},
+{v:3,l:["Tira-se dela madeira","para fazer alguma obra?","Ou faz-se dela uma estaca","para pendurar algum utensílio?"],np:1},
+{v:4,l:["Eis que foi lançada ao fogo para ser consumida;","o fogo consumiu as duas pontas,","e o meio ficou queimado;","servirá ainda para alguma obra?"],np:1},
+{v:5,l:["Mesmo quando estava inteira,","não servia para nenhuma obra;","quanto menos agora, que o fogo a devorou e queimou,","se poderá fazer dela alguma obra!"],np:1},
+{v:6,l:["Por isso assim diz o Senhor Deus:","Como a madeira da videira entre as árvores do bosque,","que eu entreguei ao fogo para ser consumida,","assim entregarei os habitantes de Jerusalém."],np:1},
+{v:7,l:["Voltarei o rosto contra eles:","escaparam do fogo,","mas o fogo os devorará.","E sabereis que eu sou o Senhor,","quando voltar o rosto contra eles"],np:1},
+{v:8,l:["e fizer da terra um lugar desolado e deserto,","porque foram infiéis,","oráculo do Senhor Deus."],np:1}
+];

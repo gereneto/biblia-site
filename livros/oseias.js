@@ -178,3 +178,56 @@ window.TEXTOS_SEED["oseias"][9] = [
 {v:16,l:["Efraim está ferido,","a sua raiz secou,","não darão mais fruto;","e, ainda que tenham filhos,","matarei o fruto querido do seu ventre."],np:1},
 {v:17,l:["O meu Deus os rejeitará,","porque não o escutaram;","e andarão errantes entre as nações."],np:1}
 ];
+
+window.TEXTOS_SEED["oseias"][10] = [
+{s:"Israel, videira frondosa"},
+{v:1,l:["Israel era uma videira frondosa,","que dava fruto;","quanto mais abundante o seu fruto, mais multiplicava os altares;","quanto melhor a sua terra,","mais belas fazia as suas colunas sagradas."]},
+{v:2,l:["O seu coração está dividido;","agora pagarão a pena:","o Senhor quebrará os seus altares","e destruirá as suas colunas sagradas."],np:1},
+{v:3,l:["Então dirão:","Não temos rei,","porque não tememos o Senhor;","e o rei, que poderia fazer por nós?"],np:1},
+{v:4,l:["Dizem palavras, juram em falso,","fazem alianças;","e o direito brota como erva venenosa","nos sulcos do campo."],np:1},
+{v:5,l:["Os habitantes de Samaria tremem","pelo bezerro de Bet-Áven;","o seu povo se lamenta por ele,","e os seus sacerdotes se agitam","por causa da sua glória,","que foi levada para longe dele."],np:1},
+{v:6,l:["Também ele será levado para a Assíria,","como presente para o grande rei;","Efraim ficará envergonhado,","e Israel se envergonhará do seu projeto."],np:1},
+{v:7,l:["Samaria perece;","o seu rei é como um graveto sobre a água."],np:1},
+{v:8,l:["Serão destruídos os lugares altos da impiedade,","o pecado de Israel;","espinhos e cardos crescerão","sobre os seus altares,","e dirão aos montes: Cobri-nos!","e às colinas: Caí sobre nós!"],np:1,n:"Compare Lucas 23,30; Apocalipse 6,16."},
+{v:9,l:["Desde os dias de Gabaá Israel peca;","ali permaneceram.","Não os alcançará em Gabaá","a guerra contra os filhos da iniquidade?"],np:1},
+{v:10,l:["Eu os castigarei como quero;","povos se reunirão contra eles,","quando forem castigados pelas suas duas iniquidades."],np:1},
+{v:11,l:["Efraim era uma novilha bem treinada,","que gostava de debulhar o trigo;","mas eu pus o jugo sobre o seu belo pescoço;","atrelarei Efraim ao arado,","Judá lavrará,","Jacó gradeará a terra."],np:1},
+{v:12,l:["Semeai para vós conforme a justiça,","colhei conforme o amor;","arroteai para vós um campo novo.","É tempo de buscar o Senhor,","até que ele venha e faça chover sobre vós a justiça."],np:1},
+{v:13,l:["Lavrastes a impiedade,","colhestes a iniquidade,","comestes o fruto da mentira,","porque confiaste nos teus carros","e na multidão dos teus guerreiros."],np:1},
+{v:14,l:["Um tumulto se levantará no teu povo,","e todas as tuas fortalezas serão devastadas,","como Salmã devastou Bet-Arbel","no dia da batalha,","quando a mãe foi esmagada com os filhos."],np:1,n:"Episódio hoje desconhecido."},
+{v:15,l:["Assim vos fará Betel,","por causa da vossa enorme maldade.","Ao amanhecer perecerá o rei de Israel."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][11] = [
+{s:"O amor de Deus é mais forte"},
+{v:1,l:["Quando Israel era menino, eu o amei,","e do Egito chamei o meu filho."],n:"Mateus aplica este versículo a Jesus (Mateus 2,15)."},
+{v:2,l:["Quanto mais eu os chamava,","mais se afastavam de mim;","ofereciam sacrifícios aos baals","e queimavam incenso aos ídolos."],np:1},
+{v:3,l:["Fui eu que ensinei Efraim a andar,","tomando-o pelos braços,","mas eles não reconheceram que era eu quem cuidava deles."],np:1},
+{v:4,l:["Eu os atraía com laços humanos,","com laços de amor;","era para eles como quem levanta uma criança até o rosto,","e me inclinava para lhe dar de comer."],np:1},
+{v:5,l:["Voltará para a terra do Egito,","e a Assíria será o seu rei,","porque se recusaram a converter-se."],np:1},
+{v:6,l:["A espada se enfurecerá nas suas cidades,","acabará com os seus tagarelas","e os devorará por causa dos seus projetos."],np:1},
+{v:7,l:["O meu povo está inclinado a se rebelar contra mim;","chamam-no para o alto, mas ninguém o levanta."],np:1},
+{v:8,l:["Como poderia eu abandonar-te, Efraim,","entregar-te, Israel?","Como poderia tratar-te como Adamá,","fazer-te como Seboim?","O meu coração se revolve dentro de mim,","toda a minha compaixão se comove."],np:1,n:"Adamá e Seboim: cidades destruídas com Sodoma e Gomorra (Deuteronômio 29,22)."},
+{v:9,l:["Não darei curso ao ardor da minha ira,","não voltarei a destruir Efraim,","porque eu sou Deus,","e não homem;","o Santo no meio de ti,","e não virei com terror."],np:1},
+{v:10,l:["Eles seguirão o Senhor;","ele rugirá como um leão;","quando ele rugir,","os filhos virão tremendo do ocidente."],np:1},
+{v:11,l:["Virão tremendo, como pássaros, do Egito,","e como pombas, da terra da Assíria;","e eu os farei habitar nas suas casas,","oráculo do Senhor."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][12] = [
+{s:"A infidelidade de Jacó e de Efraim"},
+{v:1,l:["Efraim me cercou de mentiras,","e a casa de Israel, de enganos;","mas Judá ainda caminha com Deus","e é fiel ao Santo."],n:"Em outras Bíblias, 12,1 é 11,12, e a numeração deste capítulo diminui de uma unidade."},
+{v:2,l:["Efraim se alimenta de vento","e corre atrás do vento abrasador o dia todo;","multiplica a mentira e a violência,","faz aliança com a Assíria","e leva azeite ao Egito."],np:1},
+{v:3,l:["O Senhor tem um processo contra Judá","e vai castigar Jacó segundo o seu procedimento;","ele lhe retribuirá segundo as suas obras."],np:1},
+{v:4,l:["No ventre materno ele suplantou o irmão","e, na sua força, lutou com Deus."],np:1,n:"Compare Gênesis 25,26; 32,23–33."},
+{v:5,l:["Lutou com o anjo e venceu;","chorou e lhe pediu graça.","Em Betel o encontrou,","e ali ele falou conosco,"],np:1,n:"Compare Gênesis 28,10–22; 35,9–15."},
+{v:6,l:["o Senhor, o Deus dos exércitos:","Senhor é o seu nome."],np:1},
+{v:7,l:["Tu, pois, volta para o teu Deus;","guarda o amor e o direito","e espera sempre no teu Deus."],np:1},
+{v:8,l:["Canaã tem na mão uma balança falsa;","gosta de explorar."],np:1,n:"Canaã: aqui, o próprio Israel, que age como os mercadores cananeus."},
+{v:9,l:["Efraim disse: Eu me enriqueci,","ganhei uma fortuna;","em todo o meu trabalho não encontrarão","culpa que seja pecado."],np:1},
+{v:10,l:["Mas eu sou o Senhor, teu Deus,","desde a terra do Egito;","ainda te farei habitar em tendas,","como nos dias da festa."],np:1,n:"Os dias da festa: a festa das Tendas, que lembrava a peregrinação no deserto."},
+{v:11,l:["Falei aos profetas,","multipliquei as visões","e por meio dos profetas falei em parábolas."],np:1},
+{v:12,l:["Se Galaad era iniquidade,","tornaram-se nada;","em Guilgal ofereciam bois em sacrifício;","os seus altares serão como montes de pedras","nos sulcos do campo."],np:1},
+{v:13,l:["Jacó fugiu para a terra de Arã;","Israel serviu por uma mulher","e por uma mulher guardou rebanhos."],np:1,n:"Compare Gênesis 29."},
+{v:14,l:["Mas por meio de um profeta o Senhor","fez Israel sair do Egito,","e por meio de um profeta ele foi guardado."],np:1,n:"O profeta: Moisés (Deuteronômio 18,15; 34,10)."},
+{v:15,l:["Efraim provocou a ira amarga do Senhor;","o seu Senhor fará cair sobre ele o sangue que derramou","e lhe retribuirá os seus ultrajes."],np:1}
+];

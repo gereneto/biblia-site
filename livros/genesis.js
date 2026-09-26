@@ -1377,3 +1377,58 @@ window.TEXTOS_SEED["genesis"][38] = [
 {v:29,t:"Mas ele retirou a mão, e saiu o seu irmão. A parteira disse: Que brecha abriste para ti! E por isso lhe deram o nome de Farés.",n:"Farés quer dizer brecha, e Zara, nascer do sol: a Nova Vulgata reproduz entre parênteses essas explicações de São Jerônimo. Farés será antepassado de Davi (Rute 4,18–22) e aparece com Tamar na genealogia de Jesus (Mateus 1,3)."},
 {v:30,t:"Depois saiu o seu irmão, que tinha na mão o fio escarlate; e lhe deram o nome de Zara."}
 ];
+
+window.TEXTOS_SEED["genesis"][39] = [
+{s:"José na casa de Putifar"},
+{v:1,t:"José foi levado ao Egito; e Putifar, eunuco do faraó, chefe da guarda, um egípcio, comprou-o dos ismaelitas que o tinham levado para lá."},
+{v:2,t:"O Senhor estava com José, e ele era um homem bem-sucedido em tudo; e morava na casa do seu senhor, o egípcio.",n:"O Senhor estava com José: a frase volta no começo e no fim do capítulo (39,21.23), emoldurando a desgraça. Longe da terra e da família, José não está sozinho."},
+{v:3,t:"O seu senhor via que o Senhor estava com ele e que o Senhor fazia prosperar em suas mãos tudo o que empreendia."},
+{v:4,t:"José achou graça aos olhos do seu senhor e passou a servi-lo pessoalmente. E, depois que o pôs à frente da sua casa e lhe confiou tudo o que possuía,"},
+{v:5,t:"o Senhor abençoou a casa do egípcio por causa de José, e a bênção do Senhor estava sobre tudo o que ele possuía, tanto na casa como nos campos."},
+{v:6,t:"Deixou tudo o que possuía nas mãos de José e, com ele ali, não se preocupava com nada, a não ser com o pão que comia. José era de bela aparência e formoso de rosto."},
+{s:"José e a mulher de Putifar"},
+{v:7,t:"Algum tempo depois, a mulher do seu senhor pôs os olhos em José e lhe disse: Deita-te comigo."},
+{v:8,t:"Ele recusou e disse à mulher do seu senhor: Com a minha presença, o meu senhor não se preocupa com nada do que há na casa; confiou-me tudo o que possui,"},
+{v:9,t:"e ninguém nesta casa é maior do que eu; ele não me negou nada, a não ser a ti, porque és a sua mulher. Como poderia eu cometer um mal tão grande e pecar contra Deus?"},
+{v:10,t:"Dia após dia ela insistia com o jovem, mas ele se recusava a deitar-se com ela.",np:1},
+{v:11,t:"Certo dia, José entrou em casa para fazer o seu trabalho, e não havia ali nenhum dos homens da casa;",np:1},
+{v:12,t:"ela o agarrou pela roupa e disse: Deita-te comigo. Mas ele deixou o manto nas mãos dela, fugiu e saiu para fora.",n:"Pela segunda vez, uma veste de José serve de prova falsa contra ele (compare 37,31–33)."},
+{v:13,t:"Quando ela viu que ele tinha deixado o manto nas suas mãos e fugido para fora,",np:1},
+{v:14,t:"chamou os homens da casa e lhes disse: Vede! Ele nos trouxe um hebreu para zombar de nós! Entrou onde eu estava para se deitar comigo, e eu gritei com força;",n:"Ele nos trouxe: a mulher culpa o marido diante dos criados, e o estrangeiro diante de todos: um hebreu."},
+{v:15,t:"quando ouviu que eu gritava, deixou o manto que eu segurava e fugiu para fora."},
+{v:16,t:"Ela guardou o manto consigo e o mostrou ao marido, quando ele voltou para casa,"},
+{v:17,t:"e lhe contou a mesma história: O escravo hebreu que nos trouxeste entrou onde eu estava para zombar de mim;"},
+{v:18,t:"e, quando me ouviu gritar, deixou o manto que eu segurava e fugiu para fora."},
+{v:19,t:"Quando o senhor de José ouviu as palavras da sua mulher, ficou furioso;",np:1,n:"O texto não diz contra quem. Talvez Putifar não acreditasse inteiramente na mulher: um escravo acusado de adultério com a mulher do senhor podia ser morto, e José é apenas preso."},
+{v:20,t:"e mandou prender José no cárcere onde estavam os presos do rei. E ali ficou José, no cárcere."},
+{v:21,t:"Mas o Senhor estava com José: foi bondoso com ele e lhe fez achar graça aos olhos do chefe do cárcere.",np:1},
+{v:22,t:"O chefe do cárcere confiou a José todos os presos que estavam na prisão, e tudo o que se fazia ali era ele que fazia."},
+{v:23,t:"O chefe do cárcere não se ocupava de nada do que estava nas mãos de José, porque o Senhor estava com ele e fazia prosperar tudo o que ele empreendia."}
+];
+
+window.TEXTOS_SEED["genesis"][40] = [
+{s:"José interpreta os sonhos dos presos"},
+{v:1,t:"Algum tempo depois, o copeiro e o padeiro do rei do Egito ofenderam o seu senhor."},
+{v:2,t:"O faraó se irritou contra os seus dois eunucos, o chefe dos copeiros e o chefe dos padeiros,"},
+{v:3,t:"e os mandou prender na casa do chefe da guarda, no cárcere onde José estava preso."},
+{v:4,t:"O chefe da guarda os confiou a José, que os servia. Ficaram algum tempo na prisão."},
+{v:5,t:"Numa mesma noite, os dois tiveram um sonho, cada um com o seu próprio significado.",np:1},
+{v:6,t:"De manhã, José entrou onde eles estavam e os viu tristes."},
+{v:7,t:"Perguntou-lhes: Por que hoje estais com o rosto tão triste?"},
+{v:8,t:"Responderam: Tivemos um sonho, e não há quem o interprete. José lhes disse: Não pertencem a Deus as interpretações? Contai-me o que vistes.",n:"No Egito havia intérpretes de sonhos profissionais, com os seus livros; José não reivindica técnica nenhuma, apenas o dom de Deus."},
+{v:9,t:"O chefe dos copeiros contou o seu sonho a José: No meu sonho, eu via diante de mim uma videira,",np:1},
+{v:10,t:"e na videira havia três ramos; ela brotava, florescia, e os cachos amadureciam em uvas."},
+{v:11,t:"Eu tinha na mão a taça do faraó; tomei as uvas, espremi-as na taça do faraó e pus a taça na mão do faraó."},
+{v:12,t:"José lhe disse: Esta é a interpretação do sonho: os três ramos são três dias;"},
+{v:13,t:"dentro de três dias, o faraó levantará a tua cabeça e te restituirá ao teu cargo; e porás a taça na mão do faraó, como fazias antes, quando eras o seu copeiro.",n:"Levantar a cabeça: favorecer, reabilitar. No versículo 19, a mesma expressão terá um sentido sinistro."},
+{v:14,t:"Mas lembra-te de mim quando estiveres bem, e faze-me este favor: fala de mim ao faraó e tira-me desta prisão;"},
+{v:15,t:"pois fui roubado da terra dos hebreus, e também aqui não fiz nada para que me jogassem nesta cova.",n:"Cova: a mesma palavra da cisterna em que os irmãos o tinham jogado (37,24)."},
+{v:16,t:"Vendo que a interpretação tinha sido favorável, o chefe dos padeiros disse a José: Também eu tive um sonho: havia três cestos de pão branco sobre a minha cabeça;",np:1},
+{v:17,t:"no cesto de cima havia toda espécie de iguarias de padaria para o faraó, e as aves as comiam do cesto que estava sobre a minha cabeça."},
+{v:18,t:"José respondeu: Esta é a interpretação: os três cestos são três dias;"},
+{v:19,t:"dentro de três dias, o faraó levantará a tua cabeça de cima de ti e te pendurará num madeiro, e as aves comerão a tua carne.",n:"Nota do tradutor: o jogo de palavras é macabro, e o texto não o suaviza: levantar a cabeça, aqui, é decapitar."},
+{v:20,t:"Três dias depois, era o aniversário do faraó; ele deu um banquete a todos os seus servos e, no meio deles, levantou a cabeça do chefe dos copeiros e a cabeça do chefe dos padeiros:",np:1},
+{v:21,t:"restituiu o chefe dos copeiros ao seu cargo, e ele pôs a taça na mão do faraó;"},
+{v:22,t:"e mandou pendurar o chefe dos padeiros, como José lhes tinha explicado."},
+{v:23,t:"Mas o chefe dos copeiros não se lembrou de José: esqueceu-se dele.",np:1}
+];

@@ -117,3 +117,64 @@ window.TEXTOS_SEED["oseias"][6] = [
 {v:10,l:["Na casa de Israel vi uma coisa horrível:","ali está a prostituição de Efraim,","Israel se contaminou."],np:1},
 {v:11,l:["Também para ti, Judá, está preparada uma colheita,","quando eu mudar a sorte do meu povo."],np:1}
 ];
+
+window.TEXTOS_SEED["oseias"][7] = [
+{s:"A maldade de Samaria"},
+{v:1,l:["Quando eu queria curar Israel,","revelou-se a iniquidade de Efraim","e a maldade de Samaria,","pois praticam a mentira;","o ladrão entra nas casas,","e o bando de salteadores rouba lá fora."]},
+{v:2,l:["Não pensam no seu coração","que eu me lembro de toda a sua maldade.","Agora as suas obras os cercam,","estão diante da minha face."],np:1},
+{v:3,l:["Com a sua maldade alegram o rei e, com as suas mentiras, os chefes."],np:1},
+{v:4,l:["São todos adúlteros;","são como um forno aceso,","cujo padeiro deixa de atiçar o fogo","desde que amassa a massa até que ela fermente."],np:1},
+{v:5,l:["No dia do nosso rei,","os chefes adoecem com o ardor do vinho,","que se apodera dos insolentes."],np:1},
+{v:6,l:["Pois aproximaram o seu coração, como um forno,","das suas ciladas;","toda a noite dorme a sua ira,","e pela manhã ela arde como fogo em chamas."],np:1},
+{v:7,l:["Todos estão quentes como um forno","e devoram os seus juízes.","Todos os seus reis caíram,","e nenhum deles clama a mim."],np:1,n:"Alusão aos golpes de Estado que se sucederam em Israel depois de Jeroboão II (2 Reis 15)."},
+{s:"Efraim, pão que não foi virado"},
+{v:8,l:["Efraim se mistura com os povos;","Efraim é um pão cozido sob as cinzas, que não foi virado."],n:"Queimado de um lado e cru do outro."},
+{v:9,l:["Estrangeiros devoram a sua força,","e ele não sabe;","também os cabelos brancos se espalham pela sua cabeça,","e ele não percebe."],np:1},
+{v:10,l:["O orgulho de Israel testemunha contra ele;","não se voltaram para o Senhor, seu Deus,","nem o procuraram, apesar de tudo isso."],np:1},
+{v:11,l:["Efraim é como uma pomba","ingênua, sem juízo:","chamam o Egito,","vão à Assíria."],np:1},
+{v:12,l:["Quando forem, estenderei sobre eles a minha rede;","eu os farei cair como as aves do céu;","eu os castigarei conforme o anúncio feito à sua assembleia."],np:1},
+{v:13,l:["Ai deles, porque se afastaram de mim!","Serão devastados, porque se rebelaram contra mim.","E eu haveria de resgatá-los,","quando eles dizem mentiras contra mim?"],np:1},
+{v:14,l:["Não clamam a mim de coração,","mas gemem nos seus leitos;","fazem incisões em si mesmos por causa do trigo e do vinho","e se rebelam contra mim."],np:1},
+{v:15,l:["Eu os instruí e fortaleci os seus braços,","mas eles tramam o mal contra mim."],np:1},
+{v:16,l:["Voltam-se para o que não serve para nada,","são como um arco enganador;","os seus chefes cairão pela espada","por causa da insolência da sua língua: por isso zombarão deles na terra do Egito."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][8] = [
+{s:"Semeiam vento e colhem tempestade"},
+{v:1,l:["Põe a trombeta na boca!","Como uma águia, o inimigo vem sobre a casa do Senhor,","porque transgrediram a minha aliança","e se rebelaram contra a minha lei."]},
+{v:2,l:["Clamam a mim: Meu Deus,","nós, Israel, te conhecemos!"],np:1},
+{v:3,l:["Israel rejeitou o bem;","o inimigo o perseguirá."],np:1},
+{v:4,l:["Constituíram reis, mas não por mim;","nomearam chefes, mas sem que eu soubesse;","com a sua prata e o seu ouro","fizeram ídolos para si,","para a sua própria ruína."],np:1},
+{v:5,l:["O teu bezerro, Samaria, foi rejeitado;","a minha ira se acendeu contra eles.","Até quando não poderão purificar-se?"],np:1,n:"O bezerro de ouro de Betel (1 Reis 12,28–29)."},
+{v:6,l:["Pois ele vem de Israel:","um artesão o fez,","e ele não é Deus;","o bezerro de Samaria","será reduzido a pedaços."],np:1},
+{v:7,l:["Pois semeiam vento","e colherão tempestade;","o trigo não terá espiga,","e o broto não dará farinha;","e, se der,","estrangeiros a comerão."],np:1},
+{v:8,l:["Israel foi devorado;","agora está entre as nações","como um objeto sem valor."],np:1},
+{v:9,l:["Pois subiram à Assíria, como um jumento selvagem que vive sozinho;","Efraim comprou amantes com presentes."],np:1},
+{v:10,l:["Mas, ainda que comprem aliados entre as nações,","agora eu os reunirei,","e logo se contorcerão sob o peso do rei dos príncipes."],np:1,n:"O rei dos príncipes: o rei da Assíria."},
+{v:11,l:["Efraim multiplicou os altares para expiar o pecado,","mas os altares se tornaram para ele ocasião de pecado."],np:1},
+{v:12,l:["Eu lhe escrevi as minhas leis em grande número,","mas elas foram consideradas como coisa estranha."],np:1},
+{v:13,l:["Gostam de sacrifícios,","imolam carne e a comem;","mas o Senhor não os aceita.","Agora se lembrará da sua iniquidade","e castigará os seus pecados:","eles voltarão ao Egito."],np:1},
+{v:14,l:["Israel esqueceu aquele que o fez","e construiu palácios;","Judá multiplicou as cidades fortificadas.","Mas eu mandarei fogo contra as suas cidades,","e ele devorará as suas fortalezas."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][9] = [
+{s:"O exílio anunciado"},
+{v:1,l:["Não te alegres, Israel,","não exultes como os povos,","pois te prostituíste, afastando-te do teu Deus,","e amaste o salário da prostituição em todas as eiras de trigo."]},
+{v:2,l:["A eira e o lagar não os alimentarão,","e o vinho novo lhes faltará."],np:1},
+{v:3,l:["Não permanecerão na terra do Senhor:","Efraim voltará ao Egito,","e na Assíria comerão alimentos impuros."],np:1},
+{v:4,l:["Não oferecerão libações de vinho ao Senhor,","e os seus sacrifícios não lhe agradarão;","serão para eles como pão de luto:","todos os que o comerem ficarão impuros,","pois o seu pão servirá só para a sua fome;","não entrará na casa do Senhor."],np:1},
+{v:5,l:["Que fareis no dia da solenidade,","no dia da festa do Senhor?"],np:1},
+{v:6,l:["Pois eis que fugiram da devastação;","o Egito os recolherá,","Mênfis os sepultará;","as urtigas possuirão os seus tesouros de prata,","e os espinhos crescerão nas suas tendas."],np:1},
+{v:7,l:["Chegaram os dias do castigo,","chegaram os dias da retribuição:","saiba-o Israel!","O profeta é um insensato, grita ele;","o homem do espírito é um louco.","É por causa da grandeza da tua iniquidade","que a tua hostilidade é tão grande."],np:1},
+{v:8,l:["Efraim, povo do meu Deus, espreita o profeta;","há armadilhas de caçador em todos os seus caminhos,","hostilidade na própria casa do seu Deus."],np:1},
+{v:9,l:["Corromperam-se profundamente,","como nos dias de Gabaá;","ele se lembrará da sua iniquidade","e castigará os seus pecados."],np:1,n:"O crime de Gabaá: Juízes 19–21."},
+{s:"De uvas no deserto a Baal-Peor"},
+{v:10,l:["Como uvas no deserto","encontrei Israel;","como os primeiros figos da figueira","vi os vossos pais;","mas eles foram a Baal-Peor,","consagraram-se à Vergonha","e se tornaram abomináveis","como aquilo que amaram."],n:"Compare Números 25,1–5. A Vergonha: nome de desprezo dado a Baal."},
+{v:11,l:["A glória de Efraim voará como um pássaro:","nada de parto, nada de gravidez, nada de concepção."],np:1},
+{v:12,l:["E, ainda que criem os seus filhos,","eu os deixarei sem filhos, sem homens;","e ai deles,","quando eu me afastar deles!"],np:1},
+{v:13,l:["Efraim, como vejo, expôs os seus filhos à caça;","Efraim leva os seus filhos ao matador."],np:1,n:"Hebraico obscuro."},
+{v:14,l:["Dá-lhes, Senhor! Que lhes darás?","Dá-lhes um ventre estéril e seios secos!"],np:1,n:"Nota do tradutor: a súplica amarga do profeta pede um mal menor que o massacre anunciado; o texto não foi suavizado."},
+{v:15,l:["Toda a sua maldade está em Guilgal;","sim, ali comecei a odiá-los.","Por causa da maldade das suas obras","eu os expulsarei da minha casa;","não os amarei mais;","todos os seus chefes são rebeldes."],np:1},
+{v:16,l:["Efraim está ferido,","a sua raiz secou,","não darão mais fruto;","e, ainda que tenham filhos,","matarei o fruto querido do seu ventre."],np:1},
+{v:17,l:["O meu Deus os rejeitará,","porque não o escutaram;","e andarão errantes entre as nações."],np:1}
+];

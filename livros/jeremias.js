@@ -459,3 +459,58 @@ window.TEXTOS_SEED["jeremias"][14] = [
 {v:21,l:["Por amor do teu nome, não nos rejeites,","não desonres o trono da tua glória;","lembra-te, não rompas a tua aliança conosco."],np:1},
 {v:22,l:["Há entre os ídolos das nações quem faça chover?","Ou podem os céus dar os aguaceiros?","Não és tu, Senhor, nosso Deus?","Em ti esperamos,","pois és tu que fazes todas estas coisas."],np:1}
 ];
+
+window.TEXTOS_SEED["jeremias"][15] = [
+{s:"Nem Moisés nem Samuel"},
+{v:1,t:"O Senhor me disse: Ainda que Moisés e Samuel se apresentassem diante de mim, o meu coração não se voltaria para este povo; expulsa-os da minha presença, que se vão!"},
+{v:2,l:["E, se te perguntarem: Para onde iremos?, tu lhes responderás: Assim diz o Senhor:","Quem é para a morte, para a morte;","quem é para a espada, para a espada;","quem é para a fome, para a fome;","quem é para o cativeiro, para o cativeiro."]},
+{v:3,t:"Mandarei contra eles quatro espécies de flagelos, oráculo do Senhor: a espada para matar, os cães para despedaçar, as aves do céu e os animais da terra para devorar e destruir.",np:1},
+{v:4,t:"Farei deles um motivo de espanto para todos os reinos da terra, por causa de Manassés, filho de Ezequias, rei de Judá, por tudo o que ele fez em Jerusalém.",n:"Compare 2 Reis 21,1–16; 23,26."},
+{s:"Lamento sobre Jerusalém"},
+{v:5,l:["Quem terá compaixão de ti, Jerusalém?","Quem lamentará a tua sorte?","Quem se desviará do caminho","para perguntar como estás?"]},
+{v:6,l:["Tu me rejeitaste,","oráculo do Senhor,","voltaste-me as costas;","por isso estendi a mão contra ti e te destruí:","estou cansado de ter compaixão."],np:1},
+{v:7,l:["Joeirei-os com a pá","às portas da terra;","privei de filhos e fiz perecer o meu povo,","pois não se converteram dos seus caminhos."],np:1},
+{v:8,l:["As suas viúvas se tornaram, diante de mim,","mais numerosas que a areia do mar;","trouxe contra as mães dos jovens","o devastador em pleno meio-dia;","fiz cair de repente sobre ela","a angústia e o terror."],np:1},
+{v:9,l:["A mãe de sete filhos desfalece,","exala o último suspiro;","o seu sol se põe quando ainda é dia;","ela fica envergonhada e confusa.","E o que deles restar, eu o entregarei à espada","diante dos seus inimigos,","oráculo do Senhor."],np:1},
+{s:"Queixa do profeta e resposta do Senhor"},
+{v:10,l:["Ai de mim, minha mãe, por me teres dado à luz,","homem de briga e de discórdia para toda a terra!","Não emprestei dinheiro, nem ninguém me emprestou,","e todos me amaldiçoam."]},
+{v:11,l:["Na verdade, Senhor, eu te servi para o bem deles,","intercedi junto a ti no tempo da desgraça","e no tempo da angústia em favor do inimigo."],np:1,n:"Assim a Nova Vulgata, com a tradução grega; o hebraico diz: O Senhor disse: Eu te libertarei para o bem."},
+{v:12,l:["Pode alguém quebrar o ferro,","o ferro do norte, e o bronze?"],np:1},
+{v:13,l:["Os teus bens e os teus tesouros","entregarei ao saque, sem preço,","por causa de todos os teus pecados,","em todo o teu território."],np:1},
+{v:14,l:["Farei de ti escravo dos teus inimigos,","numa terra que não conheces;","pois um fogo se acendeu na minha ira,","e arderá contra vós."],np:1,n:"Os versículos 13–14 se repetem, com variações, em 17,3–4."},
+{v:15,l:["Tu sabes, Senhor;","lembra-te de mim, visita-me","e vinga-me dos meus perseguidores;","não me deixes perecer por causa da tua paciência com eles;","sabe que é por ti que suporto os insultos."],np:1},
+{v:16,l:["Quando encontrei as tuas palavras, eu as devorei;","a tua palavra foi para mim o gozo","e a alegria do coração,","pois sobre mim é invocado o teu nome,","Senhor, Deus dos exércitos."],np:1,n:"Compare Ezequiel 3,1–3 e Apocalipse 10,9–10."},
+{v:17,l:["Não me sentei na roda dos que se divertem","para me alegrar com eles;","por causa da tua mão eu me sentava sozinho,","pois me encheste de indignação."],np:1},
+{v:18,l:["Por que a minha dor não tem fim,","e a minha ferida é incurável,","recusa ser curada?","Serás para mim como um riacho enganador,","de águas com que não se pode contar?"],np:1},
+{v:19,l:["Por isso assim diz o Senhor:","Se voltares, eu te farei voltar,","e estarás diante de mim;","se separares o que é precioso do que é vil,","serás como a minha boca.","Eles é que voltarão a ti,","e não tu a eles."],np:1},
+{v:20,l:["Eu farei de ti para este povo","uma muralha de bronze inexpugnável;","eles lutarão contra ti,","mas não te vencerão,","pois estou contigo","para te salvar e te livrar,","oráculo do Senhor."],np:1},
+{v:21,l:["Eu te livrarei da mão dos maus","e te resgatarei da mão dos violentos."],np:1}
+];
+
+window.TEXTOS_SEED["jeremias"][16] = [
+{s:"A vida do profeta como sinal"},
+{v:1,t:"A palavra do Senhor me foi dirigida nestes termos:"},
+{v:2,t:"Não tomarás mulher, e não terás filhos nem filhas neste lugar."},
+{v:3,t:"Pois assim diz o Senhor a respeito dos filhos e das filhas que nascerem neste lugar, das mães que os derem à luz e dos pais que os gerarem nesta terra:"},
+{v:4,t:"Morrerão de doenças mortais, não serão lamentados nem sepultados; serão como esterco sobre a face da terra; acabarão pela espada e pela fome, e os seus cadáveres servirão de alimento às aves do céu e aos animais da terra."},
+{v:5,t:"Pois assim diz o Senhor: Não entres numa casa de luto, não vás lamentar nem te compadeças deles, pois retirei deste povo a minha paz, oráculo do Senhor, a bondade e a compaixão.",n:"Casa de luto: em hebraico marzeah, o banquete fúnebre."},
+{v:6,t:"Grandes e pequenos morrerão nesta terra, e não serão sepultados nem lamentados; ninguém fará incisões nem raspará a cabeça por eles.",n:"Ritos de luto proibidos pela Lei (Deuteronômio 14,1), mas praticados pelo povo."},
+{v:7,t:"Não se partirá o pão para quem estiver de luto, para consolá-lo pela morte de alguém, nem lhe darão a beber o cálice da consolação pelo pai ou pela mãe.",np:1},
+{v:8,t:"Também não entres numa casa em festa, para te sentares com eles a comer e a beber."},
+{v:9,t:"Pois assim diz o Senhor dos exércitos, o Deus de Israel: Eis que vou fazer cessar neste lugar, diante dos vossos olhos e nos vossos dias, a voz da alegria e a voz do júbilo, a voz do noivo e a voz da noiva."},
+{v:10,t:"E, quando anunciares a este povo todas estas palavras e eles te perguntarem: Por que o Senhor decretou contra nós toda esta grande desgraça? Qual é a nossa culpa, qual é o pecado que cometemos contra o Senhor, nosso Deus?,",np:1},
+{v:11,t:"tu lhes responderás: É porque os vossos pais me abandonaram, oráculo do Senhor, correram atrás de outros deuses, serviram-nos e os adoraram; abandonaram-me e não guardaram a minha lei."},
+{v:12,t:"E vós agistes pior que os vossos pais: eis que cada um segue a obstinação do seu coração perverso, sem me escutar."},
+{v:13,t:"Por isso vos expulsarei desta terra para uma terra que nem vós nem os vossos pais conhecestes; e lá servireis a outros deuses dia e noite, pois não vos concederei a minha graça.",np:1},
+{s:"O novo êxodo"},
+{v:14,t:"Por isso eis que virão dias, oráculo do Senhor, em que não se dirá mais: Pela vida do Senhor, que tirou os filhos de Israel da terra do Egito!,"},
+{v:15,t:"mas: Pela vida do Senhor, que tirou os filhos de Israel da terra do norte e de todos os países para onde os tinha expulsado! E eu os farei voltar para a sua terra, que dei aos seus pais.",n:"Os versículos 14–15 se repetem em 23,7–8."},
+{s:"Pescadores e caçadores"},
+{v:16,t:"Eis que vou mandar muitos pescadores, oráculo do Senhor, e eles os pescarão; depois mandarei muitos caçadores, e eles os caçarão em todo monte, em toda colina e nas fendas das rochas."},
+{v:17,t:"Pois os meus olhos estão sobre todos os seus caminhos: eles não estão escondidos de mim, e a sua iniquidade não está oculta aos meus olhos."},
+{v:18,t:"Primeiro lhes retribuirei em dobro a sua iniquidade e o seu pecado, pois profanaram a minha terra com os cadáveres dos seus ídolos e encheram a minha herança com as suas abominações."},
+{s:"As nações virão ao Senhor"},
+{v:19,l:["Senhor, minha força e minha fortaleza,","meu refúgio no dia da angústia,","a ti virão as nações desde os confins da terra e dirão:","Os nossos pais só herdaram mentira,","ídolos vazios, que não servem para nada."]},
+{v:20,l:["Pode um homem fazer para si deuses?","Esses não são deuses!"],np:1},
+{v:21,l:["Por isso eis que lhes farei conhecer,","desta vez lhes farei conhecer","a minha mão e o meu poder,","e saberão que o meu nome é Senhor."],np:1}
+];

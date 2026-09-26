@@ -296,3 +296,51 @@ window.TEXTOS_SEED["exodo"][9] = [
 {v:34,t:"Quando o faraó viu que a chuva, o granizo e os trovões tinham cessado, continuou a pecar:",np:1},
 {v:35,t:"endureceu o coração, ele e os seus servos; o coração do faraó se endureceu, e ele não deixou partir os filhos de Israel, como o Senhor tinha dito por meio de Moisés."}
 ];
+
+window.TEXTOS_SEED["exodo"][10] = [
+{s:"Oitava praga: os gafanhotos"},
+{v:1,t:"O Senhor disse a Moisés: Vai ao faraó, porque eu endureci o coração dele e o dos seus servos, para realizar estes meus sinais no meio deles,"},
+{v:2,t:"e para que contes ao teu filho e ao teu neto como tratei os egípcios e os sinais que fiz no meio deles; e sabereis que eu sou o Senhor.",n:"A história das pragas é contada para ser transmitida de pai para filho: a memória da libertação faz parte da fé de Israel (compare 12,26–27; 13,8.14)."},
+{v:3,t:"Moisés e Aarão foram ao faraó e lhe disseram: Assim diz o Senhor, o Deus dos hebreus: Até quando te recusarás a humilhar-te diante de mim? Deixa partir o meu povo, para que me ofereça sacrifícios.",np:1},
+{v:4,t:"Se te recusares a deixá-lo partir, amanhã farei vir gafanhotos sobre o teu território,",np:1},
+{v:5,t:"que cobrirão a face da terra, a ponto de não se poder ver o chão; eles devorarão o que escapou do granizo e roerão todas as árvores que brotam nos campos."},
+{v:6,t:"Encherão o teu palácio, as casas dos teus servos e as casas de todos os egípcios, como nunca viram os teus pais nem os teus avós, desde que existem sobre a terra até hoje. E Moisés deu as costas e saiu da presença do faraó.",np:1},
+{v:7,t:"Os servos do faraó lhe disseram: Até quando esse homem será uma armadilha para nós? Deixa esses homens partir, para que ofereçam sacrifícios ao Senhor, seu Deus. Ainda não vês que o Egito está arruinado?",np:1},
+{v:8,t:"Mandaram chamar de novo Moisés e Aarão ao faraó, e ele lhes disse: Ide oferecer sacrifícios ao Senhor, vosso Deus. Mas quem são os que vão?",np:1},
+{v:9,t:"Moisés respondeu: Iremos com as nossas crianças e os nossos velhos, com os nossos filhos e as nossas filhas, com as nossas ovelhas e os nossos bois, porque é uma festa do Senhor para nós.",np:1},
+{v:10,t:"O faraó lhes disse: Que o Senhor esteja convosco, assim como eu vou deixar partir a vós e as vossas crianças! Está claro que tendes más intenções.",np:1,n:"Ironia do faraó: tão certo como o Senhor estará convosco, eu não vos deixarei partir com as crianças."},
+{v:11,t:"Não será assim: ide somente vós, os homens, e oferecei sacrifícios ao Senhor, pois foi isso que pedistes. E os expulsaram da presença do faraó.",np:1},
+{v:12,t:"O Senhor disse a Moisés: Estende a mão sobre a terra do Egito, para que venham os gafanhotos, subam sobre a terra do Egito e devorem toda a vegetação da terra, tudo o que o granizo deixou.",np:1},
+{v:13,t:"Moisés estendeu o cajado sobre a terra do Egito, e o Senhor fez soprar um vento abrasador sobre a terra durante todo aquele dia e toda a noite. Pela manhã, o vento abrasador tinha trazido os gafanhotos."},
+{v:14,t:"Os gafanhotos subiram sobre toda a terra do Egito e pousaram em todo o território egípcio, em quantidade enorme: nunca antes tinha havido tantos gafanhotos, nem haverá depois."},
+{v:15,t:"Cobriram a face de toda a terra, e a terra ficou escura. Devoraram toda a vegetação da terra e todos os frutos das árvores que o granizo tinha deixado; não ficou nada verde nas árvores nem na vegetação dos campos, em todo o Egito."},
+{v:16,t:"O faraó mandou chamar depressa Moisés e Aarão e disse: Pequei contra o Senhor, vosso Deus, e contra vós.",np:1},
+{v:17,t:"Mas agora perdoai o meu pecado, só desta vez, e rogai ao Senhor, vosso Deus, que afaste de mim ao menos esta praga mortal."},
+{v:18,t:"Moisés saiu da presença do faraó e rogou ao Senhor;"},
+{v:19,t:"e o Senhor fez soprar do ocidente um vento muito forte, que levou os gafanhotos e os lançou no mar Vermelho; não ficou nem um gafanhoto em todo o território do Egito.",n:"Mar Vermelho: o hebraico diz mar dos Juncos; a tradução grega e a Vulgata o chamaram mar Vermelho, e é esse o nome que ficou."},
+{v:20,t:"Mas o Senhor endureceu o coração do faraó, e ele não deixou partir os filhos de Israel."},
+{s:"Nona praga: as trevas"},
+{v:21,t:"O Senhor disse a Moisés: Estende a mão para o céu, e haverá sobre a terra do Egito trevas tão densas que se possam apalpar."},
+{v:22,t:"Moisés estendeu a mão para o céu, e houve trevas espessas em toda a terra do Egito durante três dias."},
+{v:23,t:"Ninguém via o seu irmão, e ninguém se movia do lugar onde estava; mas onde habitavam os filhos de Israel havia luz.",n:"As trevas atingem o sol, o maior dos deuses do Egito; a luz fica com Israel (compare Sabedoria 17,1–18,4)."},
+{v:24,t:"O faraó chamou Moisés e Aarão e disse: Ide oferecer sacrifícios ao Senhor; só as vossas ovelhas e os vossos bois ficarão; as vossas crianças podem ir convosco.",np:1},
+{v:25,t:"Moisés respondeu: Ainda que tu mesmo nos desses vítimas e holocaustos para oferecermos ao Senhor, nosso Deus,"},
+{v:26,t:"os nossos rebanhos também irão conosco; não ficará nem um casco, porque é deles que tiraremos o que for necessário para o culto do Senhor, nosso Deus; e nós mesmos não sabemos o que devemos oferecer enquanto não chegarmos lá."},
+{v:27,t:"Mas o Senhor endureceu o coração do faraó, e ele não quis deixá-los partir.",np:1},
+{v:28,t:"O faraó disse a Moisés: Sai da minha presença! Toma cuidado para não voltares a ver o meu rosto, porque no dia em que o vires, morrerás."},
+{v:29,t:"Moisés respondeu: Será como disseste: não verei mais o teu rosto."}
+];
+
+window.TEXTOS_SEED["exodo"][11] = [
+{s:"O anúncio da última praga"},
+{v:1,t:"O Senhor disse a Moisés: Ainda uma praga farei cair sobre o faraó e sobre o Egito; depois disso ele vos deixará partir daqui; mais ainda: ele vos expulsará."},
+{v:2,t:"Dize, pois, ao povo que cada homem peça ao seu vizinho, e cada mulher à sua vizinha, objetos de prata e de ouro."},
+{v:3,t:"O Senhor fez que o povo encontrasse favor aos olhos dos egípcios. E Moisés era um homem muito considerado na terra do Egito, aos olhos dos servos do faraó e de todo o povo."},
+{v:4,t:"Moisés disse: Assim diz o Senhor: À meia-noite passarei pelo meio do Egito,",np:1},
+{v:5,t:"e morrerá todo primogênito na terra do Egito, desde o primogênito do faraó, que se senta no seu trono, até o primogênito da escrava que está atrás da mó, e todos os primogênitos dos animais.",n:"Nota do tradutor: a morte dos primogênitos é o ponto mais duro da narrativa do Êxodo, e o texto não foi suavizado. Ela responde à ordem do faraó de matar os meninos hebreus (1,22) e à ameaça anunciada desde o começo (4,22–23)."},
+{v:6,t:"Haverá um grande clamor em toda a terra do Egito, como nunca houve nem haverá jamais."},
+{v:7,t:"Mas contra os filhos de Israel nem um cão latirá, nem contra os homens nem contra os animais, para que saibais que o Senhor faz distinção entre os egípcios e Israel."},
+{v:8,t:"Então todos esses teus servos descerão até mim e se prostrarão diante de mim, dizendo: Sai, tu e todo o povo que te segue! E depois disso sairei. E Moisés saiu da presença do faraó, ardendo de ira."},
+{v:9,t:"O Senhor disse a Moisés: O faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egito.",np:1},
+{v:10,t:"Moisés e Aarão fizeram todos estes prodígios diante do faraó; mas o Senhor endureceu o coração do faraó, e ele não deixou os filhos de Israel saírem da sua terra."}
+];

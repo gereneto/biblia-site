@@ -231,3 +231,37 @@ window.TEXTOS_SEED["oseias"][12] = [
 {v:14,l:["Mas por meio de um profeta o Senhor","fez Israel sair do Egito,","e por meio de um profeta ele foi guardado."],np:1,n:"O profeta: Moisés (Deuteronômio 18,15; 34,10)."},
 {v:15,l:["Efraim provocou a ira amarga do Senhor;","o seu Senhor fará cair sobre ele o sangue que derramou","e lhe retribuirá os seus ultrajes."],np:1}
 ];
+
+window.TEXTOS_SEED["oseias"][13] = [
+{s:"O fim de Efraim"},
+{v:1,l:["Quando Efraim falava, havia terror;","era um chefe em Israel.","Mas se tornou culpado com Baal","e morreu."]},
+{v:2,l:["E agora continuam a pecar:","fazem para si imagens de metal fundido com a sua prata,","ídolos segundo a sua inteligência;","tudo obra de artesãos.","A estes, dizem, oferecei sacrifícios!","Homens beijam bezerros!"],np:1,n:"Beijar o ídolo era um gesto de culto (compare 1 Reis 19,18)."},
+{v:3,l:["Por isso serão como a nuvem da manhã","e como o orvalho que logo passa,","como a palha que o vento arrebata da eira","e como a fumaça que sai pela janela."],np:1},
+{v:4,l:["Mas eu sou o Senhor, teu Deus,","desde a terra do Egito;","não conhecerás outro Deus além de mim,","e não há salvador fora de mim."],np:1},
+{v:5,l:["Fui eu que te alimentei no deserto,","na terra ardente e desolada."],np:1},
+{v:6,l:["Quando tinham pasto, se saciaram;","saciados, o seu coração se encheu de orgulho,","e por isso se esqueceram de mim."],np:1},
+{v:7,l:["Serei para eles como uma leoa;","como um leopardo, espreitarei junto ao caminho."],np:1},
+{v:8,l:["Eu os atacarei como uma ursa a quem roubaram os filhotes","e lhes rasgarei o peito;","ali os devorarei como um leão;","as feras do campo os despedaçarão."],np:1},
+{v:9,l:["Eu te destruo, Israel;","quem virá em teu socorro?"],np:1},
+{v:10,l:["Onde está o teu rei,","para que te salve em todas as tuas cidades,","e os teus juízes, dos quais disseste:","Dá-me um rei e chefes?"],np:1},
+{v:11,l:["Dei-te um rei na minha ira","e o tiro no meu furor."],np:1},
+{v:12,l:["A iniquidade de Efraim está bem guardada,","o seu pecado está bem escondido."],np:1},
+{v:13,l:["Virão sobre ele as dores do parto;","mas é um filho sem juízo:","chegada a hora, não se apresenta","para sair do seio materno."],np:1},
+{v:14,l:["Eu os livrarei do poder da morada dos mortos?","Eu os resgatarei da morte?","Onde está a tua peste, ó morte?","Onde está a tua destruição, morada dos mortos?","A compaixão está escondida aos meus olhos."],np:1,n:"Assim a Nova Vulgata, que lê as duas primeiras frases como perguntas. São Paulo retoma as palavras sobre a morte como grito de vitória (1 Coríntios 15,55)."},
+{v:15,l:["Ainda que ele frutifique entre os seus irmãos,","virá o vento abrasador, o vento do Senhor,","subindo do deserto;","ele secará as suas fontes","e esgotará o seu manancial;","saqueará o tesouro,","todos os objetos preciosos."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][14] = [
+{s:"O castigo de Samaria"},
+{v:1,l:["Samaria pagará a pena,","porque se rebelou contra o seu Deus:","cairão pela espada,","os seus pequeninos serão esmagados,","e as suas mulheres grávidas, rasgadas ao meio."],n:"Em outras Bíblias, 14,1 é 13,16, e a numeração deste capítulo diminui de uma unidade. Nota do tradutor: a descrição reflete as crueldades de guerra da época; o texto não foi suavizado."},
+{s:"Convite à conversão e promessa de vida"},
+{v:2,l:["Volta, Israel, para o Senhor, teu Deus,","pois tropeçaste na tua iniquidade."]},
+{v:3,l:["Tomai convosco palavras","e voltai para o Senhor;","dizei-lhe: Tira toda a iniquidade","e aceita o que é bom,","e te ofereceremos o fruto dos nossos lábios."],np:1,n:"O fruto dos nossos lábios: assim a Nova Vulgata, com a tradução grega (compare Hebreus 13,15); o hebraico diz: os touros dos nossos lábios."},
+{v:4,l:["A Assíria não nos salvará;","não montaremos mais a cavalo","e não diremos mais: Nossos deuses!","à obra das nossas mãos;","pois em ti o órfão encontra compaixão."],np:1},
+{v:5,l:["Curarei a sua infidelidade,","eu os amarei generosamente,","pois a minha ira se afastou deles."],np:1},
+{v:6,l:["Serei como o orvalho para Israel;","ele florescerá como o lírio","e lançará raízes como o Líbano."],np:1},
+{v:7,l:["Os seus ramos se estenderão;","a sua beleza será como a da oliveira,","e o seu perfume, como o do Líbano."],np:1},
+{v:8,l:["Voltarão a sentar-se à minha sombra,","cultivarão o trigo","e florescerão como a videira;","a sua fama será como a do vinho do Líbano."],np:1},
+{v:9,l:["Efraim, que tem ainda a ver com os ídolos?","Eu o escuto e olho por ele.","Eu sou como um abeto sempre verde:","de mim procede o teu fruto."],np:1},
+{v:10,l:["Quem é sábio compreenda estas coisas;","quem é inteligente as reconheça!","Pois os caminhos do Senhor são retos,","e os justos andam neles,","mas os rebeldes tropeçam neles."],np:1}
+];

@@ -1,0 +1,72 @@
+// =====================================================================
+// Baruc — tradução do grego, cotejada com a Nova Vulgata (versificação: Nova Vulgata)
+// Formato: {s:"subtítulo"} abre trecho; {v,t,n} prosa; {v,l:[...]} verso;
+// np:1 marca início de parágrafo (nos poemas, de estrofe).
+// =====================================================================
+
+window.TEXTOS_SEED["baruc"][1] = [
+{s:"O livro lido na Babilônia"},
+{v:1,t:"Estas são as palavras do livro que Baruc, filho de Nerias, filho de Maasias, filho de Sedecias, filho de Asadias, filho de Helcias, escreveu na Babilônia,",n:"Baruc: o secretário de Jeremias (Jeremias 32,12; 36,4; 45,1). O livro chegou até nós em grego; a Vulgata o põe entre os profetas, depois de Lamentações, e junta a ele, como capítulo 6, a Carta de Jeremias."},
+{v:2,t:"no quinto ano, no dia sete do mês, no tempo em que os caldeus tomaram Jerusalém e a incendiaram.",n:"O quinto ano: provavelmente depois da tomada de Jerusalém, isto é, 582 antes de Cristo; o mês não é indicado."},
+{v:3,t:"Baruc leu as palavras deste livro aos ouvidos de Jeconias, filho de Joaquim, rei de Judá, e aos ouvidos de todo o povo que vinha ouvir a leitura do livro,"},
+{v:4,t:"aos ouvidos dos poderosos e dos filhos dos reis, aos ouvidos dos anciãos e aos ouvidos de todo o povo, do menor ao maior, de todos os que moravam na Babilônia, junto ao rio Sud.",n:"Sud: rio ou canal da Babilônia, hoje desconhecido."},
+{v:5,t:"Eles choravam, jejuavam e rezavam diante do Senhor."},
+{v:6,t:"Fizeram uma coleta de dinheiro, cada um segundo as suas posses,"},
+{v:7,t:"e a mandaram a Jerusalém, ao sacerdote Joaquim, filho de Helcias, filho de Salom, aos sacerdotes e a todo o povo que se encontrava com ele em Jerusalém,"},
+{v:8,t:"quando ele recebeu os utensílios da casa do Senhor, que tinham sido levados do templo, para devolvê-los à terra de Judá, no dia dez do mês de Sivã: eram os utensílios de prata que Sedecias, filho de Josias, rei de Judá, tinha mandado fazer,"},
+{v:9,t:"depois que Nabucodonosor, rei da Babilônia, deportou de Jerusalém Jeconias, os chefes, os ferreiros, os poderosos e o povo da terra, e os levou para a Babilônia."},
+{v:10,t:"Mandaram dizer: Eis que vos enviamos dinheiro; comprai com ele holocaustos, sacrifícios pelo pecado e incenso, preparai oferendas e oferecei-as sobre o altar do Senhor, nosso Deus;"},
+{v:11,t:"e rezai pela vida de Nabucodonosor, rei da Babilônia, e pela vida de Baltasar, seu filho, para que os seus dias sejam como os dias do céu sobre a terra.",n:"Baltasar era, na verdade, filho de Nabonido; o autor segue uma tradição também presente em Daniel 5,2. Compare a carta de Jeremias aos exilados (Jeremias 29,7)."},
+{v:12,t:"O Senhor nos dará força e iluminará os nossos olhos, e viveremos à sombra de Nabucodonosor, rei da Babilônia, e à sombra de Baltasar, seu filho; nós os serviremos por muitos dias e encontraremos graça diante deles."},
+{v:13,t:"Rezai também por nós ao Senhor, nosso Deus, porque pecamos contra o Senhor, nosso Deus, e até hoje não se afastaram de nós o furor e a ira do Senhor."},
+{v:14,t:"Lede este livro que vos enviamos, para ser lido publicamente na casa do Senhor, no dia da festa e nos dias de reunião."},
+{s:"Confissão dos pecados"},
+{v:15,t:"E direis: Ao Senhor, nosso Deus, a justiça; a nós, a vergonha no rosto, como acontece hoje aos homens de Judá e aos habitantes de Jerusalém,",n:"A oração de 1,15–3,8 tem muitos paralelos com a de Daniel 9,4–19."},
+{v:16,t:"aos nossos reis, aos nossos chefes, aos nossos sacerdotes, aos nossos profetas e aos nossos pais;"},
+{v:17,t:"porque pecamos diante do Senhor e lhe fomos desobedientes;"},
+{v:18,t:"não escutamos a voz do Senhor, nosso Deus, para andar nos mandamentos que o Senhor pôs diante de nós."},
+{v:19,t:"Desde o dia em que o Senhor tirou os nossos pais da terra do Egito até hoje, temos sido rebeldes ao Senhor, nosso Deus, e nos apressamos em não escutar a sua voz."},
+{v:20,t:"Por isso se apegaram a nós as desgraças e a maldição que o Senhor anunciou por meio de Moisés, seu servo, no dia em que tirou os nossos pais da terra do Egito para nos dar uma terra onde corre leite e mel, como se vê hoje."},
+{v:21,t:"Não escutamos a voz do Senhor, nosso Deus, segundo todas as palavras dos profetas que ele nos enviou,"},
+{v:22,t:"mas cada um de nós seguiu a inclinação do seu coração perverso, servindo a outros deuses e fazendo o mal aos olhos do Senhor, nosso Deus."}
+];
+
+window.TEXTOS_SEED["baruc"][2] = [
+{s:"O castigo anunciado se cumpriu"},
+{v:1,t:"Por isso o Senhor cumpriu a palavra que tinha pronunciado contra nós, contra os nossos juízes que governavam Israel, contra os nossos reis, contra os nossos chefes e contra todo homem de Israel e de Judá,"},
+{v:2,t:"fazendo vir sobre nós desgraças tão grandes como nunca aconteceram debaixo do céu, como as que aconteceram em Jerusalém, conforme o que está escrito na Lei de Moisés:"},
+{v:3,t:"que chegaríamos a comer cada um a carne do próprio filho e cada um a carne da própria filha.",n:"Nota do tradutor: compare Deuteronômio 28,53 e Lamentações 2,20; 4,10; o texto não foi suavizado."},
+{v:4,t:"Ele os entregou em sujeição a todos os reinos que nos rodeiam, para serem objeto de insulto e de desolação entre todos os povos vizinhos, entre os quais o Senhor os dispersou."},
+{v:5,t:"Ficaram por baixo, e não por cima, porque pecamos contra o Senhor, nosso Deus, não escutando a sua voz."},
+{v:6,t:"Ao Senhor, nosso Deus, a justiça; a nós e aos nossos pais, a vergonha no rosto, como acontece hoje."},
+{v:7,t:"Todas estas desgraças que o Senhor anunciou contra nós caíram sobre nós;"},
+{v:8,t:"e não suplicamos diante do Senhor, para que cada um se afastasse dos pensamentos do seu coração perverso."},
+{v:9,t:"O Senhor vigiou sobre essas desgraças e as fez vir sobre nós, pois o Senhor é justo em todas as obras que nos ordenou."},
+{v:10,t:"Mas não escutamos a sua voz, para andar nos mandamentos do Senhor, que ele pôs diante de nós."},
+{s:"Súplica ao Senhor"},
+{v:11,t:"E agora, Senhor, Deus de Israel, que tiraste o teu povo da terra do Egito com mão forte, com sinais e prodígios, com grande poder e braço erguido, e adquiriste para ti um nome, como se vê hoje,"},
+{v:12,t:"pecamos, fomos ímpios, agimos injustamente, Senhor, nosso Deus, contra todos os teus mandamentos."},
+{v:13,t:"Que a tua ira se afaste de nós, pois ficamos poucos entre as nações para onde nos dispersaste."},
+{v:14,t:"Escuta, Senhor, a nossa oração e a nossa súplica, livra-nos por causa de ti mesmo e faze-nos encontrar graça diante daqueles que nos deportaram,",np:1},
+{v:15,t:"para que toda a terra saiba que tu és o Senhor, nosso Deus, e que o teu nome é invocado sobre Israel e sobre a sua descendência."},
+{v:16,t:"Senhor, olha da tua santa morada e pensa em nós; inclina, Senhor, o teu ouvido e escuta."},
+{v:17,t:"Abre, Senhor, os teus olhos e vê: não são os mortos que estão na morada dos mortos, cujo espírito foi tirado das suas entranhas, que darão glória e justiça ao Senhor;",n:"Compare Salmo 6,6; 115,17; Isaías 38,18."},
+{v:18,t:"mas a alma profundamente triste, que anda curvada e sem forças, os olhos que desfalecem e a alma faminta, estes te darão glória e justiça, Senhor."},
+{v:19,t:"Não é por causa dos méritos dos nossos pais e dos nossos reis que apresentamos a nossa súplica diante de ti, Senhor, nosso Deus;",np:1},
+{v:20,t:"pois fizeste vir sobre nós o teu furor e a tua ira, como tinhas anunciado por meio dos teus servos, os profetas, dizendo:"},
+{v:21,t:"Assim diz o Senhor: Curvai os ombros e servi o rei da Babilônia, e ficareis na terra que dei aos vossos pais.",n:"Compare Jeremias 27,11–12."},
+{v:22,t:"Mas, se não escutardes a voz do Senhor, servindo o rei da Babilônia, farei desaparecer das cidades de Judá e das ruas de Jerusalém"},
+{v:23,t:"a voz da alegria e a voz do júbilo, a voz do noivo e a voz da noiva, e toda a terra ficará deserta, sem habitantes.",n:"Compare Jeremias 7,34; 33,10–11."},
+{v:24,t:"Mas não escutamos a tua voz, servindo o rei da Babilônia; e cumpriste as palavras que tinhas anunciado por meio dos teus servos, os profetas: que os ossos dos nossos reis e os ossos dos nossos pais seriam tirados do seu lugar.",n:"Compare Jeremias 8,1–2."},
+{v:25,t:"E eis que foram lançados ao calor do dia e ao frio da noite; e eles morreram em meio a terríveis sofrimentos, pela fome, pela espada e pela peste."},
+{v:26,t:"E fizeste da casa sobre a qual é invocado o teu nome o que ela é hoje, por causa da maldade da casa de Israel e da casa de Judá.",np:1},
+{v:27,t:"Mas agiste conosco, Senhor, nosso Deus, segundo toda a tua bondade e segundo toda a tua grande misericórdia,"},
+{v:28,t:"como tinhas anunciado por meio do teu servo Moisés, no dia em que lhe ordenaste escrever a tua Lei diante dos filhos de Israel,"},
+{v:29,t:"dizendo: Se não escutardes a minha voz, esta multidão grande e numerosa se reduzirá a um pequeno número entre as nações para onde eu os dispersarei;"},
+{v:30,t:"pois eu sei que não me escutarão, porque é um povo de dura cerviz. Mas na terra do seu exílio cairão em si"},
+{v:31,t:"e saberão que eu sou o Senhor, seu Deus. Eu lhes darei um coração que compreende e ouvidos que escutam,"},
+{v:32,t:"e eles me louvarão na terra do seu exílio e se lembrarão do meu nome;"},
+{v:33,t:"deixarão a sua dura cerviz e as suas más ações, lembrando-se do caminho dos seus pais, que pecaram diante do Senhor."},
+{v:34,t:"Eu os farei voltar à terra que prometi com juramento aos seus pais, Abraão, Isaac e Jacó, e eles a possuirão; eu os multiplicarei, e não diminuirão."},
+{v:35,t:"Farei com eles uma aliança eterna, para ser o seu Deus, e eles serão o meu povo; e não expulsarei mais o meu povo Israel da terra que lhes dei.",n:"Compare Jeremias 31,31–33; 32,40."}
+];

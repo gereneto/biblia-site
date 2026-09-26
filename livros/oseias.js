@@ -57,3 +57,63 @@ window.TEXTOS_SEED["oseias"][3] = [
 {v:4,t:"Pois durante muitos dias os filhos de Israel ficarão sem rei e sem chefe, sem sacrifício e sem coluna sagrada, sem efod e sem terafins.",np:1},
 {v:5,t:"Depois os filhos de Israel voltarão e procurarão o Senhor, seu Deus, e Davi, seu rei; e virão tremendo ao Senhor e aos seus bens, no fim dos dias.",np:1}
 ];
+
+window.TEXTOS_SEED["oseias"][4] = [
+{s:"O processo do Senhor contra Israel"},
+{v:1,l:["Ouvi a palavra do Senhor,","filhos de Israel,","pois o Senhor tem um processo","contra os habitantes da terra:","não há fidelidade, nem amor,","nem conhecimento de Deus na terra;"]},
+{v:2,l:["só maldição e mentira;","assassínio, roubo e adultério se espalham,","e o sangue derramado se junta a sangue derramado."],np:1},
+{v:3,l:["Por isso a terra está de luto,","e desfalece todo aquele que nela habita,","com os animais do campo e as aves do céu;","até os peixes do mar desaparecem."],np:1},
+{v:4,l:["Contudo, que ninguém acuse","nem repreenda:","é contra ti o meu processo, sacerdote."],np:1,n:"Hebraico obscuro; a Nova Vulgata entende assim."},
+{v:5,l:["Tropeçarás em pleno dia,","e também o profeta tropeçará contigo de noite;","e destruirei a tua mãe."],np:1},
+{v:6,l:["O meu povo perece","por falta de conhecimento.","Porque rejeitaste o conhecimento,","eu te rejeitarei do meu sacerdócio;","e, porque esqueceste a lei do teu Deus,","também eu me esquecerei dos teus filhos."],np:1},
+{v:7,l:["Quanto mais se multiplicaram, mais pecaram contra mim;","trocarei a sua glória em ignomínia."],np:1},
+{v:8,l:["Alimentam-se do pecado do meu povo","e anseiam pela sua iniquidade."],np:1,n:"Os sacerdotes vivem das ofertas pelo pecado e por isso desejam que o povo peque."},
+{v:9,l:["Assim será com o povo, assim com o sacerdote:","eu o castigarei pelo seu procedimento","e lhe retribuirei as suas obras."],np:1},
+{v:10,l:["Comerão, mas não se saciarão;","vão se prostituir, mas não se multiplicarão,","porque abandonaram o Senhor","e deixaram de guardar a sua lei."],np:1},
+{s:"Um espírito de prostituição"},
+{v:11,l:["A prostituição, o vinho e a embriaguez tiram o juízo."]},
+{v:12,l:["O meu povo consulta o seu pedaço de madeira,","e o seu bastão lhe dá respostas;","pois um espírito de prostituição os desencaminhou,","e eles se prostituem, afastando-se do seu Deus."],np:1,n:"Práticas de adivinhação com objetos de madeira."},
+{v:13,l:["Oferecem sacrifícios no alto dos montes","e queimam incenso nas colinas,","debaixo do carvalho, do álamo e do terebinto,","porque é boa a sua sombra;","por isso as vossas filhas se prostituem,","e as vossas noras cometem adultério."],np:1},
+{v:14,l:["Não castigarei as vossas filhas","quando se prostituírem,","nem as vossas noras","quando cometerem adultério,","pois eles mesmos se retiram com as prostitutas","e oferecem sacrifícios com as prostitutas sagradas,","e o povo sem entendimento vai à ruína."],np:1,n:"Prostitutas sagradas: mulheres ligadas aos santuários cananeus da fertilidade."},
+{v:15,l:["Se tu te prostituis, Israel,","que ao menos Judá não se torne culpado;","não vades a Guilgal,","não subais a Bet-Áven","e não jureis: Pela vida do Senhor!"],np:1,n:"Bet-Áven, casa do nada: nome de desprezo dado a Betel, casa de Deus."},
+{v:16,l:["Pois Israel é teimoso","como uma novilha rebelde;","e agora o Senhor os apascentaria","como a um cordeiro em campo aberto?"],np:1},
+{v:17,l:["Efraim está ligado aos ídolos:","deixa-o!"],np:1,n:"Efraim: nome do reino do norte, pela sua tribo principal."},
+{v:18,l:["Acabada a sua bebedeira,","entregam-se à prostituição;","amam apaixonadamente","a vergonha da sua desonra."],np:1},
+{v:19,l:["O vento os envolverá nas suas asas,","e terão vergonha dos seus sacrifícios."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][5] = [
+{s:"Contra sacerdotes, povo e rei"},
+{v:1,l:["Ouvi isto, sacerdotes,","prestai atenção, casa de Israel,","e escutai, casa do rei,","pois é contra vós o julgamento;","porque fostes um laço em Masfa","e uma rede estendida sobre o Tabor."]},
+{v:2,l:["Cavaram fundo a cova de Setim;","mas eu castigarei a todos vós."],np:1,n:"Hebraico obscuro."},
+{v:3,l:["Eu conheço Efraim,","e Israel não se esconde de mim;","pois agora te prostituíste, Efraim,","e Israel se contaminou."],np:1},
+{v:4,l:["As suas obras não os deixam","voltar para o seu Deus,","porque um espírito de prostituição está no meio deles,","e não conhecem o Senhor."],np:1},
+{v:5,l:["O orgulho de Israel testemunha contra ele;","Israel e Efraim tropeçarão na sua iniquidade,","e Judá também tropeçará com eles."],np:1},
+{v:6,l:["Com as suas ovelhas e os seus bois","irão procurar o Senhor,","mas não o encontrarão:","ele se retirou deles."],np:1},
+{v:7,l:["Foram infiéis ao Senhor,","porque geraram filhos bastardos;","agora, num só mês, serão devorados com as suas propriedades."],np:1},
+{s:"Guerra entre irmãos"},
+{v:8,l:["Tocai a trombeta em Gabaá,","a corneta em Ramá;","dai o alarme em Bet-Áven,","espalhai o terror em Benjamim!"],n:"Talvez alusão à guerra siro-efraimita (734–732 antes de Cristo; 2 Reis 16,5–9)."},
+{v:9,l:["Efraim será devastado no dia do castigo;","anuncio entre as tribos de Israel uma coisa certa."],np:1},
+{v:10,l:["Os chefes de Judá se tornaram","como os que mudam os marcos das divisas;","sobre eles derramarei","como água a minha ira."],np:1},
+{v:11,l:["Efraim está oprimido,","o direito foi quebrado,","porque quis seguir a imundície."],np:1},
+{v:12,l:["Eu sou como a chaga para Efraim","e como a podridão para a casa de Judá."],np:1},
+{v:13,l:["Efraim viu a sua doença,","e Judá, a sua ferida;","Efraim foi à Assíria","e mandou mensageiros ao grande rei;","mas ele não poderá curar-vos","nem sarar a vossa ferida."],np:1},
+{v:14,l:["Pois eu serei como uma leoa para Efraim","e como um leãozinho para a casa de Judá;","eu, eu mesmo, despedaçarei e irei embora,","levarei a presa, e ninguém a livrará."],np:1},
+{v:15,l:["Irei e voltarei para o meu lugar,","até que reconheçam a sua culpa","e procurem a minha face;","na sua angústia me buscarão."],np:1}
+];
+
+window.TEXTOS_SEED["oseias"][6] = [
+{s:"Uma conversão sem firmeza"},
+{v:1,l:["Vinde, voltemos para o Senhor,","pois ele nos despedaçou, mas nos curará;","feriu-nos, mas tratará das nossas feridas."]},
+{v:2,l:["Depois de dois dias nos dará a vida,","no terceiro dia nos levantará,","e viveremos na sua presença."],np:1,n:"Os Padres da Igreja leram neste versículo um anúncio da ressurreição de Cristo ao terceiro dia (compare 1 Coríntios 15,4)."},
+{v:3,l:["Procuremos conhecer, apressemo-nos","a conhecer o Senhor.","A sua vinda é certa como a aurora;","ele virá a nós como a chuva de outono,","como a chuva da primavera que rega a terra."],np:1},
+{v:4,l:["Que farei contigo, Efraim?","Que farei contigo, Judá?","O vosso amor é como a nuvem da manhã","e como o orvalho que logo passa."],np:1},
+{v:5,l:["Por isso os golpeei por meio dos profetas,","matei-os com as palavras da minha boca,","e o meu julgamento surgirá como a luz;"],np:1},
+{v:6,l:["pois quero o amor, e não os sacrifícios,","o conhecimento de Deus mais do que os holocaustos."],np:1,n:"Jesus cita este versículo em Mateus 9,13 e 12,7."},
+{s:"Os crimes de Israel"},
+{v:7,l:["Mas eles, em Adam, transgrediram a aliança;","ali foram infiéis a mim."],n:"Adam: cidade junto ao Jordão (Josué 3,16); outros entendem: como Adão."},
+{v:8,l:["Galaad é uma cidade de malfeitores,","manchada de sangue."],np:1},
+{v:9,l:["Como salteadores que espreitam um homem,","assim é o bando dos sacerdotes;","assassinam no caminho de Siquém,","cometem verdadeiros crimes."],np:1},
+{v:10,l:["Na casa de Israel vi uma coisa horrível:","ali está a prostituição de Efraim,","Israel se contaminou."],np:1},
+{v:11,l:["Também para ti, Judá, está preparada uma colheita,","quando eu mudar a sorte do meu povo."],np:1}
+];

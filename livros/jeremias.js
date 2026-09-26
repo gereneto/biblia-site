@@ -1231,3 +1231,49 @@ window.TEXTOS_SEED["jeremias"][39] = [
 {v:17,t:"Mas naquele dia eu te livrarei, oráculo do Senhor, e não serás entregue nas mãos dos homens que temes;"},
 {v:18,t:"eu te salvarei, e não cairás pela espada; terás a vida salva como despojo, porque confiaste em mim, oráculo do Senhor."}
 ];
+
+window.TEXTOS_SEED["jeremias"][40] = [
+{s:"Jeremias fica com Godolias"},
+{v:1,t:"Palavra que o Senhor dirigiu a Jeremias, depois que Nabuzardã, chefe da guarda, o soltou em Ramá, quando o tinha levado acorrentado no meio de todos os deportados de Jerusalém e de Judá, que eram levados para a Babilônia.",n:"A palavra anunciada neste título não aparece em seguida; o relato continua com a libertação de Jeremias (compare 39,11–14)."},
+{v:2,t:"O chefe da guarda tomou Jeremias e lhe disse: O Senhor, teu Deus, anunciou esta desgraça contra este lugar,",np:1},
+{v:3,t:"e a fez vir; o Senhor fez como tinha dito, porque pecastes contra o Senhor e não escutastes a sua voz; por isso vos aconteceu isto."},
+{v:4,t:"Agora, eis que hoje te solto das correntes que tens nas mãos. Se te parece bem vir comigo para a Babilônia, vem, e cuidarei de ti; mas, se não te parece bem vir comigo para a Babilônia, fica. Olha: toda a terra está diante de ti; vai para onde te parecer bom e conveniente ir."},
+{v:5,t:"Como Jeremias ainda hesitava, acrescentou: Volta para junto de Godolias, filho de Aicam, filho de Safã, que o rei da Babilônia pôs à frente das cidades de Judá, e mora com ele no meio do povo; ou então vai para onde te parecer bem ir. E o chefe da guarda lhe deu provisões e um presente e o deixou ir.",n:"Como Jeremias ainda hesitava: hebraico obscuro."},
+{v:6,t:"Jeremias foi ter com Godolias, filho de Aicam, em Masfa, e morou com ele no meio do povo que tinha ficado na terra.",np:1},
+{s:"Godolias, governador de Judá"},
+{v:7,t:"Todos os chefes das tropas que estavam espalhados pelo campo, eles e os seus homens, souberam que o rei da Babilônia tinha posto Godolias, filho de Aicam, como governador da terra, e que lhe tinha confiado os homens, as mulheres e as crianças, e parte dos pobres da terra, que não tinham sido deportados para a Babilônia.",n:"Compare 2 Reis 25,22–26."},
+{v:8,t:"Foram, então, ter com Godolias em Masfa: Ismael, filho de Natanias, Joanã e Jônatas, filhos de Caree, Saraías, filho de Taneumet, os filhos de Ofi, de Netofa, e Jezonias, filho do maacatita, eles e os seus homens."},
+{v:9,t:"Godolias, filho de Aicam, filho de Safã, lhes jurou, a eles e aos seus homens: Não tenhais medo de servir os caldeus; ficai na terra e servi o rei da Babilônia, e tudo irá bem para vós."},
+{v:10,t:"Quanto a mim, fico morando em Masfa, para responder por vós diante dos caldeus que vierem até nós; vós, porém, colhei o vinho, os frutos do verão e o azeite, guardai-os nos vossos vasos e morai nas cidades que ocupastes."},
+{v:11,t:"Também todos os judeus que estavam em Moab, entre os amonitas, em Edom e em todas as outras terras souberam que o rei da Babilônia tinha deixado um resto em Judá e que tinha posto à frente deles Godolias, filho de Aicam, filho de Safã.",np:1},
+{v:12,t:"Todos esses judeus voltaram de todos os lugares para onde tinham sido dispersos, vieram à terra de Judá, para junto de Godolias, em Masfa, e colheram vinho e frutos do verão em grande abundância."},
+{s:"Aviso a Godolias"},
+{v:13,t:"Joanã, filho de Caree, e todos os chefes das tropas que estavam espalhados pelo campo vieram ter com Godolias em Masfa"},
+{v:14,t:"e lhe disseram: Sabes que Baalis, rei dos amonitas, mandou Ismael, filho de Natanias, para te matar? Mas Godolias, filho de Aicam, não acreditou neles."},
+{v:15,t:"Então Joanã, filho de Caree, disse em segredo a Godolias, em Masfa: Deixa-me ir matar Ismael, filho de Natanias, sem que ninguém saiba. Por que ele haveria de te matar, dispersando todos os judeus que se reuniram em torno de ti e fazendo perecer o resto de Judá?"},
+{v:16,t:"Godolias, filho de Aicam, respondeu a Joanã, filho de Caree: Não faças isso, pois o que dizes de Ismael é mentira."}
+];
+
+window.TEXTOS_SEED["jeremias"][41] = [
+{s:"O assassinato de Godolias"},
+{v:1,t:"No sétimo mês, Ismael, filho de Natanias, filho de Elisama, de linhagem real e um dos grandes do rei, veio com dez homens ter com Godolias, filho de Aicam, em Masfa; e ali, em Masfa, comeram juntos.",n:"O sétimo mês corresponde a setembro-outubro, provavelmente de 587 antes de Cristo. Os judeus lembravam este crime com um jejum (Zacarias 8,19)."},
+{v:2,t:"Então Ismael, filho de Natanias, e os dez homens que estavam com ele se levantaram e feriram à espada Godolias, filho de Aicam, filho de Safã; e mataram aquele que o rei da Babilônia tinha posto como governador da terra."},
+{v:3,t:"Ismael matou também todos os judeus que estavam com Godolias em Masfa, os caldeus que se achavam ali e os guerreiros."},
+{v:4,t:"No dia seguinte ao assassinato de Godolias, quando ninguém ainda sabia de nada,",np:1},
+{v:5,t:"chegaram de Siquém, de Silo e de Samaria oitenta homens, com a barba raspada, as roupas rasgadas e o corpo cheio de incisões, trazendo nas mãos ofertas e incenso para apresentá-los na casa do Senhor.",n:"Sinais de luto pela destruição do templo; mesmo em ruínas, o lugar continuava a receber peregrinos."},
+{v:6,t:"Ismael, filho de Natanias, saiu de Masfa ao encontro deles, andando e chorando; quando os encontrou, disse-lhes: Vinde ter com Godolias, filho de Aicam."},
+{v:7,t:"Mas, quando chegaram ao meio da cidade, Ismael, filho de Natanias, os matou e os jogou dentro da cisterna, ele e os homens que estavam com ele."},
+{v:8,t:"Entre eles, porém, houve dez homens que disseram a Ismael: Não nos mates, pois temos no campo provisões escondidas de trigo, de cevada, de azeite e de mel. E ele parou e não os matou com os seus companheiros."},
+{v:9,t:"A cisterna em que Ismael jogou todos os cadáveres dos homens que tinha matado era a grande cisterna que o rei Asa tinha feito por causa de Baasa, rei de Israel; Ismael, filho de Natanias, a encheu de mortos.",n:"A grande cisterna: assim a Nova Vulgata, com a tradução grega; o hebraico diz: por meio de Godolias. Compare 1 Reis 15,22."},
+{v:10,t:"Ismael levou prisioneiros todo o resto do povo que estava em Masfa, as filhas do rei e todo o povo que tinha ficado em Masfa, que Nabuzardã, chefe da guarda, tinha confiado a Godolias, filho de Aicam; Ismael, filho de Natanias, os levou prisioneiros e partiu para passar para o lado dos amonitas."},
+{s:"Joanã persegue Ismael"},
+{v:11,t:"Joanã, filho de Caree, e todos os chefes das tropas que estavam com ele souberam de todo o crime cometido por Ismael, filho de Natanias,"},
+{v:12,t:"e, tomando todos os seus homens, partiram para combater Ismael, filho de Natanias; e o encontraram junto das grandes águas que há em Gabaon.",n:"Compare 2 Samuel 2,13."},
+{v:13,t:"Quando todo o povo que estava com Ismael viu Joanã, filho de Caree, e todos os chefes das tropas que estavam com ele, alegrou-se."},
+{v:14,t:"Todo o povo que Ismael tinha levado prisioneiro de Masfa deu meia-volta e foi ter com Joanã, filho de Caree;"},
+{v:15,t:"mas Ismael, filho de Natanias, escapou de Joanã com oito homens e foi para junto dos amonitas."},
+{s:"Rumo ao Egito"},
+{v:16,t:"Então Joanã, filho de Caree, e todos os chefes das tropas que estavam com ele tomaram todo o resto do povo que tinham resgatado de Ismael, filho de Natanias, e que ele levava de Masfa, depois de matar Godolias, filho de Aicam: os homens de guerra, as mulheres, as crianças e os eunucos, que eles trouxeram de volta de Gabaon."},
+{v:17,t:"Partiram e pararam em Gerut-Camaã, perto de Belém, para depois seguir para o Egito,",n:"Gerut-Camaã: talvez uma hospedaria ligada ao nome de Camaã, o protegido de Davi (2 Samuel 19,38–41)."},
+{v:18,t:"fugindo dos caldeus; pois tinham medo deles, porque Ismael, filho de Natanias, tinha matado Godolias, filho de Aicam, que o rei da Babilônia tinha posto como governador da terra."}
+];

@@ -1367,3 +1367,49 @@ window.TEXTOS_SEED["jeremias"][45] = [
 {v:4,t:"Assim lhe dirás: Assim diz o Senhor: Eis que o que edifiquei eu mesmo destruo, e o que plantei eu mesmo arranco, e isto em toda esta terra;"},
 {v:5,t:"e tu procuras para ti grandes coisas? Não as procures! Pois eis que vou fazer cair a desgraça sobre toda carne, oráculo do Senhor; mas a ti darei a tua vida como despojo, em todos os lugares para onde fores."}
 ];
+
+window.TEXTOS_SEED["jeremias"][46] = [
+{s:"Oráculos contra as nações"},
+{v:1,t:"Palavra do Senhor dirigida ao profeta Jeremias a respeito das nações.",n:"Os capítulos 46–51 reúnem os oráculos contra as nações; na antiga tradução grega eles vêm depois de 25,13, em outra ordem."},
+{s:"Contra o Egito: a derrota de Carquemis"},
+{v:2,l:["Sobre o Egito.","Contra o exército do faraó Necao, rei do Egito, que estava junto do rio Eufrates, em Carquemis, e que Nabucodonosor, rei da Babilônia, derrotou no quarto ano de Joaquim, filho de Josias, rei de Judá."],n:"Em 605 antes de Cristo. A vitória de Carquemis deu à Babilônia o domínio da Síria e da Palestina."},
+{v:3,l:["Preparai o escudo e o broquel","e avançai para o combate!"],np:1},
+{v:4,l:["Atrelai os cavalos, montai, cavaleiros!","Tomai posição com os capacetes, afiai as lanças, vesti as couraças!"],np:1},
+{v:5,l:["Que vejo? Estão apavorados e dão as costas,","os seus valentes foram abatidos;","fogem em debandada, sem olhar para trás:","terror por todos os lados,","oráculo do Senhor."],np:1},
+{v:6,l:["Que o veloz não fuja,","nem o valente pense escapar!","No norte, junto do rio Eufrates,","tropeçaram e caíram."],np:1},
+{v:7,l:["Quem é este que sobe como o Nilo,","cujas águas se agitam como as dos rios?"],np:1},
+{v:8,l:["É o Egito que sobe como o Nilo,","cujas águas se agitam como as dos rios.","Ele dizia: Subirei e cobrirei a terra,","destruirei a cidade e os seus habitantes."],np:1},
+{v:9,l:["Subi, cavalos! Arremessai-vos, carros!","Que avancem os valentes,","a Etiópia e Fut, que empunham o escudo, e os ludim, que manejam e disparam o arco."],np:1,n:"Etiópia, Fut e os ludim: povos africanos que forneciam mercenários ao Egito."},
+{v:10,l:["Aquele dia é do Senhor Deus dos exércitos, dia de vingança,","para se vingar dos seus inimigos: a espada devora e se sacia,","embriaga-se com o sangue deles;","pois o Senhor Deus dos exércitos oferece um sacrifício","na terra do norte, junto do rio Eufrates."],np:1},
+{v:11,l:["Sobe a Galaad e toma bálsamo,","virgem, filha do Egito!","Em vão multiplicas os remédios:","para ti não há cura."],np:1},
+{v:12,l:["As nações ouviram a tua desonra, e o teu grito encheu a terra,","pois o valente tropeçou no valente,","e ambos caíram juntos."],np:1},
+{s:"Nabucodonosor invade o Egito"},
+{v:13,t:"Palavra que o Senhor dirigiu ao profeta Jeremias quando Nabucodonosor, rei da Babilônia, veio ferir a terra do Egito.",n:"Talvez a invasão de 568 antes de Cristo (compare 43,8–13)."},
+{v:14,l:["Anunciai no Egito,","fazei ouvir em Magdol,","que ressoe em Mênfis e em Táfnis;","dizei: Toma posição e prepara-te,","pois a espada devorou","tudo o que está ao teu redor."],np:1},
+{v:15,l:["Por que o teu valente foi derrubado?","Não resistiu, porque o Senhor o derrubou."],np:1,n:"O teu valente: talvez o touro sagrado Ápis; a tradução grega diz: Por que fugiu Ápis?"},
+{v:16,l:["Multiplicou os que tropeçam;","caem uns sobre os outros e dizem: De pé!","Voltemos ao nosso povo","e à nossa terra natal,","longe da espada devastadora."],np:1},
+{v:17,l:["Dai ao faraó, rei do Egito, este nome:","Barulho, que deixou passar a hora."],np:1,n:"Jogo de palavras no hebraico: o faraó não passa de barulho e deixou passar a ocasião."},
+{v:18,l:["Pela minha vida, diz o Rei,","cujo nome é Senhor dos exércitos:","como o Tabor entre os montes","e como o Carmelo junto ao mar, ele virá."],np:1},
+{v:19,l:["Prepara a bagagem do exílio,","habitante, filha do Egito,","pois Mênfis se tornará um deserto,","será arrasada e ficará sem habitantes."],np:1},
+{v:20,l:["O Egito é uma novilha belíssima,","mas um moscardo vem do norte contra ela."],np:1},
+{v:21,l:["Até os seus mercenários,","que estavam no meio dela como bezerros cevados,","também eles deram as costas e fugiram juntos,","não resistiram;","pois chegou sobre eles o dia da sua ruína,","o tempo do seu castigo."],np:1},
+{v:22,l:["A sua voz é como a da serpente que foge sibilando,","pois eles avançam com um exército e vêm contra ela com machados,","como lenhadores."],np:1},
+{v:23,l:["Cortaram a sua floresta,","oráculo do Senhor,","por mais impenetrável que seja;","pois são mais numerosos que os gafanhotos,","e não se podem contar."],np:1},
+{v:24,l:["A filha do Egito está envergonhada,","entregue nas mãos do povo do norte."],np:1},
+{v:25,t:"Diz o Senhor dos exércitos, o Deus de Israel: Eis que vou castigar Amon de Nô, o faraó, o Egito, os seus deuses e os seus reis, o faraó e os que confiam nele;",np:1,n:"Nô: Tebas, a grande cidade do Alto Egito, cujo deus principal era Amon."},
+{v:26,t:"eu os entregarei nas mãos dos que procuram tirar-lhes a vida, nas mãos de Nabucodonosor, rei da Babilônia, e nas mãos dos seus servos. Depois disso, o Egito será habitado como nos tempos antigos, oráculo do Senhor.",n:"Este versículo falta na antiga tradução grega."},
+{s:"Consolação para Jacó"},
+{v:27,l:["Mas tu não tenhas medo, Jacó, meu servo,","não te assustes, Israel,","pois eis que te salvarei de uma terra distante,","e a tua descendência, da terra do seu cativeiro;","Jacó voltará e terá descanso,","viverá tranquilo, e ninguém o assustará."],n:"Os versículos 27–28 repetem 30,10–11."},
+{v:28,l:["Tu, Jacó, meu servo, não tenhas medo,","oráculo do Senhor,","pois eu estou contigo;","farei o extermínio de todas as nações entre as quais te dispersei,","mas a ti não exterminarei:","eu te castigarei com justiça,","mas não te deixarei impune."],np:1}
+];
+
+window.TEXTOS_SEED["jeremias"][47] = [
+{s:"Contra os filisteus"},
+{v:1,t:"Palavra do Senhor dirigida ao profeta Jeremias a respeito dos filisteus, antes que o faraó atacasse Gaza.",n:"A data é incerta; talvez por volta de 609 ou de 601 antes de Cristo."},
+{v:2,l:["Assim diz o Senhor:","Eis que as águas sobem do norte","e se tornam uma torrente que transborda;","inundam a terra e tudo o que ela contém,","a cidade e os seus habitantes.","Os homens gritam,","e todos os habitantes da terra se lamentam,"],np:1},
+{v:3,l:["ao estrondo dos cascos dos seus garanhões,","ao barulho dos seus carros","e ao estrépito das suas rodas;","os pais não se voltam para os filhos, de tão fracas que estão as suas mãos,"],np:1},
+{v:4,l:["por causa do dia que vem para devastar todos os filisteus,","para exterminar todo aliado que ainda resta a Tiro e a Sidônia;","pois o Senhor devasta os filisteus,","o resto da ilha de Caftor."],np:1,n:"Caftor: Creta, de onde se dizia que os filisteus tinham vindo (Amós 9,7)."},
+{v:5,l:["A calvície veio sobre Gaza,","Ascalon está reduzida ao silêncio;","resto dos enacim,","até quando vos fareis incisões?"],np:1,n:"A calvície e as incisões são sinais de luto. Os enacim: assim a Nova Vulgata, com a tradução grega; o hebraico diz: resto do seu vale."},
+{v:6,l:["Ó espada do Senhor,","até quando não descansarás?","Volta para a tua bainha,","para e fica quieta!"],np:1},
+{v:7,l:["Como descansará,","se o Senhor lhe deu ordens","contra Ascalon e contra o litoral,","e ali a convocou?"],np:1}
+];

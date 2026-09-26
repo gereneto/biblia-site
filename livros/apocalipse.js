@@ -257,3 +257,76 @@ window.TEXTOS_SEED["apocalipse"][11] = [
 {v:18,l:["As nações se enfureceram,","mas chegou a tua ira","e o tempo de julgar os mortos,","de dar a recompensa aos teus servos, os profetas, e aos santos,","e aos que temem o teu nome, pequenos e grandes,","e de destruir os que destroem a terra."],n:"Compare Salmo 2,1."},
 {v:19,t:"Então se abriu o templo de Deus que está no céu, e apareceu no seu templo a arca da sua aliança; e houve relâmpagos, vozes, um terremoto e uma grande chuva de granizo.",np:1,n:"A arca, desaparecida desde a destruição do templo de Salomão (compare 2 Macabeus 2,4–8), aparece no céu: Deus não esqueceu a sua aliança. Vozes, terremoto: a Nova Vulgata não traz aqui os trovões, que muitos manuscritos gregos acrescentam."}
 ];
+
+window.TEXTOS_SEED["apocalipse"][12] = [
+{s:"A mulher e o dragão"},
+{v:1,t:"Apareceu no céu um grande sinal: uma mulher vestida de sol, com a lua debaixo dos pés e, sobre a cabeça, uma coroa de doze estrelas.",n:"A mulher é o povo de Deus, Israel e a Igreja, que dá à luz o Messias. A tradição da Igreja viu nela também Maria, a mãe de Jesus, e a liturgia lê esta passagem na festa da Assunção."},
+{v:2,t:"Estava grávida e gritava com as dores do parto, atormentada para dar à luz.",n:"Compare Isaías 66,7–8 e Miqueias 4,10; e as palavras de Jesus sobre a mulher que dá à luz, em João 16,21."},
+{v:3,t:"Apareceu então outro sinal no céu: eis um grande dragão, vermelho como fogo, com sete cabeças e dez chifres, e sobre as cabeças sete diademas;",n:"O dragão é Satanás (12,9). As sete cabeças e os dez chifres vêm da quarta fera de Daniel 7,7; os diademas são sinal de poder régio."},
+{v:4,t:"a sua cauda arrastava a terça parte das estrelas do céu e as lançou sobre a terra. E o dragão se pôs diante da mulher que estava para dar à luz, a fim de devorar o filho dela assim que nascesse.",n:"Compare Daniel 8,10."},
+{v:5,t:"Ela deu à luz um filho, um menino, que há de governar todas as nações com cetro de ferro; e o seu filho foi arrebatado para junto de Deus e do seu trono.",n:"Salmo 2,9 (compare 2,27; 19,15). O arrebatamento para junto de Deus resume a ressurreição e a ascensão de Cristo."},
+{v:6,t:"A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para que ali a alimentassem durante mil duzentos e sessenta dias.",n:"O deserto é o lugar onde Deus protege e alimenta os seus, como Israel no Êxodo e Elias (1 Reis 17,2–6; 19,3–8)."},
+{s:"Miguel e o dragão"},
+{v:7,t:"Houve então uma batalha no céu: Miguel e os seus anjos combateram contra o dragão. O dragão e os seus anjos combateram,",n:"Miguel é o anjo protetor do povo de Deus (Daniel 10,13.21; 12,1; Judas 9). O seu nome quer dizer: quem é como Deus?"},
+{v:8,t:"mas não prevaleceram, e já não houve lugar para eles no céu."},
+{v:9,t:"Foi precipitado o grande dragão, a antiga serpente, que se chama Diabo e Satanás, o sedutor do mundo inteiro; foi precipitado sobre a terra, e os seus anjos foram precipitados com ele.",n:"A antiga serpente é a do paraíso (Gênesis 3,1–15). Compare Lucas 10,18 e João 12,31."},
+{v:10,l:["Ouvi então uma voz forte no céu, que dizia:","Agora chegou a salvação, o poder e o reino do nosso Deus,","e a autoridade do seu Cristo,","porque foi precipitado o acusador dos nossos irmãos,","que os acusava dia e noite diante do nosso Deus."],n:"O acusador: é o sentido do nome Satanás (compare Jó 1,6–11; Zacarias 3,1)."},
+{v:11,l:["Eles o venceram pelo sangue do Cordeiro","e pela palavra do seu testemunho,","e não amaram a própria vida","a ponto de fugir da morte."]},
+{v:12,l:["Por isso, alegrai-vos, ó céus,","e vós que neles habitais.","Ai da terra e do mar,","porque o diabo desceu até vós, cheio de grande furor,","sabendo que lhe resta pouco tempo!"]},
+{s:"O dragão persegue a mulher"},
+{v:13,t:"Quando o dragão viu que tinha sido precipitado sobre a terra, perseguiu a mulher que tinha dado à luz o menino."},
+{v:14,t:"Mas foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, para o seu lugar, onde é alimentada por um tempo, dois tempos e metade de um tempo, longe da serpente.",n:"Compare Êxodo 19,4: Deus levou Israel sobre asas de águia. Um tempo, dois tempos e metade de um tempo: três anos e meio (veja a nota em 11,2)."},
+{v:15,t:"A serpente lançou da boca, atrás da mulher, água como um rio, para que o rio a arrastasse."},
+{v:16,t:"Mas a terra socorreu a mulher: abriu a boca e engoliu o rio que o dragão tinha lançado da boca."},
+{v:17,t:"O dragão se enfureceu contra a mulher e foi fazer guerra contra o resto da descendência dela, os que guardam os mandamentos de Deus e têm o testemunho de Jesus.",np:1,n:"Compare Gênesis 3,15: a inimizade entre a serpente e a descendência da mulher."},
+{v:18,t:"E ficou de pé sobre a areia do mar.",np:1,n:"Ficou de pé: assim a Nova Vulgata, com os melhores manuscritos gregos; é o dragão, à espera da fera que vai subir do mar. Outros manuscritos dizem: fiquei de pé, e ligam a frase à visão seguinte."}
+];
+
+window.TEXTOS_SEED["apocalipse"][13] = [
+{s:"A fera que sobe do mar"},
+{v:1,t:"Vi subir do mar uma fera que tinha dez chifres e sete cabeças; sobre os chifres, dez diademas, e sobre as cabeças, nomes de blasfêmia.",n:"A fera reúne os traços das quatro feras de Daniel 7,3–8: é o poder político que se faz adorar, que para os primeiros leitores era o Império Romano, com o culto ao imperador."},
+{v:2,t:"A fera que vi era semelhante a um leopardo; os seus pés eram como os de um urso, e a sua boca, como a boca de um leão. E o dragão lhe deu o seu poder, o seu trono e uma grande autoridade."},
+{v:3,t:"Uma das suas cabeças parecia ferida de morte, mas a sua ferida mortal foi curada. E a terra inteira, maravilhada, seguiu a fera,",n:"Talvez uma alusão à lenda de que Nero, morto em 68, voltaria à vida. É também uma paródia do Cordeiro, como que imolado e vivo (5,6)."},
+{v:4,t:"e adoraram o dragão, porque tinha dado a autoridade à fera; e adoraram a fera, dizendo: Quem é semelhante à fera, e quem pode lutar contra ela?",n:"Paródia do louvor que só a Deus se deve: Quem é semelhante a ti, Senhor? (Êxodo 15,11)."},
+{v:5,t:"Foi-lhe dada uma boca que proferia grandezas e blasfêmias, e foi-lhe dado poder de agir durante quarenta e dois meses.",np:1,n:"Compare Daniel 7,8.25."},
+{v:6,t:"Ela abriu a boca em blasfêmias contra Deus, para blasfemar o seu nome e a sua morada, os que habitam no céu."},
+{v:7,t:"Foi-lhe permitido fazer guerra contra os santos e vencê-los, e foi-lhe dado poder sobre toda tribo, povo, língua e nação.",n:"Compare Daniel 7,21."},
+{v:8,t:"E todos os habitantes da terra a adorarão, todos aqueles cujo nome não está escrito no livro da vida do Cordeiro imolado desde a fundação do mundo.",n:"Desde a fundação do mundo pode referir-se à inscrição dos nomes (compare 17,8) ou à imolação do Cordeiro, decidida antes de todos os séculos (compare 1 Pedro 1,19–20)."},
+{v:9,t:"Se alguém tem ouvidos, ouça:"},
+{v:10,l:["Se alguém está destinado ao cativeiro,","para o cativeiro irá;","se alguém deve ser morto pela espada,","pela espada há de ser morto.","Aqui se mostra a perseverança e a fé dos santos."],np:1,n:"Compare Jeremias 15,2. Os fiéis não resistem pela violência (compare Mateus 26,52): a sua força é a perseverança."},
+{s:"A fera que sobe da terra"},
+{v:11,t:"Vi depois outra fera, que subia da terra; tinha dois chifres semelhantes aos de um cordeiro, mas falava como um dragão.",n:"A segunda fera, chamada mais adiante o falso profeta (16,13; 19,20), é a propaganda religiosa a serviço do poder: tem a aparência de cordeiro e a voz do dragão."},
+{v:12,t:"Ela exerce toda a autoridade da primeira fera, na presença dela, e faz que a terra e os seus habitantes adorem a primeira fera, cuja ferida mortal foi curada."},
+{v:13,t:"Realiza grandes sinais, a ponto de fazer descer fogo do céu sobre a terra, à vista dos homens.",n:"Como Elias no Carmelo (1 Reis 18,38): é um falso profeta que imita os verdadeiros (compare Mateus 24,24)."},
+{v:14,t:"E seduz os habitantes da terra com os sinais que lhe foi permitido realizar na presença da fera, dizendo aos habitantes da terra que façam uma imagem da fera que foi ferida pela espada e voltou à vida."},
+{v:15,t:"Foi-lhe permitido dar um sopro de vida à imagem da fera, de modo que a imagem da fera chegasse a falar e fizesse morrer todos os que não adorassem a imagem da fera.",n:"Compare Daniel 3,1–6: a estátua de ouro de Nabucodonosor."},
+{v:16,t:"E faz que todos, pequenos e grandes, ricos e pobres, livres e escravos, recebam uma marca na mão direita ou na fronte,",n:"A marca da fera é a paródia do selo de Deus na fronte dos fiéis (7,3; 14,1)."},
+{v:17,t:"para que ninguém possa comprar ou vender, a não ser quem tiver a marca, o nome da fera ou o número do seu nome."},
+{v:18,t:"Aqui está a sabedoria: quem tem inteligência calcule o número da fera, pois é número de homem; e o seu número é seiscentos e sessenta e seis.",n:"Em hebraico e em grego as letras valem também como números. A explicação mais provável é o nome César Nero escrito em letras hebraicas, cuja soma dá 666; alguns manuscritos trazem 616, que é a soma da forma latina do nome. O seis, que fica aquém do sete, pode indicar também a imperfeição levada ao extremo."}
+];
+
+window.TEXTOS_SEED["apocalipse"][14] = [
+{s:"O Cordeiro no monte Sião"},
+{v:1,t:"Olhei, e eis o Cordeiro de pé sobre o monte Sião, e com ele cento e quarenta e quatro mil, que tinham escrito na fronte o nome dele e o nome do seu Pai."},
+{v:2,t:"E ouvi uma voz do céu, como a voz de muitas águas e como a voz de um grande trovão; e a voz que ouvi era como a de citaristas tocando as suas cítaras."},
+{v:3,t:"Cantam como que um cântico novo diante do trono, diante dos quatro seres vivos e dos anciãos; e ninguém podia aprender o cântico, a não ser os cento e quarenta e quatro mil, os que foram resgatados da terra."},
+{v:4,t:"Estes são os que não se contaminaram com mulheres, porque são virgens. Estes são os que seguem o Cordeiro aonde quer que ele vá. Estes foram resgatados dentre os homens como primícias para Deus e para o Cordeiro;",n:"Nota do tradutor: a imagem, estranha para nós, não foi suavizada. Na linguagem dos profetas, a idolatria é prostituição, e a fidelidade a Deus, virgindade (compare 2 Coríntios 11,2): estes são os que não se entregaram ao culto da fera. Pode haver também uma alusão aos combatentes da guerra santa, que se abstinham de mulher (1 Samuel 21,5–6), e aos que escolhem a virgindade pelo Reino (Mateus 19,12; 1 Coríntios 7,32–35)."},
+{v:5,t:"e na sua boca não se achou mentira: são irrepreensíveis.",n:"Compare Sofonias 3,13."},
+{s:"Os três anjos"},
+{v:6,t:"Vi outro anjo que voava no meio do céu, com um evangelho eterno, para anunciá-lo aos que habitam na terra, a toda nação, tribo, língua e povo;"},
+{v:7,t:"ele dizia em alta voz: Temei a Deus e dai-lhe glória, porque chegou a hora do seu julgamento; e adorai aquele que fez o céu, a terra, o mar e as fontes das águas."},
+{v:8,t:"Seguiu-o outro anjo, que dizia: Caiu, caiu Babilônia, a grande, que deu a beber a todas as nações o vinho da fúria da sua prostituição!",np:1,n:"Compare Isaías 21,9 e Jeremias 51,7–8. Babilônia, a antiga inimiga do povo de Deus, é o nome simbólico de Roma (compare 1 Pedro 5,13). O vinho da fúria: o vinho que embriaga e que atrai a ira de Deus."},
+{v:9,t:"Seguiu-os um terceiro anjo, que dizia em alta voz: Se alguém adorar a fera e a sua imagem e receber a marca na fronte ou na mão,",np:1},
+{v:10,t:"também beberá do vinho da ira de Deus, que está servido puro no cálice da sua ira, e será atormentado com fogo e enxofre diante dos santos anjos e diante do Cordeiro.",n:"Nota do tradutor: linguagem terrível, que não foi suavizada. É a imagem profética do cálice da ira (Isaías 51,17; Jeremias 25,15) e do fogo de Sodoma (Gênesis 19,24); o livro quer mostrar a gravidade da escolha entre Deus e a fera, num tempo de perseguição."},
+{v:11,t:"A fumaça do seu tormento sobe pelos séculos dos séculos, e não têm descanso, dia e noite, os que adoram a fera e a sua imagem e quem recebe a marca do seu nome."},
+{v:12,t:"Aqui se mostra a perseverança dos santos, que guardam os mandamentos de Deus e a fé em Jesus.",np:1},
+{v:13,t:"E ouvi uma voz do céu, que dizia: Escreve: Bem-aventurados os mortos que desde agora morrem no Senhor. Sim, diz o Espírito, que descansem das suas fadigas, pois as suas obras os acompanham.",n:"A segunda das sete bem-aventuranças do Apocalipse (1,3; 16,15; 19,9; 20,6; 22,7.14)."},
+{s:"A colheita e a vindima da terra"},
+{v:14,t:"Olhei, e eis uma nuvem branca, e sobre a nuvem, sentado, alguém semelhante a um filho de homem, com uma coroa de ouro na cabeça e uma foice afiada na mão.",n:"Compare Daniel 7,13 e 1,13."},
+{v:15,t:"Outro anjo saiu do templo, gritando em alta voz ao que estava sentado sobre a nuvem: Lança a tua foice e ceifa, porque chegou a hora de ceifar: a messe da terra está madura.",n:"Compare Joel 4,13 e Mateus 13,39."},
+{v:16,t:"E o que estava sentado sobre a nuvem lançou a sua foice à terra, e a terra foi ceifada."},
+{v:17,t:"Outro anjo saiu do templo que está no céu, tendo também ele uma foice afiada.",np:1},
+{v:18,t:"E outro anjo, que tem poder sobre o fogo, saiu do altar e gritou em alta voz ao que tinha a foice afiada: Lança a tua foice afiada e colhe os cachos da vinha da terra, porque as suas uvas estão maduras."},
+{v:19,t:"O anjo lançou a sua foice à terra, vindimou a vinha da terra e lançou as uvas no grande lagar da ira de Deus."},
+{v:20,t:"O lagar foi pisado fora da cidade, e saiu sangue do lagar até a altura dos freios dos cavalos, numa distância de mil e seiscentos estádios.",n:"Compare Isaías 63,1–6. Mil e seiscentos estádios são cerca de trezentos quilômetros: número simbólico, quatro vezes quatro vezes cem, que abrange a terra inteira."}
+];

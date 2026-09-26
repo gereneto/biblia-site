@@ -345,3 +345,55 @@ window.TEXTOS_SEED["jeremias"][10] = [
 {v:24,l:["Corrige-me, Senhor, mas com justiça,","e não na tua ira,","para não me reduzires a nada."],np:1},
 {v:25,l:["Derrama a tua ira sobre as nações","que não te conhecem,","e sobre os povos","que não invocam o teu nome;","pois devoraram Jacó,","o devoraram e consumiram,","e devastaram a sua pastagem."],np:1,n:"Nota do tradutor: prece de vingança, quase idêntica ao Salmo 79,6–7; como nos salmos imprecatórios, o texto não é atenuado."}
 ];
+
+window.TEXTOS_SEED["jeremias"][11] = [
+{s:"A aliança quebrada"},
+{v:1,t:"Palavra que o Senhor dirigiu a Jeremias:"},
+{v:2,t:"Ouvi as palavras desta aliança e dizei-as aos homens de Judá e aos habitantes de Jerusalém."},
+{v:3,t:"Tu lhes dirás: Assim diz o Senhor, o Deus de Israel: Maldito o homem que não escutar as palavras desta aliança,"},
+{v:4,t:"que prescrevi aos vossos pais quando os tirei da terra do Egito, da fornalha de ferro, dizendo: Escutai a minha voz e fazei tudo o que vos ordeno; então sereis o meu povo, e eu serei o vosso Deus,"},
+{v:5,t:"para que eu cumpra o juramento que fiz aos vossos pais, de lhes dar uma terra onde corre leite e mel, como acontece hoje. Eu respondi: Amém, Senhor!"},
+{v:6,t:"O Senhor me disse: Proclama todas estas palavras nas cidades de Judá e nas ruas de Jerusalém, dizendo: Ouvi as palavras desta aliança e ponde-as em prática.",np:1},
+{v:7,t:"Pois adverti solenemente os vossos pais, desde o dia em que os tirei da terra do Egito até hoje; adverti-os sem cessar, dizendo: Escutai a minha voz!"},
+{v:8,t:"Mas não escutaram nem deram ouvidos; cada um seguiu a obstinação do seu coração perverso. Por isso fiz cair sobre eles todas as palavras desta aliança, que eu lhes tinha mandado cumprir e que não cumpriram."},
+{v:9,t:"O Senhor me disse: Há uma conspiração entre os homens de Judá e os habitantes de Jerusalém.",np:1},
+{v:10,t:"Voltaram às iniquidades dos seus antepassados, que recusaram escutar as minhas palavras; também eles correram atrás de outros deuses para servi-los. A casa de Israel e a casa de Judá romperam a minha aliança, que eu tinha feito com os seus pais."},
+{v:11,t:"Por isso assim diz o Senhor: Eis que vou fazer cair sobre eles uma desgraça da qual não poderão escapar; clamarão a mim, mas não os escutarei."},
+{v:12,t:"Então as cidades de Judá e os habitantes de Jerusalém irão clamar aos deuses a quem queimam incenso, mas eles não os salvarão no tempo da sua desgraça."},
+{v:13,t:"Pois tens tantos deuses, ó Judá, quantas são as tuas cidades, e erguestes tantos altares à Vergonha quantas são as ruas de Jerusalém, altares para queimar incenso a Baal."},
+{v:14,t:"Quanto a ti, não intercedas por este povo, não levantes por eles súplica nem oração, pois não os escutarei quando clamarem a mim na sua desgraça.",np:1},
+{s:"A oliveira queimada"},
+{v:15,l:["Que faz a minha amada na minha casa,","ela que tramou tantas maldades?","Acaso os votos e a carne consagrada","afastarão de ti a desgraça,","para que possas exultar?"],n:"Hebraico obscuro; a Nova Vulgata entende, como aqui: os votos e as carnes consagradas."},
+{v:16,l:["Oliveira verdejante, bela, de frutos formosos:","assim o Senhor te chamava;","com um grande estrondo","ele lhe põe fogo,","e os seus ramos se queimam."],np:1},
+{v:17,t:"O Senhor dos exércitos, que te plantou, decretou contra ti a desgraça, por causa da maldade que a casa de Israel e a casa de Judá cometeram, provocando-me ao queimar incenso a Baal.",np:1},
+{s:"Conspiração contra Jeremias"},
+{v:18,l:["O Senhor me fez saber, e eu soube;","então me mostraste as suas ações."],n:"Começam aqui as chamadas confissões de Jeremias (11,18–12,6; 15,10–21; 17,14–18; 18,18–23; 20,7–18)."},
+{v:19,t:"Eu era como um cordeiro manso, levado ao matadouro, e não sabia que tramavam contra mim, dizendo: Destruamos a árvore com o seu fruto, arranquemo-lo da terra dos vivos, e que o seu nome não seja mais lembrado.",np:1,n:"Compare Isaías 53,7."},
+{v:20,l:["Mas tu, Senhor dos exércitos,","que julgas com justiça, que sondas os rins e o coração,","que eu veja a tua vingança contra eles,","pois a ti confiei a minha causa."],np:1,n:"Nota do tradutor: o profeta pede a vingança divina, como nos salmos imprecatórios, e o texto não a suaviza; mas entrega a causa a Deus, sem fazer justiça por si mesmo."},
+{v:21,t:"Por isso assim diz o Senhor a respeito dos homens de Anatot, que procuram a tua vida e dizem: Não profetizes em nome do Senhor, se não queres morrer pelas nossas mãos!",np:1},
+{v:22,t:"Por isso assim diz o Senhor dos exércitos: Eis que vou castigá-los: os jovens morrerão pela espada, os seus filhos e as suas filhas morrerão de fome,"},
+{v:23,t:"e não restará deles ninguém, pois farei cair a desgraça sobre os homens de Anatot, no ano do seu castigo."}
+];
+
+window.TEXTOS_SEED["jeremias"][12] = [
+{s:"Por que prospera o caminho dos ímpios?"},
+{v:1,l:["Tu és justo, Senhor, quando discuto contigo;","contudo, quero falar contigo sobre a justiça:","por que prospera o caminho dos ímpios?","Por que vivem tranquilos todos os traidores?"]},
+{v:2,l:["Tu os plantas, e eles lançam raízes,","crescem e dão fruto;","tu estás perto da sua boca,","mas longe do seu íntimo."],np:1},
+{v:3,l:["Mas tu, Senhor, me conheces, tu me vês","e provas que o meu coração está contigo.","Separa-os como ovelhas para o matadouro,","reserva-os para o dia da matança."],np:1},
+{v:4,l:["Até quando a terra estará de luto,","e a erva de todo o campo secará?","Pela maldade dos seus habitantes","morrem os animais e as aves,","pois dizem: Ele não verá o nosso fim."],np:1},
+{v:5,l:["Se, correndo com os de a pé, te cansas,","como poderás competir com os cavalos?","Se só numa terra tranquila te sentes seguro,","que farás na mata do Jordão?"],np:1},
+{v:6,l:["Pois até os teus irmãos e a casa do teu pai,","até eles te traíram,","também eles gritam atrás de ti a plenos pulmões;","não confies neles,","mesmo quando te dizem coisas agradáveis."],np:1},
+{s:"O lamento do Senhor pela sua herança"},
+{v:7,l:["Abandonei a minha casa,","rejeitei a minha herança;","entreguei a amada da minha alma","nas mãos dos seus inimigos."]},
+{v:8,l:["A minha herança se tornou para mim","como um leão na floresta;","rugiu contra mim,","por isso a detesto."],np:1},
+{v:9,l:["Acaso a minha herança é para mim uma ave de muitas cores,","que as aves de rapina atacam de todos os lados?","Ide, reuni todos os animais do campo,","trazei-os para devorar!"],np:1},
+{v:10,l:["Muitos pastores devastaram a minha vinha,","pisaram a minha porção;","fizeram da minha porção preciosa","um deserto desolado."],np:1},
+{v:11,l:["Fizeram dela uma desolação;","desolada, ela está de luto diante de mim;","toda a terra está devastada,","e ninguém se importa com isso."],np:1},
+{v:12,l:["Sobre todas as colinas nuas do deserto","chegaram os devastadores,","pois a espada do Senhor devora","de um extremo ao outro da terra;","não há paz para ninguém."],np:1},
+{v:13,l:["Semearam trigo e colheram espinhos,","cansaram-se sem proveito;","envergonhai-vos das vossas colheitas,","por causa da ira ardente do Senhor."],np:1},
+{s:"Os vizinhos de Israel"},
+{v:14,t:"Assim diz o Senhor contra todos os meus maus vizinhos, que atacam a herança que dei ao meu povo Israel: Eis que vou arrancá-los da sua terra e arrancarei do meio deles a casa de Judá."},
+{v:15,t:"Mas, depois de arrancá-los, voltarei a ter compaixão deles e os farei voltar, cada um à sua herança e cada um à sua terra."},
+{v:16,t:"E, se aprenderem bem os caminhos do meu povo e jurarem pelo meu nome, dizendo: Pela vida do Senhor!, assim como ensinaram o meu povo a jurar por Baal, então serão estabelecidos no meio do meu povo."},
+{v:17,t:"Mas, se não escutarem, arrancarei essa nação, a arrancarei e a destruirei, oráculo do Senhor."}
+];

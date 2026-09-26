@@ -539,3 +539,56 @@ window.TEXTOS_SEED["exodo"][16] = [
 {v:35,t:"Os filhos de Israel comeram o maná durante quarenta anos, até chegarem a uma terra habitada; comeram o maná até chegarem aos limites da terra de Canaã.",np:1},
 {v:36,t:"O ômer é a décima parte do efá.",np:1}
 ];
+
+window.TEXTOS_SEED["exodo"][17] = [
+{s:"A água que sai da rocha"},
+{v:1,t:"Toda a comunidade dos filhos de Israel partiu do deserto de Sin, em etapas, conforme a ordem do Senhor, e acampou em Rafidim, onde não havia água para o povo beber."},
+{v:2,t:"O povo discutiu com Moisés, dizendo: Dá-nos água para beber! Moisés lhes respondeu: Por que discutis comigo? Por que tentais o Senhor?"},
+{v:3,t:"Mas o povo tinha sede e murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egito, para nos matar de sede, a nós, aos nossos filhos e aos nossos rebanhos?"},
+{v:4,t:"Moisés clamou ao Senhor, dizendo: Que farei com este povo? Mais um pouco e me apedrejarão."},
+{v:5,t:"O Senhor disse a Moisés: Passa à frente do povo, leva contigo alguns anciãos de Israel, toma na mão o cajado com que feriste o Rio, e vai.",np:1},
+{v:6,t:"Eis que eu estarei ali diante de ti, sobre a rocha, no Horeb; ferirás a rocha, e dela sairá água, para que o povo beba. Moisés assim fez, diante dos anciãos de Israel.",n:"São Paulo vê nesta rocha uma figura de Cristo, que acompanhava o povo no deserto (1 Coríntios 10,4)."},
+{v:7,t:"E deu àquele lugar o nome de Massá e Meribá, por causa da discussão dos filhos de Israel e porque tentaram o Senhor, dizendo: O Senhor está ou não está no meio de nós?",n:"Massá quer dizer tentação, e Meribá, contenda (compare Salmo 95,8–9; Números 20,1–13)."},
+{s:"A batalha contra Amalec"},
+{v:8,t:"Amalec veio e atacou Israel em Rafidim."},
+{v:9,t:"Moisés disse a Josué: Escolhe para nós alguns homens e sai para combater contra Amalec; amanhã eu ficarei de pé no alto da colina, com o cajado de Deus na mão.",n:"Primeira menção de Josué, o futuro sucessor de Moisés."},
+{v:10,t:"Josué fez como Moisés lhe tinha dito e combateu contra Amalec; e Moisés, Aarão e Hur subiram ao alto da colina."},
+{v:11,t:"Enquanto Moisés mantinha as mãos levantadas, Israel vencia; quando as abaixava, Amalec vencia."},
+{v:12,t:"Mas as mãos de Moisés ficaram pesadas; então tomaram uma pedra e a puseram debaixo dele, e ele se sentou; Aarão e Hur sustentavam as suas mãos, um de um lado e o outro do outro. Assim as suas mãos ficaram firmes até o pôr do sol.",n:"Os Padres da Igreja viram nas mãos levantadas de Moisés uma imagem da oração perseverante e da cruz."},
+{v:13,t:"E Josué derrotou Amalec e o seu povo ao fio da espada."},
+{v:14,t:"O Senhor disse a Moisés: Escreve isto num livro, como memorial, e repete-o aos ouvidos de Josué: eu apagarei a memória de Amalec de debaixo do céu.",n:"Nota do tradutor: a sentença contra Amalec é dura e será retomada várias vezes (Deuteronômio 25,17–19; 1 Samuel 15); o texto não foi suavizado."},
+{v:15,t:"Moisés construiu um altar e lhe deu o nome de Senhor-Nissi,",n:"Senhor-Nissi quer dizer o Senhor é a minha bandeira, como explica a Nova Vulgata, seguindo São Jerônimo."},
+{v:16,l:["dizendo:","Uma mão se ergueu contra o trono do Senhor:","o Senhor está em guerra contra Amalec","de geração em geração."],n:"Texto obscuro; talvez: a mão sobre a bandeira do Senhor, como gesto de juramento."}
+];
+
+window.TEXTOS_SEED["exodo"][18] = [
+{s:"Jetro visita Moisés"},
+{v:1,t:"Jetro, sacerdote de Madiã e sogro de Moisés, ouviu falar de tudo o que Deus tinha feito por Moisés e por Israel, o seu povo, e de como o Senhor tinha tirado Israel do Egito,"},
+{v:2,t:"e tomou consigo Séfora, mulher de Moisés, que este tinha mandado de volta,"},
+{v:3,t:"e os dois filhos dela. Um se chamava Gersam, porque Moisés tinha dito: Fui um estrangeiro em terra estranha;"},
+{v:4,t:"e o outro se chamava Eliezer, porque tinha dito: O Deus de meu pai foi o meu auxílio e me livrou da espada do faraó.",n:"Eliezer quer dizer meu Deus é auxílio."},
+{v:5,t:"Jetro, sogro de Moisés, veio com os filhos e a mulher de Moisés ao deserto onde ele estava acampado, junto à montanha de Deus;"},
+{v:6,t:"e mandou dizer a Moisés: Eu, Jetro, teu sogro, venho ao teu encontro, com a tua mulher e os seus dois filhos."},
+{v:7,t:"Moisés saiu ao encontro do sogro, prostrou-se diante dele e o beijou; perguntaram um ao outro como estavam. E, quando entraram na tenda,",np:1},
+{v:8,t:"Moisés contou ao sogro tudo o que o Senhor tinha feito ao faraó e aos egípcios por causa de Israel, todas as dificuldades que tinham encontrado no caminho e como o Senhor os tinha livrado."},
+{v:9,t:"Jetro se alegrou por todo o bem que o Senhor tinha feito a Israel, livrando-o da mão dos egípcios,"},
+{v:10,t:"e disse: Bendito seja o Senhor, que vos livrou da mão dos egípcios e da mão do faraó."},
+{v:11,t:"Agora sei que o Senhor é maior do que todos os deuses, pois livrou o povo da mão dos egípcios, que os tinham tratado com arrogância."},
+{v:12,t:"Jetro, sogro de Moisés, ofereceu a Deus um holocausto e sacrifícios; e Aarão e todos os anciãos de Israel vieram comer com o sogro de Moisés diante de Deus.",n:"Um sacerdote estrangeiro reconhece o Senhor e preside um sacrifício diante dos anciãos de Israel."},
+{s:"O conselho de Jetro"},
+{v:13,t:"No dia seguinte, Moisés sentou-se para julgar o povo, e o povo ficou de pé diante de Moisés desde a manhã até a tarde."},
+{v:14,t:"Vendo tudo o que Moisés fazia pelo povo, o sogro lhe disse: Que é isso que fazes com o povo? Por que te sentas sozinho, enquanto todo o povo fica de pé diante de ti desde a manhã até a tarde?"},
+{v:15,t:"Moisés respondeu ao sogro: É que o povo vem a mim para consultar a Deus."},
+{v:16,t:"Quando têm alguma questão, vêm a mim, e eu julgo entre um e outro e lhes dou a conhecer os decretos de Deus e as suas leis."},
+{v:17,t:"O sogro de Moisés lhe disse: Não está certo o que fazes."},
+{v:18,t:"Tu te esgotarás, e também este povo que está contigo. A tarefa é pesada demais para ti; não poderás realizá-la sozinho."},
+{v:19,t:"Ouve, pois, o meu conselho, e que Deus esteja contigo: representa tu o povo diante de Deus e leva as suas questões a Deus;"},
+{v:20,t:"ensina-lhes os decretos e as leis, mostra-lhes o caminho que devem seguir e o que devem fazer."},
+{v:21,t:"Mas escolhe dentre todo o povo homens capazes, que temam a Deus, homens íntegros, que odeiem o suborno, e põe-nos à frente do povo como chefes de mil, de cem, de cinquenta e de dez,"},
+{v:22,t:"para que julguem o povo em todo tempo. Que te tragam todas as questões graves, e julguem eles mesmos as questões menores; assim aliviarás o teu fardo, e eles o carregarão contigo."},
+{v:23,t:"Se fizeres isto, cumprirás a ordem de Deus e poderás levar a cabo os seus preceitos, e todo este povo voltará em paz para as suas casas."},
+{v:24,t:"Moisés ouviu o sogro e fez tudo o que ele lhe tinha sugerido.",np:1},
+{v:25,t:"Escolheu em todo Israel homens capazes e os pôs à frente do povo como chefes de mil, de cem, de cinquenta e de dez,"},
+{v:26,t:"que julgavam o povo em todo tempo: as questões difíceis levavam a Moisés, e as questões menores julgavam eles mesmos."},
+{v:27,t:"Depois Moisés despediu o sogro, que voltou para a sua terra."}
+];

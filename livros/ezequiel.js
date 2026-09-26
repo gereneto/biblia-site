@@ -178,3 +178,40 @@ window.TEXTOS_SEED["ezequiel"][7] = [
 {v:26,t:"Virá desgraça sobre desgraça, e boato sobre boato; pedirão uma visão ao profeta, mas a lei faltará ao sacerdote, e o conselho, aos anciãos."},
 {v:27,t:"O rei ficará de luto, o príncipe se vestirá de desolação, e as mãos do povo da terra tremerão. Eu os tratarei segundo o seu procedimento e os julgarei segundo os seus próprios julgamentos; e saberão que eu sou o Senhor."}
 ];
+
+window.TEXTOS_SEED["ezequiel"][8] = [
+{s:"As abominações no templo"},
+{v:1,t:"No sexto ano, no sexto mês, no dia cinco do mês, eu estava sentado em minha casa, e os anciãos de Judá estavam sentados diante de mim; e ali a mão do Senhor Deus caiu sobre mim.",n:"Em setembro de 592 antes de Cristo."},
+{v:2,t:"Olhei, e eis uma figura com aparência de homem: desde o que parecia ser a sua cintura para baixo, era fogo; e desde a cintura para cima, algo como um esplendor, como o brilho do electro.",n:"Homem: assim a Nova Vulgata, com a tradução grega; o hebraico diz fogo."},
+{v:3,t:"Ele estendeu algo semelhante a uma mão e me pegou por uma mecha de cabelo; e o espírito me levantou entre a terra e o céu e me levou a Jerusalém, em visões de Deus, à entrada da porta interior que dá para o norte, onde estava colocado o ídolo do ciúme, que provoca o ciúme.",n:"O ídolo do ciúme: talvez uma imagem de Aserá (compare 2 Reis 21,7), que provocava o ciúme do Senhor."},
+{v:4,t:"E eis que ali estava a glória do Deus de Israel, como na visão que eu tinha tido na planície;"},
+{v:5,t:"e ele me disse: Filho do homem, levanta os olhos na direção do norte. Levantei os olhos na direção do norte, e eis que, ao norte da porta do altar, estava aquele ídolo do ciúme, na entrada."},
+{v:6,t:"E me disse: Filho do homem, vês o que eles fazem? As grandes abominações que a casa de Israel pratica aqui, para que eu me afaste do meu santuário? Mas verás ainda abominações maiores."},
+{v:7,t:"Ele me levou à entrada do átrio, e olhei: eis que havia um buraco na parede.",np:1},
+{v:8,t:"Ele me disse: Filho do homem, cava a parede. Cavei a parede, e apareceu uma porta."},
+{v:9,t:"E me disse: Entra e vê as horríveis abominações que eles praticam aqui."},
+{v:10,t:"Entrei e olhei: eis toda espécie de figuras de répteis e de animais abomináveis, e todos os ídolos da casa de Israel, pintados na parede, ao redor, por toda parte;"},
+{v:11,t:"e setenta homens dos anciãos da casa de Israel, com Jezonias, filho de Safã, de pé no meio deles, estavam diante das pinturas, cada um com o seu incensório na mão, e subia a fumaça perfumada do incenso."},
+{v:12,t:"Ele me disse: Viste, filho do homem, o que os anciãos da casa de Israel fazem nas trevas, cada um na sala da sua imagem? Pois dizem: O Senhor não nos vê; o Senhor abandonou a terra."},
+{v:13,t:"E me disse: Verás ainda abominações maiores que eles praticam."},
+{v:14,t:"Ele me levou à entrada da porta da casa do Senhor que dá para o norte, e eis que ali estavam sentadas mulheres chorando Tamuz.",np:1,n:"Tamuz: divindade babilônica da vegetação, cuja morte anual era chorada pelas mulheres."},
+{v:15,t:"Ele me disse: Viste, filho do homem? Verás ainda abominações maiores do que estas."},
+{v:16,t:"Ele me levou ao átrio interior da casa do Senhor, e eis que, à entrada do templo do Senhor, entre o vestíbulo e o altar, havia uns vinte e cinco homens, de costas para o templo do Senhor e com o rosto voltado para o oriente: adoravam o sol, voltados para o oriente.",np:1},
+{v:17,t:"Ele me disse: Viste, filho do homem? Será pouca coisa para a casa de Judá praticar as abominações que praticam aqui? Pois encheram a terra de violência e voltaram a me provocar; e eis que levam o ramo ao nariz.",n:"Gesto de culto pagão, de sentido desconhecido."},
+{v:18,t:"Por isso também eu agirei com furor: o meu olho não terá piedade, e não terei compaixão; e, ainda que gritem aos meus ouvidos em alta voz, não os escutarei."}
+];
+
+window.TEXTOS_SEED["ezequiel"][9] = [
+{s:"O sinal na fronte e o castigo da cidade"},
+{v:1,t:"Então ele gritou aos meus ouvidos em alta voz: Aproximam-se os castigos da cidade; cada um tenha na mão a sua arma de destruição."},
+{v:2,t:"E eis que seis homens vinham pelo caminho da porta superior, que dá para o norte, cada um com a sua arma de destruição na mão; no meio deles havia um homem vestido de linho, com um estojo de escriba à cintura. Entraram e ficaram de pé junto do altar de bronze."},
+{v:3,t:"A glória do Deus de Israel se elevou de cima do querubim sobre o qual estava e foi até o limiar do templo; e chamou o homem vestido de linho, que tinha o estojo de escriba à cintura."},
+{v:4,t:"O Senhor lhe disse: Passa pelo meio da cidade, pelo meio de Jerusalém, e marca com um tau a fronte dos homens que gemem e se lamentam por todas as abominações que se praticam no meio dela.",n:"Tau: a última letra do alfabeto hebraico, que na escrita antiga tinha a forma de uma cruz. Os Padres da Igreja viram nela o sinal da cruz; compare Apocalipse 7,3."},
+{v:5,t:"E aos outros disse, enquanto eu ouvia: Passai pela cidade atrás dele e feri; o vosso olho não tenha piedade, e não tenhais compaixão:"},
+{v:6,t:"matai velhos, jovens e moças, crianças e mulheres, até exterminá-los; mas não toqueis em ninguém que tenha o tau. Começai pelo meu santuário. Começaram, então, pelos anciãos que estavam diante do templo.",n:"Nota do tradutor: a visão descreve o julgamento de Deus sobre a cidade culpada com a linguagem das guerras antigas; o texto não foi suavizado. O julgamento começa pelo santuário (compare 1 Pedro 4,17)."},
+{v:7,t:"E lhes disse: Profanai o templo e enchei os átrios de mortos. Saí! Eles saíram e começaram a matar na cidade."},
+{v:8,t:"Enquanto matavam, eu fiquei sozinho; caí com o rosto por terra e gritei: Ah, Senhor Deus! Vais destruir todo o resto de Israel, derramando o teu furor sobre Jerusalém?",np:1},
+{v:9,t:"Ele me respondeu: A iniquidade da casa de Israel e de Judá é imensamente grande; a terra está cheia de sangue, e a cidade, cheia de injustiça. Pois dizem: O Senhor abandonou a terra, e o Senhor não vê."},
+{v:10,t:"Por isso também o meu olho não terá piedade, e não terei compaixão: farei cair sobre a cabeça deles o seu procedimento."},
+{v:11,t:"E eis que o homem vestido de linho, que tinha o estojo de escriba à cintura, veio dar conta, dizendo: Fiz como me ordenaste."}
+];

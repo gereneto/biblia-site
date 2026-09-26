@@ -1277,3 +1277,48 @@ window.TEXTOS_SEED["jeremias"][41] = [
 {v:17,t:"Partiram e pararam em Gerut-Camaã, perto de Belém, para depois seguir para o Egito,",n:"Gerut-Camaã: talvez uma hospedaria ligada ao nome de Camaã, o protegido de Davi (2 Samuel 19,38–41)."},
 {v:18,t:"fugindo dos caldeus; pois tinham medo deles, porque Ismael, filho de Natanias, tinha matado Godolias, filho de Aicam, que o rei da Babilônia tinha posto como governador da terra."}
 ];
+
+window.TEXTOS_SEED["jeremias"][42] = [
+{s:"O povo consulta Jeremias"},
+{v:1,t:"Então todos os chefes das tropas, Joanã, filho de Caree, Jezonias, filho de Osaías, e todo o povo, do menor ao maior, se aproximaram",n:"Em 43,2 ele é chamado Azarias, como aqui na tradução grega."},
+{v:2,t:"e disseram ao profeta Jeremias: Seja bem acolhida por ti a nossa súplica: reza ao Senhor, teu Deus, por nós, por todo este resto; pois, de muitos que éramos, restamos poucos, como vês com os teus próprios olhos."},
+{v:3,t:"Que o Senhor, teu Deus, nos indique o caminho que devemos seguir e o que devemos fazer."},
+{v:4,t:"O profeta Jeremias lhes respondeu: Ouvi. Vou rezar ao Senhor, vosso Deus, como pedistes; e toda palavra que o Senhor vos responder, eu a comunicarei a vós; não vos esconderei nada."},
+{v:5,t:"Eles disseram a Jeremias: Que o Senhor seja contra nós testemunha verdadeira e fiel, se não fizermos exatamente tudo o que o Senhor, teu Deus, te mandar dizer-nos."},
+{v:6,t:"Quer seja bom, quer seja mau, obedeceremos à voz do Senhor, nosso Deus, a quem te enviamos, para que tudo nos corra bem, obedecendo à voz do Senhor, nosso Deus."},
+{s:"A resposta do Senhor"},
+{v:7,t:"Dez dias depois, a palavra do Senhor foi dirigida a Jeremias;"},
+{v:8,t:"e ele chamou Joanã, filho de Caree, todos os chefes das tropas que estavam com ele e todo o povo, do menor ao maior,"},
+{v:9,t:"e lhes disse: Assim diz o Senhor, o Deus de Israel, a quem me enviastes para apresentar diante dele a vossa súplica:"},
+{v:10,t:"Se continuardes a morar nesta terra, eu vos edificarei e não vos destruirei, eu vos plantarei e não vos arrancarei; pois me arrependo do mal que vos fiz."},
+{v:11,t:"Não temais o rei da Babilônia, de quem tendes tanto medo; não o temais, oráculo do Senhor, pois eu estou convosco para vos salvar e vos livrar da sua mão."},
+{v:12,t:"Farei que encontreis misericórdia: ele terá compaixão de vós e vos deixará morar na vossa terra."},
+{v:13,t:"Mas, se disserdes: Não ficaremos nesta terra, e não obedecerdes à voz do Senhor, vosso Deus,",np:1},
+{v:14,t:"dizendo: Não; iremos para a terra do Egito, onde não veremos a guerra, não ouviremos o som da trombeta, nem passaremos fome, e lá moraremos,"},
+{v:15,t:"então ouvi a palavra do Senhor, resto de Judá: Assim diz o Senhor dos exércitos, o Deus de Israel: Se estais decididos a ir para o Egito e fordes morar lá como estrangeiros,"},
+{v:16,t:"a espada que temeis vos alcançará lá, na terra do Egito, e a fome que vos preocupa vos seguirá até o Egito, e lá morrereis."},
+{v:17,t:"Todos os homens que estão decididos a ir para o Egito para morar lá como estrangeiros morrerão pela espada, pela fome e pela peste; nenhum deles sobreviverá nem escapará da desgraça que farei cair sobre eles."},
+{v:18,t:"Pois assim diz o Senhor dos exércitos, o Deus de Israel: Assim como a minha ira e o meu furor se derramaram sobre os habitantes de Jerusalém, assim o meu furor se derramará sobre vós quando entrardes no Egito; e sereis objeto de execração, de espanto, de maldição e de insulto, e nunca mais vereis este lugar."},
+{v:19,t:"O Senhor vos disse, resto de Judá: Não entreis no Egito. Sabei bem que hoje vos adverti:",np:1},
+{v:20,t:"vós vos enganastes a vós mesmos. Pois me enviastes ao Senhor, vosso Deus, dizendo: Reza por nós ao Senhor, nosso Deus, e comunica-nos tudo o que o Senhor, nosso Deus, disser, e nós o faremos."},
+{v:21,t:"Hoje eu vos comuniquei, mas não obedecestes à voz do Senhor, vosso Deus, em nada daquilo que ele me mandou dizer-vos."},
+{v:22,t:"Agora, pois, sabei bem que morrereis pela espada, pela fome e pela peste no lugar para onde quisestes ir para morar como estrangeiros."}
+];
+
+window.TEXTOS_SEED["jeremias"][43] = [
+{s:"A fuga para o Egito"},
+{v:1,t:"Quando Jeremias acabou de dizer a todo o povo todas as palavras do Senhor, seu Deus, todas aquelas palavras que o Senhor, seu Deus, o tinha enviado para lhes dizer,"},
+{v:2,t:"Azarias, filho de Osaías, Joanã, filho de Caree, e todos aqueles homens insolentes disseram a Jeremias: Estás mentindo! O Senhor, nosso Deus, não te enviou para dizer: Não entreis no Egito para morar lá como estrangeiros;"},
+{v:3,t:"é Baruc, filho de Nerias, que te incita contra nós, para nos entregar nas mãos dos caldeus, para que nos matem ou nos deportem para a Babilônia."},
+{v:4,t:"Assim Joanã, filho de Caree, todos os chefes das tropas e todo o povo não obedeceram à voz do Senhor, que lhes mandava ficar na terra de Judá.",np:1},
+{v:5,t:"Joanã, filho de Caree, e todos os chefes das tropas tomaram todo o resto de Judá, os que tinham voltado de todas as nações por onde tinham sido dispersos, para morar na terra de Judá:"},
+{v:6,t:"homens, mulheres e crianças, as filhas do rei e todas as pessoas que Nabuzardã, chefe da guarda, tinha deixado com Godolias, filho de Aicam, filho de Safã, e também o profeta Jeremias e Baruc, filho de Nerias;"},
+{v:7,t:"e entraram na terra do Egito, pois não obedeceram à voz do Senhor, e chegaram a Táfnis.",n:"Táfnis: fortaleza egípcia na fronteira oriental do delta do Nilo."},
+{s:"Nabucodonosor no Egito"},
+{v:8,t:"Em Táfnis, a palavra do Senhor foi dirigida a Jeremias:"},
+{v:9,t:"Toma nas mãos pedras grandes e esconde-as na argamassa do pavimento que está à entrada do palácio do faraó, em Táfnis, à vista dos judeus;"},
+{v:10,t:"e dize-lhes: Assim diz o Senhor dos exércitos, o Deus de Israel: Eis que vou mandar buscar Nabucodonosor, rei da Babilônia, meu servo; porei o seu trono sobre estas pedras que escondi, e ele estenderá sobre elas o seu dossel real.",n:"Dossel real: palavra hebraica rara, de sentido incerto; a Nova Vulgata entende trono."},
+{v:11,t:"Ele virá e ferirá a terra do Egito: quem é para a morte, para a morte; quem é para o cativeiro, para o cativeiro; quem é para a espada, para a espada.",n:"Compare 15,2. Nabucodonosor invadiu o Egito em 568 antes de Cristo."},
+{v:12,t:"Porá fogo nos templos dos deuses do Egito, os queimará e levará os deuses cativos; sacudirá a terra do Egito como o pastor sacode o seu manto para tirar os piolhos, e sairá de lá em paz.",n:"Assim a Nova Vulgata; o hebraico pode também significar: se envolverá com a terra do Egito como o pastor se envolve no seu manto."},
+{v:13,t:"Quebrará as colunas sagradas do templo do Sol, na terra do Egito, e porá fogo nos templos dos deuses do Egito.",n:"O templo do Sol: em hebraico, Bet-Sames, isto é, Heliópolis, a cidade do Sol, famosa pelos seus obeliscos."}
+];

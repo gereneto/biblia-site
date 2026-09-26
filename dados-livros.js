@@ -49,6 +49,7 @@ window.LIVROS_SEED = {
   "sofonias":   { nome: "Sofonias",    grupo: "Livros Proféticos",  capitulos: 3 },
   "ageu":       { nome: "Ageu",        grupo: "Livros Proféticos",  capitulos: 2 },
   "zacarias":   { nome: "Zacarias",    grupo: "Livros Proféticos",  capitulos: 14 },
+  "malaquias":  { nome: "Malaquias",   grupo: "Livros Proféticos",  capitulos: 3 },
   "atos":       { nome: "Atos dos Apóstolos", grupo: "Novo Testamento", capitulos: 28 },
   "romanos":    { nome: "Romanos",     grupo: "Cartas de São Paulo", capitulos: 16 },
   "1corintios": { nome: "I Coríntios", grupo: "Cartas de São Paulo", capitulos: 16 },
@@ -77,7 +78,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {}, "eclesiastico": {}, "isaias": {}, "jeremias": {}, "lamentacoes": {}, "baruc": {}, "ezequiel": {}, "daniel": {}, "oseias": {}, "joel": {}, "amos": {}, "abdias": {}, "jonas": {}, "miqueias": {}, "naum": {}, "habacuc": {}, "sofonias": {}, "ageu": {}, "zacarias": {},
+  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {}, "eclesiastico": {}, "isaias": {}, "jeremias": {}, "lamentacoes": {}, "baruc": {}, "ezequiel": {}, "daniel": {}, "oseias": {}, "joel": {}, "amos": {}, "abdias": {}, "jonas": {}, "miqueias": {}, "naum": {}, "habacuc": {}, "sofonias": {}, "ageu": {}, "zacarias": {}, "malaquias": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},

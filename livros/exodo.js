@@ -1,0 +1,89 @@
+// =====================================================================
+// Êxodo — tradução dos originais (versificação: Nova Vulgata)
+// Formato: {s:"subtítulo"} abre trecho; {v,t,n} prosa; {v,l:[...]} verso;
+// np:1 marca início de parágrafo.
+// =====================================================================
+
+window.TEXTOS_SEED["exodo"][1] = [
+{s:"Os israelitas oprimidos no Egito"},
+{v:1,t:"Estes são os nomes dos filhos de Israel que foram para o Egito com Jacó, cada um com a sua família:",n:"O Êxodo retoma a história onde o Gênesis a deixou (Gênesis 46,8–27; 50,26). A família de setenta pessoas vai se tornar um povo, e o povo escravizado vai conhecer o nome do seu Deus."},
+{v:2,t:"Rúben, Simeão, Levi e Judá,"},
+{v:3,t:"Issacar, Zabulon e Benjamim,"},
+{v:4,t:"Dã e Neftali, Gad e Aser."},
+{v:5,t:"Os descendentes de Jacó eram, ao todo, setenta pessoas; José já estava no Egito."},
+{v:6,t:"José morreu, e também todos os seus irmãos e toda aquela geração;"},
+{v:7,t:"mas os filhos de Israel foram fecundos, multiplicaram-se, cresceram e se tornaram muito poderosos, e a terra ficou cheia deles.",n:"Eco da bênção da criação: sede fecundos, multiplicai-vos e enchei a terra (Gênesis 1,28)."},
+{v:8,t:"Subiu ao trono do Egito um novo rei, que não tinha conhecido José.",np:1},
+{v:9,t:"Ele disse ao seu povo: Vede: o povo dos filhos de Israel é mais numeroso e mais forte do que nós."},
+{v:10,t:"Vamos agir com astúcia contra ele, para que não se multiplique mais; do contrário, em caso de guerra, pode aliar-se aos nossos inimigos, combater contra nós e sair do país.",np:1},
+{v:11,t:"Puseram sobre eles capatazes, para oprimi-los com trabalhos forçados; e eles construíram para o faraó as cidades-armazéns de Pitom e Ramessés.",n:"Ramessés: provavelmente a cidade de Ramsés II, no século XIII antes de Cristo, o faraó sob o qual muitos situam o Êxodo."},
+{v:12,t:"Mas, quanto mais os oprimiam, tanto mais eles se multiplicavam e cresciam.",np:1},
+{v:13,t:"Os egípcios passaram a ter medo dos filhos de Israel e os reduziram à escravidão"},
+{v:14,t:"e lhes amarguravam a vida com trabalhos pesados de barro e de tijolos e com toda espécie de trabalhos no campo, a que os obrigavam com dureza."},
+{v:15,t:"O rei do Egito falou também às parteiras dos hebreus, uma das quais se chamava Sefra, e a outra Fua,",np:1},
+{v:16,t:"e lhes ordenou: Quando assistirdes as mulheres hebreias no parto, observai: se for menino, matai-o; se for menina, deixai-a viver."},
+{v:17,t:"Mas as parteiras temiam a Deus e não fizeram o que o rei do Egito lhes tinha ordenado: deixavam viver os meninos.",n:"Primeira desobediência civil da Bíblia: duas mulheres, cujos nomes o texto guarda, enquanto o faraó fica sem nome."},
+{v:18,t:"O rei do Egito chamou as parteiras e lhes disse: Por que fizestes isso, deixando viver os meninos?"},
+{v:19,t:"As parteiras responderam ao faraó: As mulheres hebreias não são como as egípcias: são robustas e dão à luz antes que a parteira chegue.",np:1},
+{v:20,t:"Deus fez bem às parteiras; e o povo se multiplicou e se tornou muito forte."},
+{v:21,t:"E, porque as parteiras temeram a Deus, ele lhes deu uma família."},
+{v:22,t:"Então o faraó deu esta ordem a todo o seu povo: Todo menino que nascer, lançai-o ao Rio; mas deixai viver todas as meninas.",np:1,n:"O Rio: o Nilo. Mateus verá um eco deste relato na matança dos inocentes por Herodes (Mateus 2,16)."}
+];
+
+window.TEXTOS_SEED["exodo"][2] = [
+{s:"O nascimento de Moisés"},
+{v:1,t:"Um homem da casa de Levi foi tomar por mulher uma filha de Levi."},
+{v:2,t:"Ela concebeu e deu à luz um filho; e, vendo que era bonito, escondeu-o durante três meses."},
+{v:3,t:"Quando não pôde mais escondê-lo, tomou um cesto de papiro, vedou-o com betume e piche, pôs dentro o menino e o colocou entre os juncos, à beira do Rio,",np:1,n:"Cesto: a mesma palavra hebraica da arca de Noé (Gênesis 6,14); outra vez uma caixa vedada com betume salva a vida sobre as águas."},
+{v:4,t:"enquanto a irmã do menino ficava de longe, para ver o que lhe aconteceria."},
+{v:5,t:"Nisso a filha do faraó desceu para se banhar no Rio, enquanto as suas criadas andavam pela margem. Ela viu o cesto no meio do juncal e mandou uma das suas servas buscá-lo.",np:1},
+{v:6,t:"Abriu-o e viu a criança: era um menino que chorava. Teve pena dele e disse: É um dos filhos dos hebreus."},
+{v:7,t:"A irmã do menino disse à filha do faraó: Queres que eu vá chamar uma ama entre as mulheres hebreias, para que te amamente o menino?"},
+{v:8,t:"A filha do faraó respondeu: Vai. E a moça foi chamar a mãe do menino."},
+{v:9,t:"A filha do faraó lhe disse: Leva este menino e amamenta-o para mim; eu te pagarei o teu salário. A mulher tomou o menino e o amamentou; e, quando ele cresceu, levou-o à filha do faraó."},
+{v:10,t:"Ela o adotou como filho e lhe deu o nome de Moisés, dizendo: Eu o tirei das águas.",n:"Moisés é um nome egípcio, que significa filho, como em Ramsés, filho de Rá; o texto o aproxima do verbo hebraico mashah, tirar das águas."},
+{s:"Moisés foge para Madiã"},
+{v:11,t:"Naqueles dias, quando Moisés já era adulto, saiu para ver os seus irmãos e viu os trabalhos pesados que faziam; viu também um egípcio que batia num hebreu, um dos seus irmãos."},
+{v:12,t:"Olhou para um lado e para o outro e, vendo que não havia ninguém, matou o egípcio e o escondeu na areia.",n:"Nota do tradutor: o narrador não aprova nem condena o gesto de Moisés; o texto não foi suavizado. Estêvão o interpreta como uma primeira tentativa, incompreendida, de libertar os irmãos (Atos 7,23–29)."},
+{v:13,t:"No dia seguinte, saiu de novo e viu dois hebreus brigando; e disse ao que estava errado: Por que bates no teu companheiro?"},
+{v:14,t:"Ele respondeu: Quem te constituiu chefe e juiz sobre nós? Queres matar-me, como mataste o egípcio? Moisés ficou com medo e pensou: Com certeza o caso se tornou conhecido."},
+{v:15,t:"O faraó soube do caso e procurou matar Moisés. Moisés fugiu da presença do faraó e foi morar na terra de Madiã; chegando à terra de Madiã, sentou-se junto a um poço.",np:1},
+{v:16,t:"O sacerdote de Madiã tinha sete filhas, que vieram tirar água e encheram os bebedouros para dar de beber ao rebanho de seu pai."},
+{v:17,t:"Chegaram uns pastores e as expulsaram; mas Moisés se levantou, defendeu as moças e deu de beber ao rebanho delas.",np:1,n:"Encontro junto a um poço, como o do servo de Abraão com Rebeca (Gênesis 24) e o de Jacó com Raquel (Gênesis 29): o leitor já sabe como a história termina."},
+{v:18,t:"Quando voltaram para junto de Raguel, seu pai, ele lhes perguntou: Por que voltastes hoje tão cedo?",n:"Raguel: o sogro de Moisés é chamado também Jetro (3,1) e Hobab (Juízes 4,11; compare Números 10,29): tradições diferentes."},
+{v:19,t:"Responderam: Um egípcio nos defendeu dos pastores; e ainda tirou água para nós e deu de beber ao rebanho."},
+{v:20,t:"Ele disse às filhas: E onde está ele? Por que deixastes ir embora esse homem? Chamai-o para comer conosco."},
+{v:21,t:"Moisés aceitou morar com aquele homem, que lhe deu por mulher sua filha Séfora."},
+{v:22,t:"Ela deu à luz um filho, a quem Moisés chamou Gersam, porque dizia: Sou um estrangeiro em terra estranha.",n:"Gersam soa em hebraico como estrangeiro ali."},
+{s:"Deus ouve o clamor do seu povo"},
+{v:23,t:"Muito tempo depois, o rei do Egito morreu. Os filhos de Israel gemiam por causa da escravidão e clamavam; e do fundo da sua escravidão o seu clamor subiu até Deus."},
+{v:24,t:"Deus ouviu os seus gemidos e se lembrou da sua aliança com Abraão, com Isaac e com Jacó."},
+{v:25,t:"O Senhor olhou para os filhos de Israel e se manifestou a eles.",n:"E se manifestou a eles: assim a Nova Vulgata, com a tradução grega; o hebraico diz: e Deus tomou conhecimento."}
+];
+
+window.TEXTOS_SEED["exodo"][3] = [
+{s:"A sarça ardente"},
+{v:1,t:"Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Madiã. Levou o rebanho para além do deserto e chegou ao Horeb, a montanha de Deus.",n:"O Horeb é outro nome do Sinai, o monte da aliança."},
+{v:2,t:"O anjo do Senhor lhe apareceu numa chama de fogo, do meio de uma sarça. Moisés olhou: a sarça ardia no fogo, mas não se consumia."},
+{v:3,t:"Moisés disse: Vou aproximar-me para ver este grande espetáculo: por que a sarça não se consome?",np:1},
+{v:4,t:"O Senhor viu que ele se aproximava para ver; e Deus o chamou do meio da sarça: Moisés, Moisés! Ele respondeu: Aqui estou."},
+{v:5,t:"Deus disse: Não te aproximes daqui; tira as sandálias dos pés, porque o lugar onde estás é terra santa."},
+{v:6,t:"E acrescentou: Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó. Moisés cobriu o rosto, porque tinha medo de olhar para Deus.",n:"Jesus cita estas palavras para mostrar que Deus é Deus dos vivos (Marcos 12,26–27)."},
+{v:7,t:"O Senhor disse: Eu vi a aflição do meu povo no Egito e ouvi o seu clamor por causa da dureza dos seus opressores.",np:1},
+{v:8,t:"Conheço os seus sofrimentos; por isso desci para libertá-lo das mãos dos egípcios e fazê-lo subir daquela terra para uma terra boa e espaçosa, uma terra onde corre leite e mel, o território dos cananeus, dos heteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus.",n:"Terra onde corre leite e mel: imagem de fartura para pastores, que viviam do rebanho e do mel silvestre."},
+{v:9,t:"Agora, o clamor dos filhos de Israel chegou até mim, e eu vi a opressão com que os egípcios os oprimem;"},
+{v:10,t:"vai, pois; eu te envio ao faraó, para que tires do Egito o meu povo, os filhos de Israel."},
+{v:11,t:"Moisés disse a Deus: Quem sou eu para ir ao faraó e tirar do Egito os filhos de Israel?"},
+{v:12,t:"Deus respondeu: Eu estarei contigo; e este será para ti o sinal de que sou eu que te envio: quando tiveres tirado o povo do Egito, servireis a Deus sobre esta montanha."},
+{s:"O nome de Deus"},
+{v:13,t:"Moisés disse a Deus: Quando eu for aos filhos de Israel e lhes disser: O Deus de vossos pais me enviou a vós, e eles me perguntarem qual é o seu nome, que lhes direi?"},
+{v:14,t:"Deus disse a Moisés: Eu sou aquele que sou. E acrescentou: Assim dirás aos filhos de Israel: Eu Sou me enviou a vós.",n:"Eu sou aquele que sou: assim a Nova Vulgata, com a tradução grega. O hebraico ehyeh asher ehyeh pode querer dizer também eu serei o que serei, ou eu sou aquele que estará convosco (compare 3,12). O nome divino YHWH, que vem do mesmo verbo ser, não era pronunciado pelos judeus por respeito; em seu lugar se dizia Senhor, e é assim que esta tradução o traz."},
+{v:15,t:"Deus disse ainda a Moisés: Assim dirás aos filhos de Israel: O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós. Este é o meu nome para sempre, e assim serei lembrado de geração em geração."},
+{v:16,t:"Vai, reúne os anciãos de Israel e dize-lhes: O Senhor, o Deus de vossos pais, o Deus de Abraão, de Isaac e de Jacó, apareceu-me e disse: Eu vos visitei e vi o que vos fazem no Egito;"},
+{v:17,t:"e decidi tirar-vos da aflição do Egito e levar-vos para a terra dos cananeus, dos heteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus, uma terra onde corre leite e mel."},
+{v:18,t:"Eles ouvirão a tua voz; e tu irás com os anciãos de Israel ao rei do Egito, e lhe direis: O Senhor, o Deus dos hebreus, veio ao nosso encontro; deixa-nos, pois, ir ao deserto, a três dias de caminho, para oferecer sacrifícios ao Senhor, nosso Deus."},
+{v:19,t:"Mas eu sei que o rei do Egito não vos deixará ir, a não ser forçado por uma mão poderosa.",np:1},
+{v:20,t:"Por isso estenderei a minha mão e ferirei o Egito com todos os prodígios que farei no meio dele; depois disso, ele vos deixará ir."},
+{v:21,t:"Farei que este povo encontre favor aos olhos dos egípcios; e, quando partirdes, não saireis de mãos vazias.",np:1},
+{v:22,t:"Cada mulher pedirá à sua vizinha e à hóspede da sua casa objetos de prata e de ouro e roupas; e vós os poreis nos vossos filhos e nas vossas filhas, e assim despojareis os egípcios.",n:"Os escravos não sairão de mãos vazias: é o salário de anos de trabalho forçado (compare Deuteronômio 15,13–14)."}
+];

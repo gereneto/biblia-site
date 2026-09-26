@@ -902,3 +902,57 @@ window.TEXTOS_SEED["ezequiel"][29] = [
 {v:20,t:"a paga pelo trabalho que fez contra ela. Eu lhe dou a terra do Egito, porque trabalharam para mim, oráculo do Senhor Deus."},
 {v:21,t:"Naquele dia farei brotar um chifre para a casa de Israel e abrirei a tua boca no meio deles; e saberão que eu sou o Senhor.",n:"O chifre: símbolo de força; talvez um anúncio messiânico (compare Salmo 132,17)."}
 ];
+
+window.TEXTOS_SEED["ezequiel"][30] = [
+{s:"O dia do Senhor contra o Egito"},
+{v:1,t:"A palavra do Senhor me foi dirigida:"},
+{v:2,l:["Filho do homem, profetiza e dize: Assim diz o Senhor Deus:","Gemei: Ai daquele dia!"]},
+{v:3,l:["Pois está perto o dia,","aproxima-se o dia do Senhor,","dia de nuvens; será o tempo das nações."],np:1},
+{v:4,l:["A espada virá contra o Egito,","e haverá terror na Etiópia,","quando caírem os feridos no Egito,","quando levarem as suas riquezas","e forem destruídos os seus alicerces."],np:1},
+{v:5,l:["A Etiópia, Fut e Lud, toda a gente de raças misturadas,","Cub e os filhos da terra da aliança","cairão com eles pela espada."],np:1,n:"Povos aliados ou mercenários do Egito; Cub é desconhecido, e os filhos da terra da aliança são talvez os judeus refugiados no Egito."},
+{v:6,l:["Assim diz o Senhor Deus:","Cairão os que apoiam o Egito,","e o orgulho do seu poder será abatido;","desde Magdol até Siene cairão pela espada,","oráculo do Senhor Deus."],np:1},
+{v:7,t:"Serão devastados no meio dos países desolados, e as suas cidades estarão no meio das cidades desertas;",np:1},
+{v:8,t:"e saberão que eu sou o Senhor, quando eu puser fogo no Egito e todos os que o ajudam forem esmagados."},
+{v:9,t:"Naquele dia sairão mensageiros da minha parte, em navios, para aterrorizar a Etiópia confiante; e haverá entre eles terror no dia do Egito; pois eis que ele vem.",np:1},
+{v:10,t:"Assim diz o Senhor Deus: Farei cessar a multidão do Egito pela mão de Nabucodonosor, rei da Babilônia.",np:1},
+{v:11,t:"Ele e o seu povo com ele, os mais violentos das nações, serão trazidos para destruir a terra; desembainharão as espadas contra o Egito e encherão a terra de mortos."},
+{v:12,t:"Secarei os canais do Nilo e entregarei a terra nas mãos de homens maus; devastarei a terra e tudo o que ela contém pela mão de estrangeiros. Eu, o Senhor, falei."},
+{v:13,l:["Assim diz o Senhor Deus:","Destruirei os ídolos","e farei desaparecer de Mênfis os falsos deuses;","não haverá mais príncipe","na terra do Egito,","e espalharei o terror na terra do Egito."],np:1},
+{v:14,l:["Devastarei a terra de Patros,","porei fogo em Tânis","e executarei os meus julgamentos em Nô."],np:1},
+{v:15,t:"Derramarei o meu furor sobre Sin, a fortaleza do Egito, e exterminarei a multidão de Nô.",np:1,n:"Sin: Pelúsio, fortaleza na fronteira oriental do Egito; Nô é Tebas (compare Jeremias 46,25)."},
+{v:16,t:"Porei fogo no Egito; Sin se contorcerá de dor como a mulher que dá à luz, Nô será arrombada, e Mênfis terá inimigos em pleno dia."},
+{v:17,t:"Os jovens de Heliópolis e de Bubástis cairão pela espada, e as próprias cidades irão para o cativeiro."},
+{v:18,t:"Em Táfnis o dia escurecerá, quando eu quebrar ali os cetros do Egito e acabar nela o orgulho do seu poder; uma nuvem a cobrirá, e as suas filhas irão para o cativeiro."},
+{v:19,t:"Executarei os meus julgamentos no Egito, e saberão que eu sou o Senhor."},
+{s:"O braço quebrado do faraó"},
+{v:20,t:"No décimo primeiro ano, no primeiro mês, no dia sete do mês, a palavra do Senhor me foi dirigida:",n:"Em abril de 587 antes de Cristo, depois do fracasso do exército egípcio que tentara socorrer Jerusalém (Jeremias 37,5–11)."},
+{v:21,t:"Filho do homem, quebrei o braço do faraó, rei do Egito, e eis que não foi enfaixado para ser curado, nem envolvido em ataduras e faixas, para que recobre a força e possa empunhar a espada."},
+{v:22,t:"Por isso assim diz o Senhor Deus: Eis que estou contra o faraó, rei do Egito; quebrarei os seus braços, o que está forte e o que já está quebrado, e farei cair a espada da sua mão."},
+{v:23,t:"Dispersarei os egípcios entre as nações e os espalharei pelos países."},
+{v:24,t:"Fortalecerei os braços do rei da Babilônia e porei a minha espada na sua mão; mas quebrarei os braços do faraó, e ele gemerá diante dele como gemem os feridos de morte.",np:1},
+{v:25,t:"Fortalecerei os braços do rei da Babilônia, e os braços do faraó cairão; e saberão que eu sou o Senhor, quando puser a minha espada na mão do rei da Babilônia e ele a estender contra a terra do Egito."},
+{v:26,t:"Dispersarei os egípcios entre as nações e os espalharei pelos países; e saberão que eu sou o Senhor."}
+];
+
+window.TEXTOS_SEED["ezequiel"][31] = [
+{s:"O faraó, cedro gigantesco"},
+{v:1,t:"No décimo primeiro ano, no terceiro mês, no primeiro dia do mês, a palavra do Senhor me foi dirigida:",n:"Em junho de 587 antes de Cristo."},
+{v:2,l:["Filho do homem, dize ao faraó, rei do Egito, e à sua multidão:","A quem és semelhante na tua grandeza?"]},
+{v:3,l:["Eis um abeto, como um cedro do Líbano,","de belos ramos e de folhagem espessa,","de grande altura,","e a sua copa se elevava entre as nuvens;"],np:1,n:"Um abeto: assim a Nova Vulgata, com uma leitura do hebraico; o texto tradicional diz: a Assíria era um cedro no Líbano."},
+{v:4,l:["as águas o fizeram crescer,","o abismo o elevou;","os seus rios corriam","ao redor das suas raízes,","e ele enviava os seus canais","a todas as árvores do campo."],np:1},
+{v:5,l:["Por isso a sua altura se elevou","acima de todas as árvores do campo;","os seus galhos se multiplicaram,","e os seus ramos se estenderam","por causa das águas abundantes."],np:1},
+{v:6,l:["Quando estendia a sua sombra,","todas as aves do céu","faziam ninho nos seus ramos,","todos os animais do campo","davam cria debaixo da sua folhagem,","e à sua sombra habitava","a multidão de todas as nações;"],np:1},
+{v:7,l:["era belíssimo na sua grandeza","e na extensão dos seus ramos,","pois a sua raiz estava","junto de águas abundantes."],np:1},
+{v:8,l:["Os cedros não o igualavam","no jardim de Deus;","os abetos não se comparavam","aos seus ramos,","e os plátanos não eram","como a sua folhagem;","nenhuma árvore do jardim de Deus","se lhe assemelhava na beleza,"],np:1},
+{v:9,l:["pois eu o tinha feito belo,","com a sua folhagem abundante e espessa,","e todas as árvores do Éden,","que estavam no jardim de Deus, lhe tinham inveja."],np:1},
+{s:"A queda do cedro"},
+{v:10,t:"Por isso assim diz o Senhor Deus: Porque se elevou na sua altura, levantou a sua copa até as nuvens e o seu coração se exaltou com a sua altura,"},
+{v:11,t:"eu o entregarei nas mãos do mais poderoso das nações, que o tratará como merece: por causa da sua impiedade eu o expulsei."},
+{v:12,t:"Estrangeiros, os mais violentos das nações, o cortarão e o abandonarão sobre os montes; os seus ramos cairão em todos os vales, e os seus galhos se quebrarão em todas as ravinas da terra; todos os povos da terra se retirarão da sua sombra e o abandonarão."},
+{v:13,l:["Sobre as suas ruínas habitarão","todas as aves do céu,","e nos seus ramos estarão","todos os animais do campo,"],np:1},
+{v:14,l:["para que nenhuma das árvores junto às águas se eleve na sua altura,","nem levante a sua copa entre as nuvens,","e para que nenhuma das que bebem água","se mantenha de pé na sua altura; pois","todas foram entregues à morte,","às profundezas da terra,","no meio dos filhos dos homens,","com os que descem à cova."],np:1},
+{v:15,t:"Assim diz o Senhor Deus: No dia em que ele desceu à morada dos mortos, mandei o luto, cobri por causa dele o abismo, detive os seus rios, e as águas abundantes pararam; cobri de luto o Líbano por causa dele, e todas as árvores do campo desfaleceram.",np:1},
+{v:16,t:"Com o estrondo da sua queda fiz tremer as nações, quando o fiz descer à morada dos mortos com os que descem à cova; e todas as árvores do Éden, as melhores e mais belas do Líbano, todas as que bebiam água, se consolaram nas profundezas da terra."},
+{v:17,t:"Pois também elas desceram com ele à morada dos mortos, para junto dos que foram mortos à espada, com os que o apoiavam e habitavam à sua sombra no meio das nações.",np:1},
+{v:18,t:"A quem és semelhante, tu, tão glorioso e tão alto entre as árvores do Éden? Eis que foste precipitado, com as árvores do Éden, às profundezas da terra; jazerás no meio dos incircuncisos, com os que foram mortos à espada. Este é o faraó com toda a sua multidão, oráculo do Senhor Deus.",np:1}
+];

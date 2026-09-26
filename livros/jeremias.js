@@ -782,3 +782,58 @@ window.TEXTOS_SEED["jeremias"][25] = [
 {v:37,l:["As pastagens tranquilas estão em silêncio,","diante da ira ardente do Senhor."],np:1},
 {v:38,l:["Como o leão, ele deixou a sua toca,","pois a terra deles se tornou uma desolação","diante da ira devastadora","e diante da ira ardente do Senhor."],np:1}
 ];
+
+window.TEXTOS_SEED["jeremias"][26] = [
+{s:"Jeremias ameaçado de morte"},
+{v:1,t:"No início do reinado de Joaquim, filho de Josias, rei de Judá, o Senhor dirigiu esta palavra:",n:"Em 609 antes de Cristo. O discurso aqui resumido está em 7,1–15."},
+{v:2,t:"Assim diz o Senhor: Põe-te no átrio da casa do Senhor e fala a todas as cidades de Judá que vêm adorar na casa do Senhor todas as palavras que eu te mandar dizer-lhes; não omitas nenhuma palavra."},
+{v:3,t:"Talvez escutem e se convertam, cada um do seu mau caminho; então eu me arrependerei do mal que penso fazer-lhes por causa da maldade das suas ações."},
+{v:4,t:"Tu lhes dirás: Assim diz o Senhor: Se não me escutardes, andando na minha lei, que pus diante de vós,"},
+{v:5,t:"e escutando as palavras dos meus servos, os profetas, que vos envio sem cessar, e que vós não escutastes,"},
+{v:6,t:"farei desta casa o que fiz a Silo, e desta cidade uma maldição para todas as nações da terra."},
+{v:7,t:"Os sacerdotes, os profetas e todo o povo ouviram Jeremias dizer estas palavras na casa do Senhor.",np:1},
+{v:8,t:"Quando Jeremias acabou de dizer tudo o que o Senhor lhe tinha mandado dizer a todo o povo, os sacerdotes, os profetas e todo o povo o agarraram, dizendo: Vais morrer!"},
+{v:9,t:"Por que profetizaste em nome do Senhor, dizendo: Esta casa será como Silo, e esta cidade ficará arruinada e sem habitantes? E todo o povo se aglomerou em torno de Jeremias na casa do Senhor."},
+{v:10,t:"Quando os chefes de Judá ouviram estas coisas, subiram do palácio do rei à casa do Senhor e se sentaram à entrada da porta Nova da casa do Senhor."},
+{v:11,t:"Então os sacerdotes e os profetas disseram aos chefes e a todo o povo: Este homem merece a morte, pois profetizou contra esta cidade, como ouvistes com os vossos ouvidos."},
+{v:12,t:"Jeremias falou a todos os chefes e a todo o povo: Foi o Senhor que me enviou para profetizar contra esta casa e contra esta cidade todas as palavras que ouvistes."},
+{v:13,t:"Agora, pois, endireitai os vossos caminhos e as vossas ações e escutai a voz do Senhor, vosso Deus, e o Senhor se arrependerá do mal que anunciou contra vós."},
+{v:14,t:"Quanto a mim, eis que estou nas vossas mãos; fazei comigo o que vos parecer bom e justo."},
+{v:15,t:"Mas sabei bem que, se me matardes, fareis cair sangue inocente sobre vós, sobre esta cidade e sobre os seus habitantes; pois na verdade foi o Senhor que me enviou a vós, para vos dizer aos ouvidos todas estas palavras."},
+{v:16,t:"Então os chefes e todo o povo disseram aos sacerdotes e aos profetas: Este homem não merece a morte, pois nos falou em nome do Senhor, nosso Deus.",np:1},
+{v:17,t:"Alguns dos anciãos da terra se levantaram e disseram a toda a assembleia do povo:",np:1},
+{v:18,l:["Miqueias de Morasti profetizou no tempo de Ezequias, rei de Judá, e disse a todo o povo de Judá: Assim diz o Senhor dos exércitos:","Sião será arada como um campo,","Jerusalém se tornará um monte de ruínas,","e o monte do templo, um alto coberto de mato."],n:"Miqueias 3,12."},
+{v:19,t:"Acaso Ezequias, rei de Judá, e todo Judá o mataram? Não temeram eles o Senhor e não aplacaram o Senhor, e o Senhor se arrependeu do mal que tinha anunciado contra eles? E nós estamos para fazer um grande mal contra nós mesmos!",np:1},
+{s:"A morte do profeta Urias"},
+{v:20,t:"Houve também outro homem que profetizava em nome do Senhor, Urias, filho de Semeías, de Cariat-Iarim; ele profetizou contra esta cidade e contra esta terra, com palavras semelhantes às de Jeremias."},
+{v:21,t:"O rei Joaquim, todos os seus guerreiros e todos os seus chefes ouviram as suas palavras, e o rei procurou matá-lo; mas Urias soube disso, teve medo, fugiu e foi para o Egito."},
+{v:22,t:"Então o rei Joaquim mandou homens ao Egito: Elnatã, filho de Acobor, e outros com ele."},
+{v:23,t:"Eles tiraram Urias do Egito e o levaram ao rei Joaquim, que o mandou matar à espada e jogar o seu cadáver na vala comum."},
+{v:24,t:"Mas Aicam, filho de Safã, protegeu Jeremias, para que não fosse entregue nas mãos do povo e morto."}
+];
+
+window.TEXTOS_SEED["jeremias"][27] = [
+{s:"O jugo da Babilônia"},
+{v:1,t:"No início do reinado de Sedecias, filho de Josias, rei de Judá, o Senhor dirigiu esta palavra a Jeremias:",n:"Sedecias: assim a Nova Vulgata, com alguns manuscritos e a versão siríaca; o texto hebraico tradicional diz Joaquim, mas o contexto (vv. 3.12) fala de Sedecias. Por volta de 594 antes de Cristo."},
+{v:2,t:"Assim me disse o Senhor: Faze para ti correias e cangas e põe-nas no pescoço,"},
+{v:3,t:"e manda-as ao rei de Edom, ao rei de Moab, ao rei dos amonitas, ao rei de Tiro e ao rei de Sidônia, por meio dos mensageiros que vieram a Jerusalém ter com Sedecias, rei de Judá;"},
+{v:4,t:"e dá-lhes esta ordem para os seus senhores: Assim diz o Senhor dos exércitos, o Deus de Israel: Assim direis aos vossos senhores:"},
+{v:5,t:"Eu fiz a terra, os homens e os animais que estão sobre a face da terra, com o meu grande poder e o meu braço estendido, e a dou a quem me parece bem."},
+{v:6,t:"Agora entreguei todas estas terras nas mãos de Nabucodonosor, rei da Babilônia, meu servo; dei-lhe até os animais do campo, para que o sirvam."},
+{v:7,t:"Todas as nações o servirão, a ele, ao seu filho e ao filho do seu filho, até que chegue também a hora da sua terra; então nações numerosas e grandes reis o submeterão à servidão."},
+{v:8,t:"Mas a nação e o reino que não servir Nabucodonosor, rei da Babilônia, e não puser o pescoço sob o jugo do rei da Babilônia, eu castigarei essa nação com a espada, a fome e a peste, oráculo do Senhor, até exterminá-la por meio dele."},
+{v:9,t:"Quanto a vós, não escuteis os vossos profetas, os vossos adivinhos, os vossos sonhadores, os vossos astrólogos e os vossos feiticeiros, que vos dizem: Não servireis o rei da Babilônia;",np:1},
+{v:10,t:"pois eles vos profetizam mentiras, para vos levar para longe da vossa terra; eu vos expulsarei, e perecereis."},
+{v:11,t:"Mas a nação que puser o pescoço sob o jugo do rei da Babilônia e o servir, eu a deixarei na sua terra, oráculo do Senhor; ela a cultivará e nela habitará."},
+{v:12,t:"A Sedecias, rei de Judá, falei do mesmo modo: Ponde o pescoço sob o jugo do rei da Babilônia, servi-o, a ele e ao seu povo, e vivereis.",np:1},
+{v:13,t:"Por que haveríeis de morrer, tu e o teu povo, pela espada, pela fome e pela peste, como o Senhor anunciou contra a nação que não quiser servir o rei da Babilônia?"},
+{v:14,t:"Não escuteis as palavras dos profetas que vos dizem: Não servireis o rei da Babilônia; pois eles vos profetizam mentiras."},
+{v:15,t:"Eu não os enviei, oráculo do Senhor; eles profetizam mentiras em meu nome, para que eu vos expulse e pereçais, vós e os profetas que vos profetizam."},
+{v:16,t:"Aos sacerdotes e a todo este povo falei assim: Assim diz o Senhor: Não escuteis as palavras dos vossos profetas, que vos profetizam, dizendo: Eis que os utensílios da casa do Senhor serão logo trazidos de volta da Babilônia; pois eles vos profetizam mentiras.",np:1},
+{v:17,t:"Não os escuteis; servi o rei da Babilônia, e vivereis. Por que esta cidade haveria de se tornar uma ruína?"},
+{v:18,t:"Se são profetas e se a palavra do Senhor está com eles, que intercedam junto ao Senhor dos exércitos, para que os utensílios que ficaram na casa do Senhor, no palácio do rei de Judá e em Jerusalém não sejam levados para a Babilônia."},
+{v:19,t:"Pois assim diz o Senhor dos exércitos a respeito das colunas, do mar, das bases e dos outros utensílios que ficaram nesta cidade,",n:"O mar: a grande bacia de bronze do templo (1 Reis 7,23–26)."},
+{v:20,t:"que Nabucodonosor, rei da Babilônia, não levou quando deportou de Jerusalém para a Babilônia Jeconias, filho de Joaquim, rei de Judá, com todos os nobres de Judá e de Jerusalém;"},
+{v:21,t:"assim diz o Senhor dos exércitos, o Deus de Israel, a respeito dos utensílios que ficaram na casa do Senhor, no palácio do rei de Judá e em Jerusalém:"},
+{v:22,t:"Serão levados para a Babilônia e lá ficarão até o dia em que eu os visitar, oráculo do Senhor; então os farei trazer de volta e restituir a este lugar.",n:"Compare Esdras 1,7–11."}
+];

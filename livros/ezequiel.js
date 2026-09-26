@@ -126,3 +126,55 @@ window.TEXTOS_SEED["ezequiel"][5] = [
 {v:16,t:"Eu, o Senhor, falei. Quando eu lançar contra vós as flechas terríveis da fome, que trazem a morte, e que lançarei para vos destruir, aumentarei a fome sobre vós e quebrarei o sustento do pão;"},
 {v:17,t:"mandarei contra vós a fome e as feras, que te deixarão sem filhos; a peste e o sangue passarão por ti, e farei vir a espada sobre ti. Eu, o Senhor, falei."}
 ];
+
+window.TEXTOS_SEED["ezequiel"][6] = [
+{s:"Contra os montes de Israel"},
+{v:1,t:"A palavra do Senhor me foi dirigida:"},
+{v:2,t:"Filho do homem, volta o rosto para os montes de Israel e profetiza contra eles."},
+{v:3,t:"Dize: Montes de Israel, ouvi a palavra do Senhor Deus. Assim diz o Senhor Deus aos montes e às colinas, às ravinas e aos vales: Eis que vou fazer vir sobre vós a espada e destruirei os vossos lugares altos;"},
+{v:4,t:"os vossos altares serão demolidos, os vossos altares de incenso serão quebrados, e farei cair os vossos mortos diante dos vossos ídolos.",n:"Ídolos: em hebraico, gillulim, termo de desprezo muito usado por Ezequiel, talvez ligado a bolotas de esterco."},
+{v:5,t:"Porei os cadáveres dos filhos de Israel diante dos seus ídolos e espalharei os vossos ossos ao redor dos vossos altares."},
+{v:6,t:"Em todos os lugares onde morais, as cidades ficarão desertas e os lugares altos serão demolidos, para que os vossos altares sejam arrasados e destruídos, os vossos ídolos quebrados e eliminados, os vossos altares de incenso despedaçados e as vossas obras apagadas."},
+{v:7,t:"Os mortos cairão no meio de vós, e sabereis que eu sou o Senhor."},
+{v:8,t:"Mas deixarei entre vós alguns que escaparão da espada entre as nações, quando eu vos dispersar pelos países;",np:1},
+{v:9,t:"e os vossos sobreviventes se lembrarão de mim entre as nações para onde tiverem sido levados cativos, porque eu quebrarei o seu coração adúltero, que se afastou de mim, e os seus olhos, que se prostituíram atrás dos seus ídolos; e terão nojo de si mesmos por causa das maldades que cometeram com todas as suas abominações,"},
+{v:10,t:"e saberão que eu, o Senhor, não falei em vão, quando disse que lhes faria este mal."},
+{s:"Lamento sobre as abominações"},
+{v:11,t:"Assim diz o Senhor Deus: Bate palmas, bate com o pé e dize: Ai de todas as horríveis abominações da casa de Israel, que cairá pela espada, pela fome e pela peste!"},
+{v:12,t:"Quem estiver longe morrerá de peste; quem estiver perto cairá pela espada; e quem sobreviver e estiver sitiado morrerá de fome; assim esgotarei neles o meu furor."},
+{v:13,t:"E sabereis que eu sou o Senhor, quando os seus mortos jazerem no meio dos seus ídolos, ao redor dos seus altares, em toda colina elevada, em todos os cumes dos montes, debaixo de toda árvore frondosa e de todo carvalho copado, lugares onde ofereciam incenso perfumado a todos os seus ídolos."},
+{v:14,t:"Estenderei a minha mão contra eles e farei da terra uma desolação e um deserto, desde o deserto até Rebla, em todos os lugares onde moram; e saberão que eu sou o Senhor.",n:"Rebla: assim a Nova Vulgata, com alguns manuscritos; o hebraico diz Dibla. O deserto fica no extremo sul, e Rebla, no extremo norte."}
+];
+
+window.TEXTOS_SEED["ezequiel"][7] = [
+{s:"O fim chegou"},
+{v:1,t:"A palavra do Senhor me foi dirigida:"},
+{v:2,t:"E tu, filho do homem, fala. Assim diz o Senhor Deus à terra de Israel: O fim! Chegou o fim sobre os quatro cantos da terra!"},
+{v:3,t:"Agora o fim está sobre ti: lançarei contra ti a minha ira, eu te julgarei segundo os teus caminhos e farei cair sobre ti todas as tuas abominações."},
+{v:4,t:"O meu olho não terá piedade de ti, e não terei compaixão; mas farei cair sobre ti os teus caminhos, e as tuas abominações estarão no meio de ti; e sabereis que eu sou o Senhor.",np:1},
+{v:5,t:"Assim diz o Senhor Deus: Eis que vem desgraça após desgraça.",np:1},
+{v:6,t:"Chegou o fim, chegou o fim; ele despertou contra ti; eis que chegou.",n:"No hebraico, jogo de palavras entre o fim (qets) e despertar (heqits)."},
+{v:7,t:"Chegou para ti a ruína, habitante da terra; chegou o tempo, está perto o dia do tumulto, e não dos gritos de alegria nos montes.",n:"A ruína: palavra hebraica de sentido incerto."},
+{v:8,t:"Agora, bem depressa, derramarei sobre ti a minha ira e esgotarei em ti o meu furor; eu te julgarei segundo os teus caminhos e farei cair sobre ti todas as tuas abominações;"},
+{v:9,t:"o meu olho não terá piedade, e não terei compaixão; farei cair sobre ti os teus caminhos, e as tuas abominações estarão no meio de ti; e sabereis que sou eu, o Senhor, quem fere."},
+{s:"O dia da ira"},
+{v:10,t:"Eis o dia, eis que chega! Saiu a ruína, floresceu a injustiça, brotou o orgulho;"},
+{v:11,t:"a violência se levantou como vara da impiedade; nada restará deles, nem da sua multidão, nem do seu tumulto, e não haverá descanso para eles."},
+{v:12,t:"Chegou o tempo, aproximou-se o dia: quem compra não se alegre, e quem vende não se lamente, pois a ira está sobre toda a sua multidão."},
+{v:13,t:"Pois quem vende não recuperará o que vendeu, ainda que continue vivo. Porque a visão contra toda a sua multidão não será revogada, e ninguém, por causa da sua iniquidade, conservará a vida.",n:"Alusão à lei do jubileu (Levítico 25,13–16): não haverá mais volta à propriedade de família."},
+{v:14,t:"Tocai a trombeta, preparai tudo! Mas ninguém vai à batalha, pois a minha ira está sobre toda a sua multidão."},
+{v:15,t:"Fora, a espada; dentro, a peste e a fome. Quem estiver no campo morrerá pela espada, e quem estiver na cidade será devorado pela fome e pela peste.",np:1},
+{v:16,t:"Os que dentre eles escaparem se salvarão e estarão nos montes, como as pombas dos vales, todos gemendo, cada um pela sua iniquidade."},
+{s:"O desespero do povo"},
+{v:17,t:"Todas as mãos desfalecerão, e todos os joelhos se desfarão em água.",n:"Expressão do pavor extremo; alguns entendem que se urinarão de medo."},
+{v:18,t:"Vestirão pano de saco, e o terror os cobrirá; haverá vergonha em todos os rostos e calvície em todas as cabeças."},
+{v:19,t:"Jogarão a sua prata nas ruas, e o seu ouro se tornará imundície; a sua prata e o seu ouro não poderão salvá-los no dia do furor do Senhor; não saciarão a sua fome nem encherão o seu ventre, pois isso foi para eles ocasião de pecado,"},
+{v:20,t:"e com o esplendor dos seus enfeites alimentaram o seu orgulho e fizeram deles as imagens das suas abominações e dos seus ídolos; por isso farei que isso se torne para eles imundície."},
+{v:21,t:"Eu o entregarei como saque nas mãos dos estrangeiros e como presa aos ímpios da terra, que o profanarão."},
+{v:22,t:"Desviarei deles o meu rosto, e profanarão o meu tesouro escondido; entrarão nele os salteadores e o profanarão,",n:"O meu tesouro escondido: o templo."},
+{v:23,t:"e farão correntes; pois a terra está cheia de crimes de sangue, e a cidade, cheia de violência."},
+{v:24,t:"Trarei as piores das nações, e elas possuirão as suas casas; porei fim ao orgulho dos poderosos, e eles possuirão os seus santuários."},
+{v:25,t:"Chegará a angústia; procurarão a paz, e não haverá."},
+{v:26,t:"Virá desgraça sobre desgraça, e boato sobre boato; pedirão uma visão ao profeta, mas a lei faltará ao sacerdote, e o conselho, aos anciãos."},
+{v:27,t:"O rei ficará de luto, o príncipe se vestirá de desolação, e as mãos do povo da terra tremerão. Eu os tratarei segundo o seu procedimento e os julgarei segundo os seus próprios julgamentos; e saberão que eu sou o Senhor."}
+];

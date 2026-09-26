@@ -94,3 +94,82 @@ window.TEXTOS_SEED["apocalipse"][3] = [
 {v:21,t:"Ao vencedor concederei sentar-se comigo no meu trono, assim como também eu venci e me sentei com meu Pai no seu trono."},
 {v:22,t:"Quem tem ouvidos ouça o que o Espírito diz às Igrejas.",np:1}
 ];
+
+window.TEXTOS_SEED["apocalipse"][4] = [
+{s:"O trono de Deus"},
+{v:1,t:"Depois disso, olhei, e eis uma porta aberta no céu; e a primeira voz, que eu tinha ouvido falar comigo como uma trombeta, disse: Sobe até aqui, e eu te mostrarei o que deve acontecer depois disso."},
+{v:2,t:"Imediatamente fui arrebatado em espírito; e eis que havia um trono posto no céu, e alguém sentado no trono."},
+{v:3,t:"Aquele que estava sentado tinha o aspecto semelhante à pedra de jaspe e à de sárdio; e ao redor do trono havia um arco-íris de aspecto semelhante à esmeralda.",n:"João não descreve a figura de Deus: fala só do brilho das pedras e das cores ao redor do trono (compare Ezequiel 1,26–28)."},
+{v:4,t:"Ao redor do trono havia vinte e quatro tronos, e sobre os tronos, vinte e quatro anciãos sentados, vestidos de vestes brancas e com coroas de ouro na cabeça.",n:"Os vinte e quatro anciãos representam talvez o povo de Deus inteiro, as doze tribos e os doze apóstolos (compare 21,12–14)."},
+{v:5,t:"Do trono saíam relâmpagos, vozes e trovões; e diante do trono ardiam sete lâmpadas de fogo, que são os sete espíritos de Deus;"},
+{v:6,t:"e diante do trono havia como que um mar de vidro, semelhante ao cristal. No meio do trono e ao redor do trono havia quatro seres vivos, cheios de olhos pela frente e por trás:",n:"No meio do trono e ao redor do trono: isto é, junto ao trono, em cada um dos lados. Os seres vivos lembram os querubins de Ezequiel 1 e 10 e os serafins de Isaías 6."},
+{v:7,t:"o primeiro ser vivo era semelhante a um leão; o segundo ser vivo, semelhante a um novilho; o terceiro ser vivo tinha o rosto como de homem; e o quarto ser vivo era semelhante a uma águia em voo.",n:"Desde os primeiros séculos, a tradição cristã viu nestas quatro figuras os quatro evangelistas: o homem é Mateus, o leão Marcos, o novilho Lucas e a águia João."},
+{v:8,t:"Os quatro seres vivos tinham cada um seis asas e estavam cheios de olhos ao redor e por dentro; e dia e noite não cessam de dizer: Santo, santo, santo, o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem!",n:"Compare Isaías 6,3. É o hino que a Igreja canta em cada missa, no Santo."},
+{v:9,t:"E sempre que os seres vivos dão glória, honra e ação de graças àquele que está sentado no trono, àquele que vive pelos séculos dos séculos,"},
+{v:10,t:"os vinte e quatro anciãos se prostram diante daquele que está sentado no trono, adoram aquele que vive pelos séculos dos séculos e lançam as suas coroas diante do trono, dizendo:"},
+{v:11,l:["Tu és digno, Senhor e Deus nosso,","de receber a glória, a honra e o poder,","porque tu criaste todas as coisas,","e por tua vontade elas existiam e foram criadas."],np:1,n:"Senhor e Deus nosso: título que o imperador Domiciano, no tempo em que o livro foi provavelmente escrito, exigia que lhe dessem. Os anciãos o reservam a Deus e depõem diante dele as suas coroas."}
+];
+
+window.TEXTOS_SEED["apocalipse"][5] = [
+{s:"O livro dos sete selos"},
+{v:1,t:"Vi na mão direita daquele que estava sentado no trono um livro escrito por dentro e por fora, selado com sete selos.",n:"Livro: um rolo escrito dos dois lados, como o de Ezequiel 2,9–10. Contém o desígnio de Deus sobre a história, que ninguém pode conhecer enquanto está selado."},
+{v:2,t:"Vi também um anjo poderoso, que proclamava em alta voz: Quem é digno de abrir o livro e de romper os seus selos?"},
+{v:3,t:"E ninguém, nem no céu, nem na terra, nem debaixo da terra, podia abrir o livro nem olhar para ele."},
+{v:4,t:"Eu chorava muito, porque não se achou ninguém digno de abrir o livro nem de olhar para ele."},
+{v:5,t:"Mas um dos anciãos me disse: Não chores; eis que o Leão da tribo de Judá, a Raiz de Davi, venceu, e pode abrir o livro e os seus sete selos.",n:"Títulos do Messias: compare Gênesis 49,9–10 e Isaías 11,1.10."},
+{s:"O Cordeiro recebe o livro"},
+{v:6,t:"E vi no meio do trono e dos quatro seres vivos, e no meio dos anciãos, um Cordeiro de pé, como que imolado; tinha sete chifres e sete olhos, que são os sete espíritos de Deus enviados por toda a terra.",n:"Esperava-se um leão, e aparece um Cordeiro: o Messias vence pela sua morte. Como que imolado: traz as marcas da morte, mas está de pé, vivo. Os sete chifres significam a plenitude do poder; os sete olhos, a plenitude do conhecimento (compare Zacarias 4,10)."},
+{v:7,t:"Ele veio e o recebeu da mão direita daquele que estava sentado no trono."},
+{v:8,t:"Quando recebeu o livro, os quatro seres vivos e os vinte e quatro anciãos se prostraram diante do Cordeiro, tendo cada um uma cítara e taças de ouro cheias de incenso, que são as orações dos santos.",n:"Os santos são os fiéis. As suas orações sobem a Deus como incenso (Salmo 141,2; compare 8,3–4)."},
+{v:9,l:["E cantam um cântico novo, dizendo:","Tu és digno de receber o livro","e de abrir os seus selos,","porque foste imolado e, com o teu sangue,","resgataste para Deus","gente de toda tribo, língua, povo e nação,"]},
+{v:10,l:["e fizeste deles, para o nosso Deus, um reino e sacerdotes,","e eles reinarão sobre a terra."],n:"Compare Êxodo 19,6 e 1 Pedro 2,9."},
+{v:11,t:"Olhei e ouvi a voz de muitos anjos ao redor do trono, dos seres vivos e dos anciãos; o seu número era de miríades de miríades e milhares de milhares,",np:1,n:"Compare Daniel 7,10."},
+{v:12,l:["que diziam em alta voz:","Digno é o Cordeiro que foi imolado","de receber o poder, a riqueza, a sabedoria,","a força, a honra, a glória e o louvor."]},
+{v:13,t:"E ouvi todas as criaturas que há no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, que diziam: Àquele que está sentado no trono e ao Cordeiro, o louvor, a honra, a glória e o poder pelos séculos dos séculos.",np:1},
+{v:14,t:"E os quatro seres vivos diziam: Amém. E os anciãos se prostraram e adoraram.",np:1}
+];
+
+window.TEXTOS_SEED["apocalipse"][6] = [
+{s:"Os quatro primeiros selos"},
+{v:1,t:"Vi quando o Cordeiro abriu o primeiro dos sete selos, e ouvi um dos quatro seres vivos, que dizia com voz de trovão: Vem!"},
+{v:2,t:"Olhei, e eis um cavalo branco; aquele que o montava tinha um arco; foi-lhe dada uma coroa, e ele saiu vencedor e para vencer.",n:"Os quatro cavalos vêm de Zacarias 1,8 e 6,1–3. Muitos Padres viram no cavaleiro do cavalo branco o Cristo vitorioso ou a pregação do Evangelho (compare 19,11); outros, a guerra de conquista, como os três cavaleiros que o seguem."},
+{v:3,t:"Quando ele abriu o segundo selo, ouvi o segundo ser vivo, que dizia: Vem!",np:1},
+{v:4,t:"E saiu outro cavalo, vermelho como fogo; ao que o montava foi dado o poder de tirar a paz da terra, para que os homens se matassem uns aos outros; e foi-lhe dada uma grande espada.",np:1},
+{v:5,t:"Quando ele abriu o terceiro selo, ouvi o terceiro ser vivo, que dizia: Vem! Olhei, e eis um cavalo preto; aquele que o montava tinha na mão uma balança.",np:1},
+{v:6,t:"E ouvi como que uma voz no meio dos quatro seres vivos, que dizia: Uma medida de trigo por um denário, e três medidas de cevada por um denário; mas não danifiques o azeite e o vinho.",n:"O denário era o salário de um dia de trabalho (Mateus 20,2); a medida, pouco mais de um litro, a ração diária de um homem. É a carestia: um dia inteiro de trabalho paga apenas o pão desse dia."},
+{v:7,t:"Quando ele abriu o quarto selo, ouvi a voz do quarto ser vivo, que dizia: Vem!",np:1},
+{v:8,t:"Olhei, e eis um cavalo esverdeado; aquele que o montava chamava-se Morte, e a morada dos mortos o seguia. E foi-lhes dado poder sobre a quarta parte da terra, para matar pela espada, pela fome, pela peste e pelas feras da terra.",n:"Esverdeado: a cor de um cadáver. Morada dos mortos: em grego, Hades, aqui personificado ao lado da Morte, como em 1,18, onde foi traduzido por abismo, e em 20,13–14. Peste: à letra, morte, nome que a tradução grega dá muitas vezes à peste (compare Ezequiel 14,21)."},
+{s:"O quinto selo: os mártires"},
+{v:9,t:"Quando ele abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido imolados por causa da palavra de Deus e do testemunho que tinham dado."},
+{v:10,t:"Eles clamaram em alta voz: Até quando, Senhor santo e verdadeiro, deixarás de julgar e de vingar o nosso sangue nos habitantes da terra?",n:"O clamor pede justiça, como o sangue de Abel (Gênesis 4,10) e muitos salmos; e a resposta de Deus é pedir paciência (compare Lucas 18,7–8)."},
+{v:11,t:"Foi dada a cada um deles uma veste branca, e foi-lhes dito que repousassem ainda um pouco de tempo, até que se completasse o número dos seus companheiros de serviço e dos seus irmãos, que iam ser mortos como eles.",np:1},
+{s:"O sexto selo: o grande dia da ira"},
+{v:12,t:"Quando ele abriu o sexto selo, olhei, e houve um grande terremoto; o sol ficou negro como um saco de crina, e a lua inteira ficou como sangue,",n:"Imagens tradicionais do dia do Senhor: compare Joel 3,4; Isaías 13,10; 34,4; Mateus 24,29."},
+{v:13,t:"e as estrelas do céu caíram sobre a terra, como a figueira deixa cair os seus figos verdes quando sacudida por um vento forte,"},
+{v:14,t:"e o céu se retirou como um livro que se enrola, e todos os montes e as ilhas foram removidos dos seus lugares."},
+{v:15,t:"Os reis da terra, os grandes, os chefes militares, os ricos, os poderosos, e todos, escravos e livres, esconderam-se nas cavernas e entre os rochedos dos montes;"},
+{v:16,t:"e diziam aos montes e aos rochedos: Caí sobre nós e escondei-nos da face daquele que está sentado no trono e da ira do Cordeiro,",n:"Compare Oseias 10,8 e Lucas 23,30."},
+{v:17,t:"porque chegou o grande dia da ira deles, e quem poderá ficar de pé?"}
+];
+
+window.TEXTOS_SEED["apocalipse"][7] = [
+{s:"Os servos de Deus marcados com o selo"},
+{v:1,t:"Depois disso, vi quatro anjos de pé nos quatro cantos da terra, segurando os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma."},
+{v:2,t:"Vi também outro anjo que subia do lado do nascente e trazia o selo do Deus vivo; e ele gritou em alta voz aos quatro anjos que tinham recebido o poder de danificar a terra e o mar,"},
+{v:3,t:"dizendo: Não danifiqueis a terra, nem o mar, nem as árvores, até que tenhamos marcado com o selo a fronte dos servos do nosso Deus.",n:"Compare Ezequiel 9,4–6, onde os fiéis de Jerusalém recebem um sinal na fronte antes do castigo."},
+{v:4,t:"E ouvi o número dos que foram marcados com o selo: cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel:",np:1,n:"Doze vezes doze mil: número simbólico do povo de Deus completo, o novo Israel. Na lista falta Dã, talvez por causa da sua idolatria (Juízes 18), e Judá, a tribo do Messias, vem em primeiro lugar."},
+{v:5,t:"da tribo de Judá, doze mil marcados; da tribo de Rúben, doze mil; da tribo de Gad, doze mil;"},
+{v:6,t:"da tribo de Aser, doze mil; da tribo de Neftali, doze mil; da tribo de Manassés, doze mil;"},
+{v:7,t:"da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;"},
+{v:8,t:"da tribo de Zabulon, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil marcados."},
+{s:"A multidão diante do trono"},
+{v:9,t:"Depois disso, olhei, e eis uma grande multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas, de pé diante do trono e diante do Cordeiro, vestidos de vestes brancas e com palmas nas mãos;"},
+{v:10,t:"e clamam em alta voz: A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro."},
+{v:11,t:"Todos os anjos estavam de pé ao redor do trono, dos anciãos e dos quatro seres vivos; e prostraram-se diante do trono com o rosto em terra e adoraram a Deus,",np:1},
+{v:12,l:["dizendo:","Amém!","O louvor, a glória, a sabedoria,","a ação de graças, a honra, o poder e a força","ao nosso Deus pelos séculos dos séculos.","Amém."]},
+{v:13,t:"Um dos anciãos tomou a palavra e me perguntou: Estes que estão vestidos de vestes brancas, quem são e de onde vieram?",np:1},
+{v:14,t:"Eu lhe respondi: Meu senhor, tu o sabes. E ele me disse: Estes são os que vêm da grande tribulação; lavaram as suas vestes e as alvejaram no sangue do Cordeiro.",n:"Paradoxo proposital: as vestes ficam brancas no sangue. É a força da morte de Cristo, de que os fiéis participam pelo batismo e pelo martírio."},
+{v:15,t:"Por isso estão diante do trono de Deus e o servem dia e noite no seu templo; e aquele que está sentado no trono estenderá sobre eles a sua tenda.",n:"Estenderá a sua tenda: o verbo lembra a tenda do encontro e a nuvem da glória no deserto (Êxodo 40,34; compare João 1,14)."},
+{v:16,t:"Nunca mais terão fome, nem sede; nem os atingirá o sol, nem calor algum,",n:"Compare Isaías 49,10."},
+{v:17,t:"porque o Cordeiro, que está no meio do trono, será o seu pastor e os conduzirá às fontes das águas da vida; e Deus enxugará toda lágrima dos seus olhos.",n:"Compare Isaías 25,8; a promessa volta em 21,4."}
+];

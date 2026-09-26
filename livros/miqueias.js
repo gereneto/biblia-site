@@ -102,3 +102,51 @@ window.TEXTOS_SEED["miqueias"][5] = [
 {v:13,l:["arrancarei do meio de ti os teus postes sagrados","e destruirei os teus ídolos."],np:1,n:"Postes sagrados: símbolos da deusa Aserá."},
 {v:14,l:["Com ira e com furor","tomarei vingança","de todas as nações","que não obedeceram."],np:1}
 ];
+
+window.TEXTOS_SEED["miqueias"][6] = [
+{s:"O processo do Senhor contra o seu povo"},
+{v:1,l:["Ouvi o que diz o Senhor:","Levanta-te, pleiteia a tua causa diante dos montes,","e que as colinas ouçam a tua voz."]},
+{v:2,l:["Ouvi, montes, o processo do Senhor,","e escutai, fundamentos da terra;","pois o Senhor tem um processo com o seu povo","e vai pleitear com Israel."],np:1},
+{v:3,l:["Povo meu, que te fiz eu?","Em que te molestei?","Responde-me."],np:1,n:"A liturgia da Sexta-feira Santa retoma estas palavras nos Impropérios."},
+{v:4,l:["Eu te fiz sair da terra do Egito","e te resgatei da casa da escravidão;","enviei à tua frente Moisés,","Aarão e Míriam."],np:1},
+{v:5,l:["Povo meu, lembra-te, por favor,","do que tramou Balac, rei de Moab,","e do que lhe respondeu Balaão, filho de Beor,","desde Setim até Guilgal,","para que reconheças os atos de justiça do Senhor."],np:1,n:"Compare Números 22–24; Josué 3–4. De Setim a Guilgal: a travessia do Jordão e a entrada na terra prometida."},
+{s:"O que o Senhor pede"},
+{v:6,l:["Que oferecerei de digno ao Senhor,","quando me ajoelhar diante do Deus altíssimo?","Oferecerei a ele holocaustos,","bezerros de um ano?"]},
+{v:7,l:["Agradarão ao Senhor milhares de carneiros,","miríades de torrentes de azeite?","Darei o meu primogênito pelo meu crime,","o fruto das minhas entranhas pelo pecado da minha alma?"],np:1,n:"Nota do tradutor: a pergunta alude ao sacrifício de crianças praticado pelos povos vizinhos, e às vezes em Israel (2 Reis 16,3), que a lei condenava; o texto não foi suavizado."},
+{v:8,l:["Foi-te dito, ó homem, o que é bom","e o que o Senhor pede de ti:","nada mais do que praticar o direito, amar a bondade","e caminhar humildemente com o teu Deus."],np:1,n:"Humildemente: a Nova Vulgata diz com solicitude, isto é, com atenção vigilante."},
+{s:"Contra as fraudes da cidade"},
+{v:9,l:["A voz do Senhor clama à cidade;","é sabedoria temer o teu nome.","Ouvi, tribo e assembleia da cidade!"]},
+{v:10,l:["Tolerarei ainda o bato injusto","e o efá diminuído, que é maldito?"],np:1},
+{v:11,l:["Posso dar por justa a balança falsa","e a bolsa de pesos enganadores?"],np:1},
+{v:12,l:["Os ricos da cidade estão cheios de iniquidade,","os seus habitantes dizem mentiras,","e a sua língua é enganadora na sua boca."],np:1},
+{v:13,l:["Por isso comecei a ferir-te,","a devastar-te por causa dos teus pecados."],np:1},
+{v:14,l:["Comerás, mas não te saciarás,","e a tua imundície ficará no meio de ti.","Porás de lado, mas não salvarás;","e o que salvares, eu o entregarei à espada."],np:1,n:"Hebraico obscuro."},
+{v:15,l:["Semearás, mas não colherás;","pisarás a azeitona, mas não te ungirás com azeite;","pisarás a uva, mas não beberás o vinho."],np:1},
+{v:16,l:["Guardaste os preceitos de Amri","e todas as práticas da casa de Acab,","e andaste segundo os seus desígnios;","por isso te entregarei à ruína","e os teus habitantes, à zombaria:","e carregareis o opróbrio dos povos."],np:1,n:"Amri e Acab: reis de Israel, símbolos da idolatria e da injustiça (1 Reis 16,23–34; 21)."}
+];
+
+window.TEXTOS_SEED["miqueias"][7] = [
+{s:"Lamento sobre a corrupção geral"},
+{v:1,l:["Ai de mim! Estou como quem","chega depois da colheita,","depois de terminada a vindima:","não há um cacho para comer,","nem os primeiros figos que a minha alma deseja."]},
+{v:2,l:["Desapareceu da terra o homem fiel,","não há um justo entre os homens;","todos armam emboscadas para derramar sangue,","cada um caça o seu irmão com a rede."],np:1},
+{v:3,l:["As suas mãos estão prontas para o mal;","o chefe exige,","o juiz se vende,","o poderoso manifesta a sua cobiça;","ai dos que torcem assim o direito!"],np:1},
+{v:4,l:["O melhor deles é como um espinheiro,","e o mais reto, como uma sebe de espinhos; o dia das tuas sentinelas, o dia do teu castigo chegou:","agora será a sua confusão."],np:1,n:"O dia das tuas sentinelas: o dia anunciado pelos profetas, que vigiam como sentinelas."},
+{v:5,l:["Não acrediteis no amigo,","não confieis no companheiro;","guarda as portas da tua boca","diante da que dorme no teu seio;"],np:1},
+{v:6,l:["pois o filho insulta o pai,","a filha se levanta contra a mãe,","a nora contra a sogra:","os inimigos do homem são os da sua própria casa."],np:1,n:"Jesus retoma estas palavras em Mateus 10,35–36."},
+{v:7,l:["Eu, porém, olharei para o Senhor,","esperarei no Deus da minha salvação; o meu Deus me ouvirá."],np:1},
+{s:"A cidade humilhada se levantará"},
+{v:8,l:["Não te alegres por minha causa, minha inimiga,","porque caí: eu me levantarei;","se estou sentada nas trevas,","o Senhor é a minha luz."]},
+{v:9,l:["Suportarei a ira do Senhor,","porque pequei contra ele,","até que ele julgue a minha causa","e me faça justiça;","ele me levará para a luz,","e verei a sua justiça."],np:1},
+{v:10,l:["A minha inimiga verá","e se cobrirá de vergonha,","ela que me dizia:","Onde está o Senhor, teu Deus?","Os meus olhos a contemplarão;","agora ela será pisada","como a lama das ruas."],np:1},
+{v:11,l:["Virá o dia de reconstruir os teus muros;","naquele dia se alargarão as tuas fronteiras."],np:1},
+{v:12,l:["Naquele dia virão a ti","desde a Assíria até o Egito,","desde o Egito até o Rio,","de mar a mar","e de monte a monte."],np:1,n:"O Rio: o Eufrates."},
+{v:13,l:["Mas a terra se tornará uma desolação","por causa dos seus habitantes,","pelo fruto das suas obras."],np:1},
+{s:"Quem é Deus como tu?"},
+{v:14,l:["Apascenta com o teu cajado o teu povo,","o rebanho da tua herança,","que habita sozinho na mata,","no meio dos pomares;","que pastem em Basã e em Galaad,","como nos dias antigos."]},
+{v:15,l:["Como nos dias em que saíste da terra do Egito,","mostra-nos maravilhas."],np:1,n:"Mostra-nos maravilhas: assim a Nova Vulgata; o hebraico traz a resposta do Senhor: eu lhe mostrarei maravilhas."},
+{v:16,l:["As nações verão e ficarão envergonhadas","de toda a sua força;","porão a mão sobre a boca,","os seus ouvidos ficarão surdos;"],np:1},
+{v:17,l:["lamberão o pó como a serpente,","como os répteis da terra.","Sairão tremendo dos seus redutos para o Senhor, nosso Deus;","ficarão apavorados e terão medo de ti."],np:1},
+{v:18,l:["Que Deus é semelhante a ti,","que tiras a iniquidade","e passas por cima do pecado","do resto da tua herança?","Ele não guarda para sempre a sua ira,","porque ama a misericórdia."],np:1,n:"A pergunta faz eco ao nome do profeta: Miqueias significa quem é como o Senhor?"},
+{v:19,l:["Ele voltará a ter compaixão de nós,","pisará as nossas iniquidades","e lançará ao fundo do mar","todos os nossos pecados."],np:1},
+{v:20,l:["Mostrarás a tua fidelidade a Jacó","e a tua misericórdia a Abraão,","como juraste aos nossos pais","desde os dias antigos."],np:1,n:"O cântico de Maria retoma estas palavras (Lucas 1,54–55)."}
+];

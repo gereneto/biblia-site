@@ -1322,3 +1322,48 @@ window.TEXTOS_SEED["jeremias"][43] = [
 {v:12,t:"Porá fogo nos templos dos deuses do Egito, os queimará e levará os deuses cativos; sacudirá a terra do Egito como o pastor sacode o seu manto para tirar os piolhos, e sairá de lá em paz.",n:"Assim a Nova Vulgata; o hebraico pode também significar: se envolverá com a terra do Egito como o pastor se envolve no seu manto."},
 {v:13,t:"Quebrará as colunas sagradas do templo do Sol, na terra do Egito, e porá fogo nos templos dos deuses do Egito.",n:"O templo do Sol: em hebraico, Bet-Sames, isto é, Heliópolis, a cidade do Sol, famosa pelos seus obeliscos."}
 ];
+
+window.TEXTOS_SEED["jeremias"][44] = [
+{s:"Última palavra aos judeus do Egito"},
+{v:1,t:"Palavra que foi dirigida a Jeremias para todos os judeus que moravam na terra do Egito, os que moravam em Magdol, em Táfnis, em Mênfis e na terra de Patros:",n:"Magdol e Táfnis ficavam na fronteira nordeste do Egito; Mênfis, no norte; Patros é o Alto Egito, no sul."},
+{v:2,t:"Assim diz o Senhor dos exércitos, o Deus de Israel: Vistes toda a desgraça que fiz cair sobre Jerusalém e sobre todas as cidades de Judá; eis que hoje estão em ruínas e não há quem more nelas,"},
+{v:3,t:"por causa da maldade que cometeram para me provocar, indo queimar incenso e servir outros deuses, que nem eles, nem vós, nem os vossos pais conheciam."},
+{v:4,t:"Eu vos enviei sem cessar todos os meus servos, os profetas, para vos dizer: Não cometais esta coisa abominável, que eu detesto!"},
+{v:5,t:"Mas eles não escutaram nem deram ouvidos, para se converterem da sua maldade e não queimarem incenso a outros deuses;"},
+{v:6,t:"por isso a minha ira e o meu furor se derramaram e arderam nas cidades de Judá e nas ruas de Jerusalém, que se tornaram uma ruína e uma desolação, como se vê hoje."},
+{v:7,t:"Agora, pois, assim diz o Senhor dos exércitos, o Deus de Israel: Por que fazeis um mal tão grande contra vós mesmos, exterminando do meio de Judá homens e mulheres, crianças e recém-nascidos, sem que vos reste nenhum sobrevivente,",np:1},
+{v:8,t:"provocando-me com a obra das vossas mãos, queimando incenso a outros deuses na terra do Egito, para onde viestes morar como estrangeiros, para que sejais exterminados e vos torneis objeto de maldição e de insulto para todas as nações da terra?"},
+{v:9,t:"Acaso esquecestes as maldades dos vossos pais, as maldades dos reis de Judá e as maldades das suas mulheres, as vossas maldades e as maldades das vossas mulheres, cometidas na terra de Judá e nas ruas de Jerusalém?"},
+{v:10,t:"Até hoje não se humilharam, nem tiveram temor, nem andaram na minha lei e nos meus preceitos, que pus diante de vós e diante dos vossos pais."},
+{v:11,t:"Por isso assim diz o Senhor dos exércitos, o Deus de Israel: Eis que volto o meu rosto contra vós para a desgraça, para exterminar todo Judá."},
+{v:12,t:"Tomarei o resto de Judá, os que estão decididos a ir para a terra do Egito para morar lá como estrangeiros, e todos serão consumidos na terra do Egito: cairão pela espada e pela fome, serão consumidos, do menor ao maior; morrerão pela espada e pela fome, e serão objeto de execração, de espanto, de maldição e de insulto."},
+{v:13,t:"Castigarei os que moram na terra do Egito como castiguei Jerusalém, com a espada, com a fome e com a peste;"},
+{v:14,t:"e do resto de Judá que veio morar como estrangeiro na terra do Egito não haverá quem escape ou sobreviva para voltar à terra de Judá, para onde anseiam voltar para lá morar; pois não voltarão, a não ser alguns fugitivos."},
+{s:"O culto à Rainha do céu"},
+{v:15,t:"Então todos os homens que sabiam que as suas mulheres queimavam incenso a outros deuses, e todas as mulheres que estavam ali, uma grande multidão, e todo o povo que morava na terra do Egito, em Patros, responderam a Jeremias:"},
+{v:16,t:"Quanto à palavra que nos disseste em nome do Senhor, não te escutaremos;"},
+{v:17,t:"mas faremos tudo o que prometemos: queimaremos incenso à Rainha do céu e lhe ofereceremos libações, como fizemos nós e os nossos pais, os nossos reis e os nossos chefes, nas cidades de Judá e nas ruas de Jerusalém; então tínhamos pão com fartura, vivíamos bem e não víamos desgraça.",n:"Compare 7,18."},
+{v:18,t:"Mas, desde que deixamos de queimar incenso à Rainha do céu e de lhe oferecer libações, falta-nos tudo, e somos consumidos pela espada e pela fome.",np:1,n:"Os que falam assim atribuem as desgraças à reforma de Josias, que suprimiu esses cultos (2 Reis 23)."},
+{v:19,t:"E, quando nós, mulheres, queimamos incenso à Rainha do céu e lhe oferecemos libações, acaso é sem o consentimento dos nossos maridos que lhe fazemos bolos com a sua imagem e lhe oferecemos libações?",n:"Pela Lei, os votos de uma mulher casada dependiam do consentimento do marido (Números 30,7–16)."},
+{s:"A resposta de Jeremias"},
+{v:20,t:"Jeremias disse então a todo o povo, aos homens, às mulheres e a todos os que lhe tinham dado aquela resposta:"},
+{v:21,t:"Não foi precisamente do incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e os vossos pais, os vossos reis, os vossos chefes e o povo da terra, que o Senhor se lembrou e que lhe subiu ao coração?"},
+{v:22,t:"O Senhor não pôde suportar mais a maldade das vossas ações e as abominações que cometestes; por isso a vossa terra se tornou uma desolação, motivo de espanto e de maldição, sem habitantes, como se vê hoje."},
+{v:23,t:"Porque queimastes incenso e pecastes contra o Senhor, e não escutastes a voz do Senhor, nem andastes na sua lei, nos seus preceitos e nos seus testemunhos, por isso vos aconteceu esta desgraça, como se vê hoje.",np:1},
+{v:24,t:"Jeremias disse ainda a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, todo Judá que estais na terra do Egito.",np:1},
+{v:25,t:"Assim diz o Senhor dos exércitos, o Deus de Israel: Vós e as vossas mulheres o dissestes com a boca e o cumpristes com as mãos: Cumpriremos os votos que fizemos, de queimar incenso à Rainha do céu e de lhe oferecer libações. Pois bem, cumpri os vossos votos, executai-os!"},
+{v:26,t:"Por isso ouvi a palavra do Senhor, todo Judá que morais na terra do Egito: Eis que juro pelo meu grande nome, diz o Senhor, que o meu nome não será mais pronunciado pela boca de nenhum homem de Judá, em toda a terra do Egito, dizendo: Pela vida do Senhor Deus!"},
+{v:27,t:"Eis que velo sobre eles para a desgraça, e não para o bem; todos os homens de Judá que estão na terra do Egito serão consumidos pela espada e pela fome, até que sejam exterminados."},
+{v:28,t:"Os que escaparem da espada voltarão da terra do Egito para a terra de Judá, poucos em número; e todo o resto de Judá que veio morar na terra do Egito saberá qual palavra se cumpre, a minha ou a deles."},
+{v:29,t:"E este será para vós o sinal, oráculo do Senhor, de que vou castigar-vos neste lugar, para que saibais que as minhas palavras contra vós se cumprirão para a vossa desgraça:",np:1},
+{v:30,t:"Assim diz o Senhor: Eis que vou entregar o faraó Hofra, rei do Egito, nas mãos dos seus inimigos e nas mãos dos que procuram tirar-lhe a vida, assim como entreguei Sedecias, rei de Judá, nas mãos de Nabucodonosor, rei da Babilônia, seu inimigo, que procurava tirar-lhe a vida.",n:"Hofra foi derrubado por uma revolta militar e morreu em 570 antes de Cristo."}
+];
+
+window.TEXTOS_SEED["jeremias"][45] = [
+{s:"Palavra a Baruc"},
+{v:1,t:"Palavra que o profeta Jeremias dirigiu a Baruc, filho de Nerias, quando este escrevia num livro estas palavras, ditadas por Jeremias, no quarto ano de Joaquim, filho de Josias, rei de Judá:",n:"Em 605 antes de Cristo (compare 36,1–4)."},
+{v:2,t:"Assim diz o Senhor, o Deus de Israel, a teu respeito, Baruc:"},
+{v:3,t:"Tu disseste: Ai de mim, pobre de mim, pois o Senhor acrescentou aflição à minha dor! Estou esgotado de tanto gemer e não encontro descanso.",np:1},
+{v:4,t:"Assim lhe dirás: Assim diz o Senhor: Eis que o que edifiquei eu mesmo destruo, e o que plantei eu mesmo arranco, e isto em toda esta terra;"},
+{v:5,t:"e tu procuras para ti grandes coisas? Não as procures! Pois eis que vou fazer cair a desgraça sobre toda carne, oráculo do Senhor; mas a ti darei a tua vida como despojo, em todos os lugares para onde fores."}
+];

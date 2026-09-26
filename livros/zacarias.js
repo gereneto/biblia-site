@@ -117,3 +117,49 @@ window.TEXTOS_SEED["zacarias"][6] = [
 {v:14,t:"E a coroa ficará no templo do Senhor como memorial para Helém, Tobias e Jedaías, e para Hen, filho de Sofonias."},
 {v:15,t:"Os que estão longe virão e trabalharão na construção do templo do Senhor; e sabereis que o Senhor dos exércitos me enviou a vós. Isto acontecerá, se de fato escutardes a voz do Senhor, vosso Deus."}
 ];
+
+window.TEXTOS_SEED["zacarias"][7] = [
+{s:"O jejum que o Senhor quer"},
+{v:1,t:"No quarto ano do rei Dario, a palavra do Senhor foi dirigida a Zacarias no quarto dia do nono mês, que é o mês de Casleu.",n:"Dezembro de 518 antes de Cristo."},
+{v:2,t:"A cidade de Betel tinha enviado Sarasar, Regem-Melec e os seus homens para implorar o favor do Senhor"},
+{v:3,t:"e perguntar aos sacerdotes da casa do Senhor dos exércitos e aos profetas: Devo continuar a chorar e a jejuar no quinto mês, como tenho feito há tantos anos?",n:"No quinto mês se lembrava a destruição do templo (2 Reis 25,8–9)."},
+{v:4,t:"A palavra do Senhor dos exércitos me foi dirigida nestes termos:",np:1},
+{v:5,t:"Fala a todo o povo da terra e aos sacerdotes e dize: Quando jejuáveis e vos lamentáveis no quinto e no sétimo mês, durante estes setenta anos, era de fato por mim que jejuáveis?",n:"No sétimo mês se lembrava o assassinato de Godolias (2 Reis 25,25; Jeremias 41,1–3)."},
+{v:6,t:"E quando comíeis e bebíeis, não era para vós mesmos que comíeis e para vós mesmos que bebíeis?",np:1},
+{v:7,t:"Não são estas as palavras que o Senhor proclamou por meio dos profetas de outrora, quando Jerusalém ainda era habitada e próspera, com as cidades ao seu redor, e o Negueb e a Sefelá eram habitados?"},
+{v:8,t:"A palavra do Senhor foi dirigida a Zacarias nestes termos:",np:1},
+{v:9,t:"Assim diz o Senhor dos exércitos: Julgai com verdadeira justiça, e cada um pratique a bondade e a misericórdia com o seu irmão;"},
+{v:10,t:"não oprimais a viúva e o órfão, o estrangeiro e o pobre, e ninguém trame no seu coração o mal contra o seu irmão."},
+{v:11,t:"Mas eles não quiseram prestar atenção; deram as costas com rebeldia e taparam os ouvidos para não ouvir."},
+{v:12,t:"Tornaram o coração duro como o diamante, para não ouvir a lei e as palavras que o Senhor dos exércitos tinha enviado pelo seu espírito, por meio dos profetas de outrora; e veio uma grande ira da parte do Senhor dos exércitos."},
+{v:13,t:"E aconteceu que, assim como ele clamava e eles não ouviam, assim eles clamarão, e eu não ouvirei, diz o Senhor dos exércitos."},
+{v:14,t:"Eu os dispersei entre todas as nações que eles não conheciam, e a terra ficou desolada atrás deles, sem ninguém que fosse ou viesse. Transformaram em deserto uma terra de delícias."}
+];
+
+window.TEXTOS_SEED["zacarias"][8] = [
+{s:"Promessas de salvação para Jerusalém"},
+{v:1,t:"A palavra do Senhor dos exércitos foi dirigida nestes termos:"},
+{v:2,l:["Assim diz o Senhor dos exércitos:","Tenho um grande zelo por Sião,","e com grande ardor sou zeloso por ela."]},
+{v:3,t:"Assim diz o Senhor: Voltei para Sião e habitarei no meio de Jerusalém; Jerusalém será chamada Cidade da Verdade, e o monte do Senhor dos exércitos, Monte da Santidade.",np:1},
+{v:4,t:"Assim diz o Senhor dos exércitos: Velhos e velhas se sentarão de novo nas praças de Jerusalém, cada um com o seu bastão na mão, por causa da idade avançada;",np:1},
+{v:5,t:"e as praças da cidade se encherão de meninos e meninas, que brincarão nas suas praças."},
+{v:6,t:"Assim diz o Senhor dos exércitos: Se isto parecer impossível aos olhos do resto deste povo naqueles dias, será impossível também aos meus olhos? — oráculo do Senhor dos exércitos.",np:1},
+{v:7,l:["Assim diz o Senhor dos exércitos:","Eis que salvarei o meu povo da terra do oriente","e da terra do poente;"],np:1},
+{v:8,l:["eu os trarei,","e habitarão no meio de Jerusalém;","serão o meu povo,","e eu serei o seu Deus","na fidelidade e na justiça."],np:1},
+{v:9,t:"Assim diz o Senhor dos exércitos: Criai coragem, vós que ouvis nestes dias estas palavras da boca dos profetas, desde o dia em que foram lançados os alicerces da casa do Senhor dos exércitos, para a reconstrução do templo.",np:1},
+{v:10,l:["Pois, antes destes dias,","não havia salário para os homens,","nem salário para os animais,","e não havia segurança para quem saía ou entrava,","por causa do inimigo;","e eu tinha lançado todos os homens","uns contra os outros."],np:1},
+{v:11,l:["Mas agora não sou para o resto deste povo","como nos dias de antes,","oráculo do Senhor dos exércitos;"],np:1},
+{v:12,l:["pois haverá uma semeadura de paz:","a videira dará o seu fruto,","e a terra dará a sua colheita,","e farei o resto deste povo","possuir todas estas coisas."],np:1,n:"O hebraico acrescenta: e o céu dará o seu orvalho."},
+{v:13,t:"E acontecerá: assim como fostes uma maldição entre as nações, casa de Judá e casa de Israel, assim eu vos salvarei, e sereis uma bênção. Não temais; criai coragem!",np:1},
+{v:14,t:"Pois assim diz o Senhor dos exércitos: Assim como decidi fazer-vos mal, quando os vossos pais me provocaram à ira, diz o Senhor dos exércitos, e não tive compaixão,"},
+{v:15,t:"assim, ao contrário, decidi nestes dias fazer o bem a Jerusalém e à casa de Judá: não temais."},
+{v:16,t:"Eis o que deveis fazer: Dizei a verdade cada um ao seu próximo; julgai às vossas portas com sentenças de verdade e de paz;",np:1},
+{v:17,t:"ninguém trame no seu coração o mal contra o seu próximo, e não ameis o juramento falso; pois todas estas coisas eu as odeio, oráculo do Senhor."},
+{s:"Os jejuns se tornarão festas"},
+{v:18,t:"A palavra do Senhor dos exércitos me foi dirigida nestes termos:"},
+{v:19,t:"Assim diz o Senhor dos exércitos: O jejum do quarto mês, o jejum do quinto, o jejum do sétimo e o jejum do décimo se tornarão para a casa de Judá dias de alegria e de júbilo e festas solenes. Amai, pois, a verdade e a paz.",n:"Os quatro jejuns lembravam as etapas da queda de Jerusalém: o início do cerco (décimo mês), a brecha nas muralhas (quarto), a destruição do templo (quinto) e o assassinato de Godolias (sétimo)."},
+{v:20,t:"Assim diz o Senhor dos exércitos: Virão ainda povos e habitantes de grandes cidades,"},
+{v:21,t:"e os habitantes de uma cidade irão à outra, dizendo: Vamos implorar o favor do Senhor e buscar o Senhor dos exércitos; eu também vou."},
+{v:22,t:"Virão povos numerosos e nações poderosas buscar o Senhor dos exércitos em Jerusalém e implorar o favor do Senhor."},
+{v:23,t:"Assim diz o Senhor dos exércitos: Naqueles dias, dez homens de todas as línguas das nações agarrarão um judeu pela barra do manto, dizendo: Queremos ir convosco, pois ouvimos dizer que Deus está convosco.",np:1}
+];

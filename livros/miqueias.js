@@ -62,3 +62,43 @@ window.TEXTOS_SEED["miqueias"][3] = [
 {v:11,l:["Os seus chefes julgam por suborno,","os seus sacerdotes ensinam por salário,","os seus profetas adivinham por dinheiro;","e se apoiam no Senhor, dizendo:","Não está o Senhor no meio de nós?","Não virá sobre nós desgraça alguma."],np:1},
 {v:12,l:["Por isso, por causa de vós,","Sião será arada como um campo,","Jerusalém se tornará um monte de ruínas,","e o monte do templo, um alto coberto de mato."],np:1,n:"Um século depois, esta profecia foi lembrada em defesa de Jeremias (Jeremias 26,18)."}
 ];
+
+window.TEXTOS_SEED["miqueias"][4] = [
+{s:"O monte do Senhor e a paz entre as nações"},
+{v:1,l:["Nos últimos dias acontecerá","que o monte da casa do Senhor","estará firme no cume dos montes","e se elevará acima das colinas;","e os povos afluirão para ele."],n:"Um oráculo quase idêntico se encontra em Isaías 2,2–4."},
+{v:2,l:["Muitas nações virão e dirão:","Vinde, subamos ao monte do Senhor,","à casa do Deus de Jacó,","para que ele nos ensine os seus caminhos","e andemos pelas suas veredas.","Pois de Sião sairá a instrução,","e de Jerusalém, a palavra do Senhor."],np:1},
+{v:3,l:["Ele julgará entre povos numerosos","e será o árbitro de nações poderosas, até as mais distantes.","Das suas espadas forjarão arados,","e das suas lanças, foices.","Uma nação não levantará a espada contra outra,","e não aprenderão mais a guerra."],np:1},
+{v:4,l:["Cada um se sentará debaixo da sua videira","e debaixo da sua figueira,","e não haverá quem o assuste,","pois a boca do Senhor dos exércitos falou."],np:1},
+{v:5,l:["Todos os povos caminham","cada um em nome do seu deus;","mas nós caminharemos em nome do Senhor,","nosso Deus, para sempre e eternamente."],np:1},
+{s:"O Senhor reunirá os dispersos"},
+{v:6,l:["Naquele dia, oráculo do Senhor,","reunirei a que manca,","recolherei a que tinha sido expulsa","e a que eu tinha afligido;"]},
+{v:7,l:["farei da que manca um resto","e da que sofria, uma nação forte.","E o Senhor reinará sobre eles no monte Sião","desde agora e para sempre."],np:1},
+{v:8,l:["E tu, torre do rebanho,","colina da filha de Sião,","a ti virá, a ti chegará","o antigo domínio,","a realeza da filha de Jerusalém."],np:1,n:"Torre do rebanho: em hebraico, Migdal-Éder, lugar perto de Belém (Gênesis 35,21); aqui, figura de Jerusalém, a cidade de Davi, o pastor."},
+{s:"Das dores do parto à libertação"},
+{v:9,l:["Por que gritas agora tão alto?","Não há rei em ti?","Pereceu o teu conselheiro,","para que a dor te tome como a de uma mulher em trabalho de parto?"]},
+{v:10,l:["Contorce-te e geme,","filha de Sião, como a mulher que dá à luz;","pois agora sairás da cidade","e habitarás no campo,","e irás até a Babilônia;","lá serás libertada,","lá o Senhor te resgatará","da mão dos teus inimigos."],np:1},
+{v:11,l:["Agora se reuniram contra ti","muitas nações,","que dizem: Que ela seja profanada,","e que os nossos olhos se deleitem com Sião!"],np:1},
+{v:12,l:["Mas elas não conhecem","os pensamentos do Senhor","e não compreendem o seu desígnio:","ele as reuniu como feixes na eira."],np:1},
+{v:13,l:["Levanta-te e debulha, filha de Sião,","pois farei de ferro o teu chifre","e de bronze os teus cascos,","e esmagarás muitos povos;","consagrarás ao Senhor os seus despojos","e as suas riquezas ao Senhor de toda a terra."],np:1},
+{v:14,l:["Agora, faz incisões em ti, filha da incisão!","Puseram cerco contra nós;","com a vara ferem na face","o juiz de Israel."],np:1,n:"Em outras Bíblias, 4,14 é 5,1, e a numeração do capítulo 5 aumenta de uma unidade. Fazer incisões no corpo era um rito de luto; o hebraico pode significar também: reúne as tuas tropas, filha de tropas."}
+];
+
+window.TEXTOS_SEED["miqueias"][5] = [
+{s:"De Belém sairá o chefe de Israel"},
+{v:1,l:["Mas tu, Belém de Efrata,","pequena entre os clãs de Judá,","de ti sairá para mim","aquele que há de ser o chefe em Israel;","a sua origem vem de tempos antigos,","dos dias da eternidade."],n:"Mateus cita este versículo a respeito do nascimento de Jesus em Belém (Mateus 2,6). Efrata: o clã de Belém, a família de Davi (1 Samuel 17,12)."},
+{v:2,l:["Por isso ele os entregará","até o tempo em que der à luz aquela que há de dar à luz;","e o resto dos seus irmãos","voltará para os filhos de Israel."],np:1,n:"Aquela que há de dar à luz: a mãe do rei prometido (compare Isaías 7,14)."},
+{v:3,l:["Ele se levantará e apascentará o rebanho com a força do Senhor,","com a majestade do nome do Senhor, seu Deus;","e habitarão em segurança, pois agora ele será grande","até os confins da terra,"],np:1},
+{v:4,l:["e ele mesmo será a paz.","Quando o assírio vier à nossa terra","e pisar as nossas casas,","levantaremos contra ele sete pastores","e oito chefes de homens."],np:1,n:"Sete, e até oito: mais do que o necessário."},
+{v:5,l:["Eles apascentarão a terra da Assíria com a espada e a terra de Nemrod com a lança;","e ele nos livrará do assírio,","quando este vier à nossa terra","e pisar as nossas fronteiras."],np:1,n:"Nemrod: o caçador lendário, fundador de cidades da Mesopotâmia (Gênesis 10,8–12)."},
+{s:"O resto de Jacó entre os povos"},
+{v:6,l:["O resto de Jacó estará","no meio de muitos povos","como o orvalho que vem do Senhor,","como as chuvas sobre a erva,","que não espera pelo homem","nem aguarda os filhos dos homens."]},
+{v:7,l:["O resto de Jacó estará entre as nações,","no meio de muitos povos,","como o leão entre os animais da floresta,","como o leãozinho entre os rebanhos de ovelhas:","quando passa, pisa e despedaça,","e não há quem livre."],np:1},
+{v:8,l:["A tua mão se levantará sobre os teus adversários,","e todos os teus inimigos serão exterminados."],np:1},
+{s:"O Senhor purificará o seu povo"},
+{v:9,l:["Naquele dia acontecerá,","oráculo do Senhor,","que exterminarei do meio de ti os teus cavalos","e destruirei os teus carros;"]},
+{v:10,l:["destruirei as cidades da tua terra","e arrasarei todas as tuas fortalezas."],np:1},
+{v:11,l:["Tirarei da tua mão as feitiçarias,","e não haverá mais adivinhos em ti."],np:1},
+{v:12,l:["Farei desaparecer do meio de ti as tuas imagens esculpidas","e as tuas colunas sagradas,","e não adorarás mais","a obra das tuas mãos;"],np:1},
+{v:13,l:["arrancarei do meio de ti os teus postes sagrados","e destruirei os teus ídolos."],np:1,n:"Postes sagrados: símbolos da deusa Aserá."},
+{v:14,l:["Com ira e com furor","tomarei vingança","de todas as nações","que não obedeceram."],np:1}
+];

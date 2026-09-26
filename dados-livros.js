@@ -6,6 +6,7 @@
 
 window.LIVROS_SEED = {
   "genesis":    { nome: "Gênesis",     grupo: "Pentateuco",          capitulos: 50 },
+  "exodo":      { nome: "Êxodo",       grupo: "Pentateuco",          capitulos: 40 },
   "levitico":   { nome: "Levítico",    grupo: "Pentateuco",          capitulos: 27 },
   "numeros":    { nome: "Números",     grupo: "Pentateuco",          capitulos: 36 },
   "deuteronomio": { nome: "Deuteronômio", grupo: "Pentateuco",        capitulos: 34 },
@@ -78,7 +79,7 @@ window.LIVROS_SEED = {
 };
 
 window.TEXTOS_SEED = {
-  "genesis": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {}, "eclesiastico": {}, "isaias": {}, "jeremias": {}, "lamentacoes": {}, "baruc": {}, "ezequiel": {}, "daniel": {}, "oseias": {}, "joel": {}, "amos": {}, "abdias": {}, "jonas": {}, "miqueias": {}, "naum": {}, "habacuc": {}, "sofonias": {}, "ageu": {}, "zacarias": {}, "malaquias": {},
+  "genesis": {}, "exodo": {}, "levitico": {}, "numeros": {}, "deuteronomio": {}, "josue": {}, "juizes": {}, "rute": {}, "1samuel": {}, "2samuel": {}, "1reis": {}, "2reis": {}, "1cronicas": {}, "2cronicas": {}, "esdras": {}, "neemias": {}, "tobias": {}, "judite": {}, "ester": {}, "1macabeus": {}, "2macabeus": {}, "jo": {}, "salmos": {}, "proverbios": {}, "eclesiastes": {}, "cantico": {}, "sabedoria": {}, "eclesiastico": {}, "isaias": {}, "jeremias": {}, "lamentacoes": {}, "baruc": {}, "ezequiel": {}, "daniel": {}, "oseias": {}, "joel": {}, "amos": {}, "abdias": {}, "jonas": {}, "miqueias": {}, "naum": {}, "habacuc": {}, "sofonias": {}, "ageu": {}, "zacarias": {}, "malaquias": {},
   "atos": {},
   "romanos": {}, "1corintios": {}, "2corintios": {}, "galatas": {},
   "efesios": {}, "filipenses": {}, "colossenses": {},
